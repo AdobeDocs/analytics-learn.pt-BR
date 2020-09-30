@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
+source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1846'
 ht-degree: 18%
 
 ---
@@ -94,6 +94,7 @@ ht-degree: 18%
       + [Criar tabelas de forma livre automaticamente no Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Trabalhar com Dimension em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Trabalhar com métricas em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [Configurações de linha e coluna em tabelas de forma livre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Uso do Criador de tabela de forma livre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Reorganização de linhas estáticas no Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -145,6 +146,7 @@ ht-degree: 18%
       + [Adicionar Dimension e métricas ao seu projeto no Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introdução aos Eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Trabalhar com métricas em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + Dimensões {#dimensions}
       + [Adicionar Dimension e métricas ao seu projeto no Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introdução às variáveis de tráfego (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
