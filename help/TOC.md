@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 18%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 18%
    + Gerenciar Conjuntos de relatórios {#manage-report-suites}
       + [Configurações de CEP e código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + Controle de dados e RGPD {data-governance-and-gdpr}
+   + Governação de dados e RGPD {#data-governance-and-gdpr}
       + [Controle de dados e RGPD no Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Obtendo as pessoas certas na sua equipe do Analytics](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + Gerenciamento de tráfego {#traffic-management}
