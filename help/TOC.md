@@ -1,14 +1,14 @@
 ---
 user-guide-title: Tutoriais do Adobe Analytics
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
+breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 21%
+source-wordcount: '1857'
+ht-degree: 22%
 
 ---
 
@@ -252,7 +252,7 @@ ht-degree: 21%
       + [Inspecionando implementações com o Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [Visualização de ocorrências pós-processadas com o Experience Cloud Debugger](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + Páginas SPA {#spa-pages}
-      + [Uso das práticas recomendadas ao rastrear o SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
+      + [Uso das práticas recomendadas ao rastrear SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componentes {#components}
    + Segmentação {#segmentation}
       + [Visão geral do Construtor de segmento](components/segmentation/segment-builder-overview.md)
@@ -331,7 +331,7 @@ ht-degree: 21%
       + [Conector Adobe Analytics no Power BI](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Modelo Magento Analysis Workspace](integrations/magento/magento-analysis-workspace-template.md)
-+ Data Science {#data-science}
++ Ciência de dados {#data-science}
    + [Usar o aprendizado de máquina da Adobe Analytics e a IA para os momentos mais importantes](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Detecção de anomalias na Analysis Workspace](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Análise de contribuição no Analysis Workspace](data-science/contribution-analysis-workspace.md)
