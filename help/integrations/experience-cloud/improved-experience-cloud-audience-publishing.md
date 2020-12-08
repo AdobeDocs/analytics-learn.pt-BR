@@ -1,7 +1,7 @@
 ---
 title: Publicação avançada de público na Experience Cloud
-description: Saiba mais sobre como publicar os públicos-alvo (segmentos) e torná-los disponíveis mais rápido do que nunca.
-seo-description: Foram feitos aprimoramentos na Publicação avançada de público na Experience Cloud. Agora você pode publicar audiências (segmentos) e disponibilizá-las seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas, e possivelmente mais rápido, dependendo do tráfego e do tamanho do segmento.
+landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
+description: Foram feitos aprimoramentos na Publicação avançada de público na Experience Cloud. Agora você pode publicar audiências (segmentos) e disponibilizá-las seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas, e possivelmente mais rápido, dependendo do tráfego e do tamanho do segmento.
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -10,10 +10,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 34%
+source-wordcount: '158'
+ht-degree: 29%
 
 ---
 
