@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 23%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 23%
    + Dicas e truques {#tips-and-tricks}
       + [7 dicas e truques para Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Dicas para aumentar a produtividade no Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
-      + [Dicas do cliente para continuar sua jornada de aprendizado da Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Dicas do cliente para continuar sua Jornada de aprendizado da Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navegação em projetos da Workspace {#navigating-workspace-projects}
       + [Iniciando seu primeiro projeto no Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Modelo do tutorial de treinamento no Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -161,8 +161,8 @@ ht-degree: 23%
       + [Criando intervalos de datas personalizados](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Comparações de datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Adição de comparações anteriores de mês e ano às tendências](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + Analisando as viagens do cliente {#analyzing-customer-journeys}
-      + [QI de jornada - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+   + Analisando Jornadas do cliente {#analyzing-customer-journeys}
+      + [QI da jornada - Análises entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [Visualização do fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Melhorias na visualização de fallout](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
       + [Fallout multidimensional](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
@@ -203,7 +203,7 @@ ht-degree: 23%
       + [Encontrar oportunidades para aumentar o envolvimento de aplicativos de voz](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [Reduzindo taxas de erro e melhorando as taxas de sucesso em seu aplicativo de voz](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Compreender o comportamento do usuário nos assistentes de voz](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [Como entender a jornada de voz do usuário](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [Como entender a Jornada de voz do usuário](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [Relatórios em tempo real no Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administração {#administration}
@@ -236,7 +236,8 @@ ht-degree: 23%
       + [Configuração de variáveis globais na extensão Iniciar o Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Configuração das configurações de cookie na extensão Iniciar o Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Uso do código personalizado ao configurar a extensão do Launch Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [Uso de uma camada de dados para definir o nome da página e outras variáveis por Experience Platform Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Uso de uma camada de dados para definir o Nome da página e Outras variáveis por meio do Launch](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Adicionando plug-ins de implementação ao iniciar](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Usar doPlugins na extensão do Adobe Analytics](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [Configurando o rastreamento de link de download fácil](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [Configuração do rastreamento de link de saída fácil](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -363,7 +364,7 @@ ht-degree: 23%
       + [Implementação em aplicativos Android](https://docs.adobe.com/content/help/pt-BR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Avaliação do Mobile Analytics {#measuring-mobile-analytics}
       + [Introdução ao Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [Impacto dos pontos de contato na jornada móvel](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [Impacto dos pontos de contato na Jornada móvel](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [Analisando o comportamento do usuário em Canais](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [Como aumentar as taxas de envolvimento e retenção](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
