@@ -1,26 +1,27 @@
 ---
-title: Expandindo a visualização de Fluxo no Analysis Workspace
-description: Este vídeo mostra as várias opções de clique com o botão direito disponíveis na visualização Fluxo no Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
-feature: visualizations
+title: Expansão da visualização de Fluxo no Analysis Workspace
+description: Este vídeo mostra as várias opções de clique com o botão direito disponíveis na Visualização de fluxo no Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
+feature: Visualizações
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 1%
 
 ---
 
 
 # Expandindo em [!DNL Flow visualization] no Analysis Workspace {#expanding-on-flow-visualization-in-analysis-workspace}
 
-Este vídeo mostra as várias opções de clique com o botão direito disponíveis em [!DNL Flow visualization] no Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
+Este vídeo mostra as várias opções de clique com o botão direito disponíveis no [!DNL Flow visualization] no Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
