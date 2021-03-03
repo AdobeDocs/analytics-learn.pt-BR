@@ -1,25 +1,27 @@
 ---
-title: Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com SDK Experience Platform
-description: Os estados representam telas ou visualizações no aplicativo. Cada vez que um novo estado é exibido em seu aplicativo, por exemplo, quando um usuário navega do home page para o feed de notícias, "trackState" pode ser chamado para enviar o State Name (Page Name in Analytics), bem como dados adicionais. Este vídeo mostra como fazer isso.
-feature: mobile sdk
+title: Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com o SDK da Experience Platform
+description: Os estados representam telas ou exibições no aplicativo. Sempre que um novo estado for exibido no aplicativo, por exemplo, quando um usuário navega da página inicial para o feed de notícias, o "trackState" pode ser chamado para enviar o Nome do estado (Nome da página no Analytics), bem como dados adicionais. Este vídeo mostra como fazer isso.
+feature: SDK móvel
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2562
+topic: Dispositivo móvel
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '171'
+ht-degree: 1%
 
 ---
 
 
-# Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com SDK Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
+# Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com o SDK da Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
-Os estados representam telas ou visualizações no aplicativo. Cada vez que um novo estado é exibido em seu aplicativo, por exemplo, quando um usuário navega do home page para o feed de notícias, `trackState` pode ser chamado para enviar o Nome do estado (Nome da página em [!DNL Analytics]), bem como dados adicionais. Este vídeo mostra como fazer isso.
+Os estados representam telas ou exibições no aplicativo. Sempre que um novo estado for exibido no aplicativo, por exemplo, quando um usuário navega da página inicial para o feed de notícias, `trackState` pode ser chamado para enviar o Nome do estado (Nome da página em [!DNL Analytics]), bem como dados adicionais. Este vídeo mostra como fazer isso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
 
