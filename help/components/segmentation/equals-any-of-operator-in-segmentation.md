@@ -1,25 +1,26 @@
 ---
-title: Uso do operador Igual a qualquer um na segmentação
-description: É igual a qualquer um dos operadores de segmento e Não é igual a nenhum deles ter sido adicionado ao construtor de segmentos. Use esses operadores para filtrar uma lista de itens específicos, em vez de usar várias declarações OU ou Contém qualquer um deles. Usar esses operadores em vez de conter qualquer um também ajudará a melhorar a velocidade do query.
-feature: segmentation
+title: Uso do operador Igual a qualquer um na Segmentação
+description: Igual a qualquer um e Não equivale a nenhum dos operadores de segmento foi adicionado ao construtor de segmentos. Use esses operadores para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou Contém qualquer um dos. Usar esses operadores em vez de conter qualquer um também ajudará a melhorar a velocidade da consulta.
+feature: Segmentação
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 4f8f8145a9d559e99d01783c6bf62f590f6c5410
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 
-# Uso do operador &quot;Igual a qualquer um&quot; na segmentação
+# Uso do operador &quot;Igual a qualquer um de&quot; na Segmentação
 
-É igual a qualquer um dos operadores de segmento e &#39;Não é igual a nenhum dos&#39; foi adicionado ao construtor de segmentos. Use esses operadores para filtrar uma lista de itens específicos, em vez de usar várias declarações OU ou &quot;Contém qualquer um&quot;. O uso desses operadores em vez de &quot;contém qualquer um dos&quot; também ajudará a melhorar a velocidade do query.
+Os operadores de segmento &quot;É igual a qualquer um&quot; e &quot;Não é igual a nenhum&quot; foram adicionados ao construtor de segmentos. Use esses operadores para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou &#39;Contém qualquer um&#39;. Usar esses operadores em vez de &quot;contém qualquer um de&quot; também ajudará a melhorar a velocidade da consulta.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
