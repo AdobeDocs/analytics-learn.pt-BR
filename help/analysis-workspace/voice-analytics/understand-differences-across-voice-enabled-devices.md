@@ -1,24 +1,25 @@
 ---
-title: Entenda As Diferenças Entre Dispositivos Com Voz Ativada
-description: Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro de produtos.
-feature: visualizations
+title: Entender as diferenças entre os dispositivos habilitados para voz
+description: Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro do produto.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2905
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 2%
 
 ---
 
 
-# Entenda As Diferenças Entre Dispositivos Com Voz Ativada {#understand-differences-across-voice-enabled-devices}
+# Entender as diferenças entre os dispositivos habilitados para voz {#understand-differences-across-voice-enabled-devices}
 
-Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro de produtos.
+Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro do produto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=9)
