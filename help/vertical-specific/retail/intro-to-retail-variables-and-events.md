@@ -1,24 +1,25 @@
 ---
-title: Introdução a variáveis e Eventos de varejo
-description: Se você tiver um site de varejo, há algumas variáveis e eventos que foram criados apenas para você (você não é especial)! Este vídeo fornece uma rápida introdução para entender essas variáveis e eventos específicos do varejo.
-feature: use cases
+title: Introdução às variáveis e eventos de varejo
+description: Se você tiver um site de varejo, há algumas variáveis e eventos que foram criados apenas para você (você não é especial)! Este vídeo fornece um rápido introdução para entender as variáveis e eventos específicos do varejo.
+feature: Casos de uso
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
 
-# Introdução a variáveis e Eventos de varejo
+# Introdução às variáveis e eventos de varejo
 
-Se você tiver um site de varejo, há algumas variáveis e eventos que foram criados apenas para você (você não é especial)! Este vídeo fornece uma rápida introdução para entender essas variáveis e eventos específicos do varejo.
+Se você tiver um site de varejo, há algumas variáveis e eventos que foram criados apenas para você (você não é especial)! Este vídeo fornece um rápido introdução para entender as variáveis e eventos específicos do varejo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12)
