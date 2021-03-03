@@ -1,25 +1,26 @@
 ---
-title: Configuração das configurações gerais na extensão Iniciar o Analytics
-description: Se você estiver apenas começando a iniciar com o Launch, por Adobe e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de configurações gerais da configuração, incluindo a configuração do servidor de rastreamento.
-feature: launch implementation
+title: Definição das configurações gerais na extensão do Launch Analytics
+description: Se você estiver apenas começando a usar o Launch, a Adobe e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de configurações gerais da configuração, incluindo a configuração do servidor de rastreamento.
+feature: Implementação do Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 15%
 
 ---
 
 
-# Configuração das configurações [!UICONTROL gerais] na [!DNL Launch Analytics] [!UICONTROL extensão] {#configuring-general-settings-in-the-launch-analytics-extension}
+# Configurar [!UICONTROL Configurações Gerais] no [!DNL Launch Analytics] [!UICONTROL Extensão] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Se você estiver apenas começando com o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo pode ajudá-lo com a parte de configurações [!UICONTROL Gerais] da configuração, incluindo a configuração do servidor de rastreamento.
+Se você estiver apenas começando a usar o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo poderá ajudá-lo com a parte de configurações [!UICONTROL Geral] da configuração, incluindo a configuração do servidor de rastreamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
