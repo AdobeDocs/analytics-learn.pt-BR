@@ -1,26 +1,27 @@
 ---
-title: Comparação de segmentos no fallout no Analysis Workspace
-description: Este vídeo mostra como comparar workflows principais em vários segmentos no Analysis Workspace.
-feature: visualizations
+title: Comparação de segmentos no Fallout na Analysis Workspace
+description: Este vídeo mostra como comparar fluxos de trabalho principais em vários segmentos no Analysis Workspace.
+feature: Visualizações
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '64'
 ht-degree: 15%
 
 ---
 
 
-# Comparação de segmentos no [!UICONTROL fallout] no Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
+# Comparação de segmentos em [!UICONTROL Fallout] no Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}
 
-Este vídeo mostra como comparar workflows principais em vários segmentos no Analysis Workspace.
+Este vídeo mostra como comparar fluxos de trabalho principais em vários segmentos no Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
