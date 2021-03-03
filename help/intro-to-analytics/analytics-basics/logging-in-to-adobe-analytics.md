@@ -1,24 +1,25 @@
 ---
 title: Fazer logon no Adobe Analytics
-description: Neste vídeo, você aprenderá a fazer logon e a administrar o Analytics e a iniciar sua análise.
-feature: analytics basics
+description: Neste vídeo, você aprenderá a fazer logon, administrar o Analytics e iniciar a análise.
+feature: Noções básicas do Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3566
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 757f04cd1c45a893fd1e7f0a41044f832487dbe0
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
 
 
 # Logon no Adobe Analytics
 
-Neste vídeo, nós o guiaremos através de um login para que você possa entrar e administrar [!DNL Analytics], bem como sua análise.
+Neste vídeo, vamos orientá-lo por um logon para que você possa entrar e administrar [!DNL Analytics], bem como fazer sua análise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
