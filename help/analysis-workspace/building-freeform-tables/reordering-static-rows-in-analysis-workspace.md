@@ -1,25 +1,26 @@
 ---
-title: Reorganização de linhas estáticas no Analysis Workspace
-description: É possível reordenar manualmente linhas estáticas no Criador de tabela de forma livre. Isso permite organizar linhas estáticas de tabela na ordem exata necessária - por exemplo, Visitas, Pedidos e Taxa de conversão.
-feature: freeform tables
+title: Reordenação de linhas estáticas na Analysis Workspace
+description: Você pode reorganizar manualmente linhas estáticas no Construtor de tabelas de forma livre. Isso permite que você organize linhas estáticas da tabela na ordem exata necessária, por exemplo, Visitas, Pedidos e Taxa de conversão.
+feature: Tabelas de forma livre
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31319.jpg
 kt: 4218
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 2%
 
 ---
 
 
-# Reorganização de linhas estáticas no Analysis Workspace
+# Reordenação de linhas estáticas na Analysis Workspace
 
-É possível reordenar manualmente linhas estáticas no Criador de tabela de forma livre. Isso permite organizar linhas estáticas de tabela na ordem exata necessária - por exemplo, Visitas, Pedidos e Taxa de conversão.
+Você pode reorganizar manualmente linhas estáticas no Construtor de tabelas de forma livre. Isso permite que você organize linhas estáticas da tabela na ordem exata necessária, por exemplo, Visitas, Pedidos e Taxa de conversão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12)
