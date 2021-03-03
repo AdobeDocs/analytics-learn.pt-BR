@@ -1,18 +1,19 @@
 ---
 title: Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace
-description: Saiba como usar o painel esquerdo no Analysis Workspace para localizar, criar e adicionar itens a tabelas de forma livre.
-feature: freeform tables
+description: Saiba como usar o painel esquerdo no Analysis Workspace para localizar, criar e adicionar itens às tabelas de forma livre.
+feature: Tabelas de forma livre
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 36%
 
 ---
@@ -20,6 +21,6 @@ ht-degree: 36%
 
 # Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace
 
-Saiba como usar o painel esquerdo no Analysis Workspace para localizar, criar e adicionar itens a tabelas de forma livre.
+Saiba como usar o painel esquerdo no Analysis Workspace para localizar, criar e adicionar itens às tabelas de forma livre.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
