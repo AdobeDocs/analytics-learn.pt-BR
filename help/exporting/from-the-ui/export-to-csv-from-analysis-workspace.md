@@ -1,24 +1,25 @@
 ---
 title: Exportar para CSV da Analysis Workspace
-description: Saiba como exportar projetos de forma livre para CSV para Análise no Excel e outras ferramentas BI.
-feature: curate and share
+description: Saiba como exportar projetos de forma livre para CSV para análise no Excel e outras ferramentas de BI.
+feature: Preparar e compartilhar
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 6%
 
 ---
 
 
-# Export to CSV from Analysis Workspace {#export-to-csv-from-analysis-workspace}
+# Exportar para CSV da Analysis Workspace {#export-to-csv-from-analysis-workspace}
 
-Saiba como exportar projetos de forma [!UICONTROL livre] para CSV para Análise no Excel e outras ferramentas BI.
+Saiba como exportar [!UICONTROL Freeform] projetos para CSV para análise no Excel e outras ferramentas de BI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12)
