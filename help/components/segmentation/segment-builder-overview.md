@@ -1,25 +1,26 @@
 ---
 title: Visão geral do Construtor de segmento
-description: Uma rápida visão geral e orientação para o construtor de segmentos no Adobe Analytics.
-feature: segmentation
+description: Uma visão geral e orientação rápidas para o construtor de segmentos no Adobe Analytics.
+feature: Segmentação
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 5%
+source-wordcount: '58'
+ht-degree: 6%
 
 ---
 
 
-# [!UICONTROL Construtor] de segmentos no Adobe Analytics {#segment-builder-in-adobe-analytics}
+# [!UICONTROL Construtor ] de segmento no Adobe Analytics  {#segment-builder-in-adobe-analytics}
 
-Uma rápida visão geral e orientação do construtor de [!UICONTROL segmentos] no Adobe Analytics.
+Uma visão geral e orientação rápidas para o [!UICONTROL construtor de segmentos] no Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
 
