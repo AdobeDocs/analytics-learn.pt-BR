@@ -1,25 +1,26 @@
 ---
 title: Uso de intervalos de datas e comparações no Analysis Workspace
-description: Neste vídeo, você aprenderá a usar datas, intervalos de datas e comparações de datas para personalizar suas tabelas e visualizações para o período certo.
-feature: calendar
+description: Neste vídeo, você aprenderá a usar datas, intervalos de datas e comparações de datas para personalizar suas tabelas e visualizações no período certo.
+feature: Calendário
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 
 
-# Using [!UICONTROL Date Ranges] and Comparisons in Analysis Workspace
+# Uso de [!UICONTROL Intervalos de datas] e Comparações no Analysis Workspace
 
-Neste vídeo, você aprenderá a usar datas, intervalos [!UICONTROL de]datas e comparações de datas para personalizar suas tabelas e visualizações para o período certo.
+Neste vídeo, você aprenderá a usar datas, [!UICONTROL intervalos de datas] e comparações de datas para personalizar suas tabelas e visualizações no período certo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
