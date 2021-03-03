@@ -1,24 +1,25 @@
 ---
-title: Relatórios em tempo real no Reports and Analytics
-description: Este vídeo mostra algumas atualizações feitas pelo Adobe no Relatório em tempo real no Relatórios e análises do Adobe Analytics.
-feature: analytics basics
+title: Relatório em tempo real no Reports and Analytics
+description: Este vídeo mostra algumas atualizações que a Adobe fez no Relatório em tempo real no Reports & Analytics no Adobe Analytics.
+feature: Noções básicas do Analytics
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 3%
 
 ---
 
 
-# Relatórios em tempo real em [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
+# Relatório em tempo real em [!DNL Reports & Analytics] {#real-time-reporting-in-reports-analytics}
 
-Este vídeo mostra algumas atualizações feitas pelo Adobe no Relatório [!UICONTROL em tempo] real em [!UICONTROL Relatórios e análises] no Adobe Analytics.
+Este vídeo mostra algumas atualizações que a Adobe fez no [!UICONTROL Relatório em tempo real] em [!UICONTROL Reports &amp; Analytics] no Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
