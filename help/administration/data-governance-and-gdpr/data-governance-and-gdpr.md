@@ -1,26 +1,27 @@
 ---
-title: Controle de dados e RGPD no Adobe Analytics
-description: Este vídeo o guiará pelo Data Governance e como a rotulagem de dados se encaixa na prontidão do RGPD. Ele fornece um exemplo prático de rotulagem de dados usando o Data Governance.
-feature: privacy
+title: Governança de dados e o GDPR no Adobe Analytics
+description: Este vídeo o guiará pela Governança de dados e como a rotulagem de dados se encaixa na preparação do GDPR. Ele fornece um exemplo prático de rotulagem de dados usando a Governança de dados.
+feature: Privacidade
 topics: null
-audience: administrator, architect
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
+role: '"Administrador, Arquiteto"'
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 
-# Controle de dados e RGPD no Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
+# Governança de dados e GDPR no Adobe Analytics {#data-governance-and-gdpr-in-adobe-analytics}
 
-Este vídeo o guiará pelo Data Governance e como a rotulagem de dados se encaixa na prontidão do RGPD. Ele fornece um exemplo prático de rotulagem de dados usando o Data Governance.
+Este vídeo o guiará pela Governança de dados e como a rotulagem de dados se encaixa na preparação do GDPR. Ele fornece um exemplo prático de rotulagem de dados usando a Governança de dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/).
+Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/).
