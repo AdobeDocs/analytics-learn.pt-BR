@@ -1,24 +1,25 @@
 ---
-title: Tentar no botão Espaço de trabalho no Reports and Analytics
-description: A maioria dos relatórios no Reports and Analytics inclui um botão Tentar na Workspace para permitir que você reproduza a visualização atual no Analysis Workspace para personalização adicional.
-feature: analytics basics
+title: Tente no botão Espaço de trabalho em Reports and Analytics
+description: A maioria dos relatórios no Reports and Analytics inclui um botão Tentar na Workspace para permitir que você reproduza a exibição atual na Analysis Workspace para mais personalização.
+feature: Noções básicas do Analytics
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 2%
 
 ---
 
 
-# &quot;Try in Workspace&quot; Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
+# Botão &quot;Testar no Workspace&quot; em [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
 
-Most reports in [!UICONTROL Reports &amp; Analytics] include a **[!UICONTROL Try in Workspace]** button to allow you to reproduce the current view in [!UICONTROL Analysis Workspace] for further customization.
+A maioria dos relatórios em [!UICONTROL Reports &amp; Analytics] inclui um botão **[!UICONTROL Tentar no Workspace]** para permitir que você reproduza a exibição atual no [!UICONTROL Analysis Workspace] para mais personalização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
