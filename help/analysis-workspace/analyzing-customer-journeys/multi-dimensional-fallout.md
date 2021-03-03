@@ -1,26 +1,27 @@
 ---
-title: Fallout multidimensional no Analysis Workspace
-description: O fallout no Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e workflows.
-feature: visualizations
+title: Fallout multidimensional na Analysis Workspace
+description: O recurso de Fallout na Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e fluxos de trabalho.
+feature: Visualizações
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Multidimensional Fallout] no Analysis Workspace {#multidimensional-fallout-in-analysis-workspace}
+# [!DNL Multidimensional Fallout] no Analysis Workspace  {#multidimensional-fallout-in-analysis-workspace}
 
-[!DNL Fallout] no Analysis Workspace, você pode combinar dimensões e métricas como pontos de contato em funis e workflows.
+[!DNL Fallout] no Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e fluxos de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 
