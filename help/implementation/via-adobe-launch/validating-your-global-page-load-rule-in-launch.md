@@ -1,24 +1,25 @@
 ---
-title: Validação da regra de carregamento de página global no Launch
-description: Ao implementar o Adobe Analytics em seu site, você desejará validar o que está fazendo no caminho. O depurador de Experience Cloud para o resgate! Este vídeo mostra como validar sua regra de carregamento de página global com o depurador.
-feature: validation
+title: Validar a regra de carregamento de página global no Launch
+description: Ao implementar o Adobe Analytics no seu site, você deve ser capaz de validar o que está fazendo ao longo do caminho. O Experience Cloud Debugger para salvar! Este vídeo mostra como validar sua regra de carregamento de página global com o depurador da .
+feature: Validação
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 
-# Validando sua [!UICONTROL regra] de carregamento de página global em [!DNL Launch]
+# Validando o carregamento da página global [!UICONTROL Regra] em [!DNL Launch]
 
-Ao implementar o Adobe Analytics em seu site, o Adobe recomenda que você valide o que está fazendo no caminho. O [!DNL Experience Cloud debugger] permite que você realize isso. Este vídeo mostra como validar sua [!UICONTROL regra] de carregamento de página global com o [!DNL debugger].
+Ao implementar o Adobe Analytics no seu site, a Adobe recomenda validar o que você está fazendo ao longo do caminho. O [!DNL Experience Cloud debugger] permite que você faça isso. Este vídeo mostra como validar o carregamento da página global [!UICONTROL rule] com o [!DNL debugger].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
