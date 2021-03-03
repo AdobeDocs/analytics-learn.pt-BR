@@ -1,17 +1,18 @@
 ---
 title: Visualização de histograma na Analysis Workspace
-description: Os histogramas permitem que você visualize a distribuição de uma métrica em seus visitantes, visitas e agora ocorrências, para encontrar segmentos de alto e baixo valor.
-feature: visualizations
+description: Os histogramas permitem visualizar a distribuição de uma métrica em seus visitantes, visitas e agora ocorrências, para encontrar segmentos de alto e baixo valor.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '78'
 ht-degree: 25%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 25%
 
 # Visualização de histograma na Analysis Workspace {#histogram-visualization-in-analysis-workspace}
 
-[!UICONTROL Os histogramas] permitem que você visualize a distribuição de uma [!UICONTROL métrica] em seus visitantes, visitas e agora ocorrências, para encontrar [!UICONTROL segmentos]de alto e baixo valor.
+ Os histogramas permitem visualizar a distribuição de uma   métrica em seus visitantes, visitas e agora ocorrências, para encontrar  [!UICONTROL segmentos] de alto e baixo valor.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
