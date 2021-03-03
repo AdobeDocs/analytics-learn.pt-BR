@@ -1,26 +1,27 @@
 ---
-title: Adobe Analytics - é mais do que dados. É Inteligência do cliente
-description: Para se tornar um negócio de experiência, o marketing orientado por dados é fundamental. Leve sua maturidade de análise a um novo nível - dos dados aos insights à ação.
-feature: analytics basics
+title: Adobe Analytics - É mais do que dados. É inteligência do cliente
+description: Para se tornar um negócio de experiência, o marketing orientado por dados é fundamental. Leve a maturidade da sua análise a um novo nível - dos dados aos insights à ação.
+feature: Noções básicas do Analytics
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
+role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 2%
 
 ---
 
 
-# Adobe Analytics - é mais do que dados. É Inteligência do cliente
+# Adobe Analytics - É mais do que dados. É inteligência do cliente
 
-Para se tornar um negócio de experiência, o marketing orientado por dados é fundamental. Leve sua maturidade de análise a um novo nível - dos dados aos insights à ação.
+Para se tornar um negócio de experiência, o marketing orientado por dados é fundamental. Leve a maturidade da sua análise a um novo nível - dos dados aos insights à ação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
 
-Saiba como o Adobe pode ajudá-lo a conhecer seus clientes de todos os ângulos: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
+Saiba como a Adobe pode ajudar você a conhecer seu cliente de todos os ângulos: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
