@@ -1,23 +1,24 @@
 ---
 title: Métricas calculadas - Construtor de métricas
 description: Visão geral do Construtor de métricas no Adobe Analytics
-feature: calculated metrics
+feature: Métricas calculadas
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2318
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 0%
+source-wordcount: '29'
+ht-degree: 6%
 
 ---
 
 
-# [!UICONTROL Métricas]calculadas: Construtor de métricas {#calculated-metrics-metric-builder}
+# [!UICONTROL Métricas] calculadas: Criador de métricas  {#calculated-metrics-metric-builder}
 
 Visão geral do Construtor de métricas no Adobe Analytics
 
