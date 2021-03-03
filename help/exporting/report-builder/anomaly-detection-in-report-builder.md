@@ -1,30 +1,31 @@
 ---
-title: Detecção de anomalias no Report Builder
-description: Saiba como adicionar métricas de detecção de anomalias às suas solicitações de dados, bem como criar gráficos dos dados.
-feature: report builder
+title: Detecção de anomalias no Construtor de relatórios
+description: Saiba como adicionar métricas de detecção de anomalias a suas solicitações de dados, bem como criar gráficos aos dados.
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 13%
 
 ---
 
 
-# [!UICONTROL Detecção] de anomalias no [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+# [!UICONTROL Detecção ] de anomalias no Construtor  [!UICONTROL de relatórios] {#anomaly-detection-in-report-builder}
 
-Saiba como adicionar [!UICONTROL métricas] de detecção  de anomalias às suas solicitações de dados, bem como criar gráficos dos dados.
+Saiba como adicionar [!UICONTROL detecção de anomalias] [!UICONTROL métricas] às suas solicitações de dados, bem como criar gráficos dos dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
 
 [!UICONTROL A Detecção de anomalias utiliza um modelo estatístico para encontrar automaticamente tendências inesperadas em seus dados.]
 
-No [!UICONTROL Report Builder], você pode retornar os valores reais da [!UICONTROL métrica] , juntamente com os valores esperados e os limites superior e inferior, para adicionar mais profundidade aos dados que você está analisando e compartilhando.
+Em [!UICONTROL Report Builder], você pode retornar os reais da [!UICONTROL métrica], juntamente com os valores esperados e limites superior e inferior, para adicionar mais profundidade aos dados que você está analisando e compartilhando.
 
 Para obter mais informações sobre esse recurso, visite a [documentação](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
