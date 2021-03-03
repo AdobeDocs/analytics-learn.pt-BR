@@ -1,27 +1,28 @@
 ---
 title: Visão geral de tabelas de coorte no Analysis Workspace
-description: A configuração de Cálculo de Rolagem em Tabelas de Coorte pode ser usada para analisar coortes de período por período, para entender como os mesmos usuários são retidos (ou retidos) ao longo do tempo.
-feature: visualizations
+description: A configuração Cálculo contínuo nas Tabelas de coorte pode ser usada para analisar coortes período a período, para entender como os mesmos usuários são retidos (ou churn) ao longo do tempo.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '87'
 ht-degree: 12%
 
 ---
 
 
-# Visão geral das tabelas de [!UICONTROL coorte] no Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
+# Visão geral de [!UICONTROL Tabelas de coorte] no Analysis Workspace {#overview-of-cohort-tables-in-analysis-workspace}
 
-A configuração Cálculo  em andamento nas Tabelas [!UICONTROL de] coorte pode ser usada para analisar [!UICONTROL coortes] de período por período, para entender como os mesmos usuários são retidos (ou [!UICONTROL retidos]) ao longo do tempo.
+A configuração [!UICONTROL Cálculo contínuo] em [!UICONTROL Tabelas de coorte] pode ser usada para analisar [!UICONTROL coortes] período após período, para entender como os mesmos usuários são retidos (ou [!UICONTROL churn]) ao longo do tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/pt_BR/analytics/analysis-workspace/cohort_analysis.html).
+Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/pt_BR/analytics/analysis-workspace/cohort_analysis.html).
