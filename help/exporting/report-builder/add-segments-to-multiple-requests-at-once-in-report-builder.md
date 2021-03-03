@@ -1,25 +1,26 @@
 ---
-title: Adicionar segmentos do Adobe Analytics a várias solicitações de uma só vez no Report Builder
-description: Este vídeo mostra como você pode usar o Report Builder para adicionar segmentos a todas as suas solicitações ao mesmo tempo, economizando tempo e inconveniente.
-feature: report builder
+title: Adicionar segmentos do Adobe Analytics a várias solicitações de uma só vez no Construtor de relatórios
+description: Este vídeo mostra como você pode usar o Construtor de relatórios para adicionar segmentos a todas as suas solicitações de uma só vez, economizando tempo e complicações.
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2344
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 
 
 # Adicionar segmentos do Adobe Analytics a várias solicitações de uma só vez no [!UICONTROL Report Builder] {#add-adobe-analytics-segments-to-multiple-requests-at-once-in-report-builder}
 
-Este vídeo mostra como você pode usar o [!UICONTROL Report Builder] para adicionar segmentos a todas as suas solicitações de uma só vez, economizando tempo e inconveniente.
+Este vídeo mostra como você pode usar o [!UICONTROL Report Builder] para adicionar segmentos a todas as suas solicitações de uma só vez, economizando tempo e complicações.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
