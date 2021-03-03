@@ -1,24 +1,25 @@
 ---
 title: Como os dados do Analytics são coletados
-description: Como os dados são recebidos de sua página para os relatórios no Adobe Analytics? Este vídeo mostra como.
-feature: analytics basics
+description: Como os dados são transferidos de sua página para os relatórios no Adobe Analytics? Este vídeo mostra como.
+feature: Noções básicas do Analytics
 topics: null
-audience: analyst
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
 
-# Como [!DNL Analytics] os dados são coletados
+# Como os dados [!DNL Analytics] são coletados
 
-Como os dados são recebidos de sua página para os relatórios no Adobe Analytics? Este vídeo mostra como.
+Como os dados são transferidos de sua página para os relatórios no Adobe Analytics? Este vídeo mostra como.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
