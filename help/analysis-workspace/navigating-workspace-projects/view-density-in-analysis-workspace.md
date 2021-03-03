@@ -1,24 +1,25 @@
 ---
-title: Densidade da visualização no Analysis Workspace
-description: A configuração Densidade da Visualização em Projeto > Informações e configurações permite controlar o preenchimento vertical aplicado ao painel esquerdo e às tabelas (Forma livre e coorte). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
-feature: projects
+title: Exibir densidade na Analysis Workspace
+description: A configuração Exibir densidade em Projeto > Informações e configurações permite controlar o preenchimento vertical aplicado ao painel e às tabelas à esquerda (Forma livre e coorte). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
+feature: Projetos
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Densidade] da visualização no Analysis Workspace {#view-density-in-analysis-workspace}
+# [!UICONTROL Exibir ] densidade na Analysis Workspace  {#view-density-in-analysis-workspace}
 
-A configuração Densidade [!UICONTROL da] Visualização em [!UICONTROL Projeto] > Informações e configurações [!UICONTROL do] projeto permite controlar o preenchimento vertical aplicado ao painel esquerdo e às tabelas ([!UICONTROL Forma] livre e [!UICONTROL coorte]). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
+A configuração [!UICONTROL Exibir densidade] em [!UICONTROL Projeto] > [!UICONTROL Informações e configurações do projeto] permite controlar o preenchimento vertical aplicado ao painel e às tabelas à esquerda ([!UICONTROL Forma livre] &amp; [!UICONTROL Coorte]). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12)
