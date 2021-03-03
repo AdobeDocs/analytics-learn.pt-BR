@@ -1,25 +1,26 @@
 ---
-title: Visualização de mapa no Analysis Workspace
-description: Este vídeo mostra como usar a nova visualização de Mapa no Analysis Workspace. O viz do mapa permitirá que você visualização dados móveis (lat/long) ou da Web (endereço IP) em um mapa dinâmico, permitindo que você obtenha uma ideia do uso do cliente no contexto de sua localização.
-feature: visualizations
+title: Visualização de mapa na Analysis Workspace
+description: Este vídeo mostra como usar a nova Visualização de mapa no Analysis Workspace. A visualização do Mapa permitirá que você visualize dados móveis (lat/long) ou da Web (endereço IP) em um mapa dinâmico, permitindo que você obtenha uma ideia do uso do cliente no contexto de sua localização.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Mapear] [!UICONTROL visualização] no Analysis Workspace {#map-visualization-in-analysis-workspace}
+#   Visualização de mapa no Analysis Workspace  {#map-visualization-in-analysis-workspace}
 
-Este vídeo mostra como usar a [!UICONTROL visualização] de [!UICONTROL mapa] no Analysis Workspace. A visualização [!UICONTROL do mapa] permitirá que você visualização dados [!UICONTROL móveis lat/long] ou da Web (endereço IP) em um [!UICONTROL mapa]dinâmico, permitindo que você obtenha uma ideia do uso do cliente no contexto de sua localização.
+Este vídeo mostra como usar o [!UICONTROL Mapa] [!UICONTROL visualização] no Analysis Workspace. O viz [!UICONTROL Map] permitirá visualizar os dados [!UICONTROL mobile lat/long] ou Web (endereço IP) em relação a um [!UICONTROL map] dinâmico, permitindo que você obtenha uma ideia do uso do cliente no contexto de sua localização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
@@ -27,10 +28,10 @@ Seções neste vídeo:
 
 0:00 - Visão geral e configuração do recurso
 
-1:05 - Interagir com o [!UICONTROL mapa]
+1:05 - Interagir com o [!UICONTROL Mapa]
 
-2:55 - Ajustar configurações [!UICONTROL do mapa]
+2:55 - Ajustar as configurações de [!UICONTROL Mapa]
 
-7:00 - Visualização do mapa de calor
+7:00 - Exibição do mapa de calor
 
 Para obter mais informações sobre essa [!UICONTROL visualização], visite a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
