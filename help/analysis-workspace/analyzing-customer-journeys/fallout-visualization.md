@@ -1,26 +1,27 @@
 ---
-title: Visualização de fallout no Analysis Workspace
-description: Este vídeo o orienta pela visualização de Fallout disponível no Analysis Workspace no Adobe Analytics. Use o Fallout para criar funis ou mostrar o fluxo do usuário nos workflows principais do aplicativo/site.
-feature: visualizations
+title: Visualização de fallout na Analysis Workspace
+description: Este vídeo o orienta pela visualização de Fallout disponível na Analysis Workspace no Adobe Analytics. Use Fallout para criar funis ou mostrar o fluxo do usuário em fluxos de trabalho importantes do aplicativo/site.
+feature: Visualizações
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '86'
 ht-degree: 12%
 
 ---
 
 
-# [!DNL Fallout Visualization] no Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# [!DNL Fallout Visualization] no Analysis Workspace  {#fallout-visualization-in-analysis-workspace}
 
-Este vídeo o orienta pelo [!DNL Fallout visualization] disponível no Analysis Workspace no Adobe Analytics. Use [!DNL Fallout] para criar funis ou mostrar o fluxo do usuário nos workflows principais do aplicativo/site.
+Este vídeo o orienta pelo [!DNL Fallout visualization] disponível no Analysis Workspace no Adobe Analytics. Use [!DNL Fallout] para criar funis ou mostrar o fluxo do usuário em fluxos de trabalho importantes do aplicativo/site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
 
