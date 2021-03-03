@@ -1,23 +1,24 @@
 ---
-title: Segmentos de nível de painel no Analysis Workspace
+title: Segmentos no nível do painel na Analysis Workspace
 description: Uma breve visão geral de como aplicar segmentos no nível do painel
-feature: panels
+feature: Painéis
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2106
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
 
-# Segmentos de nível de painel no Analysis Workspace {#panel-level-segments-in-analysis-workspace}
+# Segmentos no nível do painel na Analysis Workspace {#panel-level-segments-in-analysis-workspace}
 
 Uma breve visão geral de como aplicar segmentos no nível do painel
 
