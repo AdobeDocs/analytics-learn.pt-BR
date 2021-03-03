@@ -1,26 +1,27 @@
 ---
-title: Melhorias na visualização de fallout no Analysis Workspace
-description: Este vídeo mostra as atualizações da Visualização de fallout que foram altamente solicitadas pelos clientes, incluindo etapas diretas ou posteriores, renomeação de pontos de contato, comparação de segmentos ilimitados e a análise de tendências de porcentagens de conversão de pontos de contato ao longo do tempo.
-feature: visualizations
+title: Melhorias na visualização de fallout na Analysis Workspace
+description: Este vídeo mostra atualizações na Visualização de fallout que foram altamente solicitadas pelos clientes, incluindo etapas diretas ou eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão de pontos de contato de tendência ao longo do tempo.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 10%
+source-wordcount: '98'
+ht-degree: 11%
 
 ---
 
 
 # Aprimoramentos para [!DNL Fallout Visualization] no Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-Este vídeo mostra atualizações para os [!DNL Fallout Visualization] que foram altamente solicitados pelos clientes, incluindo etapas diretas ou possíveis, renomeação de pontos de contato, comparação de segmentos ilimitados e análise de tendências de porcentagens de conversão de pontos de contato ao longo do tempo.
+Este vídeo mostra atualizações no [!DNL Fallout Visualization] que foram altamente solicitadas pelos clientes, incluindo etapas diretas ou eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão de pontos de contato com tendência ao longo do tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
