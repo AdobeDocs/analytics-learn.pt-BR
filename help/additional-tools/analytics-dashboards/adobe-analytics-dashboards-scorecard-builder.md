@@ -1,26 +1,27 @@
 ---
 title: Criador de scorecard dos painéis do Adobe Analytics
-description: Neste vídeo, saiba como criar e compartilhar "Scorecards" no Analysis Workspace para serem exibidos em painéis Adobe Analytics (aplicativo móvel).
-feature: analytics dashboards
+description: Neste vídeo, saiba como criar e compartilhar "Scorecards" no Analysis Workspace para ser exibido nos painéis do Adobe Analytics (aplicativo móvel).
+feature: Painéis do Analytics
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 5dc5be58800a8ebdc9867854580450f1378fd588
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 26%
+source-wordcount: '74'
+ht-degree: 24%
 
 ---
 
 
 # Criador de scorecard dos painéis do Adobe Analytics
 
-Neste vídeo, saiba como criar e compartilhar &quot;Scorecards&quot; no Analysis Workspace para serem exibidos em painéis Adobe Analytics (aplicativo móvel).
+Neste vídeo, saiba como criar e compartilhar &quot;Scorecards&quot; no Analysis Workspace para ser exibido nos painéis do Adobe Analytics (aplicativo móvel).
 
 >[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12)
 
-For more information, please see the [documentation](https://docs.adobe.com/help/pt-BR/analytics/analyze/mobapp/home.html).
+Para obter mais informações, consulte a [documentação](https://docs.adobe.com/help/pt-BR/analytics/analyze/mobapp/home.html).
