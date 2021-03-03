@@ -1,27 +1,28 @@
 ---
 title: Visualização de linha no Analysis Workspace
-description: A visualização Linha descreve as métricas ao longo de um período de tempo com tendência. As configurações de visualização permitem personalizar a aparência de cada linha visual, além de incluir configurações para Mostrar eixo X/Y, Mostrar rótulos mín/máx e Mostrar linha de tendência.
-feature: visualizations
+description: A visualização de linha descreve as métricas ao longo de um período com tendência. As configurações de visualização permitem personalizar a aparência de cada linha visual, além de incluir configurações para Exibir eixo X/Y, Exibir rótulos mín/máx e Exibir linha de tendência.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40384.jpg
 kt: 6277
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 10%
+source-wordcount: '101'
+ht-degree: 92%
 
 ---
 
 
 # Visualização de linha no Analysis Workspace
 
-A visualização Linha descreve as métricas ao longo de um período de tempo com tendência. As configurações de visualização permitem personalizar a aparência de cada linha visual, além de incluir configurações para Mostrar eixo X/Y, Mostrar rótulos mín/máx e Mostrar linha de tendência.
+A visualização de linha descreve as métricas ao longo de um período com tendência. As configurações de visualização permitem personalizar a aparência de cada linha visual, além de incluir configurações para Exibir eixo X/Y, Exibir rótulos mín/máx e Exibir linha de tendência.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-Saiba mais na [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/visualizations/line.html).
+Saiba mais na [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=pt-BR).
