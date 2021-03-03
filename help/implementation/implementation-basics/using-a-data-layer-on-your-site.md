@@ -1,24 +1,25 @@
 ---
-title: Usando uma camada de dados em seu site
-description: É considerada uma prática recomendada usar uma camada de dados em seu site enquanto você está trabalhando com o Experience Cloud, inclusive quando você está trabalhando com o Adobe Analytics. Este vídeo apresenta a camada de dados e mostra e exemplifica.
-feature: implementation basics
+title: Uso de uma camada de dados em seu site
+description: É considerada uma prática recomendada usar uma camada de dados no site, à medida que você trabalha com a Experience Cloud, inclusive quando trabalha com o Adobe Analytics. Este vídeo apresenta a camada de dados e mostra um exemplo.
+feature: Noções básicas da implementação
 topics: null
-audience: implementer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 
-# Usando uma camada de dados em seu site
+# Uso de uma camada de dados em seu site
 
-É considerada uma prática recomendada usar uma camada de dados no seu site enquanto você está trabalhando com o Experience Cloud, inclusive quando está trabalhando com o Analytics. Este vídeo apresenta a camada de dados e mostra e exemplifica.
+É considerada uma prática recomendada usar uma camada de dados no site durante o trabalho com a Experience Cloud, inclusive quando você está trabalhando com o Analytics. Este vídeo apresenta a camada de dados e mostra um exemplo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28775/?quality=12)
