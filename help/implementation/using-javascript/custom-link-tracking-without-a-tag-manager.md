@@ -1,17 +1,18 @@
 ---
-title: Rastreamento de link personalizado sem um Gerenciador de tags
-description: Para muitas ações na página, o rastreamento não deve ser tratado como uma visualização de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como o Experience Platform Launch). Consulte o código, bem como aprenda uma dica importante.
-feature: appmeasurement implementation
+title: Rastreamento de link personalizado sem um gerenciador de tags
+description: Para muitas ações na página, o rastreamento não deve ser tratado como uma exibição de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como o Experience Platform Launch). Consulte o código, bem como aprenda uma dica importante.
+feature: Implementação Do Appmeasurement
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 8276828e9e759a1964ca5ea89bb1395e5e78b500
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '297'
 ht-degree: 4%
 
 ---
@@ -19,24 +20,24 @@ ht-degree: 4%
 
 # Rastreamento de link personalizado sem um Gerenciador de tags {#custom-link-tracking-without-a-tag-manager}
 
-Para muitas ações na página, o rastreamento não deve ser tratado como uma visualização de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como o Adobe [!DNL Experience Platform Launch]). Consulte o código, bem como aprenda uma dica importante.
+Para muitas ações na página, o rastreamento não deve ser tratado como uma exibição de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como Adobe [!DNL Experience Platform Launch]). Consulte o código, bem como aprenda uma dica importante.
 
-## Envio de um beacon s.tl() {#sending-an-s-tl-beacon}
+## Envio de um s.tl() Beacon {#sending-an-s-tl-beacon}
 
 Há duas funções que enviam dados para o Adobe Analytics:
 
-1. s.t() - Um beacon &quot;track&quot;, que é uma ocorrência de visualização de página, que aumenta as visualizações de página para o nome de página fornecido, bem como define outras variáveis
-1. s.tl() - um beacon de &quot;link de rastreamento&quot;, frequentemente chamado de hit/beacon de &quot;link personalizado&quot;, que não incrementa visualizações de página, e ignora a variável pageName. Normalmente, isso é usado para rastrear ações menores na página que não carregam uma nova página/tela ou outras ações que não resultam em um novo carregamento de página.
+1. s.t() - Um sinal de &quot;rastreamento&quot;, que é uma ocorrência de exibição de página, incrementando exibições de página para o nome de página fornecido, bem como definindo outras variáveis
+1. s.tl() - um beacon de &quot;rastreamento de link&quot;, que geralmente é chamado de hit/beacon de &quot;link personalizado&quot;, que não incrementa as exibições de página e ignora a variável pageName . Isso é comumente usado para rastrear ações menores na página que não carregam uma nova página/tela ou outras ações que não resultam em um novo carregamento da página.
 
 >[!NOTE]
 >
->Neste vídeo, mostramos como codificar uma ocorrência de link personalizado quando VOCÊ NÃO está usando um gerenciador de tags como Adobe [!DNL Experience Platform Launch]. Recomendamos que você use [!DNL Experience Platform Launch], nossa recomendação de práticas recomendadas para implementação. No entanto, se você precisar codificar em um `s.tl()`, veja como fazer isso.
+>Neste vídeo, mostramos como codificar uma ocorrência de link personalizado quando VOCÊ NÃO está usando um gerenciador de tags como o Adobe [!DNL Experience Platform Launch]. Recomendamos que você use [!DNL Experience Platform Launch], nossa recomendação de práticas recomendadas para implementação. No entanto, se precisar codificar em um `s.tl()`, veja a seguir como fazer isso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## Código de exemplo {#sample-code}
 
-Este é o exemplo de código usado no link personalizado no vídeo:
+Este é o código de amostra usado no link personalizado do vídeo:
 
 ```JavaScript
 <a href="#" onclick="
