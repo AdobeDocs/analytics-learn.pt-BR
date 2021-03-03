@@ -1,25 +1,26 @@
 ---
-title: Função distinta de contagem aproximada em métricas calculadas
-description: Uma função Contagem distinta aproximada foi adicionada ao Criador de métricas calculadas. É uma função muito aguardada que retornará a contagem distinta aproximada de itens de dimensão para uma dimensão selecionada.
-feature: calculated metrics
+title: Função de contagem distinta aproximada em métricas calculadas
+description: Uma função Contagem distinta aproximada foi adicionada ao Construtor de métrica calculada. É uma função muito aguardada que retornará a contagem distinta aproximada de itens de dimensão para uma dimensão selecionada.
+feature: Métricas calculadas
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Contagem distinta aproximada] [!UICONTROL função] em métricas [!UICONTROL calculadas]{#approximate-count-distinct-function-in-calculated-metrics}
+# [!UICONTROL Contagem ]  distinta aproximadaFunção em métricas  [!UICONTROL calculadas]{#approximate-count-distinct-function-in-calculated-metrics}
 
-Uma [!UICONTROL função] Contagem distinta [!UICONTROL aproximada foi adicionada ao Construtor] de métricas calculadas. É uma [!UICONTROL função] muito aguardada que retornará a contagem [!UICONTROL distinta] aproximada de itens de [!UICONTROL dimensão] para uma [!UICONTROL dimensão]selecionada.
+Um [!UICONTROL Approximate Count Distinct] [!UICONTROL function] foi adicionado ao [!UICONTROL Construtor de métrica calculada]. É uma [!UICONTROL função] há muito aguardada que retornará a [!UICONTROL contagem distinta aproximada] de [!UICONTROL itens de dimensão] para uma [!UICONTROL dimensão] selecionada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12)
 
