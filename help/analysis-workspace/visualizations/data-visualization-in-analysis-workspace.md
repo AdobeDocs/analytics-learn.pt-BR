@@ -1,24 +1,25 @@
 ---
-title: Visualização de dados no Analysis Workspace
-description: Esta sessão tem tudo a ver com visualizações no Analysis Workspace. Você aprenderá habilidades e ações que o ajudarão a fornecer insights avançados à sua organização no formato mais consumível.
-feature: visualizations
+title: Visualização de dados na Analysis Workspace
+description: Esta sessão é sobre visualizações no Analysis Workspace. Você aprenderá habilidades e ações que ajudarão você a fornecer insights avançados para sua organização no formato mais consumível.
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Visualização] de dados no Analysis Workspace {#data-visualization-in-analysis-workspace}
+# Dados [!UICONTROL Visualização] no Analysis Workspace {#data-visualization-in-analysis-workspace}
 
-Esta sessão tem tudo a ver com [!UICONTROL visualizações] no Analysis Workspace. Você aprenderá habilidades e ações que o ajudarão a fornecer insights avançados à sua organização no formato mais consumível.
+Esta sessão é sobre [!UICONTROL visualizações] no Analysis Workspace. Você aprenderá habilidades e ações que ajudarão você a fornecer insights avançados para sua organização no formato mais consumível.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
