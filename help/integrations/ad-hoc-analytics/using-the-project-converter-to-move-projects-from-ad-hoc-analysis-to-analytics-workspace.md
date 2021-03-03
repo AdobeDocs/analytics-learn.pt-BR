@@ -1,25 +1,27 @@
 ---
-title: Uso do Conversor de projetos para mover projetos do Ad Hoc Analysis para o Analytics Workspace
-description: O Ad Hoc Analysis Project Converter converterá perfeitamente projetos Ad Hoc Analysis (AHA) em projetos Analysis Workspace com o clique de um botão.
-feature: integration with experience cloud
+title: Uso do Conversor de projeto para mover projetos da Ad Hoc Analysis para o Analytics Workspace
+description: O Conversor de projeto da Ad Hoc Analysis converterá facilmente projetos da Ad Hoc Analysis (AHA) em projetos da Analysis Workspace com o clique de um botão.
+feature: Integração da Experience Cloud
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
+topic: Integrações
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 3%
 
 ---
 
 
-# Uso do Conversor de projetos para mover projetos do [!DNL Ad Hoc Analysis] para o [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
+# Usar o Conversor de projetos para mover projetos de [!DNL Ad Hoc Analysis] para [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-O [!UICONTROL Ad Hoc Analysis] Project Converter converte perfeitamente projetos [!UICONTROL Ad Hoc Analysis] (AHA) em projetos [!UICONTROL Analysis Workspace] com o clique de um botão.
+O [!UICONTROL Conversor de projeto da Ad Hoc Analysis] converte facilmente os projetos da [!UICONTROL Ad Hoc Analysis] (AHA) em [!UICONTROL Analysis Workspace] com o clique de um botão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
