@@ -1,30 +1,32 @@
 ---
-title: Ações de rastreamento (links personalizados AKA) em um aplicativo móvel com o SDK do Experience Platform
+title: Rastreamento de ações (links personalizados do AKA) em um aplicativo móvel com o SDK da Experience Platform
 description: 'As ações são eventos que ocorrem no aplicativo móvel. Neste vídeo, saiba como usar a API trackAction para rastrear e medir uma ação. '
-feature: mobile sdk
+feature: SDK móvel
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
+topic: Dispositivo móvel
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '181'
+ht-degree: 3%
 
 ---
 
 
-# Ações de rastreamento (links personalizados AKA) em um aplicativo móvel com o SDK do Experience Platform {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# Rastreamento de ações (links personalizados do AKA) em um aplicativo móvel com o SDK da Experience Platform {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 As ações são eventos que ocorrem no aplicativo móvel. Neste vídeo, saiba como usar a API trackAction para rastrear e medir uma ação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
 
-Esta é a API que você deve usar para rastrear todas as ações que não são carregadas na tela do seu site. Se a tela estiver aparecendo, use trackState, que dispara uma ocorrência de visualização de página. Caso contrário, use trackAction para enviar variáveis associadas à ação que está ocorrendo.
+Essa é a API que você deve usar para rastrear todas as ações que não são de carregamento de tela no site. Se a tela estiver chegando, use trackState, que aciona uma ocorrência de exibição de página. Caso contrário, use trackAction para enviar variáveis associadas à ação que está acontecendo.
 
-Esses dados entram como `contextData`, o que também significa que você precisará usar as Regras [!UICONTROL de] processamento para obter os dados móveis dessas `contextData` variáveis e mapeá-los para [!DNL eVars], [!DNL Props], Eventos etc. no Adobe Analytics.
+Esses dados vêm como `contextData`, o que também significa que você precisará usar [!UICONTROL Regras de processamento] para obter os dados móveis dessas variáveis `contextData` e mapeá-los para [!DNL eVars], [!DNL Props], Eventos etc. no Adobe Analytics.
 
 Para obter mais informações sobre trackAction, consulte a [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference).
