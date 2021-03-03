@@ -1,26 +1,28 @@
 ---
 title: Configurações administrativas para aplicativos móveis
-description: Saiba como configurar o relatórios do aplicativo móvel no Adobe Analytics, incluindo componentes do ciclo de vida, rastreamento de localização e relatórios de ocorrências em segundo plano.
-feature: mobile sdk
+description: Saiba como configurar relatórios de aplicativos móveis no Adobe Analytics, incluindo componentes do ciclo de vida, rastreamento de localização e relatórios de ocorrências em segundo plano.
+feature: SDK móvel
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
+topic: Dispositivo móvel
+role: Administrador
+level: Experienciado
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 5%
 
 ---
 
 
-# Configurações administrativas para aplicativos móveis {#admin-settings-for-mobile-apps}
+# Configurações de administrador para aplicativos móveis {#admin-settings-for-mobile-apps}
 
-Saiba como configurar o relatórios do aplicativo móvel no Adobe Analytics, incluindo componentes do [!UICONTROL ciclo de vida] , rastreamento [!UICONTROL de]localização e relatórios de ocorrências [!UICONTROL em] segundo plano.
+Saiba como configurar relatórios de aplicativos móveis no Adobe Analytics, incluindo os relatórios de [!UICONTROL Ciclo de vida], [!UICONTROL Rastreamento de localização] e [!UICONTROL Ocorrência em segundo plano].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/en_US/mobile/gs.html).
+Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/mobile/gs.html).
