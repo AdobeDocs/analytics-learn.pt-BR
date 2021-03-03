@@ -1,35 +1,36 @@
 ---
-title: Configurações da tabela de Coorte
-description: 'Existem várias configurações de tabela de coorte que permitem personalizar sua visualização de retenção ou de churn. Veja-os destacados neste vídeo. '
-feature: visualizations
+title: Configurações da tabela de coorte
+description: 'Há várias configurações da tabela de coorte que permitem personalizar a visualização de retenção ou abandono. Veja-os destacados neste vídeo. '
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 114aaae2772e7e4de1bf751b3aaebb709bd2a4d2
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 
 
-# [!UICONTROL Configurações da tabela de Coorte]
+# [!UICONTROL Configurações da ] tabela de coorte
 
-Existem várias configurações de ¹ que permitem personalizar sua visualização de [!UICONTROL retenção] ou [!UICONTROL churn]. Veja-os destacados neste vídeo.
+Existem várias configurações de acesso que permitem personalizar a visualização de [!UICONTROL retenção] ou [!UICONTROL churn]. Veja-os destacados neste vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
 
-As personalizações para a Tabela de [!UICONTROL coorte] incluem a capacidade de
+As personalizações da [!UICONTROL Tabela de coorte] incluem a capacidade de
 
 1. Exibir somente porcentagens
 1. Arredondar porcentagens para o número inteiro mais próximo
-1. Mostrar/ocultar uma linha percentual média na parte superior da tabela.
+1. Mostrar/ocultar uma linha de porcentagem média na parte superior da tabela.
 
-A linha média é especialmente útil para exibir a [!UICONTROL retenção] ou a [!UICONTROL taxa] geral, em vez de linhas de [!UICONTROL coorte] individuais.
+A linha média é especialmente útil na exibição geral de [!UICONTROL retenção] ou [!UICONTROL churn], em vez de linhas individuais [!UICONTROL cohort].
 
-Para obter mais informações sobre a [!UICONTROL análise de coorte] , visite a [documentação](https://docs.adobe.com/help/pt-BR/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Para obter mais informações sobre a análise [!UICONTROL cohort], visite a [documentação](https://docs.adobe.com/help/pt-BR/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
