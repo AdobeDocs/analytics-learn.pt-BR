@@ -1,24 +1,25 @@
 ---
-title: Barra de menus no Analysis Workspace
-description: A Analysis Workspace ficou ainda mais fácil de controlar e navegar com menus atualizados que organizam as várias opções para gerenciar projetos e análises em categorias familiares.
-feature: projects
+title: Barra de menus na Analysis Workspace
+description: O Analysis Workspace ficou ainda mais fácil de controlar e navegar com menus atualizados que organizam as várias opções para gerenciar projetos e análises em categorias familiares.
+feature: Projetos
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
 
-# Barra de menus no Analysis Workspace {#menu-bar-in-analysis-workspace}
+# Barra de menus na Analysis Workspace {#menu-bar-in-analysis-workspace}
 
-A Analysis Workspace ficou ainda mais fácil de controlar e navegar com menus atualizados que organizam as várias opções para gerenciar projetos e análises em categorias familiares.
+O Analysis Workspace ficou ainda mais fácil de controlar e navegar com menus atualizados que organizam as várias opções para gerenciar projetos e análises em categorias familiares.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23965/?quality=12)
