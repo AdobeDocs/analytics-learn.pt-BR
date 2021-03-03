@@ -1,25 +1,26 @@
 ---
 title: Configuração do gerenciamento de biblioteca para o Analytics
-description: Se você estiver apenas começando a usar a extensão Experience Platform Launch para Adobe Analytics, este vídeo poderá ajudá-lo com a parte de gerenciamento de biblioteca da configuração, incluindo a seleção de conjuntos de relatórios para os quais deseja enviar dados.
-feature: launch implementation
+description: Se você estiver apenas começando a usar a extensão Experience Platform Launch para o Adobe Analytics, este vídeo poderá ajudá-lo com a parte de gerenciamento da biblioteca da configuração, incluindo a seleção de conjuntos de relatórios para os quais deseja enviar dados.
+feature: Implementação do Launch
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
+role: '"Desenvolvedor, engenheiro de dados"'
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 16%
+source-wordcount: '135'
+ht-degree: 15%
 
 ---
 
 
-# Configuração do gerenciamento [!UICONTROL de] biblioteca para [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
+# Configurar [!UICONTROL Gerenciamento de biblioteca] para [!DNL Analytics] {#configuring-library-management-in-the-launch-analytics-extension}
 
-Se você estiver apenas começando com o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo pode ajudá-lo com o Gerenciamento de biblioteca, incluindo a seleção de conjuntos [!UICONTROL de] relatórios nos quais enviar dados.
+Se você estiver apenas começando a usar o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo pode ajudá-lo com o [!UICONTROL Gerenciamento de biblioteca], incluindo a seleção de [!UICONTROL conjuntos de relatórios] para enviar dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12)
 
