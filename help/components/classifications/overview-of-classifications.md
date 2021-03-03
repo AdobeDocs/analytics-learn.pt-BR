@@ -1,25 +1,26 @@
 ---
 title: Visão geral das classificações no Adobe Analytics
-description: As classificações são uma maneira poderosa de adicionar metadados - atributos descritivos - aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor seus esforços de marketing e experiência, permitindo que você agrupe elementos semelhantes e detalhe os dados para se aprofundar no que está ou não funcionando para você.
-feature: classifications
+description: As classificações são uma maneira poderosa de adicionar metadados - atributos descritivos - aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor seus esforços de marketing e experiência, permitindo agrupar elementos semelhantes e analisar dados para aprofundar o seu trabalho.
+feature: Classificações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '137'
 ht-degree: 6%
 
 ---
 
 
-# Visão geral das [!UICONTROL classificações] no Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
+# Visão geral de [!UICONTROL Classificações] no Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
 
-[!UICONTROL As classificações] são uma maneira poderosa de adicionar metadados - atributos descritivos - aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor seus esforços de marketing e experiência, permitindo que você agrupe elementos semelhantes e detalhe os dados para se aprofundar no que está ou não funcionando para você.
+ As classificações são uma maneira eficiente de adicionar metadados - atributos descritivos - aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor seus esforços de marketing e experiência, permitindo agrupar elementos semelhantes e analisar dados para aprofundar o seu trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
