@@ -1,25 +1,27 @@
 ---
 title: Implementação de modelos de rastreamento do Advertising Analytics em mecanismos de pesquisa
-description: Este vídeo o guiará pelas etapas de implementação de seus modelos de rastreamento da Advertising Analytics nos Mecanismos de pesquisa suportados. A implementação do modelo de rastreamento é a etapa crítica para coletar e passar seus dados para a Adobe Analytics.
-feature: integration with ad cloud
+description: Este vídeo o guiará pelas etapas de implementação dos modelos de rastreamento do Advertising Analytics nos Mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa essencial para coletar e enviar seus dados para o Adobe Analytics.
+feature: Integração com a Advertising Cloud
 topics: null
-audience: administrator
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
+topic: Integrações
+role: Administrador
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '107'
+ht-degree: 3%
 
 ---
 
 
-# Implementação de modelos de rastreamento de [!DNL Advertising Analytics] em mecanismos de pesquisa {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# Implementando modelos de rastreamento de [!DNL Advertising Analytics] em Mecanismos de pesquisa {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
 
-Este vídeo o orienta pelas etapas de implementação de seus modelos de rastreamento [!DNL Advertising Analytics] nos mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa crítica para coletar e passar seus dados para a Adobe Analytics.
+Este vídeo o orienta pelas etapas de implementação dos modelos de rastreamento de [!DNL Advertising Analytics] nos mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa essencial para coletar e enviar seus dados para o Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
 
