@@ -1,24 +1,25 @@
 ---
-title: Aprimoramentos de estado zero no Analysis Workspace
-description: Zero State é o layout de abertura do Analysis Workspace. Para ajudar os usuários novos e experientes a obter valor do Analysis Workspace, aprimoramos o painel esquerdo, o painel em branco, a tabela de forma livre e as zonas para que sejam mais intuitivas para os usuários.
-feature: projects
+title: Melhorias no estado zero na Analysis Workspace
+description: Zero State é o layout de abertura do Analysis Workspace. Para ajudar usuários novos e experientes a tirar proveito do Analysis Workspace, aprimoramos o painel esquerdo, o painel em branco, a tabela de forma livre e as zonas de soltar para que sejam mais intuitivos para os usuários.
+feature: Projetos
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Zero State] Melhorias no Analysis Workspace {#zero-state-improvements-in-analysis-workspace}
+# [!DNL Zero State] Melhorias na Analysis Workspace  {#zero-state-improvements-in-analysis-workspace}
 
-&quot;[!DNL Zero State]&quot; é o layout de abertura do Analysis Workspace. Para ajudar os usuários novos e experientes a obter valor do Analysis Workspace, aprimoramos o painel esquerdo, o painel em branco, a tabela [!UICONTROL de forma]livre e as zonas para que sejam mais intuitivas para os usuários.
+&quot;[!DNL Zero State]&quot; é o layout de abertura do Analysis Workspace. Para ajudar os usuários novos e experientes a tirar valor do Analysis Workspace, aprimoramos o painel esquerdo, o painel em branco, a [!UICONTROL tabela de forma livre] e as zonas de soltar para que sejam mais intuitivas para os usuários.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23560/?quality=12)
