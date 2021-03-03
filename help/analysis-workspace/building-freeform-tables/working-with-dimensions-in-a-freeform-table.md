@@ -1,38 +1,39 @@
 ---
-title: Trabalhar com Dimension em uma tabela de forma livre
-description: Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo adicioná-las, classificá-las, filtrá-las, detalhá-las por outras dimensões etc.
-feature: dimensions
+title: Trabalhar com dimensões em uma tabela de forma livre
+description: Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
+feature: Dimensões
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 5d8c660a4974936f9f3ec1132430d42b1d261965
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 16%
 
 ---
 
 
-# Trabalhar com Dimension em uma tabela de forma livre
+# Trabalhar com dimensões em uma tabela de forma livre
 
-Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo adicioná-las, classificá-las, filtrá-las, detalhá-las por outras dimensões etc.
+Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
 
-Tópicos abordados no vídeo, incluindo horas:
+Tópicos abordados no vídeo, incluindo tempos:
 
 * Noções básicas (0:00)
-* Guias de Zona de Descarte (1:27)
+* Guias de áreas para soltar (1:27)
 * Paginação e filtragem (2:45)
-* Adicionar itens de Dimension (4:30)
-* Itens de Dimension de pré-visualização (5:15)
-* Dimension baseados em tempo (5:59)
+* Adicionar itens de dimensão (4:30)
+* Visualizar itens de dimensão (5:15)
+* Dimensões com base no tempo (5:59)
 * Classificação (6:49)
-* Dimension como Filtros (8:30)
-* Análises (9:48)
-* Classificados, ao longo do tempo e Relatórios de tendências (13:11)
+* Dimensões como filtros (8:30)
+* Detalhamentos (9:48)
+* Classificado, ao longo do tempo e Relatórios de tendências (13:11)
