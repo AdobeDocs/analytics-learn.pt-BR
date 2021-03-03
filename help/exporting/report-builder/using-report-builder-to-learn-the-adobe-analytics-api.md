@@ -1,38 +1,39 @@
 ---
-title: Uso do Report Builder para saber mais sobre a API do Adobe Analytics
-description: Report Builder é algo que todos conhecemos e amamos. E se eu dissesse a vocês que poderiam usar o que vocês sabem sobre a Report Builder para avançar ainda mais sua habilidade com o Adobe Analytics? Neste vídeo, iremos acompanhar como fazer as solicitações do Report Builder de depuração e usá-las para aprender como criar seus próprios query da API do Analytics.
-feature: report builder
+title: Usar o Report Builder para saber mais sobre a API do Adobe Analytics
+description: Report Builder é algo que todos conhecemos e adoramos. Então, e se eu disser que você pode usar o que sabe sobre o Report Builder para avançar ainda mais seu skillset do Adobe Analytics? Neste vídeo, abordaremos como depurar solicitações do Report Builder e usá-las para saber como criar suas próprias consultas de API do Analytics.
+feature: Report Builder
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2345
+role: Profissional
+level: Intermediário
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 1%
 
 ---
 
 
 # Usar o [!UICONTROL Report Builder] para saber mais sobre a API do Adobe Analytics {#using-report-builder-to-learn-the-adobe-analytics-api}
 
-[!UICONTROL Report Builder] é algo que todos conhecemos e amamos. E se eu dissesse a vocês que poderiam usar o que vocês sabem sobre [!UICONTROL Report Builder] para avançar ainda mais na sua habilidade com o Adobe Analytics? Neste vídeo, iremos acompanhar como responder às solicitações do [!UICONTROL Report Builder] de depuração e usá-las para aprender como criar seus próprios query de [!DNL Analytics] API.
+[!UICONTROL Report ] Builder é algo que todos conhecemos e amamos. Então, e se eu disser que você pode usar o que sabe sobre o [!UICONTROL Report Builder] para avançar ainda mais seu conjunto de habilidades do Adobe Analytics? Neste vídeo, abordaremos como obter as solicitações de depuração do [!UICONTROL Report Builder] e usá-las para saber como criar suas próprias consultas de API do [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
 
-**ATUALIZAÇÃO**: [!UICONTROL O Report Builder] atualizou ligeiramente a forma como solicita os dados. Você ainda pode usar a abordagem deste vídeo, mas as informações serão um pouco diferentes em um depurador.
+**ATUALIZAÇÃO**:  [!UICONTROL O ] Construtor de relatórios atualizou ligeiramente a forma como solicita os dados. Você ainda pode usar a abordagem deste vídeo, mas as informações serão um pouco diferentes em um depurador.
 
 Em um depurador:
 
-1 - Procure api5.omniture.com. O número pode variar de 1 a 5, dependendo do data center.
+1 - Pesquise por api5.omniture.com. O número pode variar de 1 a 5, dependendo do data center.
 
-2 - Go to the [!UICONTROL Request] tab
+2 - Vá para a guia [!UICONTROL Request]
 
-3 - Procure &quot;[!DNL Report.Queue]&quot; na solicitação.
+3 - Procure por &#39;[!DNL Report.Queue]&#39; na solicitação.
 
-Também há um método alternativo para depurar solicitações como essa, e ele funciona tão bem quanto isso. Você pode ativar o registro de [!UICONTROL Report Builder] no menu [!UICONTROL Opções] e isso gravará as mesmas informações que um depurador faria. Os registros podem ser encontrados em [!UICONTROL Documentos] > [!UICONTROL ReportBuilderLogs]e serão organizados por dia. Você pode pesquisar no arquivo por &quot;Report.Queue&quot; para localizar cada solicitação. Os registros também ajudam na solução de problemas.
+Também há um método alternativo para depurar solicitações como essa, e ele também funciona. Você pode ativar o registro do [!UICONTROL Report Builder] no menu [!UICONTROL Options] e isso registrará as mesmas informações que um depurador registraria. Os logs podem ser encontrados em [!UICONTROL Documents] > [!UICONTROL ReportBuilderLogs], e serão organizados por dia. Você pode pesquisar o arquivo para &#39;Report.Queue&#39; para encontrar cada solicitação. Os registros também ajudam na solução de problemas de qualquer problema.
 
 Para obter mais informações sobre esse recurso, visite a [documentação](https://www.adobe.io/).
