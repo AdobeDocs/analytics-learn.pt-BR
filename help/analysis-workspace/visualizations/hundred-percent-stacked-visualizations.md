@@ -1,26 +1,27 @@
 ---
 title: Visualizações 100% Empilhadas No Analysis Workspace
 description: Neste vídeo, você aprenderá a definir suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
-feature: visualizations
+feature: Visualizações
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 
-# 100% De [!UICONTROL Visualizações] Empilhadas No Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
+# 100% empilhada [!UICONTROL Visualizações] no Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
 
 Neste vídeo, você aprenderá a definir suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
 
-Gráficos empilhados são úteis para representar partes de um todo em uma tendência. A nova configuração de 100% de viz empilhada ajuda a ver rapidamente como cada parte contribui para o todo, em termos de um valor de % em vez de um valor bruto. Esta nova configuração está disponível na engrenagem Configurações de [!UICONTROL visualização] na parte superior direita de [!UICONTROL Área empilhada], [!UICONTROL Barra empilhada] e Barra [!UICONTROL horizontal pilhada] vizs.
+Gráficos empilhados são úteis para representar partes de um todo em uma tendência. A nova configuração 100% empilhada viz ajuda a visualizar rapidamente como cada parte contribui para o todo, em termos de um valor % em vez de um valor bruto. Esta nova configuração está disponível na engrenagem [!UICONTROL Configurações de visualização] na parte superior direita de [!UICONTROL Área empilhada], [!UICONTROL Barra empilhada] e [!UICONTROL Barra horizontal empilhada] vizs.
