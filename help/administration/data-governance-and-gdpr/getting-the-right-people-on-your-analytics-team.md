@@ -1,24 +1,25 @@
 ---
-title: Obtendo as pessoas certas na sua equipe do Analytics
-description: É muito importante colocar as pessoas certas em sua equipe enquanto você implementa o Adobe Analytics e analisa a atividade em seu site. Este vídeo fornecerá uma rápida análise das diferentes funções que você desejará preencher.
-feature: analytics basics
+title: Conheça as pessoas certas na sua equipe do Analytics
+description: É muito importante ter as pessoas certas em sua equipe, à medida que você implementa o Adobe Analytics e analisa a atividade no site. Este vídeo fornecerá uma rápida análise das diferentes funções que você desejará preencher.
+feature: Noções básicas do Analytics
 topics: null
-audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
+role: Administrador
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 2%
 
 ---
 
 
-# Obtendo as pessoas certas em sua [!DNL Analytics] equipe
+# Obtendo as pessoas certas na sua equipe [!DNL Analytics]
 
-É muito importante colocar as pessoas certas em sua equipe enquanto você implementa o Adobe Analytics e analisa a atividade em seu site. Este vídeo fornecerá uma rápida análise das diferentes funções que você desejará preencher.
+É muito importante ter as pessoas certas em sua equipe, à medida que você implementa o Adobe Analytics e analisa a atividade no site. Este vídeo fornecerá uma rápida análise das diferentes funções que você desejará preencher.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
