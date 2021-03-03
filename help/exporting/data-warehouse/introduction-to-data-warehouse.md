@@ -1,24 +1,25 @@
 ---
-title: Introdução à Datas Warehouse
-description: A ferramenta de solicitação de Data Warehouse no Adobe Analytics fornece acesso ao query dos dados brutos. O Data Warehouse pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios agendados e baixados. Este vídeo é uma introdução à ferramenta, incluindo uma apresentação da criação de um relatório de Data Warehouse.
-feature: data warehouse
+title: Introdução ao Data Warehouse
+description: A ferramenta de solicitação do Data Warehouse no Adobe Analytics fornece acesso para consultar os dados brutos. O Data Warehouse pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios agendados e baixados. Este vídeo é uma introdução à ferramenta, incluindo uma apresentação da criação de um relatório do Data Warehouse.
+feature: Data Warehouse
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2916
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 33%
+source-wordcount: '117'
+ht-degree: 34%
 
 ---
 
 
-# Introdução à [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introdução ao [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
 
-A ferramenta de solicitação de [!UICONTROL Data Warehouse] no Adobe Analytics fornece acesso ao query dos dados brutos. [!UICONTROL O Data Warehouse pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios agendados e baixados. ] Este vídeo é uma introdução à ferramenta, incluindo uma apresentação da criação de um relatório de [!UICONTROL Data Warehouse] .
+A ferramenta de solicitação [!UICONTROL Data Warehouse] no Adobe Analytics fornece acesso para consultar os dados brutos. [!UICONTROL O Data Warehouse pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios agendados e baixados. ] Este vídeo é uma introdução à ferramenta, incluindo uma apresentação da criação de um relatório [!UICONTROL Data Warehouse].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
