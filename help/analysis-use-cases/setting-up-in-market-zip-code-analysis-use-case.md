@@ -1,28 +1,29 @@
 ---
-title: Configurando a Análise do CEP no mercado - um caso de uso
-seo-title: Configurando a Análise do CEP no mercado - um caso de uso
-description: Neste caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados na Analysis Workspace para que possamos ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
-seo-description: Neste caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados na Analysis Workspace para que possamos ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
-feature: use cases
+title: Configuração da análise de código postal no mercado - um caso de uso
+seo-title: Configuração da análise de código postal no mercado - um caso de uso
+description: Nesse caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados no Analysis Workspace para ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
+seo-description: Nesse caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados no Analysis Workspace para ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
+feature: Casos de uso
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
+role: Profissional
+level: Iniciante
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '201'
 ht-degree: 10%
 
 ---
 
 
-# Configurando a Análise do CEP no mercado - um caso de uso {#setting-up-in-market-zip-code-analysis-a-use-case}
+# Configuração da análise de código postal no mercado - um caso de uso {#setting-up-in-market-zip-code-analysis-a-use-case}
 
-Neste caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados na Analysis Workspace para que possamos ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
+Nesse caso de uso, configuraremos o sistema para trazer códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados no Analysis Workspace para ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
 
