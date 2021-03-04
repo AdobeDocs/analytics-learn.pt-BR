@@ -1,6 +1,6 @@
 ---
-title: Criação de novos projetos da Analysis Workspace
-description: Neste vídeo, você aprenderá a usar o modal Novo projeto da Analysis Workspace para criar um projeto a partir de uma tela em branco, de um modelo padrão da Adobe ou de um modelo personalizado. Você pode até pesquisar e classificar seus modelos no modal para encontrar um que se ajuste à sua necessidade.
+title: Criação de novos projetos do Analysis Workspace
+description: Neste vídeo, você aprenderá a usar o modal Novo projeto do Analysis Workspace para criar um projeto com base em uma tela em branco, um modelo padrão da Adobe ou um modelo personalizado. Você pode até mesmo pesquisar e classificar seus modelos no modal para encontrar um que atenda às suas necessidades.
 feature: Projetos
 topics: null
 activity: use
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Criação de novos projetos da Analysis Workspace {#creating-new-analysis-workspace-projects}
+# Criação de novos projetos do Analysis Workspace {#creating-new-analysis-workspace-projects}
 
-Neste vídeo, você aprenderá a usar o modal Novo projeto da Analysis Workspace para criar um projeto a partir de uma tela em branco, de um [!DNL Adobe Standard Template] ou de um modelo personalizado. Você pode até pesquisar e classificar seus modelos no modal para encontrar um que se ajuste à sua necessidade.
+Neste vídeo, você aprenderá a usar o modal Novo projeto do Analysis Workspace para criar um projeto com base em uma tela em branco, um [!DNL Adobe Standard Template] ou um modelo personalizado. Você pode até mesmo pesquisar e classificar seus modelos no modal para encontrar um que atenda às suas necessidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23233/?quality=12)
