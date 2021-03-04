@@ -1,6 +1,6 @@
 ---
-title: Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com o SDK da Experience Platform
-description: Os estados representam telas ou exibições no aplicativo. Sempre que um novo estado for exibido no aplicativo, por exemplo, quando um usuário navega da página inicial para o feed de notícias, o "trackState" pode ser chamado para enviar o Nome do estado (Nome da página no Analytics), bem como dados adicionais. Este vídeo mostra como fazer isso.
+title: Rastreamento de estado (também conhecido como Páginas ou Telas) em um aplicativo móvel com o SDK da Experience Platform
+description: Os estados representam telas ou visualizações no aplicativo. Sempre que um novo estado é exibido em seu aplicativo, por exemplo, quando um usuário navega da home page para o feed de notícias, “trackState” pode ser chamado para enviar o Nome do estado (Nome da página no Analytics), bem como dados adicionais. Este vídeo mostra como fazer isso.
 feature: SDK móvel
 topics: null
 activity: implement
@@ -14,14 +14,14 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 1%
+ht-degree: 97%
 
 ---
 
 
-# Rastreamento de estado (páginas ou telas AKA) em um aplicativo móvel com o SDK da Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
+# Rastreamento de estado (também conhecido como Páginas ou Telas) em um aplicativo móvel com o SDK da Experience Platform {#tracking-state-aka-pages-or-screens-in-a-mobile-app-with-the-experience-platform-sdk}
 
-Os estados representam telas ou exibições no aplicativo. Sempre que um novo estado for exibido no aplicativo, por exemplo, quando um usuário navega da página inicial para o feed de notícias, `trackState` pode ser chamado para enviar o Nome do estado (Nome da página em [!DNL Analytics]), bem como dados adicionais. Este vídeo mostra como fazer isso.
+Os estados representam telas ou visualizações no aplicativo. Sempre que um novo estado é exibido no aplicativo, por exemplo, quando um usuário navega da home page para o feed de notícias, o `trackState` pode ser chamado para enviar o Nome do estado (Nome da página no [!DNL Analytics]), bem como dados adicionais. Este vídeo mostra como fazer isso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
 
