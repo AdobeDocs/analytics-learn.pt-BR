@@ -1,8 +1,8 @@
 ---
-title: Uso de modelos personalizados para permitir novos usuários do Analysis Workspace
-seo-title: Uso de modelos personalizados para permitir novos usuários do Analysis Workspace
-description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar + colar/inserir para melhor servir usuários novos em sua organização.
-seo-description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar + colar/inserir para melhor servir usuários novos em sua organização.
+title: Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace
+seo-title: Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace
+description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar e colar/inserir para atender melhor às necessidades de usuários iniciantes em sua organização.
+seo-description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar e colar/inserir para atender melhor às necessidades de usuários iniciantes em sua organização.
 feature: Projetos
 topics: null
 activity: use
@@ -16,21 +16,21 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Usar modelos personalizados para ativar usuários novos da Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
+# Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace {#using-custom-templates-to-enable-novice-analysis-workspace-users}
 
-Este vídeo demonstra como reunir modelos personalizados com recursos de copiar + colar/inserir para melhor servir usuários novos em sua organização.
+Este vídeo demonstra como reunir modelos personalizados com recursos de copiar e colar/inserir para atender melhor às necessidades de usuários iniciantes em sua organização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23234/?quality=12)
 
-Ao criar um modelo de blocos de construção, os usuários têm uma maneira de iniciar a análise mais rapidamente e garantir que estão seguindo as práticas recomendadas definidas pela organização.
+Criando um modelo de blocos de construção, os usuários têm uma maneira de iniciar suas análises mais rapidamente e garantir que estão seguindo as práticas recomendadas definidas por sua organização.
 
-Para obter vídeos relacionados, consulte:
+Para ver vídeos relacionados, consulte:
 
-* [Modelos personalizados na Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/create-manage-custom-templates-analysis-workspace-feature-video-use.html)
+* [Modelos personalizados no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.html?lang=pt-BR#analysis-workspace)
 
-* [Copiar + Inserir no Analysis Workspace](https://helpx.adobe.com/analytics/kt/using/copy-insert-analysis-workspace-feature-video-use.html)
+* [Copiar e Inserir no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.html?lang=pt-BR#analysis-workspace)
