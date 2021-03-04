@@ -1,7 +1,7 @@
 ---
-title: Criando um Documento de Requisitos Comerciais
-description: 'Este vídeo discute a etapa essencial da definição do que você deseja rastrear com o Adobe Analytics. Quais são as coisas que você deseja saber sobre seu site? Vamos escrevê-los e começar a decidir como vamos rastreá-los. '
-feature: Noções básicas da implementação
+title: Criação de um documento de requisitos comerciais
+description: 'Este vídeo discute a etapa mais importante da definição do que você deseja rastrear com o Adobe Analytics. O que você deseja saber sobre o seu site? Vamos anotar esses itens e começar a decidir como rastreá-los. '
+feature: Conceitos básicos de implementação
 topics: null
 activity: implement
 doc-type: feature video
@@ -13,17 +13,17 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 97%
 
 ---
 
 
-# Criando um Documento de Requisitos Comerciais
+# Criação de um documento de requisitos comerciais
 
-Este vídeo discute a etapa essencial da definição do que você deseja rastrear com o Adobe Analytics. Quais são as coisas que você deseja saber sobre seu site? Vamos escrevê-los e começar a decidir como vamos rastreá-los.
+Este vídeo discute a etapa mais importante da definição do que você deseja rastrear com o Adobe Analytics. O que você deseja saber sobre o seu site? Vamos anotar esses itens e começar a decidir como rastreá-los.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) Faça o download de uma amostra de BRD/SDR que você pode usar para definir seu site.
+[Baixe](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx) uma amostra de BRD/SDR que você pode usar para definir seu site.
 
-[](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) Baixe o BRD/SDR neste vídeo (e no vídeo  [SDR](creating-and-maintaining-an-sdr.md)).
+[Baixe](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) o BRD/SDR deste vídeo (e o [vídeo SDR](creating-and-maintaining-an-sdr.md)).
