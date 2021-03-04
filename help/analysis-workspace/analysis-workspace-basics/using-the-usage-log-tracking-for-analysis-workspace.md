@@ -1,6 +1,6 @@
 ---
-title: Uso do rastreamento de log de uso para Analysis Workspace
-seo-title: Uso do rastreamento de log de uso para Analysis Workspace
+title: Utilização do rastreamento de log de uso do Analysis Workspace
+seo-title: Utilização do rastreamento de log de uso do Analysis Workspace
 description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 seo-description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 feature: data configuration and collection
@@ -11,35 +11,35 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '184'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 
-# Uso do rastreamento [!UICONTROL de log de] uso para Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
+# Utilização do [!UICONTROL Rastreamento de log de uso] do Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-Este vídeo mostra como usar o rastreamento [!UICONTROL de log de] uso em [!DNL Workspace] projetos, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
+Este vídeo mostra como usar o [!UICONTROL Rastreamento de log de uso] em projetos do [!DNL Workspace], o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
 
-[!DNL Workspace] as opções de rastreamento incluem:
+As opções de rastreamento do [!DNL Workspace] incluem:
 
-* Criação do projeto (salvar um novo projeto)
-* Atualizações do projeto (salvar edições em um projeto)
-* Compartilhamentos do projeto
-* Unidades de compartilhamento do projeto
+* Criação de projeto (salvar um novo projeto)
+* Atualizações de projeto (salvar edições em um projeto)
+* Compartilhamentos de projeto
+* Cancelamento de compartilhamentos de projeto
 * Exclusões de projeto
-* Visualizações do projeto
+* Exibições de projeto
 
-As visualizações do projeto serão a melhor indicação de se seus usuários estão usando [!DNL Workspace] ou mesmo abrindo projetos compartilhados com eles.
+As exibições de projeto serão a melhor indicação de que os usuários estão usando o [!DNL Workspace] ou mesmo abrindo projetos compartilhados com eles.
 
 ## Recursos adicionais {#additional-resources}
 
-* [Mais informações sobre registros](https://marketing.adobe.com/resources/help/en_US/reference/logs.html)
-* [Download do painel de demonstração](https://adobe.ly/2ygP5ws)
+* [Mais informações sobre logs](https://marketing.adobe.com/resources/help/pt_BR/reference/logs.html)
+* [Baixar painel de demonstração](https://adobe.ly/2ygP5ws)
 
-PRÓXIMO: Estamos trabalhando para apresentar essas informações em uma interface amigável (e com mais detalhes) em [!DNL Analytics] breve.
+A SEGUIR: estamos trabalhando para apresentar essas informações em uma interface amigável (e com mais detalhes) no [!DNL Analytics] em breve.
