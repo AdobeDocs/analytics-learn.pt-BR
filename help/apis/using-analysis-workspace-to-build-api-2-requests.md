@@ -1,6 +1,6 @@
 ---
-title: Uso da Analysis Workspace para criar solicitações da API 2.0 do Adobe Analytics
-description: Neste vídeo, mostramos como aproveitar o Analysis Workspace para criar solicitações da API 2.0 automaticamente. Ao depurar a interface do usuário, você pode copiar e colar solicitações JSON diretamente em qualquer cliente da API para retornar dados do Analytics.
+title: Utilização do Analysis Workspace para criar solicitações da API 2.0 do Adobe Analytics
+description: Neste vídeo, mostramos como aproveitar o Analysis Workspace para criar solicitações da API 2.0 automaticamente. Depurando a interface do usuário, você pode copiar e colar solicitações JSON diretamente em qualquer cliente da API para retornar os dados do Analytics.
 feature: API
 topics: null
 activity: use
@@ -13,15 +13,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 9%
+ht-degree: 96%
 
 ---
 
 
-# Uso da Analysis Workspace para criar solicitações da API 2.0 do Adobe Analytics {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
+# Utilização do Analysis Workspace para criar solicitações da API 2.0 do Adobe Analytics {#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-Neste vídeo, mostramos como aproveitar o Analysis Workspace para criar solicitações da API 2.0 automaticamente. Ao depurar a interface do usuário, você pode copiar e colar solicitações JSON diretamente em qualquer cliente da API para retornar dados [!DNL Analytics]. Agora é possível ativar o depurador mais facilmente, acessando Ajuda do Workspace > Ativar o Debugger.
+Neste vídeo, mostramos como aproveitar o Analysis Workspace para criar solicitações da API 2.0 automaticamente. Depurando a interface do usuário, você pode copiar e colar solicitações JSON diretamente em qualquer cliente da API para retornar os dados do [!DNL Analytics]. Agora é possível ativar o depurador mais facilmente acessando a Ajuda do Workspace > Ativar o Debugger.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
 
-Para obter mais informações, visite a [documentação](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).
+Para obter mais informações, consulte a [documentação](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md).
