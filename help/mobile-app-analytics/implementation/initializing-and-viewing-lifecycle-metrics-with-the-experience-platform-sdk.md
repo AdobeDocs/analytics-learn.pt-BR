@@ -1,6 +1,6 @@
 ---
-title: Inicializar e exibir medições de ciclo de vida com o SDK da Experience Platform
-description: As Medições de ciclo de vida são informações valiosas e prontas para uso sobre o usuário do seu aplicativo. Essas métricas contêm informações sobre o ciclo de vida do usuário do aplicativo, como informações do dispositivo, informações de instalação ou atualização, início da sessão e tempos de pausa, etc. Neste vídeo, veja como configurar as medições de ciclo de vida no seu aplicativo e como visualizar os resultados em um depurador.
+title: Inicialização e visualização de métricas de ciclo de vida com o SDK da Experience Platform
+description: As métricas de ciclo de vida são informações importantes e prontas para uso sobre o usuário do aplicativo. Essas métricas contêm informações sobre o ciclo de vida do usuário do aplicativo, como informações do dispositivo, informações de instalação ou atualização, início da sessão e tempos de pausa etc. Neste vídeo, veja como configurar as métricas de ciclo de vida no aplicativo e como ver os resultados em um depurador.
 feature: SDK móvel
 topics: null
 activity: implement
@@ -14,15 +14,15 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 1%
+ht-degree: 97%
 
 ---
 
 
-# Inicializar e visualizar [!UICONTROL Ciclo de vida] [!UICONTROL Métricas] com o SDK da Experience Platform {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
+# Inicialização e visualização de [!UICONTROL Métricas] de [!UICONTROL ciclo de vida] com o SDK da Experience Platform {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
-  As medições de ciclo de vida são informações valiosas e prontas para uso sobre o usuário do seu aplicativo. Essas [!UICONTROL métricas] contêm informações sobre o ciclo de vida do usuário do aplicativo, como informações do dispositivo, informações de instalação ou atualização, início da sessão e tempos de pausa etc. Neste vídeo, veja como configurar [!UICONTROL lifecycle] [!UICONTROL metrics] no seu aplicativo e como visualizar os resultados em um depurador.
+As [!UICONTROL métricas] de [!UICONTROL ciclo de vida] são informações valiosas e prontas para uso sobre o usuário do aplicativo. Essas [!UICONTROL métricas] contêm informações sobre o ciclo de vida do usuário do aplicativo, como informações do dispositivo, informações de instalação ou atualização, início da sessão e tempos de pausa etc. Neste vídeo, veja como configurar [!UICONTROL métricas] de [!UICONTROL ciclo de vida] no aplicativo e como ver os resultados em um depurador.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12)
 
-Para obter mais informações sobre [!UICONTROL Lifecycle] [!UICONTROL metrics], consulte a [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle).
+Para obter mais informações sobre [!UICONTROL métricas] de [!UICONTROL ciclo de vida], consulte a [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle).
