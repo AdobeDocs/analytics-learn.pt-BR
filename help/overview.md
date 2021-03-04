@@ -12,37 +12,37 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 48%
+ht-degree: 96%
 
 ---
 
 
 # Visão geral
 
-Bem-vindo ao [!DNL Analytics] Site de Tutoriais.  Usar esses tutoriais juntamente com a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/landing/home.html) fornecerá uma melhor compreensão de como usar o Adobe Analytics para obter insights do cliente mais rápido do que nunca.  Para começar,
-* Consulte a seção **&quot;O que há de novo&quot;** abaixo para obter os idiomas mais recentes
-* **A** seleção da equipe destaca alguns de nossos conteúdos favoritos
-* Explore o conteúdo por tópico e subtópico no **navegação à esquerda**
-* Use o campo **search** na parte superior da página se você souber o que está procurando
+Bem-vindo ao [!DNL Analytics] Site de tutoriais.  A utilização desses tutoriais, juntamente com a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/landing/home.html), oferece melhor entendimento de como usar o Adobe Analytics para obter insights do cliente mais rápido do que nunca.  Para começar,
+* Consulte a seção **“Novidades”** abaixo para obter os utilitários mais recentes
+* **As escolhas da equipe** destacam alguns de nossos conteúdos favoritos
+* Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
+* Use o campo de **pesquisa** na parte superior da página se você souber o que está procurando
 
 ## Novidades
 
-* **[Clique com o botão direito do mouse para obter eficiência do Workspace (Vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Clique com o botão direito para ver a Eficiência do Workspace (Vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *Conheça todos os cliques com o botão direito do mouse no Analysis Workspace e como usá-los. De [!UICONTROL Tabelas de forma livre] a [!UICONTROL Visualizações de fallout], clicar com o botão direito do mouse o tornará mais eficiente e proficiente em [!DNL Workspace].*
+   *Conheça todos os cliques com o botão direito do mouse no Analysis Workspace e como usá-los. De [!UICONTROL Tabelas de forma livre] a [!UICONTROL Visualizações de fallout], clicar com o botão direito o tornará mais eficiente e proficiente no [!DNL Workspace].*
 
-* **[Painel Quick Insights no Analysis Workspace (Vídeo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
+* **[Painel Insights rápidos no Analysis Workspace (Vídeo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
    <br>
    *O painel Quick Insights fornece orientação para não analistas e novos usuários do Analysis Workspace para saber como responder a perguntas comerciais de forma rápida e fácil.*
 
-* **[Compartilhamento de projeto no Analysis Workspace (vídeo)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
+* **[Compartilhamento de projetos no Analysis Workspace (Vídeo)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
 
    <br>
    *O compartilhamento de projetos é uma maneira de democratizar dados e insights do Analysis Workspace para usuários em sua organização. Você pode colocar recipients em uma das três funções do projeto, dependendo da experiência que você deseja que eles tenham: Editar, Duplicar e Visualizar.*
 
-## Pessoal
+## Escolhas da equipe
 
 <table>
 <tr>
@@ -69,12 +69,12 @@ Bem-vindo ao [!DNL Analytics] Site de Tutoriais.  Usar esses tutoriais juntament
     </a>
     </div>
     <p>
-    <em>O tutorial de treinamento do Analysis Workspace orienta os usuários pela terminologia e etapas comuns para criar sua primeira análise no Workspace.</em>
+    <em>O Tutorial de treinamento do Analysis Workspace orienta os usuários sobre a terminologia e as etapas comuns para a construção de sua primeira análise no Workspace.</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="imagem em miniatura do vídeo "Visão geral da Analysis Workspace"" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="imagem em miniatura do vídeo 'Visão geral do Analysis Workspace'" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
@@ -82,7 +82,7 @@ Bem-vindo ao [!DNL Analytics] Site de Tutoriais.  Usar esses tutoriais juntament
     </a>
     </div>
     <p>
-    <em>Visão geral de alto nível da Analysis Workspace.</em>
+    <em>Visão geral de alto nível do Analysis Workspace.</em>
     <p>
   </td>
 </tr>
