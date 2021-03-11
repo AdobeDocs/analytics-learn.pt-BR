@@ -1,5 +1,5 @@
 ---
-title: Definir um projeto da Analysis Workspace como página inicial
+title: Configuração de um projeto do Analysis Workspace como página de aterrissagem
 description: Este vídeo mostra como definir um projeto como a página de aterrissagem.
 feature: Noções básicas do Workspace
 topics: null
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 35%
 
 ---
 
 
-# Definir um projeto da Analysis Workspace como sua página de aterrissagem {#setting-an-analysis-workspace-project-as-your-landing-page}
+# Configuração de um projeto do Analysis Workspace como página de aterrissagem {#setting-an-analysis-workspace-project-as-your-landing-page}
 
 Este vídeo mostra como definir um projeto como a página de aterrissagem.
 
