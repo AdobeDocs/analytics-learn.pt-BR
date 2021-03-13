@@ -2,7 +2,7 @@
 title: Publicação avançada de público na Experience Cloud
 landing-page-description: Saiba mais sobre como publicar os públicos-alvo (segmentos) e torná-los disponíveis mais rápido do que nunca.
 description: Foram feitas melhorias na publicação de públicos-alvo na Experience Cloud. Agora você pode publicar públicos-alvo (segmentos) e disponibilizá-las seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas, e possivelmente mais rápido, dependendo do tráfego e do tamanho do segmento.
-feature: Integração da Experience Cloud
+feature: Integração do Experience Cloud
 topics: null
 activity: setup
 doc-type: feature video
@@ -27,6 +27,6 @@ Foram feitas melhorias na publicação de públicos-alvo na Experience Cloud. Ag
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
 Além disso, o número de [!UICONTROL segmentos] que podem ser publicados de uma vez aumentou de 20 para 75 por [!UICONTROL conjunto de relatórios].
-Para obter mais informações, consulte [Publicar segmentos na Experience Cloud](https://docs.adobe.com/content/help/pt-BR/analytics/components/segmentation/segmentation-workflow/seg-publish.html) na ajuda do Analytics.
+Para obter mais informações, consulte [Publicar segmentos no Experience Cloud](https://docs.adobe.com/content/help/pt-BR/analytics/components/segmentation/segmentation-workflow/seg-publish.html) na ajuda do Analytics.
 
-Além disso, leia sobre [Públicos-alvo](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html) na ajuda da Experience Cloud para obter informações sobre a [!UICONTROL Biblioteca de público-alvo].
+Além disso, leia sobre [Públicos-alvo](https://docs.adobe.com/content/help/pt-BR/core-services/interface/audiences/audience-library.html) na ajuda do Experience Cloud para obter informações sobre a [!UICONTROL Biblioteca de público-alvo].
