@@ -9,12 +9,12 @@ team: Technical Marketing
 kt: 2561
 topic: Dispositivo móvel
 role: '"Desenvolvedor, engenheiro de dados"'
-level: Experienciado
-translation-type: tm+mt
+level: Experiente
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
