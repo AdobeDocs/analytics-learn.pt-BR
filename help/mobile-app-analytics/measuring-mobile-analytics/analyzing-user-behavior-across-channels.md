@@ -1,19 +1,19 @@
 ---
 title: Análise do comportamento do usuário em canais
 description: Saiba como descobrir os caminhos dos usuários para conversão em aplicativos móveis usando o Fluxo e o comparando com outras experiências, como a Web. Defina e meça a conversão em processos de várias etapas para impulsionar o sucesso de seus aplicativos móveis.
-feature: Noções básicas do Workspace
+feature: Fundamentos do Workspace
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-role: Profissional
+role: Profissional de negócios
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '86'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
