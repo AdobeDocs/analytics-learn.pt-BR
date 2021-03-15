@@ -3,7 +3,7 @@ title: Utilização do rastreamento de log de uso do Analysis Workspace
 seo-title: Utilização do rastreamento de log de uso do Analysis Workspace
 description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 seo-description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
-feature: data configuration and collection
+feature: configuração e coleção de dados
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
