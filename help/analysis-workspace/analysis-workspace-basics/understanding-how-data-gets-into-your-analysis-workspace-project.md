@@ -1,19 +1,19 @@
 ---
 title: Entender como os dados são incluídos em seu projeto do Analysis Workspace
 description: Este vídeo mostra como ver o fluxo de dados da sua página em tabelas e visualizações no Analysis Workspace usando a extensão Adobe Experience Cloud Debugger no Chrome.
-feature: Noções básicas do Workspace
+feature: Fundamentos do Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
-role: Profissional
+role: Profissional de negócios
 level: Iniciante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
