@@ -5,10 +5,10 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
+source-git-commit: c1683979e1b7146c3d5c9d94eb8d59bf1bc9cef4
 workflow-type: tm+mt
-source-wordcount: '1871'
-ht-degree: 100%
+source-wordcount: '1877'
+ht-degree: 99%
 
 ---
 
@@ -211,6 +211,7 @@ ht-degree: 100%
       + [Adicionar um administrador ao Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gerenciar Conjuntos de relatórios {#manage-report-suites}
+      + [Como definir configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Configurações de CEP e código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governança de dados e GDPR {#data-governance-and-gdpr}
