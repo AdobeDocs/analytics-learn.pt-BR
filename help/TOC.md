@@ -5,10 +5,10 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
+source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
 workflow-type: tm+mt
-source-wordcount: '1885'
-ht-degree: 99%
+source-wordcount: '1970'
+ht-degree: 93%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 99%
    + Fundamentos do Analysis Workspace {#analysis-workspace-basics}
       + [Introdução ao Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Visão geral da Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Início do primeiro projeto no Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Criação de novos projetos do Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Criar e gerenciar modelos personalizados no Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modelos padrão no Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
@@ -72,7 +71,6 @@ ht-degree: 99%
       + [Copiar e inserir no Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Criar um sumário](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Clique com o botão direito do mouse para obter eficiência do Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
-      + [Utilização de paletas de cores personalizadas no Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Atalhos de teclado](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Barra de menus](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [Gerenciamento de projetos](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
@@ -83,10 +81,9 @@ ht-degree: 99%
    + Utilização de painéis {#using-panels}
       + [Utilização de tabelas, visualizações e painéis no Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Painel Quick Insights no Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [Utilização do painel Attribution IQ](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [Utilização do painel Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Painel Visualizadores simultâneos de mídia no Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
-      + [Segmentos de nível de painel](analysis-workspace/using-panels/panel-level-segments.md)
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
@@ -95,11 +92,10 @@ ht-degree: 99%
       + [Criar tabelas de forma livre automaticamente no Analysis Workspace](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Trabalhar com dimensões em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Trabalhar com métricas em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Configurações de linha e coluna em tabelas de forma livre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Utilização do Criador de tabelas de forma livre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Reorganização de linhas estáticas no Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utilização do Attribution IQ em tabelas de forma livre](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [Utilização do Attribution IQ em tabelas de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Utilização do menu de clique com o botão direito no Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [Continuação do menu de clique com o botão direito no Analysis Workspace](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Análise de venda cruzada no Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -109,7 +105,6 @@ ht-degree: 99%
    + Visualizações {#visualizations}
       + [Visualização de dados no Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Tipos de visualização](analysis-workspace/visualizations/visualization-types.md)
-      + [Utilização de tabelas, visualizações e painéis no Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Seleção de dados para visualização](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obtenção de dados para visualizações](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Visualização de linha no Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
@@ -138,23 +133,21 @@ ht-degree: 99%
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Segmentos ad hoc (temporários)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Utilização de diferentes modelos do Attribution IQ com segmentos](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-      + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [Utilização de diferentes modelos do Attribution IQ com segmentos](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [Segmentos de nível de painel](analysis-workspace/using-panels/panel-level-segments.md)
-      + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Utilização de segmentos como dimensões no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilização de segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + Métricas {#metrics}
       + [Compreensão de métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [Introdução a eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Trabalhar com métricas em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [Trabalhar com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensões {#dimensions}
       + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introdução a variáveis de tráfego (Props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introdução a variáveis de conversão (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Trabalhar com dimensões em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [Trabalhar com dimensões em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + Calendário e intervalos de datas {#calendar-and-date-ranges}
       + [Utilização de datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Utilização de intervalos de datas e comparações no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -176,7 +169,7 @@ ht-degree: 99%
       + [Curadoria e compartilhamento na Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Link direto para um projeto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportar para CSV do Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+      + [Exportar para CSV do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Programação e projetos baixáveis](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Compartilhamento de projetos no Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -266,16 +259,16 @@ ht-degree: 99%
       + [Comparação de segmentos no Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Containers de segmentos](components/segmentation/segment-containers.md)
       + [Gerenciamento e compartilhamento de segmentos](components/segmentation/segment-management-and-sharing.md)
-      + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Utilização de segmentos como dimensões no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [Utilização de segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Usando segmentos na Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [Utilização de segmentos como dimensões no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [Utilização de segmentos para limitar dados no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [Segmentação sequencial](components/segmentation/sequential-segmentation.md)
       + [Segmentação em contagens de dimensões distintas](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modelos de dimensão na segmentação](components/segmentation/dimension-models-in-segmentation.md)
       + [Igual a qualquer operador na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
    + Métricas calculadas {#calculated-metrics}
       + [Função distinta de contagem aproximada em métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Attribution IQ em métricas calculadas](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [Attribution IQ em métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [Métricas calculadas - Criador de métricas](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Métricas calculadas - Funções](components/calculated-metrics/calculated-metrics-functions.md)
       + [Métricas calculadas - Métricas sem implementação](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -345,14 +338,14 @@ ht-degree: 99%
    + [Adobe Analytics e Adobe Sensei - democratização da ciência de dados para TODOS](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Específico vertical {#vertical-specific}
    + Alta tecnologia {#high-tech}
-      + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+      + [Supersessão do Summit 2019: Alta tecnologia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
    + Viagens e hospitalidade {#travel-and-hospitality}
-      + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Supersessão do Summit 2019: Viagens e hospitalidade](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + Varejo {#retail}
       + [Introdução a variáveis e eventos de varejo](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Adição de variáveis e eventos básicos de varejo às regras do Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Adição de uma regra do Launch para o Evento de compra](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Supersessão do Summit 2019: Varejo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
    + Medição de voz ou áudio {#measuring-voice-or-audio}
       + [Utilização do modelo de consumo de áudio no Analysis Workspace](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
@@ -372,7 +365,7 @@ ht-degree: 99%
       + [Como aumentar as taxas de engajamento e retenção](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + APIs {#apis}
    + [Utilização do Analysis Workspace para criar solicitações da API 2.0](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Utilização do Report Builder para saber mais sobre a API do Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+   + [Utilização do Report Builder para saber mais sobre a API do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Utilização do Postman para fazer solicitações de API do Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos de uso de análise {#analysis-use-cases}
    + [Configuração da análise de CEP no mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
