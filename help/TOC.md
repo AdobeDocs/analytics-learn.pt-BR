@@ -212,7 +212,7 @@ ht-degree: 99%
       + [Adicionar um administrador ao Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gerenciar Conjuntos de relatórios {#manage-report-suites}
-      + [Como definir configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Como definir as configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Configurações de CEP e código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governança de dados e GDPR {#data-governance-and-gdpr}
