@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '1980'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
       + [Como entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (Visualizações de tecnologia)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + Personalização da interface {#customizing-the-ui}
+      + [Preferências do usuário no Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adição de descrições de dimensões e métricas](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Utilização de paletas de cores personalizadas no Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [Extensão Color Eyedropper para Definição de paletas personalizadas](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -107,6 +108,7 @@ ht-degree: 93%
       + [Tipos de visualização](analysis-workspace/visualizations/visualization-types.md)
       + [Seleção de dados para visualização](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obtenção de dados para visualizações](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [Uso de menus suspensos de Componentes no Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualização de linha no Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Adição de linhas de tendência a visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualização de gráfico com marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
