@@ -2,13 +2,13 @@
 title: Publicação avançada de público na Experience Cloud
 landing-page-description: Saiba mais sobre como publicar os públicos-alvo (segmentos) e torná-los disponíveis mais rápido do que nunca.
 description: Foram feitas melhorias na publicação de públicos-alvo na Experience Cloud. Agora você pode publicar públicos-alvo (segmentos) e disponibilizá-las seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas, e possivelmente mais rápido, dependendo do tráfego e do tamanho do segmento.
-feature: Integração da Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
-topic: Integrações
+topic: Integrations
 role: Business Practitioner
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7

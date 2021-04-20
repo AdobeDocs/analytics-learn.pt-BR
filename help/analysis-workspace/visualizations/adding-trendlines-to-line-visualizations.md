@@ -1,15 +1,15 @@
 ---
 title: Adição de linhas de tendência a visualizações de linha
 description: Em Configurações de visualização, você pode optar por adicionar uma regressão ou uma linha de tendência média móvel à sua série de linhas, o que pode ajudar a descrever um padrão mais claro nos dados. As opções incluem Médias Lineares, Logarítmicas, Exponenciais, Potentes, Quadráticas e Móveis.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

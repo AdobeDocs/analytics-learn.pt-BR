@@ -1,14 +1,14 @@
 ---
 title: Experiência no aplicativo dos painéis do Adobe Analytics
 description: Neste vídeo, saiba como usar painéis do Adobe Analytics (aplicativo móvel) para acessar e visualizar "Scorecards" criados por você ou compartilhados com você.
-feature: Painéis do Analytics
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

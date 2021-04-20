@@ -1,14 +1,14 @@
 ---
 title: Dicas no produto da Analysis Workspace
 description: As Dicas do Workspace fornecem um aprendizado rápido diretamente no Analysis Workspace, com links para vídeos relacionados, para que você possa ver cada dica em ação.
-feature: Noções básicas do Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1672
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

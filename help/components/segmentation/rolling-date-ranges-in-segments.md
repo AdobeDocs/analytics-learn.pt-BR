@@ -1,14 +1,14 @@
 ---
 title: Intervalos de datas em andamento em segmentos
 description: O Adobe Analytics permite que você responda perguntas como - Qual foi a minha média móvel de 60 dias para a Receita? ou - Quantos visitantes visualizaram conteúdo no meu aplicativo mais de 5 vezes na semana passada? incluindo intervalos de datas flexíveis em segmentos. Este vídeo mostra como fazê-lo.
-feature: Segmentação
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Configurações de fonte de dados de visualização na Analysis Workspace
 description: O modal da fonte de dados foi simplificado, assim como a arquitetura de tabela subjacente.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

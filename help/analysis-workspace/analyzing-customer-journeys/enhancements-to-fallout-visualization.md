@@ -1,15 +1,15 @@
 ---
 title: Melhorias na visualização de fallout na Analysis Workspace
 description: Este vídeo mostra atualizações na Visualização de fallout que foram altamente solicitadas pelos clientes, incluindo etapas diretas ou eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão de pontos de contato de tendência ao longo do tempo.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

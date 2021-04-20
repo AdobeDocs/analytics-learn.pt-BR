@@ -1,14 +1,14 @@
 ---
 title: Uso de uma camada de dados para definir o Nome da página e Outras variáveis no Adobe Analytics por meio do Launch
 description: O uso de uma camada de dados para o Analytics e outras soluções da Experience Cloud é considerado uma prática recomendada. Neste vídeo, você verá como extrair seus valores da camada de dados e usá-los no Launch para preencher variáveis no Adobe Analytics.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

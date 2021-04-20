@@ -1,14 +1,14 @@
 ---
 title: Rastreamento de link personalizado sem um gerenciador de tags
 description: Para muitas ações na página, o rastreamento não deve ser tratado como uma exibição de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como o Experience Platform Launch). Consulte o código, bem como aprenda uma dica importante.
-feature: Implementação Do Appmeasurement
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Intermediário
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

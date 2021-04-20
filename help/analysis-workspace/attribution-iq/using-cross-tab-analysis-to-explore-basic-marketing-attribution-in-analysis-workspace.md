@@ -1,15 +1,15 @@
 ---
 title: Uso da Análise entre guias para explorar a atribuição básica de marketing no Analysis Workspace
 description: Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o Adobe Analytics. Neste vídeo, destacamos como você pode obter insights mais profundos do relatório de Canais de marketing usando a análise entre guias no Workspace.
-feature: Canais de marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

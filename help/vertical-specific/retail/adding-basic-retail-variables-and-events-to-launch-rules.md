@@ -1,14 +1,14 @@
 ---
 title: Adicionar variáveis e eventos básicos de varejo às regras do Launch
 description: Este vídeo mostra como usar uma extensão de cadeia de caracteres de produto especial no Launch para rastrear variáveis e eventos básicos de varejo, como a exibição de produto, um anúncio ao carrinho, um check-out etc.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

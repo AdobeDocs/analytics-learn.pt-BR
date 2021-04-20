@@ -3,16 +3,16 @@ title: Uso de chamadas do servidor no Adobe Analytics
 seo-title: Uso de chamadas do servidor no Adobe Analytics
 description: Os relatórios de uso de chamadas do servidor permitirão rastrear exatamente quanto do compromisso de chamadas do servidor você usou em qualquer momento, além de alertá-lo proativamente quando estiver se aproximando do compromisso total.
 seo-description: Os relatórios de uso de chamadas do servidor permitirão rastrear exatamente quanto do compromisso de chamadas do servidor você usou em qualquer momento, além de alertá-lo proativamente quando estiver se aproximando do compromisso total.
-feature: Configuração e coleta de dados
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: Administração
-role: '"Administrador, Arquiteto"'
-level: Iniciante
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

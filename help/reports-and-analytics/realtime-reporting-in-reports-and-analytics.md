@@ -1,14 +1,14 @@
 ---
 title: Relatório em tempo real no Reports and Analytics
 description: Este vídeo mostra algumas atualizações que a Adobe fez no Relatório em tempo real no Reports & Analytics no Adobe Analytics.
-feature: Noções básicas do Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

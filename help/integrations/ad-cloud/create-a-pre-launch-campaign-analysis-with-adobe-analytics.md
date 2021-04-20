@@ -1,16 +1,16 @@
 ---
 title: Criar uma análise de campanha de pré-lançamento com o Adobe Analytics
 description: Como usar o Adobe Analytics para configurar a base para lançar uma campanha de mídia paga da Advertising Cloud.
-feature: Integração com a Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
-topic: Integrações
-role: Administrador
-level: Intermediário
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

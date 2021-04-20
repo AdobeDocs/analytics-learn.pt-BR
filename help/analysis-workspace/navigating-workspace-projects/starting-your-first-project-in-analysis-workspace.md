@@ -1,14 +1,14 @@
 ---
 title: Iniciar seu primeiro projeto no Analysis Workspace
 description: Neste vídeo, você aprenderá a criar um projeto no Analysis Workspace usando modelos padrão e personalizados e a copiar elementos entre projetos.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

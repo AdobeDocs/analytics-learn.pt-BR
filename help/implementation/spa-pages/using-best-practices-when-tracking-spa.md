@@ -1,15 +1,15 @@
 ---
 title: 'Uso das práticas recomendadas ao rastrear aplicativos de página única (SPA) no Adobe Analytics '
 description: Neste documento, descreveremos várias práticas recomendadas que você deve seguir e estar ciente ao usar o Adobe Analytics para rastrear Aplicativos de página única (SPA). Este documento se concentrará no uso do Experience Platform Launch, que é o método de implementação recomendado.
-feature: Noções básicas da implementação
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Intermediário
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

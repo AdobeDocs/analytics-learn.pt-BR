@@ -1,14 +1,14 @@
 ---
 title: Configuração do rastreamento fácil de links de saída no Experience Platform Launch
 description: Em apenas alguns cliques na extensão do Adobe Analytics no Experience Platform Launch, você pode começar a rastrear links de saída no seu site (links que levam do site para outro site). Este vídeo mostra como configurá-lo.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2273
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

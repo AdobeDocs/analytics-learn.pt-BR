@@ -1,14 +1,14 @@
 ---
 title: Visão geral das classificações no Adobe Analytics
 description: As classificações são uma maneira poderosa de adicionar metadados - atributos descritivos - aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor seus esforços de marketing e experiência, permitindo agrupar elementos semelhantes e analisar dados para aprofundar o seu trabalho.
-feature: Classificações
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

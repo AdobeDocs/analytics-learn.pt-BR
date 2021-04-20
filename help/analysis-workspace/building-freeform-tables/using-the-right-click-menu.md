@@ -1,14 +1,14 @@
 ---
 title: Usar o menu de clique com o botão direito no Analysis Workspace
 description: Saiba como usar o menu de clique com o botão direito do mouse no Analysis Workspace para fazer detalhamentos mais rápidos e muito mais.
-feature: Tabelas de forma livre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

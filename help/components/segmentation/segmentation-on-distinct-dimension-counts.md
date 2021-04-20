@@ -1,14 +1,14 @@
 ---
 title: Segmentação em contagens de dimensão distintas
 description: Os novos operadores de Contagem distinta no construtor de segmentos permitem segmentar com base no número de itens únicos em qualquer dimensão. Filtre por visitas em que mais de 5 páginas foram visualizadas ou ocorrências em que mais de 5 produtos foram comprados, ou seja, em um único pedido.
-feature: Segmentação
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

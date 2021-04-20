@@ -1,14 +1,14 @@
 ---
 title: Botão Testar no Workspace no Reports and Analytics
 description: A maioria dos relatórios no Reports and Analytics inclui um botão “Testar no Workspace” para permitir que você reproduza a visualização atual no Analysis Workspace para personalização adicional.
-feature: Noções básicas do Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: '"Profissional de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

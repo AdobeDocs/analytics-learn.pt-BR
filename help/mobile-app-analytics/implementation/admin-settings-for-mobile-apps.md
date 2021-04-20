@@ -1,15 +1,15 @@
 ---
 title: Configurações do administrador para aplicativos móveis
 description: Saiba como configurar relatórios de aplicativo móvel no Adobe Analytics, incluindo relatórios de componentes do ciclo de vida, rastreamento de localização e hits em segundo plano.
-feature: SDK móvel
+feature: Mobile SDK
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: Dispositivo móvel
-role: Administrador
-level: Experiente
+topic: Mobile
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

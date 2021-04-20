@@ -1,14 +1,14 @@
 ---
 title: Métricas calculadas - Seletor de métricas
 description: Visão geral do Seletor de métricas no Adobe Analytics
-feature: Métricas calculadas
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

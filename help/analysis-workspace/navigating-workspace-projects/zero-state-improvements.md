@@ -1,14 +1,14 @@
 ---
 title: Melhorias no estado zero na Analysis Workspace
 description: Zero State é o layout de abertura do Analysis Workspace. Para ajudar usuários novos e experientes a tirar proveito do Analysis Workspace, aprimoramos o painel esquerdo, o painel em branco, a tabela de forma livre e as zonas de soltar para que sejam mais intuitivos para os usuários.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,15 +3,15 @@ title: Modelos padrão no Analysis Workspace
 seo-title: Modelos padrão no Analysis Workspace
 description: O Analysis Workspace lhe oferece uma vantagem inicial em sua análise com os modelos padrão (anteriormente chamados de projetos iniciais)
 seo-description: O Analysis Workspace lhe oferece uma vantagem inicial em sua análise com os modelos padrão (anteriormente chamados de projetos iniciais)
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Profissional de negócios
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

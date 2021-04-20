@@ -1,14 +1,14 @@
 ---
 title: Adobe Sensei e Adobe Analytics
 description: O Adobe Sensei torna o Adobe Analytics mais inteligente e ajuda os profissionais de marketing a descobrir insights significativos sobre seus clientes. Este vídeo inclui explicações adicionais sobre os principais recursos do Adobe Analytics com a tecnologia do Adobe Sensei, incluindo Detecção de anomalias, Análise de contribuição, Alertas inteligentes, Agrupamento, Segment IQ e Modelagem de propensão.
-feature: Ciência de dados
+feature: Data Science
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: '"Profissional de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

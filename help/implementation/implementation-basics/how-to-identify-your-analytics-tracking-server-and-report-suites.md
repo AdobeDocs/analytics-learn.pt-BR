@@ -1,14 +1,14 @@
 ---
 title: Como identificar o servidor de rastreamento do Analytics e os conjuntos de relatórios
 description: Ao configurar o Adobe Analytics ou ao referenciá-lo em outras soluções da Experience Cloud, geralmente é útil ou até necessário conhecer o “Servidor de rastreamento” do Analytics que você está usando, ou também o “Conjunto de relatórios” para o qual você está enviando dados. Este vídeo mostra como localizar ambos os valores, independentemente de você já ter implementado o Adobe Analytics ou não.
-feature: Conceitos básicos de implementação
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

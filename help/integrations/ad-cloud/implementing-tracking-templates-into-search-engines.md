@@ -1,15 +1,15 @@
 ---
 title: Implementação de modelos de rastreamento do Advertising Analytics em mecanismos de pesquisa
 description: Este vídeo o guiará pelas etapas de implementação dos modelos de rastreamento do Advertising Analytics nos Mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa essencial para coletar e enviar seus dados para o Adobe Analytics.
-feature: Integração com a Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: Integrações
-role: Administrador
-level: Intermediário
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Criação de intervalos de datas personalizados no Analysis Workspace
 description: Este vídeo aborda como usar intervalos de datas no Analysis Workspace.
-feature: Calendário
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

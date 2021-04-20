@@ -1,15 +1,15 @@
 ---
 title: Fallout multidimensional na Analysis Workspace
 description: O recurso de Fallout na Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e fluxos de trabalho.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24043.jpg
 kt: 2277
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

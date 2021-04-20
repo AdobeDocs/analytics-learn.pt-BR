@@ -1,14 +1,14 @@
 ---
 title: 'Caso de uso do cliente: ServiceNow obtém os insights certos para se conectar com clientes potenciais'
 description: Descubra como a ServiceNow obtém dados acionáveis de seus canais de marketing e aumenta o ROI em publicidade de pesquisa paga com a Adobe Advertising Cloud e o Adobe Analytics.
-feature: Casos de uso
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: '"Profissional de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Iniciante
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

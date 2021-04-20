@@ -1,7 +1,7 @@
 ---
 title: Obtenção de dados para visualizações
 description: Ao adicionar visualizações no Analysis Workspace, há algumas maneiras diferentes de adicionar dados a elas, dependendo do tipo de visualização. Este vídeo demonstra esses métodos.
-feature: Visualizações
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

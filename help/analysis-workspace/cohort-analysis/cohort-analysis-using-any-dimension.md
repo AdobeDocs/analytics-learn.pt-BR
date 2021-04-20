@@ -1,15 +1,15 @@
 ---
 title: Análise de coorte usando qualquer dimensão
 description: A opção Dimensão de coorte personalizada permite analisar coortes usando dimensões diferentes do tempo. Comparar coortes por Canal de marketing, região da campanha, página do produto etc. para entender melhor como a retenção (ou churn) muda por item de dimensão.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

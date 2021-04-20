@@ -1,15 +1,15 @@
 ---
 title: Expansão da visualização de Fluxo no Analysis Workspace
 description: Este vídeo mostra as várias opções de clique com o botão direito disponíveis na Visualização de fluxo no Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

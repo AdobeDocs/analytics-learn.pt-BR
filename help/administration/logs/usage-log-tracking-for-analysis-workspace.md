@@ -1,15 +1,15 @@
 ---
 title: Rastreamento do log de uso para a Analysis Workspace
 description: Em Administração - Logs - Uso e acesso, é possível entender melhor o uso do Adobe Analytics por parte dos usuários. Este vídeo se concentra especificamente na medição do uso do projeto do Workspace.
-feature: Configuração e coleta de dados
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administração
-role: Administrador
-level: Iniciante
+topic: Administration
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

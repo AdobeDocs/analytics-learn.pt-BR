@@ -1,14 +1,14 @@
 ---
 title: Intravinculação no Analysis Workspace
 description: Intravinculação permite que analistas criem projetos na Analysis Workspace para direcionar leitores do projeto a painéis e visualizações exatos no projeto.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

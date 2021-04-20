@@ -1,14 +1,14 @@
 ---
 title: Métricas calculadas - métricas sem implementação
 description: Saiba como criar novas métricas no Adobe Analytics sem alterar a implementação.
-feature: Métricas calculadas
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,10 +1,10 @@
 ---
 title: Aplicar intervalos de datas personalizados a projetos de scorecard móvel
 description: Este vídeo mostra como gerenciar suas diferentes opções de intervalos de datas ao configurar seus projetos de análise para dispositivos móveis, incluindo escolher quais intervalos prontos para uso deseja mostrar, bem como criar seus próprios intervalos de datas personalizados.
-feature: Painéis do Analytics
-topic: Dispositivo móvel
-role: Profissional de negócios
-level: Iniciante
+feature: Analytics Dashboards
+topic: Mobile
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440

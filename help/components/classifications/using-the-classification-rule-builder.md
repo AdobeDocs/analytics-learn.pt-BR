@@ -1,14 +1,14 @@
 ---
 title: 'Uso do Construtor de regras de classificação no Adobe Analytics '
 description: 'Saiba como usar o Construtor de regras de classificação para aplicar automaticamente classificações baseadas em regras no Adobe Analytics. '
-feature: Classificações
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

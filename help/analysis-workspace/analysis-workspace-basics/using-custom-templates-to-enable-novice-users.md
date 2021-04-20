@@ -3,15 +3,15 @@ title: Utilização de modelos personalizados para capacitar usuários iniciante
 seo-title: Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace
 description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar e colar/inserir para atender melhor às necessidades de usuários iniciantes em sua organização.
 seo-description: Este vídeo demonstra como reunir modelos personalizados com recursos de copiar e colar/inserir para atender melhor às necessidades de usuários iniciantes em sua organização.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Profissional de negócios
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

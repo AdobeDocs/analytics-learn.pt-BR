@@ -1,15 +1,15 @@
 ---
 title: Configurações da tabela de coorte
 description: 'Há várias configurações da tabela de coorte que permitem personalizar a visualização de retenção ou abandono. Veja-os destacados neste vídeo. '
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

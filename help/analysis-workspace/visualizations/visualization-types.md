@@ -1,14 +1,14 @@
 ---
 title: Tipos de visualização na Analysis Workspace
 description: A Analysis Workspace inclui gráficos de área, gráficos de rosca, gráficos de barra horizontal e muitas outras visualizações para ajudá-lo a fazer a análise.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2132
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

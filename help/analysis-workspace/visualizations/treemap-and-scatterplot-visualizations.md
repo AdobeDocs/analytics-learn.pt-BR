@@ -1,14 +1,14 @@
 ---
 title: Visualizações de Mapa de árvore e Gráfico de dispersão na Analysis Workspace
 description: 'A Analysis Workspace no Adobe Analytics inclui dois tipos de visualização populares: mapa de árvore e gráfico de dispersão. Este vídeo explica como usar os dois tipos de visualização na análise.'
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Dimensões de separação de tempo no Analysis Workspace
 description: A separação de tempo coleta o carimbo de data e hora de ocorrências coletadas e o divide em dimensões mais significativas, como "Hora do dia" ou "Dia da semana". Essas dimensões agora estão prontas para uso no Analysis Workspace.
-feature: Tabelas de forma livre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

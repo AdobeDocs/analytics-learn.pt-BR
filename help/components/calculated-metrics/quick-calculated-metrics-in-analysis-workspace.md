@@ -1,15 +1,15 @@
 ---
 title: Métricas calculadas rápidas na Analysis Workspace
 description: Agora é possível criar métricas calculadas dinamicamente no Analysis Workspace.  Se você deseja fazer uma alteração ou divisão de porcentagem rápida com algumas métricas na tabela de forma livre, basta selecionar as métricas no cabeçalho, clicar com o botão direito do mouse e escolher o operador desejado.  A nova métrica calculada aparecerá à direita.
-feature: Métricas calculadas
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

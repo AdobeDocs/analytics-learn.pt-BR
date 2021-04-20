@@ -1,15 +1,15 @@
 ---
 title: Compartilhamento de projetos no Analysis Workspace
 description: 'O compartilhamento de projetos é uma maneira de democratizar dados e insights do Analysis Workspace para usuários em sua organização. Você pode colocar recipients em uma das três funções do projeto, dependendo da experiência que você deseja que eles tenham: Editar, Duplicar e Visualizar.'
-feature: Preparar e compartilhar
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

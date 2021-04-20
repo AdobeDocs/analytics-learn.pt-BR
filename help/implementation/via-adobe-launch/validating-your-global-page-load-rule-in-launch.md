@@ -1,14 +1,14 @@
 ---
 title: Validar a regra de carregamento de página global no Launch
 description: Ao implementar o Adobe Analytics no seu site, você deve ser capaz de validar o que está fazendo ao longo do caminho. O Experience Cloud Debugger para salvar! Este vídeo mostra como validar sua regra de carregamento de página global com o depurador da .
-feature: Validação
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

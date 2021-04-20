@@ -1,7 +1,7 @@
 ---
 title: Uso do painel Attribution IQ na Analysis Workspace
 description: Neste vídeo, você verá o Painel de Attribution IQ, um excelente ponto de partida para criar seu projeto de atribuição do Analysis Workspace.
-feature: Atribuição
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

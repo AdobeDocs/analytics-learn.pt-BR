@@ -1,14 +1,14 @@
 ---
 title: Adicionar uma regra do Launch para o evento de compra
 description: Este vídeo mostra como usar a extensão da cadeia de caracteres do produto no Launch para rastrear compras no site, resultando nas métricas Receita, Pedidos e Unidades na análise.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

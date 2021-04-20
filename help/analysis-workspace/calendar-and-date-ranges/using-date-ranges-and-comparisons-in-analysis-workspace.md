@@ -1,14 +1,14 @@
 ---
 title: Uso de intervalos de datas e comparações no Analysis Workspace
 description: Neste vídeo, você aprenderá a usar datas, intervalos de datas e comparações de datas para personalizar suas tabelas e visualizações no período certo.
-feature: Calendário
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

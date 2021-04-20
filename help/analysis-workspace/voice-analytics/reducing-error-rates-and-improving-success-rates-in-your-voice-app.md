@@ -1,14 +1,14 @@
 ---
 title: Redução das taxas de erro e melhoria das taxas de sucesso no aplicativo de voz
 description: Saiba como encontrar áreas de aprimoramento para seu aplicativo de voz com recursos como churn, taxas de sucesso e erros e intenção de fallback.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Vários conjuntos de relatórios no Analysis Workspace
 description: Vários conjuntos de relatórios podem ser analisados em um único projeto do Workspace selecionando conjuntos no nível do painel. Isso permite que você faça análises lado a lado no painel em diferentes conjuntos de dados.
-feature: Painéis
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

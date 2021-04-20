@@ -1,15 +1,15 @@
 ---
 title: Comparações de datas na Analysis Workspace
 description: Neste vídeo, mostraremos como utilizar dois recursos de comparação de datas em tabelas de forma livre - "adicionar coluna de período de tempo" e "comparar períodos de tempo".
-feature: Calendário
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

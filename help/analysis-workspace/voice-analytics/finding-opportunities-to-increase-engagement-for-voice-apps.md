@@ -1,14 +1,14 @@
 ---
 title: Encontrar oportunidades para aumentar o envolvimento de aplicativos de voz
 description: Saiba como entender a qualidade do engajamento no aplicativo de voz aproveitando recursos como frequência de usos, coorte, duração de visita/usuário e duração de sessão.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

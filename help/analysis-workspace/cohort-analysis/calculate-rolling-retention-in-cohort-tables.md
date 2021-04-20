@@ -1,15 +1,15 @@
 ---
 title: 'Calcular a retenção do acumulado em tabelas de coorte '
 description: A configuração Cálculo contínuo nas Tabelas de coorte pode ser usada para analisar coortes período a período, para entender como os mesmos usuários são retidos (ou churn) ao longo do tempo.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25962.jpg
 kt: 2481
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

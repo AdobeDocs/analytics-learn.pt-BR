@@ -1,14 +1,14 @@
 ---
 title: Configurações da fonte de dados de tabela no Analysis Workspace
 description: 'As configurações da fonte de dados agora estão disponíveis nas tabelas de forma livre e coorte. Anteriormente, as fontes de dados só podiam ser gerenciadas a partir das visualizações vinculadas. Agora, nas configurações da tabela, você poderá ver quais visualizações estão vinculadas a ela e ocultar a própria tabela de origem. '
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

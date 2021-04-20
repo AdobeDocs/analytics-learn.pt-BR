@@ -1,14 +1,14 @@
 ---
 title: Exibir densidade na Analysis Workspace
 description: A configuração Exibir densidade em Projeto > Informações e configurações permite controlar o preenchimento vertical aplicado ao painel e às tabelas à esquerda (Forma livre e coorte). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

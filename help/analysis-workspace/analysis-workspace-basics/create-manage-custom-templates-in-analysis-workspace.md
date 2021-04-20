@@ -1,14 +1,14 @@
 ---
 title: Criar e gerenciar modelos personalizados no Analysis Workspace
 description: Neste vídeo, você aprenderá a criar modelos personalizados no Analysis Workspace, para que você e sua equipe possam começar com um conjunto específico de relatórios.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-role: Profissional de negócios
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

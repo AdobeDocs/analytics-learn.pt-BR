@@ -1,14 +1,14 @@
 ---
 title: Usando intervalos de data e calendário na Analysis Workspace
 description: Você pode usar intervalos de datas personalizados como predefinições no calendário em seus projetos do Analysis Workspace. Você também pode arrastá-los e soltá-los no calendário para aplicá-los rapidamente como intervalos de datas em seus projetos. Este vídeo mostra como fazer essas duas coisas no Analysis Workspace no Adobe Analytics.
-feature: Calendário
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

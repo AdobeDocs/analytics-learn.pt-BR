@@ -1,14 +1,14 @@
 ---
 title: Modelo do tutorial de treinamento no Analysis Workspace
 description: 'O tutorial de treinamento do Analysis Workspace orienta os usuários pela terminologia e etapas comuns para criar sua primeira análise no Workspace. '
-feature: Painéis
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

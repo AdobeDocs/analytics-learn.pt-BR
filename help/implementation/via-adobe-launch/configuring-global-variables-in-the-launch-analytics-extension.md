@@ -1,14 +1,14 @@
 ---
 title: Configuração de variáveis globais na extensão Launch do Analytics
 description: Se você estiver apenas começando a usar o Launch, a Adobe e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender quando e onde definir variáveis globais, ou seja, valores que deseja definir em cada página ou clique.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

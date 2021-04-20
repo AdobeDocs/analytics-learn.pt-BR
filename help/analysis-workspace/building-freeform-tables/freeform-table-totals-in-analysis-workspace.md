@@ -1,15 +1,15 @@
 ---
 title: Totais de tabelas de forma livre no Analysis Workspace
 description: Neste vídeo, você verá algumas atualizações dos totais da tabela de forma livre, incluindo a capacidade de remover totais.
-feature: Tabelas de forma livre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Função de contagem distinta aproximada em métricas calculadas
 description: Uma função Contagem distinta aproximada foi adicionada ao Construtor de métrica calculada. É uma função muito aguardada que retornará a contagem distinta aproximada de itens de dimensão para uma dimensão selecionada.
-feature: Métricas calculadas
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

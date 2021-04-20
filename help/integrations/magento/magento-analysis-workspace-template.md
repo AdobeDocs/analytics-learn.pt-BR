@@ -1,16 +1,16 @@
 ---
 title: Modelo do Magento Analysis Workspace
 description: Apresenta o modelo Magento Marketing and Commerce para o Analysis Workspace.
-feature: Integração da Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-topic: Integrações
-role: Profissional de negócios
-level: Intermediário
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

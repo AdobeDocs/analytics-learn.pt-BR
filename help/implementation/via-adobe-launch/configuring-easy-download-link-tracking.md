@@ -1,14 +1,14 @@
 ---
 title: Configuração do rastreamento de link de download fácil no Experience Platform Launch
 description: Em apenas alguns cliques na extensão Adobe Analytics no Experience Platform Launch, você pode começar a rastrear links de download no site (links que baixam arquivos que não são de navegador na máquina). Este vídeo mostra como configurá-lo.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

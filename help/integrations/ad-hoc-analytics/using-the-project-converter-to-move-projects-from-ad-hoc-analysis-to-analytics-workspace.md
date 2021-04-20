@@ -1,15 +1,15 @@
 ---
 title: Uso do Conversor de projeto para mover projetos da Ad Hoc Analysis para o Analytics Workspace
 description: O Conversor de projeto da Ad Hoc Analysis converterá facilmente projetos da Ad Hoc Analysis (AHA) em projetos da Analysis Workspace com o clique de um botão.
-feature: Integração da Experience Cloud
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: Integrações
-role: Profissional
-level: Intermediário
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

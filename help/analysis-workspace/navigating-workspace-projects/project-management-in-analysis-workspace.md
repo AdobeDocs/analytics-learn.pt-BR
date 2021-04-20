@@ -1,14 +1,14 @@
 ---
 title: Gerenciamento de projetos na Analysis Workspace
 description: Este vídeo mostra como você pode gerenciar projetos criados na Analysis Workspace no Adobe Analytics.
-feature: Projetos
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2034
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Análise de latência com tabelas de coorte
 description: A configuração Tabela de latência em Tabelas de coorte permite analisar o comportamento de suas coortes antes e depois do evento de inclusão (não somente depois de ver as representações de coorte padrão). Essa configuração é útil para analisar o impacto de um novo produto ou lançamento de campanha, como exemplo.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

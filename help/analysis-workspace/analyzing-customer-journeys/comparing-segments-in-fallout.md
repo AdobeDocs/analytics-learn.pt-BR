@@ -1,15 +1,15 @@
 ---
 title: Comparação de segmentos no Fallout na Analysis Workspace
 description: Este vídeo mostra como comparar fluxos de trabalho principais em vários segmentos no Analysis Workspace.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

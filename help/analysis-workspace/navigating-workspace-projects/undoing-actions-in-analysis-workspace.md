@@ -1,14 +1,14 @@
 ---
 title: Desfazer ações na Analysis Workspace
 description: A Analysis Workspace no Adobe Analytics agora permite "desfazer" ações, como arrastar um item para a tela ou executar um detalhamento. Este vídeo mostra como você pode usar o comando desfazer para ser mais eficiente na análise.
-feature: Noções básicas do Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

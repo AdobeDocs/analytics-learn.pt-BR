@@ -3,16 +3,16 @@ title: Definição das configurações de CEP e código postal no Adobe Analytic
 seo-title: Definição das configurações de CEP e código postal no Adobe Analytics
 description: Neste vídeo, você aprenderá a configurar as configurações de CEP e código postal, para que possa fazer a análise com base nos dados da região.
 seo-description: Neste vídeo, você aprenderá a configurar as configurações de CEP e código postal, para que possa fazer a análise com base nos dados da região.
-feature: Configuração e coleta de dados
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: Administração
-role: '"Administrador, Arquiteto"'
-level: Iniciante
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

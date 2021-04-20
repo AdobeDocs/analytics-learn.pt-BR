@@ -1,14 +1,14 @@
 ---
 title: Uso de filtros suspensos no Analysis Workspace
 description: Neste vídeo, você aprenderá a usar filtros suspensos no Analysis Workspace para alterar dinamicamente o conteúdo de um painel.
-feature: Painéis
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

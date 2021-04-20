@@ -1,14 +1,14 @@
 ---
 title: Compreender a jornada de voz do usuário
 description: Saiba como entender a jornada do cliente no aplicativo de voz observando o caminho do fluxo e saindo para identificar quais são as ações mais comuns, a sequência dessas ações e quando e onde os usuários saem da jornada.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
-role: Profissional
-level: Intermediário
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

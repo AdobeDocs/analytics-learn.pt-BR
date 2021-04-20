@@ -1,7 +1,7 @@
 ---
 title: Uso de menus suspensos de Componentes no Workspace
 description: As listas suspensas de Componentes permitem escolher de uma lista de componentes compatíveis para criar sua análise. Você também pode criar novos componentes diretamente da lista suspensa, se não encontrar o que precisa. Esses espaços também continuarão a funcionar como zonas para soltar, caso você tenha um caso de uso mais avançado.
-feature: Componentes
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

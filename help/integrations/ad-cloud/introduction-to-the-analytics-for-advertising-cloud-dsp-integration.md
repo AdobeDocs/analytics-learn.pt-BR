@@ -1,15 +1,15 @@
 ---
 title: Introdução à integração do Analytics for Advertising Cloud DSP
 description: A integração do Analytics for Advertising Cloud DSP é uma integração bidirecional nativa entre o Adobe Analytics e o Adobe Advertising Cloud. Com essa integração, os clientes podem capturar visualizações de impressões de anúncios da Advertising Cloud no Analytics. O Analytics pode, então, conectar os Viewthroughs a todas as atividades downstream de site (como um Click-through). O Analytics pode, então, enviar as métricas de volta para a Advertising Cloud para serem usadas em modelos de lances algorítmicos avançados. Este vídeo aborda o que é um Viewthrough, os benefícios da integração e alguns exemplos básicos de como usar as novas Dimensões/Métricas no Analysis Workspace.
-feature: Integração com a Advertising Cloud
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: Integrações
-role: '"Praticante de negócios, desenvolvedor, engenheiro de dados, arquiteto, arquiteto de dados, administrador, líder"'
-level: Intermediário
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

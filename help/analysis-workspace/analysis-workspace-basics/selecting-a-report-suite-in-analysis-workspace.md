@@ -3,15 +3,15 @@ title: Seleção de um conjunto de relatórios no Analysis Workspace
 seo-title: Seleção de um conjunto de relatórios no Analysis Workspace — Adobe Analytics
 description: Este vídeo orienta você sobre o seletor de conjunto de relatórios.
 seo-description: Este vídeo orienta você sobre o seletor de conjunto de relatórios. - Adobe Analytics
-feature: Fundamentos do Workspace
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
-role: Profissional de negócios
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

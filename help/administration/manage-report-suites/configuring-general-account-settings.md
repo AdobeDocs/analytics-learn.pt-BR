@@ -1,10 +1,10 @@
 ---
 title: Como definir configurações gerais da conta
 description: À medida que você configura o Adobe Analytics, definir as configurações pode afetar como seus dados são coletados e armazenados. Este vídeo aborda algumas das configurações gerais. Você também pode alterá-los após a implementação, pois nunca é tarde demais para tornar seus dados mais corretos.
-feature: Configurações do Conjunto de relatórios
-topic: Administração
-role: Administrador
-level: Iniciante
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

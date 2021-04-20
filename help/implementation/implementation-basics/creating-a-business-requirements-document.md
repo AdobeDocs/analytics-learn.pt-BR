@@ -1,14 +1,14 @@
 ---
 title: Criação de um documento de requisitos comerciais
 description: 'Este vídeo discute a etapa mais importante da definição do que você deseja rastrear com o Adobe Analytics. O que você deseja saber sobre o seu site? Vamos anotar esses itens e começar a decidir como rastreá-los. '
-feature: Conceitos básicos de implementação
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: '"Desenvolvedor, engenheiro de dados"'
-level: Iniciante
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

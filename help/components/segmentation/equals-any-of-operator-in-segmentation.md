@@ -1,14 +1,14 @@
 ---
 title: Uso do operador Igual a qualquer um na Segmentação
 description: Igual a qualquer um e Não equivale a nenhum dos operadores de segmento foi adicionado ao construtor de segmentos. Use esses operadores para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou Contém qualquer um dos. Usar esses operadores em vez de conter qualquer um também ajudará a melhorar a velocidade da consulta.
-feature: Segmentação
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

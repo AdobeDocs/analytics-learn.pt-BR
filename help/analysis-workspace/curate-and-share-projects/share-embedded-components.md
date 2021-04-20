@@ -1,14 +1,14 @@
 ---
 title: Compartilhar componentes inseridos no Analysis Workspace
 description: Às vezes, você deseja compartilhar um projeto da Analysis Workspace, mas também esqueceu de compartilhar os segmentos e as métricas incluídos com seus colegas. Este vídeo mostra como você pode compartilhar segmentos e métricas no processo de compartilhamento de seus projetos para que os colegas vejam o que você desejou todas as vezes.
-feature: Preparar e compartilhar
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

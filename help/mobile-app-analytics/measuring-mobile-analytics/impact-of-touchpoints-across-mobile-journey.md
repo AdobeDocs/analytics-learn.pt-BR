@@ -1,15 +1,15 @@
 ---
 title: Impacto dos pontos de contato na jornada móvel
 description: Saiba como os usuários de aplicativos móveis são influenciados por pontos de contato e saiba quais canais estão afetando seu aplicativo móvel usando o Attribution IQ. Saiba quais canais estão trabalhando em conjunto para impulsionar eventos bem-sucedidos em seu aplicativo móvel.
-feature: Fundamentos do Workspace
+feature: Workspace Basics
 topics: mobile
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: Profissional de negócios
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: ht

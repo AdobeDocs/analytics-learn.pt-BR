@@ -1,15 +1,15 @@
 ---
 title: Análise de venda cruzada na Analysis Workspace
 description: O relatório de Venda cruzada no Reports & Analytics exibe a relação entre produtos na mesma sequência de produtos, para que você possa analisar quais produtos foram comprados juntos. Neste vídeo, mostramos como criar o relatório de Venda cruzada no Analysis Workspace e estendê-lo ainda mais para qualquer dimensão ou classificação de vários valores.
-feature: Tabelas de forma livre
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
-role: Profissional
-level: Iniciante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
