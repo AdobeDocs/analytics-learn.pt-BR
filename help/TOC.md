@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1986'
 ht-degree: 93%
 
 ---
@@ -208,6 +208,7 @@ ht-degree: 93%
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + Gerenciar Conjuntos de relatórios {#manage-report-suites}
       + [Como definir as configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [Personalizar configurações do calendário](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurações de CEP e código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + Governança de dados e GDPR {#data-governance-and-gdpr}
@@ -371,3 +372,4 @@ ht-degree: 93%
    + [Utilização do Postman para fazer solicitações de API do Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos de uso de análise {#analysis-use-cases}
    + [Configuração da análise de CEP no mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Currículo da Universidade Analytics](analytics-university/curriculum.md)
