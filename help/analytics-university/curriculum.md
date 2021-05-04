@@ -4,9 +4,9 @@ description: O Adobe tem orgulho de apresentar este conteúdo fundamental do Ana
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ O Adobe tem orgulho de apresentar este conteúdo fundamental do Analytics à sua
 
 Esse currículo com atividades específicas no final de cada seção pode ser combinado com o ambiente de sandbox da Adobe Analytics University.
 
-Inscreva-se aqui para obter acesso: https://experienceleague.adobe.com/AnalyticsUniversity
+Inscreva-se aqui para obter acesso: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [Baixe o PDF do currículo](assets/Adobe-Analytics-Curriculum_2021.pdf)
