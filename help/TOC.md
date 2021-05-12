@@ -375,4 +375,4 @@ ht-degree: 99%
    + [Utilização do Postman para fazer solicitações de API do Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos de uso de análise {#analysis-use-cases}
    + [Configuração da análise de CEP no mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Currículo da Universidade Analytics](analytics-university/curriculum.md)
++ [Currículo da Analytics University](analytics-university/curriculum.md)
