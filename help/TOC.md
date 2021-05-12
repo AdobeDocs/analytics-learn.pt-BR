@@ -4,11 +4,10 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
-source-wordcount: '1998'
-ht-degree: 99%
+source-wordcount: '2007'
+ht-degree: 98%
 
 ---
 
@@ -18,13 +17,13 @@ ht-degree: 99%
 + [Visão geral](overview.md)
 + Introdução ao Analytics {#intro-to-analytics}
    + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
-      + [Como o Adobe Analysis Workspace pode transformar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [Caso de uso do cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [Caso de uso do cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [Caso de uso do cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Supersessão do Summit 2019: Viagem e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Noções básicas do Analytics {#analytics-basics}
@@ -32,7 +31,7 @@ ht-degree: 99%
       + [Métrica de pessoas](intro-to-analytics/analytics-basics/people-metric.md)
       + [Como entender o ciclo do Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Como os dados do Analytics são coletados](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
-      + [Fazer logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+      + [Fazendo logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Introdução à interface do Analytics](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [Como entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (Visualizações de tecnologia)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
@@ -61,7 +60,7 @@ ht-degree: 99%
       + [Entender como os dados são incluídos no projeto do Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Gerenciamento de componentes no Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Utilização de gerentes de componentes](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
-      + [Selecionar um conjunto de relatórios no Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Seleção de um conjunto de relatórios no Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
    + Dicas e truques {#tips-and-tricks}
       + [Sete dicas e truques do Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Dicas para aumentar a produtividade no Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -226,7 +225,7 @@ ht-degree: 99%
       + [Primeira implementação](implementation/implementation-basics/first-time-implementation.md)
       + [Mapear variáveis contextData em Props e Evars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Como identificar o servidor de rastreamento do Analytics e os conjuntos de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
-      + [Criação de um Documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
+      + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [Utilização de uma camada de dados em seu site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
@@ -318,6 +317,7 @@ ht-degree: 99%
       + [Audience Analytics - Integrar segmentos do AAM no Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Painel Analytics for Target (A4T) no Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [Analisar uma atividade de direcionamento automático usando o painel A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Configuração do Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementação de modelos de rastreamento em mecanismos de pesquisa](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
