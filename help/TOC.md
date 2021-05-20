@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
 workflow-type: tm+mt
 source-wordcount: '2007'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -192,7 +192,7 @@ ht-degree: 98%
       + [Análise de coorte usando qualquer dimensão](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Análise de latência com tabelas de coorte](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Calcular a retenção do acumulado em tabelas de coorte](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-   + Voice Analytics {#voice-analytics}
+   + Análise de voz {#voice-analytics}
       + [Como gerenciar e rastrear os dados do aplicativo Voice Assistant](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Compreender as diferenças entre dispositivos habilitados para voz](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [Como encontrar oportunidades para aumentar o engajamento de aplicativos de voz](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
