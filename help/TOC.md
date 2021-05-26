@@ -4,9 +4,9 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
 workflow-type: tm+mt
-source-wordcount: '2007'
+source-wordcount: '2017'
 ht-degree: 99%
 
 ---
@@ -374,5 +374,7 @@ ht-degree: 99%
    + [Utilização do Report Builder para saber mais sobre a API do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=pt-BR)
    + [Utilização do Postman para fazer solicitações de API do Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos de uso de análise {#analysis-use-cases}
+   + Pesquisa interna do site {#internal-site-search}
+      + [Definição dos requisitos internos da empresa de pesquisa do site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [Configuração da análise de CEP no mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Currículo da Analytics University](analytics-university/curriculum.md)
