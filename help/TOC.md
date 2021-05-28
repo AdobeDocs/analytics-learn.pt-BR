@@ -4,10 +4,10 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
 workflow-type: tm+mt
-source-wordcount: '2017'
-ht-degree: 99%
+source-wordcount: '2042'
+ht-degree: 97%
 
 ---
 
@@ -376,5 +376,9 @@ ht-degree: 99%
 + Casos de uso de análise {#analysis-use-cases}
    + Pesquisa interna do site {#internal-site-search}
       + [Definição dos requisitos internos da empresa de pesquisa do site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Implementar variáveis de pesquisa interna usando o AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [Implementar variáveis de pesquisa interna usando o SDK da Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Mapear variáveis do SDK da Web no Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Configurar relatórios internos de pesquisa do site](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [Configuração da análise de CEP no mercado](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Currículo da Analytics University](analytics-university/curriculum.md)
