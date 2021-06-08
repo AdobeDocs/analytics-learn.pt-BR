@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -375,7 +375,7 @@ ht-degree: 98%
    + [Utilização do Postman para fazer solicitações de API do Adobe Analytics 2.0](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Casos de uso de análise {#analysis-use-cases}
    + Pesquisa interna do site {#internal-site-search}
-      + [Definição dos requisitos internos da empresa de pesquisa do site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+      + [Definição dos requisitos de negócios internos de pesquisa de site](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [Implementar variáveis de pesquisa interna usando o AppMeasurement](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
       + [Implementar variáveis de pesquisa interna usando o SDK da Web](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Mapear variáveis do SDK da Web no Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
