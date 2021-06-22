@@ -3,15 +3,13 @@ title: Currículo da Adobe Analytics University
 description: A Adobe tem orgulho de apresentar este conteúdo fundamental do Analytics à sua universidade. Dentro do currículo, você encontrará quatro módulos distintos para apresentar a você a coleção e os relatórios do Adobe Analytics, que podem ser divididos em análises digitais ou cursos de marketing. Esse manual introdutório permitirá que professores e alunos adquiram o conhecimento necessário para participar do desafio global do Adobe Analytics todos os anos.
 hide: true
 hidefromtoc: true
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
+exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
 
 ---
-
-
 
 # Adobe Analytics University
 
