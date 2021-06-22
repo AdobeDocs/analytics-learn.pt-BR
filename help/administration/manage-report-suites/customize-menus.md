@@ -8,14 +8,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333035.jpg
 kt: 7707
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
-
 
 # Personalizar menus no Reports &amp; Analytics
 
@@ -23,4 +22,4 @@ Recomendamos que você use o Analysis Workspace para analisar seus dados. No ent
 
 >[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12&learn=on)
 
-Para obter mais informações, visite a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html).
