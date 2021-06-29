@@ -1,17 +1,19 @@
 ---
-title: Currículo da Adobe Analytics University
+title: currículo Adobe Analytics para educação
 description: A Adobe tem orgulho de apresentar este conteúdo fundamental do Analytics à sua universidade. Dentro do currículo, você encontrará quatro módulos distintos para apresentar a você a coleção e os relatórios do Adobe Analytics, que podem ser divididos em análises digitais ou cursos de marketing. Esse manual introdutório permitirá que professores e alunos adquiram o conhecimento necessário para participar do desafio global do Adobe Analytics todos os anos.
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
-workflow-type: ht
-source-wordcount: '240'
-ht-degree: 100%
+source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics University
+# currículo Adobe Analytics para educação
+
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Conteúdo do curso do Analytics
 
