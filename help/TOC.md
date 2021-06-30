@@ -4,9 +4,9 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 99%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 99%
       + [Seleção de dados para visualização](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obter dados em visualizações](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilização de menus suspensos de componentes no Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualização de linha no Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Adição de linhas de tendência a visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Área e Área empilhada](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualizações empilhadas por barra e barra](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualização de gráfico com marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [Uso da visualização de Rosca](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [Visualização de rosca](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualização do histograma](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Visualização de linha no Analysis Workspace](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Adição de linhas de tendência a visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualização de mapa](analysis-workspace/visualizations/map-visualization.md)
       + [Número de resumo e visualizações de alteração de resumo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Visualização de texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [Visualizações de mapa de árvore e gráfico de dispersão](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [Visualização do diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Utilização da função Média cumulativa para aplicar Suavização de métrica](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Layouts flexíveis](analysis-workspace/visualizations/flexible-layouts.md)
       + [Alteração da escala/eixo nas visualizações](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 99%
       + [Intra-linking no Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Tema do mapa positivo-negativo](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [Reorganização e redimensionamento de visualizações](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Editor de Rich Text no Analysis Workspace](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Edição do rótulo de séries](analysis-workspace/visualizations/series-label-editing.md)
       + [Visualizações 100% empilhadas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configurações da fonte de dados da tabela](analysis-workspace/visualizations/table-data-source-settings.md)
       + [Criar um mapa de calor de divisão de tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [Visualizações de mapa de árvore e gráfico de dispersão](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [Visualização do diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Configurações da fonte de dados de visualização](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + Aplicação de segmentos {#applying-segments}
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
