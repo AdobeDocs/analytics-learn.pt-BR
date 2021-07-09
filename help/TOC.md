@@ -371,7 +371,7 @@ ht-degree: 98%
       + [Rastreamento de ações (também conhecido como Links personalizados)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Rastreamento de estado (também conhecido como Páginas ou Telas)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementar em aplicativos iOS Swift](https://docs.adobe.com/content/help/pt-BR/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [Implementar em aplicativos iOS Objetive-C](https://docs.adobe.com/content/help/pt-BR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Implementar em aplicativos iOS Objetive-C](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Implementar em aplicativos Android](https://docs.adobe.com/content/help/pt-BR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Medição no Mobile Analytics {#measuring-mobile-analytics}
       + [Introdução do Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
