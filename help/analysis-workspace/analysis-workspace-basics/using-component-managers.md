@@ -3,23 +3,22 @@ title: Utilização de gerentes de componentes no Adobe Analytics
 seo-title: Utilização de gerentes de componentes no Adobe Analytics
 description: 'Este vídeo mostra como usar os gerentes de componentes Alertas e Projetos agendados no Adobe Analytics, juntamente com alguns recursos adicionais. Saiba como localizar facilmente o Alerta ou o Projeto agendado que você está procurando, bem como Ativar/Desativar alertas. '
 seo-description: 'Este vídeo mostra como usar os gerentes de componentes Alertas e Projetos agendados no Adobe Analytics, juntamente com alguns recursos adicionais. Saiba como localizar facilmente o Alerta ou o Projeto agendado que você está procurando, bem como Ativar/Desativar alertas. '
-feature: Workspace Basics
+feature: Fundamentos do Workspace
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2351
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '139'
+exl-id: 2230ca48-4b08-45cd-9674-fa3c4dd482d7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '136'
 ht-degree: 100%
 
 ---
-
 
 # Utilização do [!DNL Component Managers] no Adobe Analytics {#using-component-managers-in-adobe-analytics}
 
