@@ -1,25 +1,24 @@
 ---
 title: Configuração de variáveis no Admin Console
-seo-title: Configuração de variáveis no Admin Console no Adobe Analytics
-description: Depois de definir as variáveis e os eventos que serão usados na implementação do Analytics, será necessário entrar e configurá-los no Admin Console para que os relatórios/dimensões/métricas tenham os nomes e o comportamento corretos. Este vídeo mostra onde e como fazer exatamente isso.
-seo-description: Depois de definir as variáveis e os eventos que serão usados na implementação do Analytics, será necessário entrar e configurá-los no Admin Console para que os relatórios/dimensões/métricas tenham os nomes e o comportamento corretos. Este vídeo mostra onde e como fazer exatamente isso. Adobe Analytics
-feature: Report Suite Settings
+seo-title: Configuração de variáveis no Admin Console na Adobe Analytics
+description: Após definir as variáveis e os eventos que serão usados na implementação do Analytics, será necessário entrar e configurá-los no Admin Console para que todos os relatórios/dimensões/métricas tenham os nomes e o comportamento corretos. Este vídeo mostra onde e como fazer exatamente isso.
+seo-description: Após definir as variáveis e os eventos que serão usados na implementação do Analytics, será necessário entrar e configurá-los no Admin Console para que todos os relatórios/dimensões/métricas tenham os nomes e o comportamento corretos. Este vídeo mostra onde e como fazer exatamente isso. Adobe Analytics
+feature: Configurações do Conjunto de relatórios
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
-topic: Administration
-role: "Administrator, Architect"
+topic: Administração
+role: Admin, Architect
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 3%
+source-wordcount: '184'
+ht-degree: 6%
 
 ---
-
 
 # Configuração de variáveis no [!DNL Admin Console]
 
