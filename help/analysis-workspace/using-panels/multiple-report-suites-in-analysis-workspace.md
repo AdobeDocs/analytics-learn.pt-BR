@@ -1,22 +1,21 @@
 ---
 title: Vários conjuntos de relatórios no Analysis Workspace
 description: Vários conjuntos de relatórios podem ser analisados em um único projeto do Workspace selecionando conjuntos no nível do painel. Isso permite que você faça análises lado a lado no painel em diferentes conjuntos de dados.
-feature: Panels
+feature: Painéis
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 28%
+source-wordcount: '148'
+ht-degree: 33%
 
 ---
-
 
 # Vários [!UICONTROL Conjuntos de relatórios] no Analysis Workspace
 
@@ -30,4 +29,4 @@ Vários [!UICONTROL conjuntos de relatórios] podem ser analisados em um único 
 
 Os dados de vários [!UICONTROL conjuntos de relatórios] não podem ser combinados em tabelas, [!UICONTROL segmentos] ou [!UICONTROL métricas calculadas] (somadas, divididas etc). A prática recomendada para uma abordagem de dados holísticos continua sendo enviar todas as ocorrências para um &quot;conjunto global&quot;.
 
-Para obter mais informações, visite a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
+Para obter mais informações, consulte a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html).
