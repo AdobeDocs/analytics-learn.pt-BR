@@ -1,25 +1,24 @@
 ---
-title: Comparações de datas na Analysis Workspace
+title: Comparação de datas no Analysis Workspace
 description: Neste vídeo, mostraremos como utilizar dois recursos de comparação de datas em tabelas de forma livre - "adicionar coluna de período de tempo" e "comparar períodos de tempo".
-feature: Calendar
+feature: Calendário
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 9%
 
 ---
 
-
-# Comparações de datas na Analysis Workspace {#date-comparisons-in-analysis-workspace}
+# Comparação de datas no Analysis Workspace {#date-comparisons-in-analysis-workspace}
 
 Neste vídeo, mostraremos como aproveitar dois recursos de comparação de datas em [!UICONTROL tabelas de forma livre] - &#39;[!UICONTROL adicionar coluna de período de tempo]&#39; e &#39;[!UICONTROL comparar períodos de tempo]&#39;.
 
