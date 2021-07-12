@@ -1,24 +1,23 @@
 ---
-title: Definir a Analysis Workspace como página inicial no Adobe Analytics
+title: Definir o Analysis Workspace como página de aterrissagem no Adobe Analytics
 description: Este vídeo mostra como você pode definir vários aspectos do Analysis Workspace como página inicial no Adobe Analytics para simplificar seus fluxos de trabalho.
-feature: Workspace Basics
+feature: Fundamentos do Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc3adde2-be62-4c78-a047-849dd50a118a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 
-
-# Definir a Analysis Workspace como página inicial no Adobe Analytics {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
+# Definir o Analysis Workspace como página de aterrissagem no Adobe Analytics {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
 Este vídeo mostra como você pode definir vários aspectos do [!UICONTROL Analysis Workspace] como página inicial no Adobe Analytics para simplificar seus fluxos de trabalho.
 
