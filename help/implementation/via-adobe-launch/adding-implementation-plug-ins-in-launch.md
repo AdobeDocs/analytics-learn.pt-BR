@@ -1,25 +1,24 @@
 ---
-title: Adição de plug-ins de implementação no Launch
+title: Adição de plug-ins de implementação ao Launch
 description: Plug-ins de implementação são partes de código JavaScript que podem ser adicionadas à implementação do Analytics para rastrear dados adicionais e personalizados. Neste vídeo, saiba como e onde adicionar o código no Launch.
-feature: Launch Implementation
+feature: Implementação do Launch
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28772.jpg
 kt: 3594
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ffc3863c-4875-4502-a572-b344a5ec34dc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 41%
+source-wordcount: '82'
+ht-degree: 43%
 
 ---
 
-
-# Adição de plug-ins de implementação no Launch
+# Adição de plug-ins de implementação ao Launch
 
 Os plug-ins de implementação são partes de código JavaScript que podem ser adicionadas à implementação do Analytics para rastrear dados adicionais e personalizados. Neste vídeo, saiba como e onde adicionar o código no Launch.
 
