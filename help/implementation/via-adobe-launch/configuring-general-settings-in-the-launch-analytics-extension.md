@@ -1,26 +1,25 @@
 ---
-title: Definição das configurações gerais na extensão do Launch Analytics
-description: Se você estiver apenas começando a usar o Launch, a Adobe e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de configurações gerais da configuração, incluindo a configuração do servidor de rastreamento.
-feature: Launch Implementation
+title: Definição de configurações gerais na extensão Launch Analytics
+description: Se você estiver apenas começando a usar o Launch, o by Adobe e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de configurações gerais da configuração, incluindo a configuração do servidor de rastreamento.
+feature: Implementação do Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 15%
+source-wordcount: '132'
+ht-degree: 21%
 
 ---
 
-
 # Configurar [!UICONTROL Configurações Gerais] no [!DNL Launch Analytics] [!UICONTROL Extensão] {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Se você estiver apenas começando a usar o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo poderá ajudá-lo com a parte de configurações [!UICONTROL Geral] da configuração, incluindo a configuração do servidor de rastreamento.
+Se você estiver apenas começando com o Experience Platform Launch e o Adobe Analytics [!UICONTROL Extension], este vídeo pode ajudá-lo com a parte de configurações [!UICONTROL General] da configuração, incluindo a configuração do servidor de rastreamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
