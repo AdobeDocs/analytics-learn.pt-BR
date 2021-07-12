@@ -1,24 +1,23 @@
 ---
-title: Função de contagem distinta aproximada em métricas calculadas
+title: Função distinta de contagem aproximada em métricas calculadas
 description: Uma função Contagem distinta aproximada foi adicionada ao Construtor de métrica calculada. É uma função muito aguardada que retornará a contagem distinta aproximada de itens de dimensão para uma dimensão selecionada.
-feature: Calculated Metrics
+feature: Métricas calculadas
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 1%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
-
-# [!UICONTROL Contagem ]  distinta aproximadaFunção em métricas  [!UICONTROL calculadas]{#approximate-count-distinct-function-in-calculated-metrics}
+# Função distinta de contagem aproximada em métricas calculadas{#approximate-count-distinct-function-in-calculated-metrics}
 
 Um [!UICONTROL Approximate Count Distinct] [!UICONTROL function] foi adicionado ao [!UICONTROL Construtor de métrica calculada]. É uma [!UICONTROL função] há muito aguardada que retornará a [!UICONTROL contagem distinta aproximada] de [!UICONTROL itens de dimensão] para uma [!UICONTROL dimensão] selecionada.
 
