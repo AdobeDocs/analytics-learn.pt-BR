@@ -7,16 +7,15 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1774
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
-
 
 # Curadoria de componentes em [!UICONTROL Conjuntos de relatórios virtuais] {#component-curation-in-virtual-report-suites}
 
@@ -32,4 +31,4 @@ Seções neste vídeo:
 
 4:05 - Uso de VRS no Analysis Workspace
 
-Para obter mais informações sobre esse recurso, visite a [documentação](https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html).
