@@ -1,22 +1,21 @@
 ---
 title: Extensão Color Eyedropper para Definição de paletas personalizadas
 description: Saiba como usar a extensão ColorPick EyeDropper Chrome para localizar facilmente os valores hexadecimais necessários para usar uma paleta de cores personalizada em seus projetos do Espaço de trabalho.
-feature: Workspace Basics
+feature: Fundamentos do Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 9f82e359-0470-48a5-9749-83685c73b65c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 77%
+source-wordcount: '82'
+ht-degree: 82%
 
 ---
-
 
 # Extensão Color Eyedropper para Definição de paletas personalizadas
 
@@ -24,4 +23,4 @@ Saiba como usar a extensão ColorPick EyeDropper Chrome para localizar facilment
 
 >[!VIDEO](https://video.tv.adobe.com/v/33775/?quality=12)
 
-**Observação:** essa é uma extensão pública do Chrome e não é afiliada a produtos da Adobe.
+**Observação:** essa é uma extensão pública do Chrome e não é afiliada a produtos Adobe.
