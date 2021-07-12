@@ -1,23 +1,22 @@
 ---
-title: Métricas calculadas rápidas na Analysis Workspace
-description: Agora é possível criar métricas calculadas dinamicamente no Analysis Workspace.  Se você deseja fazer uma alteração ou divisão de porcentagem rápida com algumas métricas na tabela de forma livre, basta selecionar as métricas no cabeçalho, clicar com o botão direito do mouse e escolher o operador desejado.  A nova métrica calculada aparecerá à direita.
-feature: Calculated Metrics
+title: Métricas calculadas rapidamente no Analysis Workspace
+description: Agora você pode criar métricas calculadas dinamicamente no Analysis Workspace.  Se você deseja fazer uma alteração ou divisão de porcentagem rápida com algumas métricas na tabela de forma livre, basta selecionar as métricas no cabeçalho, clicar com o botão direito do mouse e escolher o operador desejado.  A nova métrica calculada aparecerá à direita.
+feature: Métricas calculadas
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 461dc5f8-b52e-47ce-b2c4-afe4426dab16
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 1%
+source-wordcount: '124'
+ht-degree: 6%
 
 ---
-
 
 # Rápido [!UICONTROL Métricas calculadas] no Analysis Workspace {#quick-calculated-metrics-in-analysis-workspace}
 
