@@ -2,12 +2,12 @@
 title: Visualização do gráfico de dispersão
 description: Com essa visualização, você pode ver a relação entre várias métricas para suas dimensões, eliminando os itens em um gráfico X/Y. Descubra outliers e insights para ajudá-lo a tomar decisões de negócios.
 feature: Visualizações
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 9%
