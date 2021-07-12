@@ -1,24 +1,23 @@
 ---
-title: Tema do mapa positivo-negativo na Analysis Workspace
+title: Tema do mapa positivo-negativo no Analysis Workspace
 description: O novo tema de cor positiva/negativa permite que você mostre claramente números positivos versus negativos em um mapa. Esse novo tema também respeitará as alterações de polaridade que você fizer ao configurar o evento (em Admin) ou criá-lo em métricas calculadas.
-feature: Visualizations
+feature: Visualizações
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d0494357-e439-46e2-a2a8-9feb33f728f7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
-
-# Tema do mapa positivo-negativo na Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
+# Tema do mapa positivo-negativo no Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}
 
 O novo tema de cor positiva/negativa permite que você mostre claramente números positivos versus negativos em um [!UICONTROL mapa]. Esse novo tema também respeitará as alterações de polaridade que você fizer ao configurar o evento (em Admin) ou criá-lo em [!UICONTROL métricas calculadas].
 
