@@ -1,5 +1,5 @@
 ---
-title: Detecção de anomalias no Construtor de relatórios
+title: Detecção de anomalias no Report Builder
 description: Saiba como adicionar métricas de detecção de anomalias a suas solicitações de dados, bem como criar gráficos aos dados.
 feature: Report Builder
 topics: null
@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1768
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 80d85955-022f-4d79-aee8-c440592645f3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 13%
+source-wordcount: '106'
+ht-degree: 32%
 
 ---
 
-
-# [!UICONTROL Detecção ] de anomalias no Construtor  [!UICONTROL de relatórios] {#anomaly-detection-in-report-builder}
+# Detecção de anomalias no Report Builder {#anomaly-detection-in-report-builder}
 
 Saiba como adicionar [!UICONTROL detecção de anomalias] [!UICONTROL métricas] às suas solicitações de dados, bem como criar gráficos dos dados.
 
@@ -26,6 +25,6 @@ Saiba como adicionar [!UICONTROL detecção de anomalias] [!UICONTROL métricas]
 
 [!UICONTROL A Detecção de anomalias utiliza um modelo estatístico para encontrar automaticamente tendências inesperadas em seus dados.]
 
-Em [!UICONTROL Report Builder], você pode retornar os reais da [!UICONTROL métrica], juntamente com os valores esperados e limites superior e inferior, para adicionar mais profundidade aos dados que você está analisando e compartilhando.
+Em [!UICONTROL Report Builder], você pode retornar os reais de [!UICONTROL metric], juntamente com os valores esperados e os limites superior e inferior, para adicionar mais profundidade aos dados que você está analisando e compartilhando.
 
-Para obter mais informações sobre esse recurso, visite a [documentação](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html).
