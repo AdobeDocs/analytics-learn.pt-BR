@@ -1,24 +1,23 @@
 ---
 title: Painel Analytics for Target (A4T) no Analysis Workspace
 description: O painel Analytics for Target (A4T) permite analisar suas atividades e experiências do Adobe Target, com leveza e confiança, no Analysis Workspace.
-feature: Experience Cloud Integration
+feature: Integração da Experience Cloud
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: Integrations
-role: Business Practitioner
+topic: Integrações
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 79%
+source-wordcount: '78'
+ht-degree: 85%
 
 ---
-
 
 # [!DNL Analytics for Target] (A4T) Painel no Analysis Workspace
 
