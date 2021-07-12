@@ -1,24 +1,23 @@
 ---
 title: Uso de filtros suspensos no Analysis Workspace
 description: Neste vídeo, você aprenderá a usar filtros suspensos no Analysis Workspace para alterar dinamicamente o conteúdo de um painel.
-feature: Panels
+feature: Painéis
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 3%
 
 ---
 
-
-# Usar filtros suspensos no Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}
+# Uso de filtros suspensos no Analysis Workspace {#using-drop-down-filters-in-analysis-workspace}
 
 Neste vídeo, você aprenderá a usar filtros suspensos no Analysis Workspace para alterar dinamicamente o conteúdo de um painel.
 
@@ -28,4 +27,4 @@ A área de soltar do painel agora tem recursos de filtragem suspensos. Filtros s
 
 Os detalhamentos são uma maneira útil de consolidar projetos e painéis também. Por exemplo, se você tiver várias versões de um projeto que fornece relatórios específicos de país, é possível recolher esses projetos em um único projeto e adicionar um menu suspenso de país que os usuários podem alternar entre eles.
 
-Para obter mais informações, visite a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
