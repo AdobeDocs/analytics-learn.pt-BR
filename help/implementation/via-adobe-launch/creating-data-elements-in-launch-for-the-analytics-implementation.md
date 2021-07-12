@@ -1,22 +1,21 @@
 ---
 title: Criação de elementos de dados no Launch para a implementação do Analytics
 description: Este vídeo mostra como criar elementos de dados para a implementação do Analytics no Launch, com base nas variáveis e eventos decididos e documentados em um documento de Referência de design da solução (SDR).
-feature: Launch Implementation
+feature: Implementação do Launch
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 12%
 
 ---
-
 
 # Criando [!UICONTROL Elementos de Dados] em [!DNL Launch] para a Implementação [!DNL Analytics]
 
