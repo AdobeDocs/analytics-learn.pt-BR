@@ -1,23 +1,22 @@
 ---
 title: Uso da Análise entre guias para explorar a atribuição básica de marketing no Analysis Workspace
 description: Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o Adobe Analytics. Neste vídeo, destacamos como você pode obter insights mais profundos do relatório de Canais de marketing usando a análise entre guias no Workspace.
-feature: Marketing Channels
+feature: Canais de marketing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b5843678-6444-453b-a9c9-1e301ffca876
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 33%
+source-wordcount: '292'
+ht-degree: 38%
 
 ---
-
 
 # Uso da Análise entre guias para explorar a atribuição básica de marketing no Analysis Workspace
 
@@ -29,8 +28,8 @@ Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o
 
 **Primeiro**, verifique os recursos do  [!UICONTROL Attribution ] IQ que ajudarão a levar sua análise de atribuição de marketing ainda mais longe. Isso inclui os seguintes vídeos e os vídeos ao seu redor:
 
-* [Uso do painel Attribution IQ](using-the-attribution-iq-panel.md)
-* [Adicionar comparações lado a lado de Modelos do Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
+* [Utilização do painel do Attribution IQ](using-the-attribution-iq-panel.md)
+* [Adição de comparações lado a lado de Modelos do Attribution IQ](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Modelo algorítmico no Attribution IQ](algorithmic-model-in-attribution-iq.md)
 * [Janelas de pesquisa personalizadas no Attribution IQ](custom-lookback-windows-in-attribution-iq.md)
 
