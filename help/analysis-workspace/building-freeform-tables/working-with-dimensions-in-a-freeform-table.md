@@ -1,23 +1,22 @@
 ---
 title: Trabalhar com dimensões em uma tabela de forma livre
 description: Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
-feature: Dimensions
+feature: Dimensões
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db,ac127eac-2752-424b-aa1b-18a9688d42db,73791a22-a4f1-4fc9-a192-b7aa1d8b9142
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
-
 
 # Trabalhar com dimensões em uma tabela de forma livre
 
@@ -30,10 +29,10 @@ Tópicos abordados no vídeo, incluindo tempos:
 * Noções básicas (0:00)
 * Guias de áreas para soltar (1:27)
 * Paginação e filtragem (2:45)
-* Adicionar itens de dimensão (4:30)
-* Visualizar itens de dimensão (5:15)
-* Dimensões com base no tempo (5:59)
+* Adicionar itens de Dimension (4:30)
+* Visualizar itens do Dimension (5:15)
+* Dimension com base no tempo (5:59)
 * Classificação (6:49)
-* Dimensões como filtros (8:30)
+* Filtros do Dimension como (8:30)
 * Detalhamentos (9:48)
 * Classificado, ao longo do tempo e Relatórios de tendências (13:11)
