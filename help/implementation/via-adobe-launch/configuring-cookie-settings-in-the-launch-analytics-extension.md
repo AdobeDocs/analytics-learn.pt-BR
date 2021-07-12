@@ -1,26 +1,25 @@
 ---
-title: Definição das configurações de cookie na extensão Launch Analytics
-description: Se você estiver apenas começando a usar o Launch, a Adobe e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender se e como definir as configurações de cookie na extensão Analytics.
-feature: Launch Implementation
+title: Definição de configurações de cookie na extensão Launch Analytics
+description: Se você estiver apenas começando a usar o Launch, o Adobe e a extensão do Adobe Analytics, este vídeo pode ajudar a entender se e como definir as configurações de cookie na extensão do Analytics.
+feature: Implementação do Launch
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
-
 # Definição das configurações de cookie na extensão [!DNL Launch] [!DNL Analytics] {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-Se você estiver apenas começando a usar o Experience Platform Launch e a extensão do Adobe Analytics, este vídeo poderá ajudar você a entender se e como definir as configurações do cookie na extensão [!DNL Analytics].
+Se você estiver apenas começando a usar o Experience Platform Launch e a extensão Adobe Analytics, este vídeo poderá ajudá-lo a entender se e como definir as configurações de cookie na extensão [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 
