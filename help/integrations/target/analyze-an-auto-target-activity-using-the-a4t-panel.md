@@ -3,13 +3,13 @@ title: Analisar uma atividade de direcionamento automático usando o painel A4T
 description: O painel Analytics for Target (A4T) permite analisar suas atividades e experiências do Adobe Target. Neste vídeo, você aprenderá a usar o painel Analytics for Target para visualizar os resultados de um teste de Direcionamento automático.
 feature: Integração da Experience Cloud
 topic: Integrações
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
 exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 20%
