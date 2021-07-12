@@ -1,22 +1,21 @@
 ---
-title: Sessões sensíveis ao contexto em conjuntos de relatórios virtuais
-description: Agora é possível alterar a definição de uma visita no Adobe Analytics de uma maneira não destrutiva usando um conjunto de relatórios virtual. Mostramos como fazer isso e as diferentes opções disponíveis.
+title: Sessões com reconhecimento de contexto em conjuntos de relatórios virtuais
+description: Agora é possível alterar a definição de uma visita no Adobe Analytics de forma não destrutiva usando um conjunto de relatórios virtual. Mostramos como fazer isso e as diferentes opções disponíveis.
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 7%
 
 ---
-
 
 # Sessões sensíveis ao contexto em [!UICONTROL Conjuntos de relatórios virtuais] {#context-aware-sessions-in-virtual-report-suites}
 
