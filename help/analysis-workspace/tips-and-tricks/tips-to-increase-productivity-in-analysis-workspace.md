@@ -1,25 +1,24 @@
 ---
-title: Dicas para aumentar a produtividade na Analysis Workspace
-description: Neste vídeo, obteremos 4 dicas para aumentar sua produtividade e economizar tempo no Analysis Workspace.
-feature: Workspace Basics
+title: Dicas para aumentar a produtividade no Analysis Workspace
+description: Neste vídeo, nós obteremos 4 dicas para aumentar sua produtividade e economizar tempo no Analysis Workspace.
+feature: Fundamentos do Workspace
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 32%
 
 ---
 
+# Dicas para aumentar a produtividade no Analysis Workspace
 
-# Dicas para aumentar a produtividade na Analysis Workspace
-
-Neste vídeo, obteremos 4 dicas para aumentar sua produtividade e economizar tempo no Analysis Workspace.
+Neste vídeo, nós obteremos 4 dicas para aumentar sua produtividade e economizar tempo no Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12)
