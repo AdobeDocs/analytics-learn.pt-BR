@@ -1,22 +1,21 @@
 ---
 title: Como aumentar as taxas de engajamento e retenção
 description: Identifique audiências engajadas por meio de seus comportamentos usando Coortes e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no Segment IQ para saber as diferenças e as semelhanças entre os segmentos.
-feature: Workspace Basics
+feature: Fundamentos do Workspace
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '87'
+exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
-
 
 # Como aumentar as taxas de engajamento e retenção {#how-to-increase-engagement-and-retention-rates}
 
