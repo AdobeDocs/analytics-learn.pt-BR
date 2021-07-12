@@ -1,25 +1,24 @@
 ---
-title: Métricas calculadas - métricas sem implementação
+title: Métricas calculadas - Métricas sem implementação
 description: Saiba como criar novas métricas no Adobe Analytics sem alterar a implementação.
-feature: Calculated Metrics
+feature: Métricas calculadas
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '36'
+ht-degree: 16%
 
 ---
 
+# [!UICONTROL Métricas] calculadas: Métricas sem implementação {#calculated-metrics-implementation-less-metrics}
 
-# [!UICONTROL Métricas] calculadas: Métricas sem implementação  {#calculated-metrics-implementation-less-metrics}
-
-Saiba como criar novas [!UICONTROL métricas] no Adobe Analytics sem alterar a implementação.
+Saiba como criar novas [!UICONTROL métricas] no Adobe Analytics sem alterar sua implementação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12)
