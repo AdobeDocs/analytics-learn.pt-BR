@@ -1,21 +1,21 @@
 ---
-title: Visualizações empilhadas por barra e barra
+title: Visualizações de barras e barras empilhadas
 description: Neste vídeo, discutimos adicionar e configurar as visualizações Barra, Barra empilhada, Barra horizontal e Barra horizontal empilhada no seu projeto no Analysis Workspace. Embora consideradas básicas, essas visualizações podem ajudar a contar suas histórias de dados e fornecer insights para seus analistas.
 feature: Visualizações
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334308.jpg
 kt: 8129
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 7%
+ht-degree: 16%
 
 ---
 
 
-# Visualizações empilhadas por barra e barra
+# Visualizações de barras e barras empilhadas
 
 Neste vídeo, discutimos adicionar e configurar as visualizações Barra, Barra empilhada, Barra horizontal e Barra horizontal empilhada no seu projeto no Analysis Workspace. Embora consideradas básicas, essas visualizações podem ajudar a contar suas histórias de dados e fornecer insights para seus analistas.
 
