@@ -1,22 +1,21 @@
 ---
-title: Compreender o comportamento do usuário em assistentes de voz
+title: Compreender o comportamento do usuário nos assistentes de voz
 description: Saiba como entender o comportamento do usuário e obter insights observando métricas principais, como principais intenções, parâmetros e autenticação de usuário.
-feature: Visualizations
+feature: Visualizações
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 1%
+source-wordcount: '57'
+ht-degree: 22%
 
 ---
-
 
 # Compreender o comportamento do usuário nos assistentes de voz {#understand-user-behavior-on-voice-assistants}
 
