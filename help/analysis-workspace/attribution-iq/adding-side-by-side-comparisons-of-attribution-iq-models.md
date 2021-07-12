@@ -1,23 +1,22 @@
 ---
-title: Adicionar comparações lado a lado de Modelos do Attribution IQ na Analysis Workspace
-description: Neste vídeo, saiba como comparar rapidamente modelos do Attribution IQ, incluindo uma coluna criada automaticamente que mostra a diferença percentual entre os números dos dois modelos.
-feature: Attribution
+title: Adicionar comparações lado a lado de Modelos do Attribution IQ no Analysis Workspace
+description: Neste vídeo, saiba como comparar rapidamente modelos de Attribution IQ, incluindo uma coluna criada automaticamente que mostra a diferença percentual entre os números dos dois modelos.
+feature: Atribuição
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23651.jpg
 kt: 1705
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '65'
 ht-degree: 1%
 
 ---
-
 
 # Adicionar comparações lado a lado de [!DNL Attribution IQ] [!DNL Models] no Analysis Workspace {#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}
 
