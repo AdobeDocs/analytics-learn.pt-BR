@@ -1,27 +1,26 @@
 ---
 title: 7 dicas e truques que tornam a criação de projetos personalizados do Analytics mais rápida e fácil
-description: O Analysis Workspace é uma ferramenta poderosa no Adobe Analytics que pode ajudar você a criar projetos de análise mais impactantes. Ele tem um vasto conjunto de recursos que permite que você faça qualquer tipo de análise de forma livre, mas uma experiência simples do usuário que torna esse poder e a escala acessíveis.
-feature: Workspace Basics
+description: O Analysis Workspace é uma ferramenta poderosa no Adobe Analytics que pode ajudá-lo a criar projetos de análise mais impactantes. Ele tem um vasto conjunto de recursos que permite que você faça qualquer tipo de análise de forma livre, mas uma experiência simples do usuário que torna esse poder e a escala acessíveis.
+feature: Fundamentos do Workspace
 topics: topics
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
 
-
 # 7 dicas e truques que tornam a criação de projetos personalizados do Analytics mais rápida e fácil
 
-**Expanda o conjunto de habilidades do Analysis Workspace!**
-O Analysis Workspace é uma ferramenta poderosa no Adobe Analytics que pode ajudar você a criar projetos de análise mais impactantes. Ele tem um vasto conjunto de recursos que permite que você faça qualquer tipo de análise de forma livre, mas uma experiência simples do usuário que torna esse poder e a escala acessíveis.
+**Expanda o seu conjunto de habilidades do Analysis Workspace!**
+O Analysis Workspace é uma ferramenta poderosa no Adobe Analytics que pode ajudá-lo a criar projetos de análise mais impactantes. Ele tem um vasto conjunto de recursos que permite que você faça qualquer tipo de análise de forma livre, mas uma experiência simples do usuário que torna esse poder e a escala acessíveis.
 
 ## Build: Fazendo drill-down para os pontos de dados corretos
 
@@ -59,7 +58,7 @@ Copie facilmente visualizações e painéis de um local e adicione-os a outro, m
 
 ### ***Dica 4: Alternar entre visualizações de granularidade de tempo em apenas um clique***
 
-Altere facilmente a visualização de tempo ao trabalhar com visualizações de tendências. Em iterações anteriores da Analysis Workspace, alterar o tempo significava ocultar uma tabela de origem, arrastar uma nova [!UICONTROL dimensão] e ocultar novamente a tabela. Agora, é tão fácil quanto selecionar a granularidade de tempo que deseja demonstrar diretamente do menu suspenso &quot;[!UICONTROL Configurações de visualização]&quot; (engrenagem superior direita).
+Altere facilmente a visualização de tempo ao trabalhar com visualizações de tendências. Em iterações anteriores do Analysis Workspace, alterar o tempo significava ocultar uma tabela de origem, arrastar uma nova [!UICONTROL dimensão] e ocultar novamente a tabela. Agora, é tão fácil quanto selecionar a granularidade de tempo que deseja demonstrar diretamente do menu suspenso &quot;[!UICONTROL Configurações de visualização]&quot; (engrenagem superior direita).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
 
@@ -77,7 +76,7 @@ O Adobe Analytics coleta grandes quantidades de dados. A preparação de compone
 
 ### ***Dica 6: Link para painéis e visualizações em um projeto ou entre projetos***
 
-Crie links que levam públicos-alvo a qualquer lugar no Analysis Workspace. Basta clicar com o botão direito do mouse no painel ao qual deseja vincular, selecionar &quot;[!UICONTROL Obter link do painel]&quot; e copiar. Em seguida, destaque o texto que deseja vincular, selecione o ícone de link no editor de texto de uma caixa de texto ou descrição e cole. Para vincular a um projeto inteiro, basta clicar na guia &quot;[!UICONTROL Compartilhar]&quot;, selecionar &quot;[!UICONTROL Obter link do projeto]&quot; e seguir as mesmas etapas descritas acima.
+Crie links que levam públicos-alvo em qualquer lugar no Analysis Workspace. Basta clicar com o botão direito do mouse no painel ao qual deseja vincular, selecionar &quot;[!UICONTROL Obter link do painel]&quot; e copiar. Em seguida, destaque o texto que deseja vincular, selecione o ícone de link no editor de texto de uma caixa de texto ou descrição e cole. Para vincular a um projeto inteiro, basta clicar na guia &quot;[!UICONTROL Compartilhar]&quot;, selecionar &quot;[!UICONTROL Obter link do projeto]&quot; e seguir as mesmas etapas descritas acima.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
@@ -87,7 +86,7 @@ Crie links que levam públicos-alvo a qualquer lugar no Analysis Workspace. Bast
 
 ### ***Dica 7: Salvar projetos como modelos personalizados reutilizáveis***
 
-Agora é possível transformar facilmente qualquer projeto em um modelo personalizado. Basta selecionar &quot;[!UICONTROL Salvar como modelo]&quot; no menu suspenso &quot;[!UICONTROL Projeto]&quot;, adicionar tags que facilitam a localização do modelo e clicar em &quot;[!UICONTROL Salvar projeto como modelo]&quot;. Agora, o modelo estará disponível para todos os usuários da Analysis Workspace sob a guia &quot;[!UICONTROL Modelos personalizados]&quot;. Isso permite que os analistas iniciem seus projetos com pontos de dados significativos, em vez de começar do quadrado.
+Agora é possível transformar facilmente qualquer projeto em um modelo personalizado. Basta selecionar &quot;[!UICONTROL Salvar como modelo]&quot; no menu suspenso &quot;[!UICONTROL Projeto]&quot;, adicionar tags que facilitam a localização do modelo e clicar em &quot;[!UICONTROL Salvar projeto como modelo]&quot;. Agora, o modelo estará disponível para todos os usuários do Analysis Workspace na guia &quot;[!UICONTROL Modelos personalizados]&quot;. Isso permite que os analistas iniciem seus projetos com pontos de dados significativos, em vez de começar do quadrado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
@@ -95,8 +94,8 @@ Agora é possível transformar facilmente qualquer projeto em um modelo personal
 >
 >**Recurso altamente solicitado:** vários clientes nos pediram para tornar os projetos de salvamento possíveis como modelos personalizados. Agora, essa capacidade se tornou um dos favoritos deles.
 
-[Clique aqui para encontrar mais dicas e truques na Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[Clique aqui para encontrar mais dicas e truques no Experience League](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | Sobre o autor |  |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser é gerente da equipe de gerenciamento de produtos do Adobe Analytics. <br> Nessa função, ela se reúne com os clientes para entender suas necessidades comerciais,  <br>usando o que aprende a informar o roteiro de produtos do Adobe Analytics  <br>e a priorizar novos recursos do produto. Antes de sua posição atual, <br>Jen era uma consultora principal da equipe Adobe Consulting, trabalhando como <br>especialista em assunto na visualização de dados, Analysis Workspace e [!DNL Report Builder]. <br><br>Com o benefício do seu insight real, preparamos as seguintes dicas e truques para  <br>ajudar a criar, visualizar e compartilhar seus projetos do Analysis Workspace a serem mais fáceis |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser é gerente da equipe de gerenciamento de produtos da Adobe Analytics. <br> Nessa função, ela se reúne com os clientes para entender suas necessidades de negócios,  <br>usando o que aprende a informar o roteiro de produtos do Adobe Analytics  <br>e a priorizar novos recursos do produto. Antes de sua posição atual, <br>Jen era uma consultora principal da equipe de Adobe Consulting, trabalhando como <br>especialista em assunto na visualização de dados, Analysis Workspace e [!DNL Report Builder]. <br><br>Com o benefício do seu insight real, preparamos as seguintes dicas e truques para  <br>ajudar a criar, visualizar e compartilhar seus projetos do Analysis Workspace com mais facilidade |
