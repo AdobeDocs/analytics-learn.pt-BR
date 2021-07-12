@@ -2,21 +2,21 @@
 title: Attribution IQ em métricas calculadas
 description: Este vídeo demonstra como usar o Attribution IQ em Métricas calculadas.
 feature: Atribuição
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
 exl-id: 47016dae-2694-4bbe-a23f-ebff9799c239,1789789c-19aa-4e77-999f-15fa11b7f858,1789789c-19aa-4e77-999f-15fa11b7f858,47016dae-2694-4bbe-a23f-ebff9799c239
-source-git-commit: c52113fdc66477f038d078e570a8b2f2d3a8e4f0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
-# [!DNL Attribution IQ] em  [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
+# [!DNL Attribution IQ] no [!DNL Calculated Metrics] {#attribution-iq-in-calculated-metrics}
 
 Este vídeo demonstra como usar [!DNL Attribution IQ] em [!DNL Calculated Metrics].
 
