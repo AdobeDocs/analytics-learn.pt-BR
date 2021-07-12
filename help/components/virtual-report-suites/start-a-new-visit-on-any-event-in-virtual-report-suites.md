@@ -7,18 +7,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1663
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 8%
 
 ---
 
-
-# Inicie uma nova visita em qualquer evento em [!UICONTROL Conjuntos de relatórios virtuais] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
+# Iniciar uma nova visita em qualquer evento em [!UICONTROL Conjuntos de relatórios virtuais] {#start-a-new-visit-on-any-event-in-virtual-report-suites}
 
 Este vídeo mostra como usar eventos para acionar o início de uma nova visita no Adobe Analytics usando as configurações de visita de [!UICONTROL Conjunto de relatórios virtual].
 
