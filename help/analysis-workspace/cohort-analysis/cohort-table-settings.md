@@ -1,25 +1,24 @@
 ---
 title: Configurações da tabela de coorte
 description: 'Há várias configurações da tabela de coorte que permitem personalizar a visualização de retenção ou abandono. Veja-os destacados neste vídeo. '
-feature: Visualizations
+feature: Visualizações
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '119'
+ht-degree: 14%
 
 ---
 
-
-# [!UICONTROL Configurações da ] tabela de coorte
+# [!UICONTROL Configurações da tabela de coorte]
 
 Existem várias configurações de acesso que permitem personalizar a visualização de [!UICONTROL retenção] ou [!UICONTROL churn]. Veja-os destacados neste vídeo.
 
