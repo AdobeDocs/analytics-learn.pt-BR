@@ -1,28 +1,27 @@
 ---
-title: Rastreamento de link personalizado sem um gerenciador de tags
+title: Rastreamento de link personalizado sem um Gerenciador de tags
 description: Para muitas ações na página, o rastreamento não deve ser tratado como uma exibição de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como o Experience Platform Launch). Consulte o código, bem como aprenda uma dica importante.
-feature: Appmeasurement Implementation
+feature: Implementação Do Appmeasurement
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 4%
+source-wordcount: '293'
+ht-degree: 8%
 
 ---
-
 
 # Rastreamento de link personalizado sem um Gerenciador de tags {#custom-link-tracking-without-a-tag-manager}
 
 Para muitas ações na página, o rastreamento não deve ser tratado como uma exibição de página. Neste vídeo, você aprenderá a codificar um beacon de rastreamento de link no Analytics, se não estiver usando um gerenciador de tags (como Adobe [!DNL Experience Platform Launch]). Consulte o código, bem como aprenda uma dica importante.
 
-## Envio de um s.tl() Beacon {#sending-an-s-tl-beacon}
+## Envio de um beacon s.tl() {#sending-an-s-tl-beacon}
 
 Há duas funções que enviam dados para o Adobe Analytics:
 
@@ -31,7 +30,7 @@ Há duas funções que enviam dados para o Adobe Analytics:
 
 >[!NOTE]
 >
->Neste vídeo, mostramos como codificar uma ocorrência de link personalizado quando VOCÊ NÃO está usando um gerenciador de tags como o Adobe [!DNL Experience Platform Launch]. Recomendamos que você use [!DNL Experience Platform Launch], nossa recomendação de práticas recomendadas para implementação. No entanto, se precisar codificar em um `s.tl()`, veja a seguir como fazer isso.
+>Neste vídeo, mostramos como codificar uma ocorrência de link personalizado quando VOCÊ NÃO está usando um gerenciador de tags como Adobe [!DNL Experience Platform Launch]. Recomendamos que você use [!DNL Experience Platform Launch], nossa recomendação de práticas recomendadas para implementação. No entanto, se precisar codificar em um `s.tl()`, veja a seguir como fazer isso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
