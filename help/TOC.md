@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2065'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -111,17 +111,17 @@ ht-degree: 98%
       + [Seleção de dados para visualização](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Obter dados em visualizações](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Utilização de menus suspensos de componentes no Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Visualizações de Área e Área Empilhada](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [Visualizações empilhadas por barra e barra](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [Visualizações de áreas e áreas empilhadas](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [Visualizações de barras e barras empilhadas](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualização de gráfico com marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualização de rosca](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualização do histograma](analysis-workspace/visualizations/histogram-visualization.md)
       + [Visualização de linha](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [Adicionar linhas de tendência às visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [Adição de linhas de tendência às visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualização de mapa](analysis-workspace/visualizations/map-visualization.md)
       + [Número de resumo e visualizações de alteração de resumo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [Visualização de texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [Visualização do gráfico de dispersão](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [Visualização de gráfico de dispersão](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualização de mapa de árvore](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualização do diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [Utilização da função Média cumulativa para aplicar Suavização de métrica](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
