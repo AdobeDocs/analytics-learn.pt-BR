@@ -11,13 +11,13 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
 ht-degree: 100%
 
 ---
 
-# Como identificar seus conjuntos de relatórios [!DNL Tracking Server] e [!UICONTROL do Analytics] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# Como identificar o [!DNL Tracking Server] do Analytics e os [!UICONTROL conjuntos de relatórios] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 Ao configurar o Adobe Analytics ou ao referenciá-lo em outras soluções da Experience Cloud, geralmente é útil ou até necessário conhecer o [!DNL Analytics] “[!DNL Tracking Server]” que você está usando, ou também o “[!UICONTROL Conjunto de relatórios]” para o qual você está enviando dados. Este vídeo mostra como localizar ambos os valores, independentemente de você já ter implementado o Adobe Analytics ou não.
 
