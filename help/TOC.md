@@ -4,8 +4,8 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
-workflow-type: ht
+source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
+workflow-type: tm+mt
 source-wordcount: '2065'
 ht-degree: 100%
 
@@ -119,7 +119,7 @@ ht-degree: 100%
       + [Visualização de linha](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Adição de linhas de tendência às visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [Visualização de mapa](analysis-workspace/visualizations/map-visualization.md)
-      + [Número de resumo e visualizações de alteração de resumo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [Número de resumo e visualizações de alteração de resumo](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [Visualização de texto](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [Visualização de gráfico de dispersão](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualização de mapa de árvore](analysis-workspace/visualizations/treemap-visualization.md)
