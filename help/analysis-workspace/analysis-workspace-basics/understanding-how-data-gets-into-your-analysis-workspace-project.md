@@ -1,26 +1,24 @@
 ---
 title: Entender como os dados são incluídos em seu projeto do Analysis Workspace
-description: Este vídeo mostra como ver o fluxo de dados da sua página em tabelas e visualizações no Analysis Workspace usando a extensão Adobe Experience Cloud Debugger no Chrome.
+description: Este vídeo mostra como visualizar o fluxo de dados da sua página para as tabelas e visualizações no Analysis Workspace, usando a extensão Adobe Experience Platform Debugger no Chrome.
 feature: Fundamentos do Workspace
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
-kt: 4109
 role: User
 level: Beginner
+kt: 4109
+thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: bbd67178a523233a2a1aebac6b206ba4d7724388
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 25%
 
 ---
 
 # Entender como os dados são incluídos em seu projeto do Analysis Workspace
 
-Este vídeo mostra como ver o fluxo de dados da sua página em tabelas e visualizações no Analysis Workspace, usando a extensão [!DNL Adobe Experience Cloud Debugger] no Chrome.
+Este vídeo mostra como visualizar o fluxo de dados da sua página para as tabelas e visualizações no Analysis Workspace, usando a extensão Adobe Experience Platform Debugger no Chrome.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
-Para obter mais informações sobre o [!DNL Experience Cloud Debugger], consulte a [documentação](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=pt-BR).
+Para obter mais informações sobre o Adobe Experience Platform Debugger, visite a [documentação](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=pt-BR).
