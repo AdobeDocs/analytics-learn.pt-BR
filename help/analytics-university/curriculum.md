@@ -4,10 +4,10 @@ description: A Adobe tem orgulho de apresentar este conteúdo fundamental do Ana
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 76%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 ## Conteúdo do curso do Analytics
 
 A Adobe tem orgulho de apresentar este conteúdo fundamental do Analytics à sua universidade. Dentro do currículo, você encontrará quatro módulos distintos para apresentar a você a coleção e os relatórios do Adobe Analytics, que podem ser divididos em análises digitais ou cursos de marketing. Esse manual introdutório permitirá que professores e alunos adquiram o conhecimento necessário para participar do desafio global do Adobe Analytics todos os anos.
+
+### Um novo curso para ajudá-lo a se preparar
+
+Para nos prepararmos para aprender e ensinar o currículo de análise, lançamos um curso totalmente novo no Adobe Education Exchange, onde você pode aprender a ensinar todos os conceitos principais descritos abaixo. Recomendamos começar com este curso para garantir que você esteja preparado para ensinar seus alunos sobre os 4 módulos principais e além.
+
+Inscreva-se no curso aqui: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### Veja o que você aprenderá:
 
