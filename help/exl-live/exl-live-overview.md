@@ -1,15 +1,15 @@
 ---
 title: Eventos Experience League LIVE
 description: Uma coleção de links para eventos Experience League LIVE anteriores
-feature: Events
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+type: Event
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 7b35dbe13d81473ae6bb860ab43ef660f73649fa
+source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 2%
 
 ---
 
