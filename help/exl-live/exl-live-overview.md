@@ -9,14 +9,14 @@ hidefromtoc: true
 source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 56%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE é um streaming ao vivo produzido pela equipe do Experience League e fornece dicas, truques e estratégias acionáveis que podem ser aplicadas em aplicativos Experience Cloud, serviços de aplicativos e Adobe Experience Platform.
+Experience League LIVE é um programa em streaming ao vivo produzido pela equipe do Experience League e fornece dicas, truques e estratégias práticas que podem ser aplicadas a aplicativos Experience Cloud, a serviços de aplicativos e à Adobe Experience Platform.
 
 ## Próximo episódio: Experience Platform e CDP em tempo real!
 
@@ -64,7 +64,7 @@ Anime-se com os seguintes episódios futuros do Experience League LIVE!
 
 ## Repetições de episódios anteriores
 
-Você perdeu um episódio de Experience League LIVE? Nós te perdoamos. Aqui estão os links para que você possa assistir episódios passados.
+Você perdeu um episódio do Experience League LIVE? Perdoamos você. Aqui estão os links para que você possa assistir a episódios anteriores.
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Você perdeu um episódio de Experience League LIVE? Nós te perdoamos. Aqui est
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/#dashboard/learning) gratuitos, bem como [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/#dashboard/learning) gratuitos, bem como [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
