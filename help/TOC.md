@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -213,11 +213,11 @@ ht-degree: 96%
 + Administração {#administration}
    + Configurações da empresa {#company-settings}
       + [Impor restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
-      + [Veja os recursos disponíveis da sua conta](administration/company-settings/view-your-accounts-available-features.md)
+      + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
    + Gerenciamento de usuários {#user-management}
       + [Adicionar um administrador ao Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [Transferir ativos do usuário para um usuário diferente](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [Transferir ativos do usuário para outro usuário](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Verifique a ID do IMS vinculado para evitar problemas de logon](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + Gerenciar Conjuntos de relatórios {#manage-report-suites}
       + [Como definir as configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
@@ -237,7 +237,7 @@ ht-degree: 96%
       + [Gerenciar um pico de tráfego futuro](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + Logs {#logs}
       + [Rastreamento de log de uso para o Analysis Workspace](administration/logs/usage-log-tracking-for-analysis-workspace.md)
-      + [Visão geral dos logs de administração do Analytics](administration/logs/overview-of-analytics-admin-logs.md)
+      + [Visão geral dos logs de administrador do Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementação {#implementation}
    + Conceitos básicos de implementação {#implementation-basics}
       + [Primeira implementação](implementation/implementation-basics/first-time-implementation.md)
@@ -323,7 +323,7 @@ ht-degree: 96%
       + [Enviar solicitação de Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + Feeds de dados {#data-feeds}
       + [Interface de gerenciamento de feeds de dados](exporting/data-feeds/data-feeds-management-ui.md)
-      + [Baixar a chave de autenticação do feed de dados](exporting/data-feeds/download-the-data-feed-authentication-key.md)
+      + [Baixar a chave de autenticação de feed de dados](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [Encontrar a ID do feed de dados](exporting/data-feeds/find-your-data-feed-id.md)
       + [Executar novamente uma tarefa do Feed de dados](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
