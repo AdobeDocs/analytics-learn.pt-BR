@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ A Adobe tem orgulho de apresentar este conteúdo fundamental do Analytics à sua
 
 ### Um novo curso para ajudá-lo a se preparar
 
-Para nos prepararmos para aprender e ensinar o currículo de análise, lançamos um curso totalmente novo no Adobe Education Exchange, onde você pode aprender a ensinar todos os conceitos principais descritos abaixo. Recomendamos começar com este curso para garantir que você esteja preparado para ensinar seus alunos sobre os 4 módulos principais e além.
+A fim de nos prepararmos para aprender e ensinar o currículo de análise, lançamos um curso totalmente novo no Adobe Education Exchange, em que você pode aprender a ensinar todos os conceitos principais descritos abaixo. Recomendamos começar com este curso para garantir que você esteja preparado para ministrar aos seus alunos além dos 4 módulos principais.
 
 Inscreva-se no curso aqui: [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
