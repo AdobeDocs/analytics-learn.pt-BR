@@ -1,7 +1,7 @@
 ---
 title: Análise de coorte na Analysis Workspace
 description: Como criar uma tabela de análise de coorte no Analysis Workspace.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2135
 role: User
 level: Intermediate
 exl-id: eec26e68-eed9-47b5-8ebf-26a1f6c28d40
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 41%
+ht-degree: 19%
 
 ---
 
@@ -23,4 +23,4 @@ Como criar uma tabela de análise [!UICONTROL cohort] no Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://marketing.adobe.com/resources/help/pt_BR/analytics/analysis-workspace/cohort_analysis.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

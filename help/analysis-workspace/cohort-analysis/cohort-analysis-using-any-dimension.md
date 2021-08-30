@@ -1,7 +1,7 @@
 ---
 title: Análise de coorte usando qualquer dimensão
 description: A opção Dimension de Coorte personalizado permite analisar coortes usando dimensões diferentes do tempo. Comparar coortes por Canal de marketing, região da campanha, página do produto etc. para entender melhor como a retenção (ou churn) muda por item de dimensão.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 28%
+ht-degree: 17%
 
 ---
 
@@ -24,4 +24,4 @@ A opção [!UICONTROL Coorte] [!UICONTROL Dimension] personalizada permite anali
 
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
-Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/pt_BR/analytics/analysis-workspace/cohort_analysis.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=en).

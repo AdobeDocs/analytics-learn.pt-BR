@@ -1,7 +1,7 @@
 ---
 title: Utilização de intervalos de datas em segmentos
 description: O Adobe Analytics permite responder perguntas como - Qual foi minha média móvel de 60 dias para a Receita? ou - Quantos visitantes visualizaram conteúdo no meu aplicativo mais de 5 vezes na semana passada? incluindo intervalos de datas flexíveis em segmentos. Este vídeo mostra como fazê-lo.
-feature: Segmentação
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2304
 role: User
 level: Beginner
 exl-id: d90b0284-caef-4271-9f2a-d3cb1fd57e2b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '104'
 ht-degree: 4%
 
 ---
@@ -23,4 +23,3 @@ A Adobe Analytics permite que você responda perguntas como &quot;Qual foi minha
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12)
 
-Para obter mais informações sobre esse recurso, visite [a documentação](https://marketing.adobe.com/resources/help/en_US/analytics/segment/index.html?f=seg_build_ui).

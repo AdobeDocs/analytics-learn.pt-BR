@@ -1,7 +1,7 @@
 ---
 title: Visualização de mapa no Analysis Workspace
 description: Este vídeo mostra como usar a nova visualização de Mapa no Analysis Workspace. A visualização do Mapa permitirá que você visualize dados móveis (lat/long) ou da Web (endereço IP) em um mapa dinâmico, permitindo que você obtenha uma ideia do uso do cliente no contexto de sua localização.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Seções neste vídeo:
 
 7:00 - Exibição do mapa de calor
 
-Para obter mais informações sobre essa [!UICONTROL visualização], visite a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html).
+Para obter mais informações sobre essa [!UICONTROL visualização], visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en).

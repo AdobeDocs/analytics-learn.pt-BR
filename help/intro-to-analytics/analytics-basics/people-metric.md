@@ -1,7 +1,7 @@
 ---
 title: Métrica de pessoas no Adobe Analytics
 description: O Adobe Analytics agora oferece uma métrica Pessoas para desduplicar visitantes com base no Adobe Experience Cloud Device Co-op. Este vídeo fornece mais informações e mostra como começar.
-feature: Métricas
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1986
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '124'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 85%
 
 ---
 
@@ -26,6 +26,6 @@ O Adobe Analytics agora oferece uma métrica [!UICONTROL Pessoas] para desduplic
 
 Se você fizer parte do [!UICONTROL Device Co-op], será possível calcular métricas com base em pessoas, não apenas em visitantes.
 
-Para obter mais informações sobre [!UICONTROL Device Co-op], consulte [esta documentação](https://marketing.adobe.com/resources/help/pt_BR/mcdc/).
+Para obter mais informações sobre [!UICONTROL Device Co-op], consulte [esta documentação](https://experienceleague.adobe.com/docs/device-co-op/using/about/overview.html?lang=en).
 
-Para obter mais informações sobre a métrica [!UICONTROL Pessoas], consulte [esta documentação](https://marketing.adobe.com/resources/help/pt_BR/mcdc/mcdc-people.html).
+Para obter mais informações sobre a métrica [!UICONTROL Pessoas], consulte [esta documentação](https://experienceleague.adobe.com/docs/device-co-op/using/data/people.html?lang=en).

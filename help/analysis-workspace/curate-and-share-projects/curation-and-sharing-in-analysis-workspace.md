@@ -1,7 +1,7 @@
 ---
 title: Curadoria e compartilhamento na Analysis Workspace
 description: Depois de criar um projeto no Analysis Workspace, você pode prepará-lo (simplificar) e compartilhá-lo com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autoservir com dados. Este vídeo mostra como trabalhar com curadoria e compartilhamento.
-feature: Preparar e compartilhar
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2294
 role: User
 level: Beginner
 exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 19%
+source-wordcount: '124'
+ht-degree: 9%
 
 ---
 
@@ -23,4 +23,4 @@ Depois de criar um projeto no Analysis Workspace, você pode [!UICONTROL prepara
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://marketing.adobe.com/resources/help/pt_BR/analytics/analysis-workspace/curate.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Uso de uma camada de dados para definir o Nome da página e Outras variáveis no Adobe Analytics por meio do Launch
 description: O uso de uma camada de dados para o Analytics e outras soluções do Experience Cloud é considerado uma prática recomendada. Neste vídeo, você verá como extrair seus valores da camada de dados e usá-los no Launch para preencher variáveis no Adobe Analytics.
-feature: Implementação do Launch
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ O uso de uma camada de dados para [!DNL Analytics] e outras soluções do Experi
 
 ## Camadas de dados {#data-layers}
 
-É uma prática recomendada usar uma camada de dados ao trabalhar com dados no site e nas soluções da Adobe Experience Cloud, especialmente com o Adobe Analytics. Uma _camada de dados_ é uma estrutura de objetos JavaScript que os desenvolvedores inserem nas páginas. As camadas de dados podem ser usadas pelas ferramentas de rastreamento (incluindo sistemas de Tag Management como [!DNL Experience Platform Launch]) para preencher relatórios. Encontre informações adicionais sobre camadas de dados na [documentação do Experience Cloud](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) ou no [site W3C](https://www.w3.org/).
+É uma prática recomendada usar uma camada de dados ao trabalhar com dados no site e nas soluções da Adobe Experience Cloud, especialmente com o Adobe Analytics. Uma _camada de dados_ é uma estrutura de objetos JavaScript que os desenvolvedores inserem nas páginas. As camadas de dados podem ser usadas pelas ferramentas de rastreamento (incluindo sistemas de Tag Management como [!DNL Experience Platform Launch]) para preencher relatórios. Encontre informações adicionais sobre camadas de dados na [documentação do Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) ou no [site W3C](https://www.w3.org/).
 
 Além disso, consulte o blog [Camadas de dados: De chavão a práticas recomendadas,](https://theblog.adobe.com/data-layers-buzzword-best-practice/), que fornece algumas informações importantes sobre camadas de dados, bem como alguns exemplos.
 

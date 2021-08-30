@@ -1,8 +1,8 @@
 ---
 title: Utilização do rastreamento de log de uso do Analysis Workspace
-seo-title: Utilização do rastreamento de log de uso do Analysis Workspace
+seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
-seo-description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,11 +11,10 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
@@ -39,7 +38,7 @@ As exibições de projeto serão a melhor indicação de que os usuários estão
 
 ## Recursos adicionais {#additional-resources}
 
-* [Mais informações sobre logs](https://marketing.adobe.com/resources/help/pt_BR/reference/logs.html)
+* [Mais informações sobre logs](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [Baixar painel de demonstração](https://adobe.ly/2ygP5ws)
 
 A SEGUIR: estamos trabalhando para apresentar essas informações em uma interface amigável (e com mais detalhes) no [!DNL Analytics] em breve.

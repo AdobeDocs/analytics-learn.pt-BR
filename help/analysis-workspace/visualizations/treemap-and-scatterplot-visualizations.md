@@ -1,7 +1,7 @@
 ---
 title: Visualizações de mapa de árvore e gráfico de dispersão no Analysis Workspace
 description: 'O Analysis Workspace no Adobe Analytics inclui dois tipos de visualização populares: mapa de árvore e gráfico de dispersão. Este vídeo explica como usar os dois tipos de visualização na análise.'
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2117
 role: User
 level: Beginner
 exl-id: 149bf674-2444-488a-aafe-2a1df0a0315c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,6 @@ O Analysis Workspace no Adobe Analytics inclui dois tipos populares de [!UICONTR
 
 >[!VIDEO](https://video.tv.adobe.com/v/23988/?quality=12)
 
-Para obter mais informações sobre essas [!UICONTROL visualizações], acesse a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/treemap.html).
+Para obter mais informações sobre essas [!UICONTROL visualizações], acesse a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=en).
 
-Para outra excelente [!UICONTROL visualização] que você pode usar no Analysis Workspace, tente o [[!UICONTROL Gráfico ] com marcador](https://helpx.adobe.com/analytics/kt/using/bullet-graph-viz-analysis-workspace-feature-video-use.html).
+Para outra excelente [!UICONTROL visualização] que você pode usar no Analysis Workspace, tente o [[!UICONTROL Gráfico ] com marcador](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=pt-BR).

@@ -1,7 +1,7 @@
 ---
 title: Uso da Análise entre guias para explorar a atribuição básica de marketing no Analysis Workspace
 description: Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o Adobe Analytics. Neste vídeo, destacamos como você pode obter insights mais profundos do relatório de Canais de marketing usando a análise entre guias no Workspace.
-feature: Canais de marketing
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o
 * 4:30 - As configurações de coluna podem ser atualizadas em massa agora, em vez de 1 por 1. Saiba mais às 8h45 do vídeo: [Configurações de linha e coluna em tabelas de forma livre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-Para obter mais informações sobre este tópico, visite a [documentação](https://docs.adobe.com/content/help/pt-BR/analytics/analyze/analysis-workspace/attribution/models.html).
+Para obter mais informações sobre este tópico, visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR).

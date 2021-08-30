@@ -10,10 +10,10 @@ kt: 1769
 role: User
 level: Intermediate
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 1%
+source-wordcount: '108'
+ht-degree: 0%
 
 ---
 
@@ -25,4 +25,4 @@ Agora é possível editar [!UICONTROL métricas] em várias solicitações de da
 
 Essa funcionalidade adiciona recursos existentes para editar [!UICONTROL conjuntos de relatórios], [!UICONTROL intervalos de datas], [!UICONTROL granularidade] e [!UICONTROL segmentos] entre solicitações. A edição de solicitações em massa pode ser feita no menu do botão direito do mouse ou em &quot;[!UICONTROL Edit Multiple]&quot; na janela Gerenciar.
 
-Para obter mais informações sobre esse recurso, visite [a documentação](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html).
+Para obter mais informações sobre esse recurso, visite [a documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=en).

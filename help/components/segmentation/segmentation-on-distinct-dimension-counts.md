@@ -1,7 +1,7 @@
 ---
 title: Segmentação em contagens de dimensões distintas
 description: Os novos operadores de Contagem distinta no construtor de segmentos permitem segmentar com base no número de itens únicos em qualquer dimensão. Filtre por visitas em que mais de 5 páginas foram visualizadas ou ocorrências em que mais de 5 produtos foram comprados, ou seja, em um único pedido.
-feature: Segmentação
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 13%
 
 ---
@@ -25,4 +25,4 @@ Os novos operadores [!UICONTROL Distinct Count] no [!UICONTROL Construtor de seg
 
 Esse recurso poderia ser qualquer resfriador? :)
 
-Para obter mais informações, consulte a [documentação](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en).
