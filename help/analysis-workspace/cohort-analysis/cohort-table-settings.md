@@ -1,7 +1,7 @@
 ---
 title: Configurações da tabela de coorte
 description: 'Há várias configurações da tabela de coorte que permitem personalizar a visualização de retenção ou abandono. Veja-os destacados neste vídeo. '
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 14%
+ht-degree: 5%
 
 ---
 
@@ -32,4 +32,4 @@ As personalizações da [!UICONTROL Tabela de coorte] incluem a capacidade de
 
 A linha média é especialmente útil na exibição geral de [!UICONTROL retenção] ou [!UICONTROL churn], em vez de linhas individuais [!UICONTROL cohort].
 
-Para obter mais informações sobre a análise [!UICONTROL cohort], visite a [documentação](https://docs.adobe.com/help/pt-BR/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html).
+Para obter mais informações sobre a análise [!UICONTROL cohort], visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=en).
