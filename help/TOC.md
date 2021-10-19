@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + Segmentação {#segmentation}
       + [Visão geral do Construtor de segmento](components/segmentation/segment-builder-overview.md)
       + [Localizar e criar segmentos](components/segmentation/finding-and-creating-segments.md)
-      + [Sequências antes/depois na segmentação sequencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Utilização de intervalos de datas em segmentos](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Comparação de segmentos no Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Containers de segmentos](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [Utilização de segmentos como dimensões no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=pt-BR)
       + [Utilização de segmentos para limitar dados no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=pt-BR)
       + [Segmentação sequencial](components/segmentation/sequential-segmentation.md)
+      + [Sequências antes/depois na segmentação sequencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentação em contagens de dimensões distintas](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modelos de dimensão na segmentação](components/segmentation/dimension-models-in-segmentation.md)
       + [Igual a qualquer operador na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)

@@ -1,24 +1,29 @@
 ---
 title: Segmentação sequencial no Adobe Analytics
-description: Este vídeo aborda como segmentar as sequências de comportamento no Adobe Analytics e como usá-las para comparar canais de marketing e fallouts.
+description: Este vídeo mostra como criar um segmento no Analysis Workspace a partir de sequências de comportamentos no site ou no aplicativo. Em outras palavras, você pode querer criar um segmento de visitantes que fizeram a coisa A e depois a coisa B, para que você possa ver como essa sequência de eventos afetou todos os outros dados. Aproveite.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2302
+thumbnail: 25405.jpg
 role: User
 level: Beginner
 exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 8%
 
 ---
 
 # Segmentação sequencial no Adobe Analytics {#sequential-segmentation-in-adobe-analytics}
 
-Este vídeo aborda como segmentar as sequências de comportamento no Adobe Analytics e como usá-las para comparar [!UICONTROL canais de marketing] e [!UICONTROL fallouts].
+Este vídeo mostra como criar um segmento no Analysis Workspace a partir de sequências de comportamentos no site ou no aplicativo. Em outras palavras, você pode querer criar um segmento de visitantes que fizeram a &quot;coisa A&quot; e depois a &quot;coisa B&quot;, para que possa ver como essa sequência de eventos afetou todos os outros dados. Aproveite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
+
+## Vídeos relacionados
+
+[Antes e depois das sequências na segmentação sequencial](before-after-sequences-in-sequential-segmentation.md)
+
+## Informações adicionais 
+
+Para obter mais informações sobre este tópico, visite o [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=br).
