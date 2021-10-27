@@ -1,24 +1,23 @@
 ---
 title: Criação de intervalos de datas personalizados no Analysis Workspace
-description: Este vídeo mostra como usar intervalos de datas no Analysis Workspace.
-feature: Calendário
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
+description: Ao configurar e personalizar seu projeto no Analysis Workspace, pode ser necessário usar um intervalo de datas além do que vem pré-construído no produto. Este vídeo mostra como criar três exemplos de intervalos de datas personalizados.
+feature: Calendar
 kt: 2113
+thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 2%
+source-wordcount: '106'
+ht-degree: 6%
 
 ---
 
-# Criando [!UICONTROL Intervalos de datas] personalizados no Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
+# Criação personalizada [!UICONTROL Intervalos de datas] no Analysis Workspace {#creating-custom-date-ranges-in-analysis-workspace}
 
-Este vídeo o orienta a usar [!UICONTROL intervalos de datas] no Analysis Workspace.
+Ao configurar e personalizar seu projeto no Analysis Workspace, pode ser necessário usar um intervalo de datas além do que vem pré-construído no produto. Este vídeo mostra como criar três exemplos de intervalos de datas personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
+
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=en).
