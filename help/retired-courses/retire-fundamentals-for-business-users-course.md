@@ -1,6 +1,6 @@
 ---
-title: Os Fundamentos do Analytics para usuários empresariais foram removidos
-description: Os Fundamentos do Analytics para usuários comerciais foram removidos por vários motivos.
+title: Os fundamentos do Analytics para usuários empresariais foram removidos
+description: Os fundamentos do Analytics para usuários empresariais foram removidos por vários motivos.
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -9,30 +9,30 @@ kt: 9167
 hide: true
 hidefromtoc: true
 source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Os Fundamentos do Analytics para usuários empresariais foram removidos
+# Os fundamentos do Analytics para usuários empresariais foram removidos
 
-Retiramos esse curso por várias razões, incluindo:
+Removemos esse curso por vários motivos, incluindo:
 
 * Conteúdo desatualizado e impreciso
 * Falta de organização geral
-* O curso original era muito amplo
+* O curso original era muito extenso
 
-Por essas razões juntas, decidimos que isso serviria a você, nossos clientes maravilhosos, melhor se reorganizássemos, gravássemos novamente e reeditássemos cursos que são mais especificamente intitulados, para que você possa saber exatamente o que está obtendo enquanto passa pelos cursos.
+Por todos esses motivos, decidimos que seria melhor reorganizar, gravar e lançar novamente esses cursos com títulos mais específicos, para que vocês, nossos prezados clientes, possam saber exatamente o que esses cursos abordam, à medida que avançam por eles.
 
-Se você estiver em um Usuário comercial, Praticante de negócios ou outra função semelhante, recomendamos que faça os seguintes cursos para obter os fundamentos que o ajudarão a se destacar no uso do Analysis Workspace:
+Caso você seja um usuário empresarial, um profissional de negócios ou tenha outra função semelhante, recomendamos que faça os seguintes cursos para aprender fundamentos básicos que o ajudarão a se destacar no uso do Analysis Workspace:
 
-1. [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+1. [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR)
 1. [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR)
+1. [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR)
 
-Há outros cursos relacionados ao [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) disponíveis para você no Experience League.
+Há outros cursos relacionados ao [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) disponíveis na Experience League.
 
-Obrigado!
+Obrigado.
