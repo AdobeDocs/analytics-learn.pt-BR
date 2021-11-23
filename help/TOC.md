@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
 workflow-type: tm+mt
 source-wordcount: '2225'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 99%
       + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Noções básicas do Analytics {#analytics-basics}
-      + [Botão Testar no Workspace no Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [Botão Testar no Espaço de trabalho no Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Como entender o ciclo do Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Como os dados do Analytics são coletados](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Fazendo logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
@@ -87,7 +87,7 @@ ht-degree: 99%
       + [Painel Quick Insights no Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilização do painel Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=pt-BR)
       + [Painel Visualizadores simultâneos de mídia no Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
+      + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=pt-BR)
       + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -381,7 +381,7 @@ ht-degree: 99%
       + [Adição de uma regra do Launch para o Evento de compra](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Supersessão do Summit 2019: Varejo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=pt-BR)
 + Media Analytics {#media-analytics}
-   + Avaliação do Media Analytics {#measuring-media-analytics}
+   + Medição do Media Analytics {#measuring-media-analytics}
       + [Painel Tempo gasto com a reprodução da mídia](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Utilização do modelo de consumo de áudio no Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + Análise de aplicativos móveis {#mobile-app-analytics}
