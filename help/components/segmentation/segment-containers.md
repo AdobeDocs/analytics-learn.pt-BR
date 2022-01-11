@@ -1,20 +1,20 @@
 ---
-title: Contêineres de segmento no Adobe Analytics
+title: Contêineres de segmentos no Adobe Analytics
 description: Ao construir segmentos, os contêineres de ocorrência, visita e visitante controlam quantos dados seu segmento conterá. Neste vídeo, saiba como usar os contêineres e ouvir alguns exemplos de cada um.
 feature: Segmentation
 kt: 2301
-thumbnail: 2301.jpg
+thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: d3e01c91dbd49e55d5049ad36089c2d1d8dc7673
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 18%
 
 ---
 
-# Contêineres de segmento no Adobe Analytics {#segment-containers-in-adobe-analytics}
+# Contêineres de segmentos no Adobe Analytics {#segment-containers-in-adobe-analytics}
 
 Ao construir segmentos, os contêineres de ocorrência, visita e visitante controlam quantos dados seu segmento conterá. Neste vídeo, saiba como usar os contêineres e ouvir alguns exemplos de cada um.
 
