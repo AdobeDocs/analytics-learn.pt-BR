@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: ht
-source-wordcount: '2248'
-ht-degree: 100%
+source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+workflow-type: tm+mt
+source-wordcount: '2251'
+ht-degree: 99%
 
 ---
 
@@ -229,6 +229,7 @@ ht-degree: 100%
       + [Personalizar menus no Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulação de dados de entrada com regras de processamento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuração de variáveis de tráfego (propriedades)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [Configurar classificações de tráfego](administration/manage-report-suites/configure-traffic-classifications.md)
       + [Configuração das variáveis de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurar métodos de descoberta](administration/manage-report-suites/configure-finding-methods.md)
       + [Definir filtros internos do URL](administration/manage-report-suites/set-internal-url-filters.md)
