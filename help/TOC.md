@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [Manipulação de dados de entrada com regras de processamento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuração de variáveis de tráfego (propriedades)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar classificações de tráfego](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [Configurar classificações de conversão](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuração das variáveis de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurar métodos de descoberta](administration/manage-report-suites/configure-finding-methods.md)
       + [Definir filtros internos do URL](administration/manage-report-suites/set-internal-url-filters.md)
       + [Configurações de CEP e código postal](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [Ativar a configuração Carimbo de data e hora opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurar regras de bot no Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governança de dados e GDPR {#data-governance-and-gdpr}
