@@ -1,22 +1,21 @@
 ---
-title: 'Veja os recursos disponíveis da sua conta '
+title: Exibir os recursos disponíveis de sua conta
 description: Exibir configurações de Níveis de acesso a recursos na seção Administração do Analytics permite visualizar o nível de acesso a pacotes e recursos do Adobe Analytics aos quais sua empresa tem direito. Isso inclui Activity Map, Advertising Analytics, Detecção de anomalias em alertas, etc.
-feature: Configurações da empresa
-topic: 'Administração '
+feature: Company Settings
+topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335742.jpg
-kt: KT-8463
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8463
+exl-id: a8397a6b-0cbf-4a7e-b3dc-9f347b01b1f3
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 3%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
-
-# Veja os recursos disponíveis da sua conta
+# Exibir os recursos disponíveis de sua conta
 
 Exibir configurações de Níveis de acesso a recursos na seção Administração do Analytics permite visualizar o nível de acesso a pacotes e recursos do Adobe Analytics aos quais sua empresa tem direito. Isso inclui: Activity Map, Advertising Analytics, Detecção de anomalias em alertas, etc.
 
