@@ -1,7 +1,7 @@
 ---
 title: Como entender e criar conjuntos de relatórios
 description: Este vídeo ajudará você a entender o que são os conjuntos de relatórios e mostrará como criá-los na interface, para que você possa rastrear e otimizar as pessoas que acessam o seu site.
-feature: Noções básicas do Analytics
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 100%
 
 ---
