@@ -1,7 +1,7 @@
 ---
-title: Totais de tabelas de forma livre no Analysis Workspace
-description: Neste vídeo, você verá algumas atualizações dos totais da tabela de forma livre, incluindo a capacidade de remover totais.
-feature: Tabelas de forma livre
+title: Totais de Tabelas de forma livre no Analysis Workspace
+description: Neste vídeo, você verá algumas atualizações para os totais das Tabelas de forma livre, incluindo a capacidade de remover totais.
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 exl-id: 22c1f256-041a-49e1-b8e8-47cfd4fb801d
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 21%
+workflow-type: ht
+source-wordcount: '63'
+ht-degree: 100%
 
 ---
 
-# Totais de tabelas de forma livre no Analysis Workspace
+# Totais de Tabelas de forma livre no Analysis Workspace
 
-Neste vídeo, você verá algumas atualizações nos totais da [!UICONTROL Tabela de forma livre], incluindo a capacidade de remover totais. Também mostrará como remover as linhas &quot;não especificadas&quot; ou &quot;nenhuma&quot;.
+Neste vídeo, você verá algumas atualizações para os totais das [!UICONTROL Tabelas de forma livre], incluindo a capacidade de remover totais. Ele também explicará como remover as linhas “não especificado” ou “nenhum”.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
