@@ -1,7 +1,7 @@
 ---
-title: Introdução a eventos de conversão
-description: Neste vídeo, obtenha uma introdução aos "eventos" de conversão ou a variável que ajuda a rastrear as conversões do site (por exemplo, pedidos, inscrições, registros, conclusões de formulários etc.)
-feature: Métricas
+title: Introdução aos Eventos de conversão
+description: Neste vídeo, receba uma introdução aos “eventos” de conversão, ou a variável que ajuda a rastrear as conversões do seu site (por exemplo, pedidos, inscrições, registros, conclusões de formulários etc.)
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 14%
+workflow-type: ht
+source-wordcount: '62'
+ht-degree: 100%
 
 ---
 
-# Introdução a eventos de conversão
+# Introdução aos Eventos de conversão
 
-Neste vídeo, obtenha uma introdução aos &quot;eventos&quot; de conversão ou a variável que ajuda a rastrear as conversões do site (por exemplo, pedidos, inscrições, registros, conclusões de formulários etc.)
+Neste vídeo, receba uma introdução aos “eventos” de conversão, ou a variável que ajuda a rastrear as conversões do seu site (por exemplo, pedidos, inscrições, registros, conclusões de formulários etc.)
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
