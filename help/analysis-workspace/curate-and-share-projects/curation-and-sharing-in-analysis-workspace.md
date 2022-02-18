@@ -1,6 +1,6 @@
 ---
-title: Curadoria e compartilhamento na Analysis Workspace
-description: Depois de criar um projeto no Analysis Workspace, você pode prepará-lo (simplificar) e compartilhá-lo com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autoservir com dados. Este vídeo mostra como trabalhar com curadoria e compartilhamento.
+title: Curadoria e compartilhamento no Analysis Workspace
+description: Depois de criar um projeto no Analysis Workspace, você pode preparar (simplificar) e compartilhar o projeto com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a curadoria e o compartilhamento.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User
 level: Beginner
 exl-id: 892b7f9d-9351-4c68-a54f-85803a67c072
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Curadoria e compartilhamento na Analysis Workspace] {#curation-and-sharing-in-analysis-workspace}
+# [!UICONTROL Curadoria] e compartilhamento no Analysis Workspace {#curation-and-sharing-in-analysis-workspace}
 
-Depois de criar um projeto no Analysis Workspace, você pode [!UICONTROL preparar] (simplificar) e compartilhá-lo com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autoservir com dados. Este vídeo mostra como trabalhar com [!UICONTROL curation] e compartilhar.
+Depois de criar um projeto no Analysis Workspace, você pode [!UICONTROL preparar] (simplificar) e compartilhar o projeto com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a [!UICONTROL curadoria] e o compartilhamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=en).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=pt-BR).
