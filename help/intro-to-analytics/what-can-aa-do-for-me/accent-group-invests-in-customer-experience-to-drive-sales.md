@@ -1,7 +1,7 @@
 ---
 title: 'Caso de uso do cliente: Accent Group investe na experiência do cliente para impulsionar as vendas'
 description: A Accent Group, maior varejista de calçados da Austrália, aumenta as vendas e as conversões oferecendo excelentes experiências aos clientes em pontos de contato físicos e digitais. Veja como o Accent Group usa a Adobe Experience Cloud para criar experiências digitais perfeitas.
-feature: Casos de uso
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
