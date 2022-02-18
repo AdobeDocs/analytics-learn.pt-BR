@@ -1,24 +1,24 @@
 ---
 title: Encontrar a ID do feed de dados
-description: 'Às vezes, pode ser necessário entrar em contato com o Adobe em caso de falha no delivery do feed de dados ou com uma solicitação para reenviar um arquivo do feed de dados. É conveniente que a equipe de suporte ao cliente atenda a essas solicitações se a ID do feed de dados for fornecida pelo cliente. '
-feature: Ferramentas administrativas, feeds de dados, configuração de dados e coleta
-topic: Administração
+description: Às vezes, você pode precisar entrar em contato com a Adobe em caso de falha na entrega do feed de dados ou para solicitar o reenvio de um arquivo de feed de dados. É simples para a equipe de suporte ao cliente atender a essas solicitações se a ID do feed de dados for fornecida pelo cliente.
+feature: Admin Tools, Data Feeds, Data Configuration and Collection
+topic: Administration
 role: User, Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
-
 # Encontrar a ID do feed de dados
 
-Às vezes, pode ser necessário entrar em contato com o Adobe em caso de falha no delivery do feed de dados ou com uma solicitação para reenviar um arquivo do feed de dados. É conveniente que a equipe de suporte ao cliente atenda a essas solicitações se a ID do feed de dados for fornecida pelo cliente.
+Às vezes, você pode precisar entrar em contato com a Adobe em caso de falha na entrega do feed de dados ou para solicitar o reenvio de um arquivo de feed de dados. É simples para a equipe de suporte ao cliente atender a essas solicitações se a ID do feed de dados for fornecida pelo cliente.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
