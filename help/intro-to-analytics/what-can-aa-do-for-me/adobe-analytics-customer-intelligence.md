@@ -1,7 +1,7 @@
 ---
 title: 'Adobe Analytics: é mais do que dados. É a inteligência de clientes'
 description: 'Para se tornar uma empresa baseada em experiências, o marketing orientado por dados é fundamental. Leve sua maturidade de análise a um novo nível: dos dados aos insights e à ação.'
-feature: Noções básicas do Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
