@@ -1,7 +1,7 @@
 ---
-title: Compreender as diferenças entre dispositivos habilitados para voz
+title: Entender as diferenças entre os dispositivos habilitados por voz
 description: Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro do produto.
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,13 +11,13 @@ role: User
 level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 23%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
-# Compreender as diferenças entre dispositivos habilitados para voz {#understand-differences-across-voice-enabled-devices}
+# Entender as diferenças entre os dispositivos habilitados por voz {#understand-differences-across-voice-enabled-devices}
 
 Saiba como entender o desempenho e as funcionalidades diferentes em vários dispositivos assistidos por voz para ajudar a priorizar o roteiro do produto.
 
