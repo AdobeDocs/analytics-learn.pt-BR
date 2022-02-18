@@ -1,24 +1,24 @@
 ---
-title: Ativar a configuração Carimbo de data e hora opcional
-description: Os carimbos opcionais de data e hora permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar o rastreamento offline sem precisar criar um novo conjunto de relatórios.
-feature: Configuração e coleta de dados, configurações do conjunto de relatórios
-topic: 'Administração '
+title: Ativar a configuração de Carimbo data e hora opcional
+description: Carimbos de data e hora opcionais permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar carimbos de data e hora sem precisar criar um novo conjunto de relatórios.
+feature: Data Configuration and Collection, Report Suite Settings
+topic: Administration
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
-source-git-commit: e5b9693a941d72ba7d610dcc8472dff40c05d407
-workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
-
 # Ativar a configuração Carimbo de data e hora opcional
 
-Os carimbos opcionais de data e hora permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar o rastreamento offline sem precisar criar um novo conjunto de relatórios.
+Carimbos de data e hora opcionais permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar carimbos de data e hora sem precisar criar um novo conjunto de relatórios.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
