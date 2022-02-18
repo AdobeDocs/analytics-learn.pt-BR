@@ -1,24 +1,24 @@
 ---
 title: Área e Área empilhada
-description: Neste vídeo, veja como adicionar visualizações de Área e de Área empilhada ao seu projeto no Analysis Workspace, e conheça algumas dicas para ajudar a personalizar as visualizações para suas necessidades.
-feature: Visualizações
+description: Nesse vídeo, veja como adicionar visualizações de Área e Área empilhada ao seu projeto do Analysis Workspace e aprenda algumas dicas para ajudar a personalizar as visualizações de acordo com suas necessidades.
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '87'
+ht-degree: 100%
 
 ---
 
-
 # Área e Área empilhada
 
-Neste vídeo, veja como adicionar visualizações de Área e de Área empilhada ao seu projeto no Analysis Workspace, e conheça algumas dicas para ajudar a personalizar as visualizações para suas necessidades.
+Nesse vídeo, veja como adicionar visualizações de Área e Área empilhada ao seu projeto do Analysis Workspace e aprenda algumas dicas para ajudar a personalizar as visualizações de acordo com suas necessidades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=en#)
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=pt-BR#)
