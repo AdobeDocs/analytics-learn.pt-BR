@@ -1,23 +1,23 @@
 ---
 title: Manipulação de dados de entrada com regras de processamento
-description: Pode ser muito útil manipular os dados que entram em seus conjuntos de relatórios para adicionar ou alterar os dados com base no que já está fluindo. Este vídeo fornece uma visão geral das Regras de processamento no Adobe Analytics e discute para que são usadas. Também inclui algumas dicas, exemplos e até mesmo um aviso.
+description: Pode ser bastante útil manipular os dados que estão entrando nos seus conjuntos de relatórios para adicionar ou alterar os dados com base no que já está fluindo. Este vídeo fornece uma visão geral das regras de processamento no Adobe Analytics e explica para que elas são usadas. Também inclui dicas, exemplos e até mesmo um aviso.
 feature: Processing Rules
 role: Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
-source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
-workflow-type: tm+mt
+exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
+source-git-commit: b6ba0e9a2291e30cb0ac979bbac79714dc981fca
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-
 # Manipulação de dados de entrada com regras de processamento
 
-Pode ser muito útil manipular os dados que entram em seus conjuntos de relatórios para adicionar ou alterar os dados com base no que já está fluindo. Este vídeo fornece uma visão geral das Regras de processamento no Adobe Analytics e discute para que são usadas. Também inclui algumas dicas, exemplos e até mesmo um aviso.
+Pode ser bastante útil manipular os dados que estão entrando nos seus conjuntos de relatórios para adicionar ou alterar os dados com base no que já está fluindo. Este vídeo fornece uma visão geral das regras de processamento no Adobe Analytics e explica para que elas são usadas. Também inclui dicas, exemplos e até mesmo um aviso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
