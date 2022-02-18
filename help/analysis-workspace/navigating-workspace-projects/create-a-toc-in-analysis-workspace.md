@@ -1,7 +1,7 @@
 ---
-title: Criar um índice no Analysis Workspace
-description: Saiba como criar um projeto do Espaço de trabalho de índice e configurá-lo como página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
-feature: Painéis
+title: Criar uma tabela de conteúdo no Analysis Workspace
+description: Aprenda a criar uma tabela de conteúdo do projeto do Workspace e a configurá-la como a página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
-# Criar um índice no Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
+# Criar uma tabela de conteúdo no Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Saiba como criar um projeto do Espaço de trabalho de índice e configurá-lo como página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
+Aprenda a criar uma tabela de conteúdo do projeto do Workspace e a configurá-la como a página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12)
