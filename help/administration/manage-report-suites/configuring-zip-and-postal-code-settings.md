@@ -1,7 +1,7 @@
 ---
-title: Configuração das configurações de CEP e código postal no Adobe Analytics
+title: Definição das configurações de CEP e código postal no Adobe Analytics
 seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
-description: Neste vídeo, você aprenderá a configurar as configurações de CEP e código postal, para que possa fazer a análise com base nos dados da região.
+description: Neste vídeo, você aprenderá a definir as configurações de CEP e código postal, para fazer análises com base nos dados da região.
 seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
 feature: Data Configuration and Collection
 topics: null
@@ -15,16 +15,16 @@ role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Configurar [!UICONTROL CEP] e Configurações de código postal no Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
+# Definição de configurações de [!UICONTROL CEP] e código postal no Adobe Analytics {#configuring-zip-and-postal-code-settings-in-adobe-analytics}
 
-Neste vídeo, você aprenderá a configurar [!UICONTROL zip] e as configurações de código postal, para que possa fazer a análise com base nesses dados de região.
+Neste vídeo, você aprenderá a definir configurações de [!UICONTROL CEP] e código postal, para fazer análises com base nos dados da região.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-Para obter mais informações sobre as configurações de [!UICONTROL zip code], consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en).
+Para obter mais informações sobre configurações de [!UICONTROL código postal], consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=pt-BR).
