@@ -1,7 +1,7 @@
 ---
-title: 'Usar as práticas recomendadas ao rastrear aplicativos de página única (SPA) no Adobe Analytics '
-description: Neste documento, descreveremos várias práticas recomendadas que você deve seguir e estar ciente ao usar o Adobe Analytics para rastrear Aplicativos de página única (SPA). Este documento se concentrará no uso do Experience Platform Launch, que é o método de implementação recomendado.
-feature: Conceitos básicos de implementação
+title: 'Utilizar práticas recomendadas ao rastrear aplicativos de página única (SPA) no Adobe Analytics '
+description: Neste documento, descreveremos várias práticas recomendadas às quais você deve seguir e estar ciente ao usar o Adobe Analytics para rastrear aplicativos de página única (SPA). Este documento se concentrará no uso do Experience Platform Launch, que é o método de implementação recomendado.
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
@@ -12,32 +12,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '1672'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1669'
+ht-degree: 100%
 
 ---
 
-# Usar as práticas recomendadas ao rastrear aplicativos de página única (SPA) no Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
+# Utilizar práticas recomendadas ao rastrear aplicativos de página única (SPA) no Adobe Analytics {#using-best-practices-when-tracking-spa-in-adobe-analytics}
 
-Neste documento, descreveremos várias práticas recomendadas que você deve seguir e estar ciente ao usar o Adobe Analytics para rastrear Aplicativos de página única (SPA). Este documento se concentrará no uso do Adobe [!DNL Experience Platform Launch], que é o método de implementação recomendado.
+Neste documento, descreveremos várias práticas recomendadas às quais você deve seguir e estar ciente ao usar o Adobe Analytics para rastrear aplicativos de página única (SPA). Este documento se concentrará no uso do Adobe [!DNL Experience Platform Launch], que é o método de implementação recomendado.
 
-NOTAS INICIAIS:
+OBSERVAÇÕES INICIAIS:
 
-* Os itens abaixo presumirão que você está usando [!DNL Experience Platform Launch] para implementar o em seu site. As considerações ainda existiriam se você não estivesse usando [!DNL Experience Platform Launch], mas precisaria adaptá-las ao seu método de implementação.
-* Todos os SPA são diferentes, portanto, talvez seja necessário ajustar alguns dos itens a seguir para atender melhor sua necessidade, mas queremos compartilhar algumas práticas recomendadas com você; itens que você precisa considerar ao implementar o Adobe Analytics em SPA páginas.
+* Os itens abaixo assumirão que você está usando o [!DNL Experience Platform Launch] para implementar no seu site. As considerações ainda existiriam se você não estivesse usando o [!DNL Experience Platform Launch], mas seria necessário adaptá-las ao seu método de implementação.
+* Todos os SPAs são diferentes, portanto, talvez seja necessário ajustar alguns dos itens a seguir para atender melhor a sua necessidade, mas queremos compartilhar algumas práticas recomendadas com você; itens que precisam ser considerados ao implementar o Adobe Analytics em páginas SPA.
 
-## Diagrama simples de como trabalhar com SPA em [!DNL Experience Platform Launch] {#simple-diagram-of-working-with-spas-in-launch}
+## Diagrama simples do trabalho com SPA no [!DNL Experience Platform Launch] {#simple-diagram-of-working-with-spas-in-launch}
 
-![spa para analytics no launch](assets/spa_for_analyticsinlaunch.png)
+![SPA para o Analytics no Launch](assets/spa_for_analyticsinlaunch.png)
 
-**OBSERVAÇÃO:** conforme declarado, este é um diagrama simplificado de como as páginas de SPA são tratadas em uma implementação do Adobe Analytics usando o  [!DNL Experience Platform Launch]. Nas seções a seguir desta página, discutiremos as etapas e quaisquer problemas que você deve considerar ou agir com cuidado.
+**OBSERVAÇÃO:** Conforme dito, este é um diagrama simplificado de como as páginas de SPA são tratadas em uma implementação do Adobe Analytics usando o [!DNL Experience Platform Launch]. Nas seções a seguir desta página, discutiremos as etapas e problemas os quais você deve considerar ou agir com cuidado.
 
-## Configuração da camada de dados {#setting-the-data-layer}
+## Definir a camada de dados {#setting-the-data-layer}
 
-Quando o novo conteúdo é carregado em uma página de SPA ou quando uma ação ocorre em uma página de SPA, uma das primeiras coisas que você deve fazer é atualizar a camada de dados. Isso precisa ocorrer ANTES que o evento personalizado seja acionado e dispare regras em [!DNL Experience Platform Launch], para que [!DNL Experience Platform Launch] possa coletar os novos valores da camada de dados e enviá-los para o Adobe Analytics.
+Quando o novo conteúdo é carregado em uma página de SPA ou quando uma ação ocorre em uma página de SPA, uma das primeiras coisas que você deve fazer é atualizar a camada de dados. Isso precisa ocorrer ANTES que o evento personalizado seja disparado e acione as regras no [!DNL Experience Platform Launch], para que o [!DNL Experience Platform Launch] possa coletar os novos valores da camada de dados e enviá-los para o Adobe Analytics.
 
-A seguir, há uma amostra de camada de dados, cujos elementos podem ser alterados na alteração da exibição ou na ação em seu SPA. Por exemplo, em uma alteração de tela cheia/maioria, seria comum alterar um elemento &quot;[!DNL pageName]&quot;, para que o novo pudesse ser capturado em [!DNL Experience Platform Launch] e enviado para o Adobe Analytics.
+A seguir, há uma amostra de camada de dados cujos elementos podem ser modificados na alteração de exibição ou na ação em seu SPA. Por exemplo, em uma alteração de tela inteira/maior parte, seria comum alterar um elemento &quot;[!DNL pageName]&quot; para que o novo pudesse ser capturado no [!DNL Experience Platform Launch] e enviado para o Adobe Analytics.
 
 ```JavaScript
 <script>
@@ -73,72 +73,72 @@ A seguir, há uma amostra de camada de dados, cujos elementos podem ser alterado
     </script>
 ```
 
-## Definir eventos personalizados e escuta em [!DNL Experience Platform Launch] {#setting-custom-events-and-listening-in-launch}
+## Configuração de eventos personalizados e acompanhamento no [!DNL Experience Platform Launch] {#setting-custom-events-and-listening-in-launch}
 
-Quando o novo conteúdo é carregado na página ou quando uma ação ocorre no site, você deve informar [!DNL Experience Platform Launch] para que ele possa executar uma regra e enviar dados para [!DNL Analytics]. Há algumas maneiras diferentes de fazer isso: [!UICONTROL Chamada direta] [!UICONTROL regras] ou Eventos personalizados.
+Quando o novo conteúdo for carregado na página ou quando uma ação ocorrer no site, você deverá informar o [!DNL Experience Platform Launch] para que possa executar uma regra e enviar dados para o [!DNL Analytics]. Há algumas maneiras diferentes de fazer isso: [!UICONTROL Regras] de [!UICONTROL chamada direta] ou Eventos personalizados.
 
-* [!UICONTROL Regras ] [!UICONTROL de chamada direta]: no  [!DNL Experience Platform Launch], você pode configurar uma regra de chamada    direta que é executada quando é chamada diretamente da página. Se o carregamento da página ou a ação no site for muito simples, ou se for exclusiva e puder executar um conjunto específico de instruções todas as vezes (defina [!DNL eVar4] como X e acione [!DNL event2] sempre), você poderá usar uma [!UICONTROL chamada direta] [!UICONTROL rule]. Consulte a documentação [!DNL Experience Platform Launch] sobre como criar [!UICONTROL chamada direta] [!UICONTROL regras].
-* Eventos personalizados: Para obter mais funcionalidades e para a capacidade de anexar dinamicamente uma carga com valores diferentes, você deve definir eventos JavaScript personalizados e ouvi-los em [!DNL Experience Platform Launch], onde é possível usar a carga para definir variáveis e enviar os dados para o Adobe Analytics. É mais provável que você precise dessa funcionalidade e, portanto, essa opção é considerada a prática recomendada. No entanto, cada função no site pode determinar qual método será mais apropriado. Vamos avançar neste documento, supondo que você precisará usar esse método de eventos personalizados.
+* [!UICONTROL Regras] de [!UICONTROL chamada direta]: no [!DNL Experience Platform Launch], você pode configurar uma [!UICONTROL regra] de [!UICONTROL chamada direta] que é executada ao ser chamada diretamente da página. Se o carregamento da página ou a ação no site for muito simples, ou se for exclusivo e puder executar um conjunto específico de instruções todas as vezes (definir [!DNL eVar4] como X e acionar [!DNL event2] toda vez), você pode usar uma [!UICONTROL regra] de [!UICONTROL chamada direta]. Consulte a documentação do [!DNL Experience Platform Launch] sobre criação de [!UICONTROL regras] de [!UICONTROL chamada direta].
+* Eventos personalizados: Para obter mais funcionalidades e a capacidade de anexar dinamicamente uma carga com valores diferentes, você deve definir eventos JavaScript personalizados e acompanhá-los no [!DNL Experience Platform Launch], onde é possível usar a carga para definir variáveis e enviar os dados para o Adobe Analytics. É mais provável que você precisará dessa funcionalidade e, portanto, essa opção é considerada a prática recomendada. No entanto, cada função no seu site pode determinar qual método será mais apropriado. Vamos avançar neste documento supondo que você precisará usar esse método de eventos personalizados.
 
-**Exemplos:** neste documento de  [](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) ajuda, há links para exemplos de sites de SPA que foram implementados  [!DNL Analytics] (e outras soluções do Experience Cloud), bem como documentos que descrevem o que foi implementado. Nesses SPA exemplos, os seguintes eventos personalizados foram usados:
+**Exemplos:** [NESTE](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=pt-BR) documento de ajuda, há links para exemplos de sites SPA que implementaram o [!DNL Analytics] (e outras soluções da Experience Cloud), além de documentos que descrevem o que foi implementado. Nessas amostras de SPA, os seguintes eventos personalizados foram usados:
 
-* [!DNL event-view-start]: Esse evento deve ser acionado no início da exibição/estado que está sendo carregado.
-* [!DNL event-view-end]: Esse evento deve ser acionado mesmo quando uma alteração de exibição/estado ocorrer e todos os componentes SPA na página tiverem terminado de ser carregados. Normalmente, esse é o evento que aciona uma chamada para o Adobe Analytics.
-* [!DNL event-action-trigger]: Esse evento deve ser acionado quando qualquer evento ocorrer na página, exceto o carregamento de visualização/estado. Pode ser um evento de clique ou uma alteração de conteúdo menor sem uma alteração de exibição.
+* [!DNL event-view-start]: Esse evento deve ser disparado no início da exibição/estado que está sendo carregado.
+* [!DNL event-view-end]: Esse evento deve ser disparado mesmo quando uma alteração de exibição/estado ocorrer e todos os componentes de SPA na página tiverem sido carregados. Normalmente, esse é o evento que aciona uma chamada no Adobe Analytics.
+* [!DNL event-action-trigger]: Esse evento deve ser disparado quando qualquer evento ocorrer na página, exceto o carregamento de exibição/estado. Esse pode ser um evento de clique ou uma alteração de conteúdo menor sem modificar a exibição.
 
-Consulte as páginas/documentos referenciados acima para obter mais informações sobre como/quando são acionados. Você não precisa usar esses mesmos nomes de evento, mas a funcionalidade listada aqui é uma prática recomendada. O vídeo a seguir mostrará um site de exemplo e onde em [!DNL Experience Platform Launch] para acompanhar os eventos personalizados.
+Consulte as páginas/documentos mencionados acima para obter mais informações sobre como/quando eles são disparados. Você não precisa usar esses mesmos nomes de evento, mas a funcionalidade listada aqui é a prática recomendada. O vídeo a seguir mostrará um site de exemplo e de onde no [!DNL Experience Platform Launch] é possível acompanhar os eventos personalizados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
 
-## Execução de s.t() ou s.tl() no [!DNL Experience Platform Launch] [!UICONTROL Regra] {#running-s-t-or-s-tl-in-the-launch-rule}
+## Execução de s.t() ou s.tl() na [!UICONTROL Regra] do [!DNL Experience Platform Launch] {#running-s-t-or-s-tl-in-the-launch-rule}
 
-Uma das coisas mais importantes a se entender para [!DNL Analytics] ao trabalhar com um SPA é a diferença entre `s.t()` e `s.tl()`. Você acionará um desses métodos em [!DNL Experience Platform Launch] para enviar dados em [!DNL Analytics], mas precisa saber quando enviar cada um.
+Uma das coisas mais importantes para entender sobre o [!DNL Analytics] ao trabalhar com um SPA é a diferença entre `s.t()` e `s.tl()`. Você acionará um desses métodos no [!DNL Experience Platform Launch] para enviar dados para o [!DNL Analytics], mas você precisa saber quando enviar cada um deles.
 
-* **s.t()**  - O &quot;t&quot; representa &quot;track&quot; e é uma exibição de página normal. Mesmo que o URL não seja alterado, a exibição muda o suficiente para *considerar* como uma nova &quot;página&quot;? Em caso positivo, defina a variável s.[!DNL pageName] e use `s.t()` para enviar a chamada para [!DNL Analytics]
+* **s.t()** - O “t” significa “track” e é uma exibição de página normal. Mesmo que a URL não mude, a exibição muda o suficiente para você *considerá-la* uma nova “página”? Se sim, defina a variável s.[!DNL pageName] e use `s.t()` para enviar a chamada para o [!DNL Analytics]
 
-* **s.tl()**  - O &quot;tl&quot; significa &quot;rastrear link&quot; e é usado normalmente para rastrear cliques ou pequenas alterações de conteúdo na página, em vez de uma alteração de tela cheia. Se a alteração na sua página for pequena, para que você não a considere uma &quot;página&quot; totalmente nova, use `s.tl()` e não se preocupe em definir a variável s.pageName , pois [!DNL Analytics] a ignorará.
+* **s.tl()** - O “tl” significa “track link” e é usado normalmente para rastrear cliques ou pequenas alterações de conteúdo na página, em vez de uma alteração de tela inteira. Se a alteração na sua página for pequena, a ponto de você não considerá-la uma “página” totalmente nova, use `s.tl()` e não se preocupe em definir a variável s.pageName, pois ela será ignorada pelo [!DNL Analytics].
 
-**DICA:** Algumas pessoas usam uma diretriz geral de que, se a tela mudar mais de 50%, ela deverá ser considerada uma exibição de página e usada  `s.t()`. Se for menor que 50% de alteração na tela, use `s.tl()`. No entanto, depende totalmente de você e do que você considera uma nova &quot;página&quot; e como você gostaria de rastrear seu site no Adobe Analytics.
+**DICA:** Algumas pessoas usam uma diretriz geral de que, se a tela for alterada em mais de 50%, ela deverá ser considerada uma exibição de página, portanto usa-se `s.t()`. Se a tela for alterada em menos de 50%, usa-se `s.tl()`. No entanto, depende totalmente de você e do que você considera uma nova “página” e como gostaria de rastrear o seu site no Adobe Analytics.
 
-O vídeo a seguir mostra onde/como acionar `s.t()` ou `s.tl()` no Launch by Adobe.
+O vídeo a seguir mostra onde/como acionar o `s.t()` ou o `s.tl()` no Launch by Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
-## Limpando variáveis {#clearing-variables}
+## Limpar variáveis {#clearing-variables}
 
-Ao rastrear seu site com o Adobe Analytics, é claro que você só deseja enviar os dados corretos para [!DNL Analytics] na hora certa. Em um ambiente de SPA, um valor rastreado em uma variável [!DNL Analytics] pode persistir e ser reenviado para [!DNL Analytics], possivelmente quando não queremos mais. Por isso, há uma função na extensão [!DNL Analytics] [!DNL Launch] para apagar as variáveis, de modo que você tenha uma nova tabulação ao executar a próxima solicitação de imagem e enviar dados para [!DNL Analytics].
+Ao rastrear o seu site com o Adobe Analytics, é claro que você só deseja enviar os dados certos para o [!DNL Analytics] na hora certa. Em um ambiente de SPA, um valor rastreado em uma variável do [!DNL Analytics] pode persistir e ser reenviado para o [!DNL Analytics], possivelmente quando não o queremos mais. Por isso, há uma função na extensão [!DNL Analytics] [!DNL Launch] para limpar as variáveis, de modo que você possa começar do zero ao executar a próxima solicitação de imagem e enviar os dados para o [!DNL Analytics].
 
-No diagrama acima, listamos no final do processo, limpando as variáveis *depois de* que você enviou na ocorrência. Na realidade, isso pode ser feito antes OU depois que a ocorrência é enviada, mas deve ser consistente em suas regras [!DNL Experience Platform Launch], de modo que você sempre limpe antes ou depois de definir variáveis e enviá-las. Lembre-se de que, se você for apagar as variáveis *antes de* executar `s.t()`, certifique-se de apagar as variáveis primeiro, em seguida, definir as novas variáveis e, finalmente, enviar os novos dados para [!DNL Analytics].
+No diagrama acima, ela está listada no final do processo, limpando as variáveis *depois* que você envia a ocorrência. Na realidade, isso pode ser feito antes OU depois que a ocorrência é enviada, mas deve ser consistente nas suas regras do [!DNL Experience Platform Launch], para que você sempre limpe antes ou depois de definir as variáveis e enviá-las. Lembre-se, se você for limpar as variáveis *antes* de executar o `s.t()`, certifique-se de limpá-las primeiro, depois definir as novas variáveis e, em seguida, enviar os novos dados para o [!DNL Analytics].
 
-**OBSERVAÇÃO:** a limpeza de variáveis nem sempre é necessária durante a execução  `s.tl()`, pois  `s.tl()` requer o uso da  [!DNL linkTrackVars] variável ao lado dela de cada vez para informar  [!DNL Analytics] quais variáveis serão definidas (adicionadas automaticamente nos bastidores em  [!DNL Experience Platform Launch]). Isso significa que as variáveis errantes geralmente não aparecem ao usar `s.tl()`, mas é muito recomendado usar `s.t()` em um ambiente de SPA. Dito isso, gostaria de recomendar como prática recomendada o uso da função Limpar variáveis para `s.t()` e `s.tl()` em um ambiente SPA, apenas para garantir a coleta de dados de qualidade.
+**OBSERVAÇÃO:** Limpar as variáveis nem sempre é necessário ao executar o `s.tl()`, porque `s.tl()` exige o uso da variável [!DNL linkTrackVars] ao lado dele a cada vez para que o [!DNL Analytics] saiba quais variáveis serão definidas (adicionadas automaticamente em segundo plano no [!DNL Experience Platform Launch]). Isso significa que as variáveis errantes geralmente não aparecem ao usar `s.tl()`, mas isso é bastante recomendado ao usar `s.t()` em um ambiente SPA. Dito isto, gostaria de propor como prática recomendada o uso da função Limpar variáveis para ambos `s.t()` e `s.tl()` em um ambiente SPA, apenas para garantir uma coleta de dados de qualidade.
 
-O vídeo a seguir mostra onde/como apagar as variáveis em [!DNL Launch].
+O vídeo a seguir mostra onde/como limpar as variáveis no [!DNL Launch].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
 
 ## Considerações adicionais {#additional-considerations}
 
-### Janelas de código personalizado em [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
+### Janelas de código personalizado no [!DNL Experience Platform Launch] {#custom-code-windows-in-launch}
 
-Na extensão [!DNL Launch] [!DNL Analytics], há dois lugares onde você pode inserir o código personalizado: A seção [!UICONTROL gerenciamento de biblioteca] e a seção extra &quot;[!UICONTROL Configurar rastreador usando código personalizado]&quot;.
+Na extensão [!DNL Launch] [!DNL Analytics] há dois lugares onde você pode inserir o código personalizado: na seção de [!UICONTROL gerenciamento da biblioteca] e na seção extra “[!UICONTROL Configurar o rastreador usando um código personalizado]”.
 
-![Iniciar janelas de código personalizado do Analytics](assets/launch_analyticscustomcodewindows.png)
+![Janelas de código personalizado no Launch Analytics](assets/launch_analyticscustomcodewindows.png)
 
-É importante saber que qualquer um desses locais realmente só executará o código neles uma vez, quando o carregamento da página inicial ocorrer em sua página de SPA. Se você precisar que o código seja executado em uma alteração de exibição ou em uma ação no site, deverá adicionar uma Ação adicional ao **[!UICONTROL rule]** apropriado (por exemplo, no &quot;carregamento de página: event-view-end&quot; [!UICONTROL rule]), para que o código seja executado sempre que [!UICONTROL rule] for executado. Ao criar essa Ação no [!UICONTROL rule], defina *Extension = Core* e *Action Type = Custom Code*.
+É importante saber que qualquer um desses locais só executará o código uma vez, quando o carregamento da página inicial ocorrer em sua página de SPA. Se precisar que o código seja executado em uma alteração de visualização ou em uma ação no seu site, insira uma ação adicional na **[!UICONTROL regra]** apropriada (Por exemplo, na [!UICONTROL regra] &quot;page load: event-view-end&quot;), para que o código seja executado toda vez que a [!UICONTROL regra] for executada. Ao criar essa ação na [!UICONTROL regra], defina a *Extensão = Principal* e o *Tipo de ação = Código personalizado*.
 
-### SPA &quot;Híbrido&quot;/Sites Regulares {#hybrid-spa-regular-sites}
+### “Híbrido” de SPA/Sites normais {#hybrid-spa-regular-sites}
 
-Alguns sites são uma combinação de páginas &quot;regulares&quot; e páginas de SPA. Nesta instância, será necessário usar uma estratégia que funcione para ambos os tipos de página. Ao configurar seus eventos personalizados no site e acionar as regras em [!DNL Experience Platform Launch], tenha cuidado para não haver ocorrências duplas entrando em [!DNL Analytics] da página, com base em alterações de hash etc. (se foi assim que você optou por acionar a regra [!DNL Experience Platform Launch]). Nesse caso, será necessário suprimir uma das exibições de página para que ela não forneça dados defeituosos no Adobe Analytics.
+Alguns sites são uma combinação de páginas “normais” e páginas de SPA. Nesta instância, será necessário usar uma estratégia que funcione para ambos os tipos de página. Ao configurar os seus eventos personalizados no site e acionar as regras no [!DNL Experience Platform Launch], tenha cuidado para que não haja ocorrências duplas da página entrando no [!DNL Analytics], por conta de alterações de hash etc. (se foi assim que você optou por acionar a regra do [!DNL Experience Platform Launch]). Nesse caso, será necessário suprimir uma das exibições de página para que ela não forneça dados corrompidos no Adobe Analytics.
 
-Se você decidir dividir a funcionalidade em [!UICONTROL rules] separadas para ter mais controle sobre ela, lembre-se/documente que fez isso, para que todas as alterações em uma [!UICONTROL rule] possam ser feitas em outra [!UICONTROL rule] também, protegendo sua integridade de dados [!DNL Analytics].
+Se você decidir dividir a funcionalidade em [!UICONTROL regras] separadas para ter mais controle sobre ela, certifique-se de lembrar/documentar que você fez isso, para que qualquer alteração em uma [!UICONTROL regra] possa também ser feita à outra [!UICONTROL regra], protegendo a integridade dos dados do [!DNL Analytics].
 
-### Integração com [!DNL Target] via A4T {#integration-with-target-via-a4t}
+### Integração com o [!DNL Target] através do A4T {#integration-with-target-via-a4t}
 
-Só um rápido chamado aqui. Se estiver integrando com [!DNL Target] usando A4T, verifique se a solicitação [!DNL Target] e a solicitação [!DNL Analytics] na mesma alteração de exibição têm a mesma SDID. Isso garantirá que seus dados sejam sincronizados corretamente nas soluções.
+Só uma rápida observação. Se estiver integrando com o [!DNL Target] usando o A4T, certifique-se de que a solicitação do [!DNL Target] e a solicitação do [!DNL Analytics] na mesma alteração de exibição têm a mesma SDID. Isso garantirá que os seus dados sejam sincronizados corretamente nas soluções.
 
-Para ver as ocorrências, use um programa de depurador ou analisador de pacotes. Você também pode usar o Experience Cloud Debugger, uma extensão do Chrome que pode ser baixada [HERE](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj). [!DNL Target] O deve ser acionado primeiro na página, para que você também possa verificar isso no console ou no depurador do JavaScript.
+Para ver as ocorrências, use um programa de depurador ou analisador de pacotes. Você também pode usar o Experience Cloud Debugger, uma extensão do Chrome que pode ser baixada [AQUI](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj). O [!DNL Target] deve ser acionado primeiro na página, para que você também possa verificar isso no depurador ou no console do JavaScript.
 
 ## Recursos adicionais {#additional-resources}
 
-* [SPA discussão sobre os fóruns do Adobe](https://forums.adobe.com/thread/2451022)
-* [Sites de arquitetura de referência para mostrar como implementar SPA no Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html)
+* [Discussão sobre SPA nos fóruns da Adobe](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=pt)
+* [Sites de arquitetura de referência para mostrar como implementar SPA no Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=pt-BR)
