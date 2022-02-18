@@ -1,7 +1,7 @@
 ---
 title: Como identificar o servidor de rastreamento do Analytics e os conjuntos de relatórios
 description: Ao configurar o Adobe Analytics ou ao referenciá-lo em outras soluções da Experience Cloud, geralmente é útil ou até necessário conhecer o “Servidor de rastreamento” do Analytics que você está usando, ou também o “Conjunto de relatórios” para o qual você está enviando dados. Este vídeo mostra como localizar ambos os valores, independentemente de você já ter implementado o Adobe Analytics ou não.
-feature: Conceitos básicos de implementação
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '305'
+source-wordcount: '303'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Ao configurar o Adobe Analytics ou ao referenciá-lo em outras soluções da Exp
 
 Depois de implementar o [!DNL Analytics] em um site, você pode encontrar o [!DNL tracking server] e o [!DNL report suite ID] à direita no beacon de rastreamento. O [!DNL tracking server] é o nome do host no beacon, portanto, é fácil encontrá-lo. As IDs do [!UICONTROL conjunto de relatórios] são uma lista separada por vírgulas logo após “/b/ss/” no nome do caminho do beacon.
 
-Para ver o beacon, bem como todas as outras informações que chegam ao [!DNL Analytics] e outras soluções da Experience Cloud, instale a [Extensão do Chrome “Experience Cloud Debugger”](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=pt).
+Para ver o beacon, bem como todas as outras informações que chegam ao [!DNL Analytics] e outras soluções da Experience Cloud, instale a [Extensão do Chrome “Experience Cloud Debugger”](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=pt-BR).
 
 ## Antes da implementação {#before-implementation}
 
