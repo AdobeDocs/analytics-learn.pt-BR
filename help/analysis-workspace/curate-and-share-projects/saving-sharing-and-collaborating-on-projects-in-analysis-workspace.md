@@ -1,6 +1,6 @@
 ---
-title: Salvar, compartilhar e colaborar em projetos na Analysis Workspace
-description: Neste vídeo, saiba como salvar e exportar projetos para você mesmo, enviar projetos para outros recipients e convidar outros para colaborar no seu projeto.
+title: Salvar, compartilhar e colaborar em projetos no Analysis Workspace
+description: Neste vídeo, saiba como salvar e exportar projetos para si mesmo, enviar projetos para outros destinatários e convidar outros para colaborar no seu projeto.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,15 +11,15 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
-# Salvar, compartilhar e colaborar em projetos na Analysis Workspace
+# Salvar, compartilhar e colaborar em projetos no Analysis Workspace
 
-Neste vídeo, saiba como salvar e exportar projetos para você mesmo, enviar projetos para outros recipients e convidar outros para colaborar no seu projeto.
+Neste vídeo, saiba como salvar e exportar projetos para si mesmo, enviar projetos para outros destinatários e convidar outros para colaborar no seu projeto.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
