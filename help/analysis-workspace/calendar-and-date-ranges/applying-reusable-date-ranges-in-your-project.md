@@ -1,24 +1,24 @@
 ---
 title: Aplicação de intervalos de datas reutilizáveis no projeto
-description: O uso de datas e intervalos de datas personalizados em seu produto pode ajudá-lo a participar apenas de informações que contam sua história de dados. Neste vídeo, exploramos alguns locais onde você pode usar intervalos de datas em seu projeto do Analysis Workspace.
+description: O uso de datas e intervalos de datas personalizados em seu produto pode ajudá-lo a filtrar apenas as informações que contam a história de seus dados. Neste vídeo, exploramos alguns locais onde é possível usar intervalos de datas no projeto do Analysis Workspace.
 feature: Calendar
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 338293.jpg
 kt: 9293
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
-workflow-type: tm+mt
+exl-id: a49b4bf3-a28e-4125-a8f9-d46f5531affa
+source-git-commit: ca2683e56d101f540680713483ec3ff6aac57492
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
-
 # Aplicação de intervalos de datas reutilizáveis no projeto
 
-O uso de datas e intervalos de datas personalizados em seu produto pode ajudá-lo a participar apenas de informações que contam sua história de dados. Neste vídeo, exploramos alguns locais onde você pode usar intervalos de datas em seu projeto do Analysis Workspace.
+O uso de datas e intervalos de datas personalizados em seu produto pode ajudá-lo a filtrar apenas as informações que contam a história de seus dados. Neste vídeo, exploramos alguns locais onde é possível usar intervalos de datas no projeto do Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338293/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=en).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=pt-BR).
