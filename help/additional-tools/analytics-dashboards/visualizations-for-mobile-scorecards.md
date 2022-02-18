@@ -1,6 +1,6 @@
 ---
-title: Visualizações para Scorecards para dispositivos móveis
-description: Ao visualizar análises em seu dispositivo móvel, usar as visualizações certas é mais importante do que nunca. Neste vídeo, saiba como adicionar visualizações a projetos de scorecard para dispositivos móveis.
+title: Visualizações para cartões de pontuação móveis
+description: Ao visualizar análises em seu dispositivo móvel, utilizar as visualizações certas é mais importante do que nunca. Neste vídeo, saiba como adicionar visualizações a projetos de cartão de pontuação para dispositivos móveis.
 feature: Analytics Dashboards
 topic: Mobile
 role: User
@@ -8,16 +8,16 @@ level: Beginner
 doc-type: feature video
 thumbnail: 337570.jpg
 kt: 9126
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
-workflow-type: tm+mt
+exl-id: cf9c1f6a-ac07-42f2-be57-305006de86cd
+source-git-commit: c69aecd34b297ab1dd0cbb00a5ed3e3a6212be93
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Visualizações para cartões de pontuação móveis
 
-# Visualizações para Scorecards para dispositivos móveis
-
-Ao visualizar análises em seu dispositivo móvel, usar as visualizações certas é mais importante do que nunca. Neste vídeo, saiba como adicionar visualizações a projetos de scorecard para dispositivos móveis.
+Ao visualizar análises em seu dispositivo móvel, utilizar as visualizações certas é mais importante do que nunca. Neste vídeo, saiba como adicionar visualizações a projetos de cartão de pontuação para dispositivos móveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)
