@@ -1,6 +1,6 @@
 ---
 title: Aplicação de segmentos ao projeto do Analysis Workspace
-description: Neste vídeo, saiba como limitar os dados nas tabelas e visualizações aplicando segmentos aos dados.
+description: Neste vídeo, aprenda a limitar os dados em suas tabelas e visualizações aplicando segmentos aos dados.
 feature: Segmentation
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
 # Aplicação de segmentos ao projeto do Analysis Workspace
 
-Neste vídeo, saiba como limitar os dados nas tabelas e visualizações aplicando segmentos aos dados.
+Neste vídeo, aprenda a limitar os dados em suas tabelas e visualizações aplicando segmentos aos dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=pt-BR).
