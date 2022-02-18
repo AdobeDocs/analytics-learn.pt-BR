@@ -1,7 +1,7 @@
 ---
-title: Projetos programados e habilitados para download no Analysis Workspace
-description: O Analysis Workspace permite agendar e baixar projetos em PDFs e CSVs. Este vídeo mostra como você pode agendar projetos para entrega futura para si mesmo ou para colegas, bem como baixar PDFs de projetos em que está trabalhando.
-feature: Preparar e compartilhar
+title: 'Projetos agendados e habilitados para download no Analysis Workspace '
+description: O Analysis Workspace permite agendar e baixar projetos em PDFs e CSVs. Este vídeo mostra como é possível agendar projetos para entrega futura a si mesmo ou a colegas, e também como baixar PDFs de projetos em que está trabalhando.
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 3%
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
-# Projetos programados e habilitados para download no Analysis Workspace{#scheduled-and-downloadable-projects-in-analysis-workspace}
+# Projetos agendados e habilitados para download no Analysis Workspace {#scheduled-and-downloadable-projects-in-analysis-workspace}
 
-O Analysis Workspace permite agendar e baixar projetos em PDFs e CSVs. Este vídeo mostra como você pode agendar projetos para entrega futura para si mesmo ou para colegas, bem como baixar PDFs de projetos em que está trabalhando.
+O Analysis Workspace permite agendar e baixar projetos em PDFs e CSVs. Este vídeo mostra como é possível agendar projetos para entrega futura a si mesmo ou a colegas, e também como baixar PDFs de projetos em que está trabalhando.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
