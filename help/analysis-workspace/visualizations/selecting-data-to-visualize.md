@@ -1,7 +1,7 @@
 ---
 title: Seleção de dados para visualização no Analysis Workspace
 description: Saiba como controlar com precisão o que é visualizado na Análise de forma livre
-feature: Visualizações
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: b5721a9b-ecdc-4498-8bb9-222ace0dc6dc
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 2%
+workflow-type: ht
+source-wordcount: '38'
+ht-degree: 100%
 
 ---
 
