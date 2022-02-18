@@ -1,7 +1,7 @@
 ---
 title: Como os dados do Analytics são coletados
 description: Como os dados são recebidos de sua página nos relatórios no Adobe Analytics? Este vídeo mostra como.
-feature: Noções básicas do Analytics
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '47'
+source-wordcount: '45'
 ht-degree: 100%
 
 ---
