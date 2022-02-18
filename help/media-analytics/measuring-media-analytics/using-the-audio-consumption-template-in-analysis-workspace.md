@@ -1,6 +1,6 @@
 ---
-title: Utilização do modelo de consumo de áudio no Analysis Workspace
-description: Este vídeo descreve o modelo de Consumo de áudio no Analysis Workspace, que está disponível pronto para uso para a Análise de áudio.
+title: Utilização do modelo de Consumo de áudio no Analysis Workspace
+description: Este vídeo descreve o modelo de Consumo de áudio no Analysis Workspace, que está disponível e pronto para uso para áudio do Analytics.
 feature: Panels
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 08131913-cb39-4c58-a322-da1e83442e84
 source-git-commit: b15c7365a354f47edbb2c7661efb68bbc05758b9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
-# Usar o [!UICONTROL Consumo de áudio] Modelo no Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
+# Utilização do modelo de [!UICONTROL Consumo de áudio] no Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}
 
-Este vídeo descreve as [!UICONTROL Consumo de áudio] no Analysis Workspace, que está disponível pronto para uso para [!DNL Audio Analytics].
+Este vídeo descreve o modelo de [!UICONTROL Consumo de áudio] no Analysis Workspace, que está disponível e pronto para uso para [!DNL Audio Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
-[!DNL Audio Analytics] conecta o envolvimento de áudio da transmissão dos ouvintes com seu comportamento digital completo, para entender quem está ouvindo onde, quando e com que frequência avaliar o comportamento do usuário em um mercado de áudio fragmentado normalmente. Ele permite que as empresas meçam o alcance de seus ouvintes e a popularidade de seu conteúdo e como mantê-los envolvidos com base em seus comportamentos e na modelagem por semelhança.
+[!DNL Audio Analytics] conecta o envolvimento de áudio da transmissão dos ouvintes com o comportamento digital completo deles, e assim entender quem está ouvindo, onde e quando, e com que frequência avaliar o comportamento do usuário em um mercado de áudio normalmente fragmentado. Com esse recurso, as empresas podem medir o alcance dos ouvintes, a popularidade do conteúdo e fornecer insights sobre como manter os usuários envolvidos com base no comportamento deles e na modelagem por semelhança.
