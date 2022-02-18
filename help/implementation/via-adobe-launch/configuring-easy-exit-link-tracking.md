@@ -1,7 +1,7 @@
 ---
-title: Configuração do rastreamento fácil de link de saída no Experience Platform Launch
-description: Em apenas alguns cliques na extensão Adobe Analytics no Experience Platform Launch, você pode começar a rastrear links de saída em seu site (links que levam do site para outro site). Este vídeo mostra como configurá-lo.
-feature: Implementação do Launch
+title: Configuração do rastreamento de link de saída fácil no Experience Platform Launch
+description: Em apenas alguns cliques na extensão do Adobe Analytics no Experience Platform Launch, é possível começar a rastrear links de saída do site (links que levam do seu site para outro site). Este vídeo mostra como configurar isso.
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,16 +11,16 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 # Configuração do rastreamento de link de saída fácil no Adobe [!DNL Experience Platform Launch] {#configuring-easy-exit-link-tracking-in-adobe-launch}
 
-Em apenas alguns cliques no Adobe Analytics [!UICONTROL Extension] no Adobe [!DNL Experience Platform Launch], você pode começar a rastrear links de saída em seu site (links que levam do site para outro site). Este vídeo mostra como configurá-lo.
+Em apenas alguns cliques na [!UICONTROL extensão] do Adobe Analytics no Adobe [!DNL Experience Platform Launch], é possível começar a rastrear links de saída do site (links que levam do seu site para outro site). Este vídeo mostra como configurar isso.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12)
 
-No seu site, você pode ter links para outros sites que possui ou para outros sites com os quais você faz parceria. É comum querer saber quantas pessoas estão clicando nesses sites de suas páginas. Com essa opção no Adobe [!DNL Experience Platform Launch], você pode configurar o rastreamento de link de saída de forma rápida e fácil, e até mesmo ajustá-lo às suas necessidades.
+No site, você pode ter links para outros sites que possui ou para outros sites com os quais você faz parceria. É comum querer saber quantas pessoas estão clicando nesses sites a partir de suas páginas. Com essa opção no Adobe [!DNL Experience Platform Launch], é possível configurar o rastreamento de links de saída de maneira rápida e fácil, e até mesmo ajustá-lo às suas necessidades.
