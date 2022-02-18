@@ -6,13 +6,13 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
+exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
 workflow-type: ht
 source-wordcount: '201'
 ht-degree: 100%
 
 ---
-
 
 # Experience League LIVE
 
@@ -93,4 +93,4 @@ Você perdeu um episódio do Experience League LIVE? Perdoamos você. Veja qualq
 
 >[!TIP]
 >
->Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/#dashboard/learning) gratuitos, bem como [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
+>Para obter métodos adicionais de aprendizado, consulte nossos [cursos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning) gratuitos, bem como [tutoriais](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR) individuais.
