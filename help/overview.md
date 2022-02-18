@@ -26,7 +26,7 @@ Bem-vindo ao [!DNL Analytics] Site de tutoriais.  A utilização desses tutoriai
 
 ## Novidades
 
-* **[Clique com o botão direito para ver a Eficiência do Workspace (Vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Clique com o botão direito do mouse para ter eficiência no Workspace (Vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
    *Conheça todos os cliques com o botão direito do mouse no Analysis Workspace e como usá-los. De [!UICONTROL Tabelas de forma livre] a [!UICONTROL Visualizações de fallout], clicar com o botão direito o tornará mais eficiente e proficiente no [!DNL Workspace].*
