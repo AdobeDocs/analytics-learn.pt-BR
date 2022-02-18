@@ -2,7 +2,7 @@
 title: Como o Adobe Analysis Workspace pode mudar sua empresa
 landing-page-description: Com o Analysis Workspace, você pode fazer Análise ad hoc, Análise flexível, Análise de coorte e Análise de fallout.
 description: O Analysis Workspace é uma interface nova e fácil de usar no Adobe Analytics. No Analysis Workspace, você pode fazer Análise Ad hoc, Análise flexível, Análise de coorte e Análise de fallout. Você também pode compartilhar o ambiente de trabalho de análise com todos em sua empresa, e sua função arrastar e soltar permite que todos analisem os dados facilmente e obtenham insights rapidamente.
-feature: Fundamentos do Workspace
+feature: Workspace Basics
 topics: null
 activity: understand
 doc-type: value video
@@ -13,7 +13,7 @@ level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---
