@@ -1,19 +1,19 @@
 ---
 title: Rastreamento de estado (também conhecido como Páginas ou Telas) em um aplicativo móvel com o SDK da Experience Platform
 description: Os estados representam telas ou visualizações no aplicativo. Sempre que um novo estado é exibido em seu aplicativo, por exemplo, quando um usuário navega da home page para o feed de notícias, “trackState” pode ser chamado para enviar o Nome do estado (Nome da página no Analytics), bem como dados adicionais. Este vídeo mostra como fazer isso.
-feature: SDK móvel
+feature: Mobile SDK
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2562
-topic: Dispositivo móvel
+topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '167'
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
