@@ -1,24 +1,24 @@
 ---
-title: Número do resumo e Visualizações de alteração do resumo
-description: Este vídeo aborda como adicionar e configurar o Número do resumo e as Visualizações de alteração do resumo no Analysis Workspace. Essas visualizações fornecem um grande número para que você possa exibir suas métricas mais importantes exatamente onde todos podem vê-las.
-feature: Visualizações
+title: Visualizações do Número do resumo e de Alteração do resumo
+description: Este vídeo mostra como adicionar e configurar as visualizações do Número do resumo e de Alteração do resumo no Analysis Workspace. Essas visualizações fornecem um grande número para que você possa exibir as suas métricas mais importantes onde todos possam vê-las.
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 335564.jpg
 kt: 2136
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+exl-id: 3d60ecdc-4161-4b2d-9615-de410d89358e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
+# Visualizações de Número do resumo e de Alteração do resumo
 
-# Número do resumo e Visualizações de alteração do resumo
-
-Este vídeo aborda como adicionar e configurar o Número do resumo e as Visualizações de alteração do resumo no Analysis Workspace. Essas visualizações fornecem um grande número para que você possa exibir suas métricas mais importantes exatamente onde todos podem vê-las.
+Este vídeo mostra como adicionar e configurar as visualizações do Número do resumo e de Alteração do resumo no Analysis Workspace. Essas visualizações fornecem um grande número para que você possa exibir as suas métricas mais importantes onde todos possam vê-las.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=pt-BR).
