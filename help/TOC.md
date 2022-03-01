@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 99%
 
 ---
@@ -234,8 +234,9 @@ ht-degree: 99%
       + [Manipulação de dados de entrada com regras de processamento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuração de variáveis de tráfego (propriedades)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [Configurar classificações de tráfego](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Configurar variáveis de hierarquia](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Configuração de variáveis no Admin Console](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [Configurar classificações de conversão](administration/manage-report-suites/configure-conversion-classifications.md)
+      + [Configurar as classificações de conversão](administration/manage-report-suites/configure-conversion-classifications.md)
       + [Configuração das variáveis de lista](administration/manage-report-suites/configuring-list-variables.md)
       + [Configurar métodos de descoberta](administration/manage-report-suites/configure-finding-methods.md)
       + [Definir filtros internos do URL](administration/manage-report-suites/set-internal-url-filters.md)
