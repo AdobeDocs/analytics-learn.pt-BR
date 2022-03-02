@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
+source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
-source-wordcount: '2271'
-ht-degree: 99%
+source-wordcount: '2280'
+ht-degree: 98%
 
 ---
 
@@ -230,6 +230,8 @@ ht-degree: 99%
       + [Como definir as configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizar configurações do calendário](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurar a detecção de pesquisa paga](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [Configurar canais de marketing](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [Criar regras de processamento de canal de marketing](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Personalizar menus no Reports &amp; Analytics](administration/manage-report-suites/customize-menus.md)
       + [Manipulação de dados de entrada com regras de processamento](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [Configuração de variáveis de tráfego (propriedades)](administration/manage-report-suites/configuring-traffic-variables-props.md)
