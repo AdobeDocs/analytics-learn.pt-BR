@@ -2,16 +2,13 @@
 title: Mapear variáveis contextData em Props e Evars com regras de processamento
 description: Ao usar as variáveis contextData na implementação do Adobe Analytics, para que seus dados sejam exibidos em relatórios reais, é necessário mapear as variáveis contextData para props/eVars na interface das Regras de processamento. Este vídeo mostra como fazer isso.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 1850
 role: User
 level: Intermediate
+thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: 8ec6674966e2d60f4604dfbd7f9969fc62b9f307
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
