@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
+source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2286'
 ht-degree: 98%
 
 ---
@@ -184,7 +184,7 @@ ht-degree: 98%
       + [Curadoria e compartilhamento no Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Link direto para um projeto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportar para CSV do Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=pt-BR)
+      + [Exportar para CSV e PDF do Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Programação e projetos baixáveis](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Compartilhamento de projetos no Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
