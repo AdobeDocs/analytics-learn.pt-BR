@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
 source-wordcount: '2286'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 98%
       + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Transição de outras plataformas {#transitioning-from-other-platforms}
-      + [Transição de Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
+      + [Transição do Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Noções básicas do Analytics {#analytics-basics}
       + [Botão Testar no Espaço de trabalho no Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Como entender o ciclo do Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
@@ -219,7 +219,7 @@ ht-degree: 98%
 + Administração {#administration}
    + Principais habilidades do administrador {#key-admin-skills}
       + [Criação de uma comunidade fortalecida](administration/key-admin-skills/empowered-community.md)
-      + [Simplifique e gaste menos tempo treinando usuários](administration/key-admin-skills/simplify-training-users.md)
+      + [Simplificar e gastar menos tempo treinando usuários](administration/key-admin-skills/simplify-training-users.md)
       + [Inclusão das pessoas certas na sua equipe do Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
