@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
 source-wordcount: '2299'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -185,7 +185,7 @@ ht-degree: 98%
       + [Curadoria e compartilhamento no Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Link direto para um projeto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportar para CSV e PDF do Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exportar em formato CSV e PDF no Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Programação e projetos baixáveis](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Compartilhamento de projetos no Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
