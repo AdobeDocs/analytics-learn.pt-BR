@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Envie uma lista de perguntas para que sua parte interessada analise antes da reu
 
 As perguntas variam de acordo com a capacidade técnica ou analítica, a estrutura da empresa ou a complexidade do tópico de coleta de dados. Muitas vezes, é útil começar a um nível elevado, com questões sobre toda a organização, depois discutir o papel das partes interessadas no apoio a esses objetivos organizacionais, e assim por diante, aumentando os níveis de detalhe. Em seguida, é possível garantir que os pontos de dados granulares discutidos sejam compatíveis com os objetivos gerais da organização. Ele também permite que você pense criativamente e sugira novas ideias para dados que suportam suas metas.
 
-[Explorar este template](assets/stakeholder-questionnaire.pdf) que contém várias perguntas de amostra para entrevistas das partes interessadas. Reutilize-as ou ajuste-as para preparar perguntas relevantes para suas discussões.
+[Explorar este template](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} contém várias perguntas de amostra para entrevistas das partes interessadas. Reutilize-as ou ajuste-as para preparar perguntas relevantes para suas discussões.
 
 ### 2. Solicitar relatórios de amostra
 
