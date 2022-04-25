@@ -2,22 +2,20 @@
 title: Detecção de anomalias no Report Builder
 description: Saiba como adicionar métricas de detecção de anomalias a solicitações de dados, além de criar gráficos para os dados.
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# [!UICONTROL Detecção de anomalias] no [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+# [!UICONTROL Detecção de anomalias] em [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 Saiba como adicionar [!UICONTROL métricas] de [!UICONTROL detecção de anomalias] às solicitações de dados, além de criar gráficos para os dados.
 
