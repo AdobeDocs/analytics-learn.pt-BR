@@ -10,9 +10,9 @@ thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ Neste vídeo, demonstramos como configurar relatórios de canais de marketing no
 
 >[!NOTE]
 >
->Para maximizar a eficácia dos Canais de marketing para Attribution IQ e Customer Journey Analytics, publicamos alguns [práticas recomendadas revisadas](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=pt-BR).
+>Para maximizar a eficiência dos Canais de marketing para o Attribution IQ e o Customer Journey Analytics, publicamos algumas [práticas recomendadas revisadas](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=pt-BR).
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=pt-BR).
