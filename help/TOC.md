@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
 source-wordcount: '2364'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -158,7 +158,7 @@ ht-degree: 96%
    + Métricas {#metrics}
       + [Compreensão de métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=pt-BR)
-      + [Introdução aos Eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
+      + [Introdução a eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [Trabalhar com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=pt-BR)
       + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + Dimensões {#dimensions}
@@ -225,9 +225,9 @@ ht-degree: 96%
       + [Criação de uma comunidade fortalecida](administration/key-admin-skills/empowered-community.md)
       + [Simplificar e gastar menos tempo treinando usuários](administration/key-admin-skills/simplify-training-users.md)
       + [Inclusão das pessoas certas na sua equipe do Analytics](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [Ganhar um assento à mesa](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [Contagem de histórias impactantes com dados](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [Tradução da linguagem técnica Adobe Analytics de forma não técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [Conquistar um lugar à mesa](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [Contar histórias impactantes com dados](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [Tradução da linguagem técnica do Adobe Analytics para uma forma não técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Trabalhar em várias funcionalidades](administration/key-admin-skills/working-cross-functionally.md)
       + [Você está fazendo as perguntas certas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Configurações da empresa {#company-settings}
@@ -352,7 +352,7 @@ ht-degree: 96%
    + Data Warehouse {#data-warehouse}
       + [Introdução ao Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Enviar solicitação de Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Enviar relatórios de Data Warehouse na extração de dados do Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Enviar relatórios do Data Warehouse no formato de Extração de dados do Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Feeds de dados {#data-feeds}
       + [Interface de gerenciamento de feeds de dados](exporting/data-feeds/data-feeds-management-ui.md)
       + [Baixar a chave de autenticação de feed de dados](exporting/data-feeds/download-the-data-feed-authentication-key.md)
