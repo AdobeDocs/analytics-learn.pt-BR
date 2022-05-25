@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 98%
+source-wordcount: '1283'
+ht-degree: 94%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
-“Conquistar um lugar à mesa.” Essa frase popular é um tema central no mundo dos negócios há anos. Mas o que ela significa? Conquistar um lugar à mesa significa que você faz parte das conversões da tomada de decisão de alto nível. Você não é apenas convidado, seu comentário é valorizado e apreciado. Vou mostrar como conquistar um lugar à mesa ajudará sua empresa e sua carreira como Administrador do Adobe Analytics.
+“Conquistar um lugar à mesa.” Essa frase popular é um tema central no mundo dos negócios há anos. Mas o que ela significa? Conquistar um lugar à mesa significa que você faz parte das conversões da tomada de decisão de alto nível. Você não é apenas convidado, seu comentário é valorizado e apreciado. Vou mostrar como ganhar um assento à mesa ajudará sua empresa e sua carreira como usuário avançado da Adobe Analytics, seja sua função oficial de administrador, analista de dados ou o que for dito em seu cartão de visita.
 
 ## Por que você precisa conquistar um lugar à mesa
 
-Primeiro, vamos esclarecer um aspecto. A função dos analistas de dados evoluiu. Os analistas não podem mais se sentar atrás das telas de seus computadores, focando somente em eVars, eventos e sProps. Você, como o administrador, tem a responsabilidade de garantir que sua empresa esteja tomando as decisões certas orientadas por dados. Mas para fazer isso, você precisa estar onde essas decisões estão sendo tomadas, não processando números em sua mesa.
+Primeiro, vamos esclarecer um aspecto. O papel dos profissionais de dados evoluiu. Eles não podem mais se sentar atrás de suas telas de computador focadas apenas em eVars, eventos e sProps. Você, como o administrador, tem a responsabilidade de garantir que sua empresa esteja tomando as decisões certas orientadas por dados. Mas para fazer isso, você precisa estar onde essas decisões estão sendo tomadas, não processando números em sua mesa.
 
 Aqui estão três razões pelas quais você precisa estar no local correto.
 
