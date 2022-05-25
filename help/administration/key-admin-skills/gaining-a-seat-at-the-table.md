@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # Conquistar um lugar à mesa
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## Por que você precisa conquistar um lugar à mesa
 
-Primeiro, vamos esclarecer um aspecto. A função de administrador do Analytics evoluiu. Os administradores não podem mais ficar atrás das telas dos computadores e se concentrar somente em eVars, eventos e sProps. Você, como o administrador, tem a responsabilidade de garantir que sua empresa esteja tomando as decisões certas orientadas por dados. Mas para fazer isso, você precisa estar onde essas decisões estão sendo tomadas, não processando números em sua mesa.
+Primeiro, vamos esclarecer um aspecto. A função dos analistas de dados evoluiu. Os analistas não podem mais se sentar atrás das telas de seus computadores, focando somente em eVars, eventos e sProps. Você, como o administrador, tem a responsabilidade de garantir que sua empresa esteja tomando as decisões certas orientadas por dados. Mas para fazer isso, você precisa estar onde essas decisões estão sendo tomadas, não processando números em sua mesa.
 
 Aqui estão três razões pelas quais você precisa estar no local correto.
 
