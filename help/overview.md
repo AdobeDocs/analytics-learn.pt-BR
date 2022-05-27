@@ -1,45 +1,44 @@
 ---
 title: Vídeos e tutoriais do Analytics
-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
+description: 'Aproveite ao máximo o Adobe Analytics.  Use esses tutoriais para principal os recursos do Analytics e aproveitar os benefícios de sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos. '
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: null
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: ht
-source-wordcount: '292'
-ht-degree: 100%
+source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 34%
 
 ---
 
-# Visão geral
 
-Bem-vindo ao [!DNL Analytics] Site de tutoriais.  A utilização desses tutoriais, juntamente com a [documentação](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR), oferece melhor entendimento de como usar o Adobe Analytics para obter insights do cliente mais rápido do que nunca.  Para começar,
-* Consulte a seção **“Novidades”** abaixo para obter os utilitários mais recentes
+
+# Tutoriais do Analytics
+
+Aproveite ao máximo [!DNL Adobe Analytics].  Use esses tutoriais para principal os recursos do Analytics e aproveitar os benefícios de sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos.
+
+Para começar,
+* Consulte a **&quot;Novidades&quot;** seção abaixo para obter as atualizações e os recursos mais recentes
 * **As escolhas da equipe** destacam alguns de nossos conteúdos favoritos
 * Explore o conteúdo por tópico e subtópico na **navegação à esquerda**
-* Use o campo de **pesquisa** na parte superior da página se você souber o que está procurando
+* Use o **pesquisa** na parte superior da página, se você souber o que deseja aprender
+
+Experiências de aprendizagem com curadoria por função e nível de habilidade também são oferecidas na seção cursos . Basta fazer logon com sua Adobe ID e navegar até **Aprendizagem > Cursos recomendados** na navegação superior.
 
 ## Novidades
 
-* **[Clique com o botão direito do mouse para ter eficiência no Workspace (Vídeo)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Construtor de scorecards para dispositivos móveis Adobe Analytics (Vídeo)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *Saiba mais sobre como criar e compartilhar scorecards móveis criados em [!DNL Analysis Workspace] para seus usuários executivos.*
 
-   <br>
-   *Conheça todos os cliques com o botão direito do mouse no Analysis Workspace e como usá-los. De [!UICONTROL Tabelas de forma livre] a [!UICONTROL Visualizações de fallout], clicar com o botão direito o tornará mais eficiente e proficiente no [!DNL Workspace].*
+* **[Aplicativo de scorecard móvel do Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *Saiba como baixar o aplicativo de scorecard móvel e visualizar scorecards móveis criados em [!DNL Analysis Workspace].*
 
-* **[Painel Insights rápidos no Analysis Workspace (Vídeo)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *O painel Quick Insights fornece orientação para não analistas e novos usuários do Analysis Workspace para saber como responder a perguntas comerciais de forma rápida e fácil.*
-
-* **[Compartilhamento de projetos no Analysis Workspace (Vídeo)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-
-   <br>
-   *O compartilhamento de projetos é uma maneira de democratizar dados e insights do Analysis Workspace para usuários em sua organização. Você pode colocar recipients em uma das três funções do projeto, dependendo da experiência que você deseja que eles tenham: Editar, Duplicar e Visualizar.*
+* **[Anotações no espaço de trabalho (Vídeo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *Anotações em [!DNL Analysis Workspace] permitir que você comunique com eficácia nuances e insights de dados contextuais com seus usuários em toda a organização. Anote uma data ou intervalo de datas com problemas de dados conhecidos, feriados públicos, inicializações de campanha e assim por diante, para informar melhor os usuários sobre por que eles estão vendo o que veem em gráficos de linha, tabelas e muito mais.*
 
 ## Escolhas da equipe
 
@@ -86,3 +85,7 @@ Bem-vindo ao [!DNL Analytics] Site de tutoriais.  A utilização desses tutoriai
   </td>
 </tr>
 </table>
+
+## Recursos adicionais
+
+[Documentação do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR)
