@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # [!UICONTROL Métricas calculadas]: Seletor de métricas {#calculated-metrics-metric-selector}
 
-Visão geral do Seletor de métricas no Reports and Analytics
+Visão geral do Seletor de métricas no Reports &amp; Analytics
 
 >[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12)
