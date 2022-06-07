@@ -1,6 +1,6 @@
 ---
 title: Utilização de código personalizado ao configurar a extensão do Launch no Analytics
-description: Se você estiver apenas começando a usar o Launch by Adobe, e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender as opções de janela de código personalizado, tempo de execução do código etc.
+description: Se você estiver apenas começando a usar o Experience Platform Launch, e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender as opções de janela de código personalizado, tempo de execução do código etc.
 feature: Launch Implementation
 topics: null
 activity: implement
