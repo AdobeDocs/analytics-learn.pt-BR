@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
 source-wordcount: '2365'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -97,7 +97,7 @@ ht-degree: 98%
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Próximo/Anterior e Resumo da página Painéis e relatórios da Workspace](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Painéis e relatórios próximo/anterior e resumo da página do espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
       + [Entenda seus dados — Tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -364,7 +364,7 @@ ht-degree: 98%
       + [Editar métricas em várias solicitações](exporting/report-builder/edit-metrics-across-requests.md)
       + [Utilização do Report Builder para saber mais sobre a API do Adobe Analytics](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
       + [Introdução ao Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [Agendar uma solicitação de Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Programar uma solicitação do Report Builder](exporting/report-builder/schedule-a-report-builder-request.md)
       + [Use as opções de entrega avançadas do Report Builder para Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + Integrações {#integrations}
    + Experience Cloud {#experience-cloud}
