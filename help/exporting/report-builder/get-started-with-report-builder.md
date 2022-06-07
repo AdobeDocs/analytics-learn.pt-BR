@@ -7,13 +7,13 @@ level: Beginner
 doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
-
 
 # Introdução ao [!DNL Report Builder]
 
