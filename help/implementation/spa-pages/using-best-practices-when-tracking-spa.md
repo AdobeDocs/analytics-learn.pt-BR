@@ -80,7 +80,7 @@ Quando o novo conteúdo for carregado na página ou quando uma ação ocorrer no
 * [!UICONTROL Regras] de [!UICONTROL chamada direta]: no [!DNL Experience Platform Launch], você pode configurar uma [!UICONTROL regra] de [!UICONTROL chamada direta] que é executada ao ser chamada diretamente da página. Se o carregamento da página ou a ação no site for muito simples, ou se for exclusivo e puder executar um conjunto específico de instruções todas as vezes (definir [!DNL eVar4] como X e acionar [!DNL event2] toda vez), você pode usar uma [!UICONTROL regra] de [!UICONTROL chamada direta]. Consulte a documentação do [!DNL Experience Platform Launch] sobre criação de [!UICONTROL regras] de [!UICONTROL chamada direta].
 * Eventos personalizados: Para obter mais funcionalidades e a capacidade de anexar dinamicamente uma carga com valores diferentes, você deve definir eventos JavaScript personalizados e acompanhá-los no [!DNL Experience Platform Launch], onde é possível usar a carga para definir variáveis e enviar os dados para o Adobe Analytics. É mais provável que você precisará dessa funcionalidade e, portanto, essa opção é considerada a prática recomendada. No entanto, cada função no seu site pode determinar qual método será mais apropriado. Vamos avançar neste documento supondo que você precisará usar esse método de eventos personalizados.
 
-**Exemplos:** [NESTE](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=pt-BR) documento de ajuda, há links para exemplos de sites SPA que implementaram o [!DNL Analytics] (e outras soluções da Experience Cloud), além de documentos que descrevem o que foi implementado. Nessas amostras de SPA, os seguintes eventos personalizados foram usados:
+**Exemplos:** [NESTE](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=pt-BR) documento de ajuda, há links para exemplos de sites SPA que implementaram o [!DNL Analytics] (e outras soluções da Experience Cloud), além de documentos que descrevem o que foi implementado. Nessas amostras de SPA, os seguintes eventos personalizados foram usados:
 
 * [!DNL event-view-start]: Esse evento deve ser disparado no início da exibição/estado que está sendo carregado.
 * [!DNL event-view-end]: Esse evento deve ser disparado mesmo quando uma alteração de exibição/estado ocorrer e todos os componentes de SPA na página tiverem sido carregados. Normalmente, esse é o evento que aciona uma chamada no Adobe Analytics.
@@ -100,7 +100,7 @@ Uma das coisas mais importantes para entender sobre o [!DNL Analytics] ao trabal
 
 **DICA:** Algumas pessoas usam uma diretriz geral de que, se a tela for alterada em mais de 50%, ela deverá ser considerada uma exibição de página, portanto usa-se `s.t()`. Se a tela for alterada em menos de 50%, usa-se `s.tl()`. No entanto, depende totalmente de você e do que você considera uma nova “página” e como gostaria de rastrear o seu site no Adobe Analytics.
 
-O vídeo a seguir mostra onde/como acionar o `s.t()` ou o `s.tl()` no Launch by Adobe.
+O vídeo a seguir mostra onde/como acionar o `s.t()` ou o `s.tl()` no Experience Platform Launch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
 
@@ -141,4 +141,4 @@ Para ver as ocorrências, use um programa de depurador ou analisador de pacotes.
 ## Recursos adicionais {#additional-resources}
 
 * [Discussão sobre SPA nos fóruns da Adobe](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/best-practices-for-single-page-apps/m-p/267940?profile.language=pt)
-* [Sites de arquitetura de referência para mostrar como implementar SPA no Experience Platform Launch](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/spa-editor/spa-editor-framework-feature-video-use.html?lang=pt-BR)
+* [Sites de arquitetura de referência para mostrar como implementar SPA no Experience Platform Launch](https://helpx.adobe.com/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html?lang=pt-BR)
