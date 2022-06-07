@@ -96,7 +96,7 @@ Como isso pode ser de ajuda? Lembre-se da jornada da usuária Isabelle da discus
 
 ## Pré-requisitos para [!UICONTROL Análise entre dispositivos]
 
-A CDA está incluída com [[!DNL Analytics Ultimate]](https://helpx.adobe.com/br/legal/product-descriptions/adobe-analytics.html?lang=br). A partir de setembro de 2019, os clientes do [!DNL Analytics Ultimate] que atenderem aos pré-requisitos listados abaixo estarão qualificados para usar a CDA. Os pré-requisitos para a CDA são os seguintes:
+A CDA está incluída com [[!DNL Analytics Ultimate]](https://helpx.adobe.com/br/legal/product-descriptions/adobe-analytics.html). A partir de setembro de 2019, os clientes do [!DNL Analytics Ultimate] que atenderem aos pré-requisitos listados abaixo estarão qualificados para usar a CDA. Os pré-requisitos para a CDA são os seguintes:
 
 * Sua empresa deve ser membro do [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=pt-BR) ou usar um [!DNL Adobe Experience Platform Identity Service Private Graph].
 * Você deve implementar tudo o que for necessário para [!DNL Co-op Graph] ou [!DNL Private Graph] incluindo a [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) e a sincronização da ID com o gráfico. Observe que, além dos requisitos técnicos, o [!DNL Co-op Graph] apresenta outros requisitos legais e contratuais.
