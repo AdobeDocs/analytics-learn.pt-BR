@@ -24,7 +24,7 @@ Os filtros fornecem mais controle sobre quais linhas de dados são compartilhada
 
 >[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12)
 
-No Analysis Workspace, agora oferecemos mais controle de filtragem, com 11 critérios de filtro e operadores E/OU.
+No Analysis Workspace, agora oferecemos mais controle de filtragem, com 11 critérios de filtro e operadores AND/OR.
 
 Para obter mais informações sobre os filtros disponíveis, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=pt-BR#cja-workspace).
 
