@@ -26,4 +26,4 @@ Este vídeo orientará você nas etapas de implementação dos modelos de rastre
 
 ## Recursos adicionais {#additional-resources}
 
-* [Configuração do [!DNL Advertising Analytics] no Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=pt-BR)
+* [Configuração do  [!DNL Advertising Analytics] no Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=pt-BR)
