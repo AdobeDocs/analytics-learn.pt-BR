@@ -1,21 +1,21 @@
 ---
 title: Navegar pela nova página de aterrissagem
-description: Aproveite ao máximo a nova landing page do Google Analytics e seus recursos.
+description: Saiba como aproveitar ao máximo a nova página de aterrissagem do Analytics e seus recursos.
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10295
 thumbnail: 334278.jpeg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: bb141630-a441-4049-afe0-5f9de2a33089
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-
 # Navegar pela nova página de aterrissagem
 
-Aproveite ao máximo a nova landing page do Google Analytics e seus recursos.
+Saiba como aproveitar ao máximo a nova página de aterrissagem do Analytics e seus recursos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
