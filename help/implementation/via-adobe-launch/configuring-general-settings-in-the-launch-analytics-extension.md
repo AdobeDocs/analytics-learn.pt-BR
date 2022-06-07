@@ -1,6 +1,6 @@
 ---
 title: Definição de configurações gerais na extensão do Analytics para o Launch
-description: Se você está começando a usar o Launch by Adobe, e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de definições gerais da configuração, incluindo a configuração do servidor de rastreamento.
+description: Se você está começando a usar o Experience Platform Launch, e a extensão do Adobe Analytics, este vídeo poderá ajudá-lo com a parte de definições gerais da configuração, incluindo a configuração do servidor de rastreamento.
 feature: Launch Implementation
 topics: null
 activity: implement
