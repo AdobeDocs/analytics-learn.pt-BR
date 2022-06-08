@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [Tradução da linguagem técnica do Adobe Analytics para uma forma não técnica](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [Trabalhar em várias funcionalidades](administration/key-admin-skills/working-cross-functionally.md)
       + [Você está fazendo as perguntas certas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + Dicas e práticas recomendadas do administrador {#admin-tips}
+      + [Baixar o playbook de implementação](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Criar convenções de nomenclatura padronizadas](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [Criar modelos de código padronizados](administration/admin-tips/create-standardized-code-templates.md)
+      + [Criar vídeos e treinamento básicos](administration/admin-tips/create-basic-videos-and-training.md)
+      + [Criar um site interno do Adobe Analytics](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [Usar um conjunto de relatórios global](administration/admin-tips/use-a-global-report-suite.md)
+      + [Criar um projeto de notícias e anúncios](administration/admin-tips/create-a-news-and-announcements-project.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
