@@ -1,10 +1,11 @@
 ---
 title: Hacks simples para maior eficiência e autoatendimento - parte 1
-description: 'Conheça os principais desafios que as equipes de análise enfrentam hoje e nossas recomendações para superá-las usando estratégias fora da interface do usuário do Adobe Analytics. '
+description: Conheça os principais desafios que as equipes de análise enfrentam hoje e nossas recomendações para superá-las usando estratégias fora da interface do usuário do Adobe Analytics.
 solution: Analytics
-source-git-commit: 70097d69b165d63fe5a99d5083208b19725ad263
+exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
+source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
@@ -84,3 +85,5 @@ Outros desafios principais que os analistas enfrentam:
    * Criar PME nas várias equipes da organização
    * Construa sua presença ajudando a socializar versões e vitórias
    * Usar horários regulares para ajudar a treinar os formadores e reduzir as tarefas ad hoc
+
+Saiba mais sobre estratégia e liderança de pensamento no [Sucesso do cliente](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) cubo.
