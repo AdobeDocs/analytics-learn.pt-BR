@@ -9,9 +9,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 6%
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ Saiba mais sobre a etapa mais importante da definição dos dados comportamentai
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[Baixar](assets/aa-implementation-playbook.xlsx) uma amostra de modelo do Excel para documentar os requisitos e o design da coleta de dados para suas propriedades digitais.
+[Baixe](assets/aa-implementation-playbook.xlsx) um modelo de amostra do Excel para documentar os requisitos e o design da coleta de dados para suas propriedades digitais.
 
-[Baixar](assets/geometrixx-clothiers-brd-sdr.xlsx) o documento do Excel apresentado neste vídeo e/ou assista ao [vídeo de referência do design da solução](creating-and-maintaining-an-sdr.md).
+[Baixe](assets/geometrixx-clothiers-brd-sdr.xlsx) o documento do Excel apresentado neste vídeo e/ou assista ao [vídeo de referência do design de solução](creating-and-maintaining-an-sdr.md) relacionado.
