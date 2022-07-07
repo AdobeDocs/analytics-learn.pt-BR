@@ -4,9 +4,9 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + Estratégia e liderança de pensamento{#strategy}
-      + [Parte 1 - Hacks simples para maior eficiência](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [Parte 2 - Hacks simples para maior eficiência](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Dominar a inteligência do cliente com o Virtual Analyst e o Segment IQ no Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+   + Estratégia e liderança de pensamento {#strategy}
+      + [Parte 1 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [Parte 2 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Dominar a inteligência de clientes com o Virtual Analyst e o Segment IQ no Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + Transição de outras plataformas {#transitioning-from-other-platforms}
       + [Transição do Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Noções básicas do Analytics {#analytics-basics}
@@ -159,7 +159,7 @@ ht-degree: 97%
       + [Comparação de segmentos no fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [Visualização de Fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Expansão na visualização de fluxo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Melhorias de fluxo em 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Melhorias no Fluxo em 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [Quebra de texto e fluxo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicação de segmentos {#applying-segments}
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
@@ -236,7 +236,7 @@ ht-degree: 97%
       + [Trabalhar em várias funcionalidades](administration/key-admin-skills/working-cross-functionally.md)
       + [Você está fazendo as perguntas certas?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + Dicas e práticas recomendadas do administrador {#admin-tips}
-      + [Baixar o playbook de implementação](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [Baixar o manual de implementação](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [Criar convenções de nomenclatura padronizadas](administration/admin-tips/create-standardized-naming-conventions.md)
       + [Criar modelos de código padronizados](administration/admin-tips/create-standardized-code-templates.md)
       + [Criar vídeos e treinamento básicos](administration/admin-tips/create-basic-videos-and-training.md)
