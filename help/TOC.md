@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: ht
-source-wordcount: '2432'
-ht-degree: 100%
+source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+workflow-type: tm+mt
+source-wordcount: '2422'
+ht-degree: 99%
 
 ---
 
@@ -151,15 +151,12 @@ ht-degree: 100%
       + [Configurações da fonte de dados de tabela e visualização](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Criar um mapa de calor de divisão de tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análise de jornadas do cliente {#analyzing-customer-journeys}
-      + [Entenda seus dados — Fallout &amp; Fluxo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Journey IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Visualização do fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Melhorias na visualização de fallout](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [Fallout multidimensional](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [Comparação de segmentos no fallout](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [Visualização de Fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expansão na visualização de fluxo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Melhorias no Fluxo em 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [Entenda seus dados — fallout e fluxo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Jornada IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Visualização da fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Visualização de fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Expandir na visualização do fluxo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [Melhorias no fluxo de 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [Quebra de texto e fluxo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicação de segmentos {#applying-segments}
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)

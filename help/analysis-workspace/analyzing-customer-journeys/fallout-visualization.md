@@ -1,27 +1,24 @@
 ---
-title: Visualização de Fallout no Analysis Workspace
-description: Este vídeo o orienta pela visualização de Fallout disponível no Analysis Workspace no Adobe Analytics. Use o Fallout para criar funis ou mostrar o fluxo do usuário em fluxos de trabalho importantes do aplicativo/site.
+title: Criar um relatório de visualização de fallout
+description: Saiba mais sobre casos de uso de relatório de fallout e como configurar esse relatório no Analysis Workspace. Entenda como adicionar vários tipos de pontos de contato e como criar e usar segmentos neste componente.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# [!DNL Fallout Visualization] no Analysis Workspace {#fallout-visualization-in-analysis-workspace}
+# Criar um relatório de visualização de fallout
 
-Este vídeo o orienta pela [!DNL Fallout visualization] disponível no Analysis Workspace no Adobe Analytics. Use o [!DNL Fallout] para criar funis ou mostrar o fluxo do usuário nos fluxos de trabalho importantes do aplicativo/site.
+Saiba mais sobre casos de uso de relatório de fallout e como configurar esse relatório em [!DNL Analysis Workspace]. Entenda como adicionar vários tipos de pontos de contato e como criar e usar segmentos neste componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).
