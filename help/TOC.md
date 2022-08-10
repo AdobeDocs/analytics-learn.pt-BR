@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: eac3aedaf58c56a1607ef6ba8b6ca361e26ccd56
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
 workflow-type: tm+mt
-source-wordcount: '2422'
+source-wordcount: '2416'
 ht-degree: 99%
 
 ---
@@ -151,13 +151,10 @@ ht-degree: 99%
       + [Configurações da fonte de dados de tabela e visualização](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Criar um mapa de calor de divisão de tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + Análise de jornadas do cliente {#analyzing-customer-journeys}
-      + [Entenda seus dados — fallout e fluxo](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [Criar uma visualização de fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [Criar uma visualização de fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [Usar fallout e fluxo juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Jornada IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [Visualização da fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [Visualização de fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [Expandir na visualização do fluxo](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [Melhorias no fluxo de 2022](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
-      + [Quebra de texto e fluxo multidimensional](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + Aplicação de segmentos {#applying-segments}
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)

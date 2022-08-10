@@ -1,23 +1,24 @@
 ---
-title: Visualização de fluxo no Analysis Workspace
-description: As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a páginas, canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
+title: Criar uma visualização de fluxo
+description: As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a Páginas, Canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
 feature: Visualizations
-thumbnail: 24045.jpg
-kt: 2279
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 346063.jpg
+kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
-source-git-commit: 5c1acb8df5e4937f53dae2cdea7d0714c41b1c98
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 100%
+ht-degree: 51%
 
 ---
 
-# [!DNL Flow Visualization] no Analysis Workspace {#flow-visualization-in-analysis-workspace}
+# Criar uma visualização de fluxo
 
-As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a páginas, canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
+As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a Páginas, Canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=pt-BR).

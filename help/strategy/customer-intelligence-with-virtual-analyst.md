@@ -3,10 +3,10 @@ title: Dominar a inteligência de clientes com o Virtual Analyst e o Segment IQ
 description: Saiba mais sobre a importância do uso de inteligência artificial e aprendizado de máquina (IA/ML). Veja os benefícios e saiba mais sobre histórias de sucesso reais de clientes globais que usam o Virtual Analyst e o Segment IQ para detectar anomalias, evitar outliers e maximizar o ROI.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1104'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Mantenha-se informado sobre anomalias em seus dados o tempo todo — esteja voc�
 
 Para obter mais informações, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
