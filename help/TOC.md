@@ -101,7 +101,7 @@ ht-degree: 99%
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Painéis e relatórios próximo/anterior e resumo da página do espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Painéis e relatórios próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
       + [Entenda seus dados — Tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -154,7 +154,7 @@ ht-degree: 99%
       + [Criar uma visualização de fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Criar uma visualização de fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Usar fallout e fluxo juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [Jornada IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [Journey IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Aplicação de segmentos {#applying-segments}
       + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -276,7 +276,7 @@ ht-degree: 99%
    + Conceitos básicos de implementação {#implementation-basics}
       + [Primeira implementação](implementation/implementation-basics/first-time-implementation.md)
       + [Como entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR)
-      + [Mapear variáveis contextData em Props e Evars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Mapear variáveis contextData em Props e eVars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Como identificar o servidor de rastreamento do Analytics e os conjuntos de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
