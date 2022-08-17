@@ -4,9 +4,9 @@ description: Saiba mais sobre a importância do uso de inteligência artificial 
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Mantenha-se informado sobre anomalias em seus dados o tempo todo — esteja voc�
 
 Para obter mais informações, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/).
 
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).
