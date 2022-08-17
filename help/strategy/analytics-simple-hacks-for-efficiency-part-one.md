@@ -4,9 +4,9 @@ description: Conheça os principais desafios que as equipes de análise enfrenta
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ Outros desafios principais que os analistas enfrentam:
    * Construa a presença deles ajudando a divulgar versões e vitórias
    * Use o horário comercial para ajudar a capacitar os treinadores e reduzir as solicitações ad hoc
 
-Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Saiba mais sobre estratégia e liderança de pensamento na central de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).
