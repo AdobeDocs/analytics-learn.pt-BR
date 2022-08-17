@@ -1,6 +1,6 @@
 ---
 title: Criar uma visualização de fluxo
-description: As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a Páginas, Canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
+description: As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a páginas, canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 # Criar uma visualização de fluxo
 
-As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a Páginas, Canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
+As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a páginas, canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
