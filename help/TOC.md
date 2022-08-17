@@ -4,9 +4,9 @@ user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2416'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 99%
       + [Navegar pela nova página de aterrissagem](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Atualizações de página de aterrissagem do Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [Criação de novos projetos do Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [Criação de um projeto do Espaço de trabalho do zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [Criação de um projeto do Workspace do zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Criar e gerenciar modelos personalizados no Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Modelos padrão no Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -82,7 +82,7 @@ ht-degree: 99%
       + [Modelo do tutorial de treinamento no Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copiar e inserir no Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Criar um sumário](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [Clique com o botão direito do mouse para obter eficiência do Espaço de trabalho](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Clique com o botão direito do mouse para obter eficiência do Workspace](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [Atalhos de teclado](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [Anotações no Analysis Workspace](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Barra de menus](analysis-workspace/navigating-workspace-projects/menu-bar.md)
