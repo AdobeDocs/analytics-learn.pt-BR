@@ -4,9 +4,9 @@ description: Conheça os principais desafios que as equipes do Analytics enfrent
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '802'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -36,19 +36,19 @@ Um autoatendimento eficaz geralmente é um exercício de eliminação de barreir
 
 1. Domine o clique com o botão direito do mouse.
 
-   * Existem várias opções de clique com o botão direito do mouse no [!UICONTROL espaço de trabalho] para economizar seu tempo.
+   * Existem várias opções de clique com o botão direito do mouse no [!UICONTROL Workspace] para economizar seu tempo.
 
 1. Filtros suspensos.
 
 1. Teclas de atalho.
 
-## Otimizar o desempenho do espaço de trabalho
+## Otimizar o desempenho do Workspace
 
 A página de ajuda de desempenho do [!UICONTROL Analysis Workspace] mostra os fatores de rede, navegador e projeto que afetam o desempenho do projeto. Impulsione a adoção criando painéis mais rápidos. Ele também vincula dicas de otimização e pode ser acessado no menu [!UICONTROL Espaço de trabalho] em **[!UICONTROL Ajuda]** > **[!UICONTROL Desempenho]**.
 
-## Intra/Inter-linking do painel do espaço de trabalho
+## Intra/Inter-linking do painel do Workspace
 
-Use a vinculação de painéis para melhorar o desempenho do [!UICONTROL espaço de trabalho]. Use painéis recolhidos para dividir relatórios grandes sem sobrecarregar os usuários com a necessidade de entender e alternar entre vários projetos do espaço de trabalho.
+Use a vinculação de painéis para melhorar o desempenho do [!UICONTROL Workspace]. Use painéis recolhidos para dividir relatórios grandes sem sobrecarregar os usuários com a necessidade de entender e alternar entre vários projetos do Workspace.
 
 ## Criar um repositório de conhecimento
 
@@ -58,7 +58,7 @@ Use a vinculação de painéis para melhorar o desempenho do [!UICONTROL espaço
 * Compartilhe uma programação de horário comercial.
 * Adicione links para informações sobre correções de erros e versões do [!DNL Analytics].
 
-## Espaço de trabalho do tutorial de treinamento
+## Workspace do tutorial de treinamento
 
 O tutorial de treinamento do [!UICONTROL Analysis Workspace] orienta os usuários sobre a terminologia e as etapas comuns para a construção de seu primeiro projeto de análise no [!UICONTROL espaço de trabalho]. Esse modelo está disponível como um modelo padrão no modal [!UICONTROL Novo projeto] para que você possa criar seus próprios tutoriais, permitindo adaptá-los aos casos de uso exclusivos de sua organização e da estrutura de dados (eVars, eventos personalizados etc.). Esta é uma forma de capacitação escalável e automatizada.
 
@@ -92,8 +92,8 @@ Use anotações para criar referências à documentação da solução do produt
 
 ## API de relatórios Adobe 2.0
 
-Aproveite a API de relatórios para mover relatórios padrão do [!UICONTROL espaço de trabalho] para relatórios e painéis programados. Além disso, aproveite o [!UICONTROL Analysis Workspace] para criar solicitações de API.
+Aproveite a API de relatórios para mover relatórios padrão do [!UICONTROL Workspace] para relatórios e painéis programados. Além disso, aproveite o [!UICONTROL Analysis Workspace] para criar solicitações de API.
 
 Esperamos que este artigo sobre estratégias da ferramenta tenha sido útil. Para obter mais informações sobre soluções eficazes que forneçam maior eficiência fora da plataforma do Adobe Analytics, clique [aqui](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing).
 
-Saiba mais sobre estratégia e liderança de pensamento no hub de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html).
+Saiba mais sobre estratégia e liderança de pensamento no hub de [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=pt-BR).
