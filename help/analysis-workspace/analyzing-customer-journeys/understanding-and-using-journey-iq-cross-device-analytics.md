@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '1641'
-ht-degree: 100%
+source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+workflow-type: tm+mt
+source-wordcount: '1529'
+ht-degree: 93%
 
 ---
 
@@ -55,7 +55,7 @@ Continue lendo para saber mais sobre:
 
 ## Como a [!DNL Cross-Device Analytics] funciona
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] integra-se ao [!DNL Adobe Experience Platform Identity Service], utilizando tanto o [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=pt-BR) ou o [!DNL Private Graph] para identificar como os dispositivos são mapeados às pessoas. Em seguida, ele usa essa inteligência para criar uma visualização entre dispositivos do comportamento do usuário. A CDA inclui recursos e ferramentas imbatíveis para ajudar sua empresa a entender o uso de vários dispositivos e a experiência do cliente nesses dispositivos em suas interações com a sua marca. Ela está uma camada abaixo do Analysis Workspace para fornecer um insight profundo sobre a análise de públicos-alvo com base em pessoas e sobre a atribuição, segmentação e análise de jornada entre dispositivos usando ferramentas poderosas como o [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] e [!DNL Attribution IQ].
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] integra-se ao [!DNL Adobe Experience Platform Identity Service], utilizando o [!DNL Device Graph] para identificar como os dispositivos são mapeados para pessoas. Em seguida, ele usa essa inteligência para criar uma visualização entre dispositivos do comportamento do usuário. A CDA inclui recursos e ferramentas imbatíveis para ajudar sua empresa a entender o uso de vários dispositivos e a experiência do cliente nesses dispositivos em suas interações com a sua marca. Ela está uma camada abaixo do Analysis Workspace para fornecer um insight profundo sobre a análise de públicos-alvo com base em pessoas e sobre a atribuição, segmentação e análise de jornada entre dispositivos usando ferramentas poderosas como o [!UICONTROL Fallout], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] e [!DNL Attribution IQ].
 
 ### O [!DNL Cross-Device Virtual Report Suite]
 
@@ -82,13 +82,13 @@ Termine a configuração do VRS e salve-a. O VRS da CDA será exibido no Analysi
 
 ### Histórico de reiteração
 
-Às vezes, pode levar um tempo para que seus usuários faça logon e para o [!DNL Co-op Graph] ou o [!DNL Private Graph] identificá-los e mapear os dispositivos de todos eles em conjunto. A CDA utiliza uma janela retroativa de até 30 dias, permitindo reiterar um visitante não identificado anteriormente como uma pessoa em até 30 dias retroativos.
+Às vezes, os usuários fazem logon e a variável [!DNL Device Graph] para identificá-los e mapear em conjunto seus dispositivos. A CDA utiliza uma janela retroativa de até 30 dias, permitindo reiterar um visitante não identificado anteriormente como uma pessoa em até 30 dias retroativos.
 
 Como isso pode ser de ajuda? Lembre-se da jornada da usuária Isabelle da discussão acima:
 
 ![[!DNL Cross-Device Analytics] Jornada](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-É possível que a Isabelle não tenha feito o logon até realizar a compra, e que o [!DNL Co-op Graph] ou o [!DNL Private Graph] não mapeou os dispositivos de Isabelle até algum momento depois de sua compra. Mas os 30 dias retroativos da CDA permite que a CDA reitere o comportamento de Isabelle em nível de pessoa, fornecendo a visualização entre dispositivos necessária da jornada dela.
+É possível que Isabelle não tenha feito o login até antes de realizar a compra e que a variável [!DNL Device Graph] não mapeou os dispositivos de Isabelle até algum momento depois de sua compra. Mas os 30 dias retroativos da CDA permite que a CDA reitere o comportamento de Isabelle em nível de pessoa, fornecendo a visualização entre dispositivos necessária da jornada dela.
 
 >[!NOTE]
 >
@@ -98,12 +98,11 @@ Como isso pode ser de ajuda? Lembre-se da jornada da usuária Isabelle da discus
 
 A CDA está incluída com [[!DNL Analytics Ultimate]](https://helpx.adobe.com/br/legal/product-descriptions/adobe-analytics.html). A partir de setembro de 2019, os clientes do [!DNL Analytics Ultimate] que atenderem aos pré-requisitos listados abaixo estarão qualificados para usar a CDA. Os pré-requisitos para a CDA são os seguintes:
 
-* Sua empresa deve ser membro do [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=pt-BR) ou usar um [!DNL Adobe Experience Platform Identity Service Private Graph].
-* Você deve implementar tudo o que for necessário para [!DNL Co-op Graph] ou [!DNL Private Graph] incluindo a [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) e a sincronização da ID com o gráfico. Observe que, além dos requisitos técnicos, o [!DNL Co-op Graph] apresenta outros requisitos legais e contratuais.
-* No momento, não é possível usar duas organizações IMS com um único [!DNL Private Graph], portanto, você deve padronizar em uma única organização IMS. Em alguns casos, é possível que um cliente com várias organizações IMS use o [!DNL Co-op Graph] em conjunto com a CDA.
-* O [!DNL Co-op graph] e [!DNL Private Graph], bem como certos componentes do CDA são hospedados no [!DNL Microsoft Azure]. Isso significa que os dados do [!DNL Analytics] são copiados reciprocamente entre o centro de processamento de dados da Adobe e a presença da Adobe no [!DNL Microsoft Azure]. Alguns dados do [!DNL Analytics] serão armazenados no [!DNL Azure]. Sua empresa deve concordar com esse arranjo.
+* Sua empresa deve usar o [!DNL Adobe Experience Platform Identity Service Device Graph].
+* Você deve implementar tudo o necessário para a variável [!DNL Device Graph] incluindo [Experience Cloud ID (ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=pt-BR) e sincronização de ID com o gráfico.
+* No momento, não é possível usar duas organizações IMS com um único [!DNL Device Graph], portanto, você deve padronizar em uma única organização IMS.
+* O [!DNL Device Graph], bem como certos componentes do CDA são hospedados no [!DNL Microsoft Azure]. Isso significa que os dados do [!DNL Analytics] são copiados reciprocamente entre o centro de processamento de dados da Adobe e a presença da Adobe no [!DNL Microsoft Azure]. Alguns dados do [!DNL Analytics] serão armazenados no [!DNL Azure]. Sua empresa deve concordar com esse arranjo.
 * A CDA requer um [!UICONTROL conjunto de relatórios] &quot;entre dispositivos&quot;. Ou seja, o [!UICONTROL conjunto de relatórios] que você usa para a CDA deve incluir dados de vários dispositivos diferentes ou &quot;superfícies&quot;, como Web para desktop, Web para dispositivo móvel e aplicativo para dispositivo móvel. A partir de setembro de 2019, o volume de chamadas do servidor para o [!UICONTROL conjunto de relatórios] deve ter 100MM de chamadas do servidor por dia ou menos. (Os limites do volume de chamadas do servidor aumentarão nos próximos meses.)
-* A partir de setembro de 2019, o [!DNL Co-op Graph] e [!DNL Private Graph] estarão disponíveis somente na América do Norte. A programação para a presença de gráficos na EMEA e APAC será anunciada em breve. Se você estiver nessas regiões, recomendamos que comece a verificar esses pré-requisitos agora, para que esteja pronto para o lançamento quando o gráfico estiver disponível.
 
 ## Interpretação de dados entre dispositivos
 
