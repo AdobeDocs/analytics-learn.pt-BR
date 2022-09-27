@@ -2,19 +2,15 @@
 title: Utilização do Attribution IQ em tabelas de forma livre
 description: O Attribution IQ permite alterar o modelo de atribuição para qualquer um dos dez modelos baseados em regras em uma coluna de Forma livre imediatamente.
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 81%
 
 ---
 
@@ -32,3 +28,7 @@ O [!DNL Attribution IQ] está disponível exclusivamente para o Analysis Workspa
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso: [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponível gratuitamente no Experience League!

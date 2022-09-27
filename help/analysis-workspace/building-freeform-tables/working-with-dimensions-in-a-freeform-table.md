@@ -2,19 +2,15 @@
 title: Trabalhar com dimensões em uma tabela de forma livre
 description: Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
 feature: Dimensions
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '89'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 83%
 
 ---
 
@@ -36,3 +32,7 @@ Tópicos abordados no vídeo, incluindo tempos:
 * Dimensões como filtros (8:30)
 * Detalhamentos (9:48)
 * Classificado, ao longo do tempo e relatórios de tendências (13:11)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso: [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponível gratuitamente no Experience League!

@@ -2,19 +2,15 @@
 title: Criar tabelas de forma livre automaticamente no Analysis Workspace
 description: Solte os componentes diretamente em um projeto, painel ou tabela de forma livre em branco e uma tabela será criada automaticamente em um formato recomendado.
 feature: Freeform Tables
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
 role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 77%
 
 ---
 
@@ -23,3 +19,7 @@ ht-degree: 100%
 Solte os componentes diretamente em um projeto, painel ou tabela de forma livre em branco e uma tabela será criada automaticamente em um formato recomendado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40855/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso: [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponível gratuitamente no Experience League!
