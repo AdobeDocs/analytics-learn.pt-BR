@@ -4,14 +4,13 @@ description: Nesse vídeo, veja como adicionar visualizações de Área e Área 
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
 exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ Nesse vídeo, veja como adicionar visualizações de Área e Área empilhada ao 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=pt-BR#)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso: [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), disponível gratuitamente no Experience League!

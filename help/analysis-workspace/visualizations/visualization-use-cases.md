@@ -4,14 +4,13 @@ description: Quer saber quais produtos estão vendendo melhor? Conheça alguns d
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 79%
 
 ---
 
@@ -22,3 +21,7 @@ Quer saber quais produtos estão vendendo melhor? Conheça alguns dos principais
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso: [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), disponível gratuitamente no Experience League!
