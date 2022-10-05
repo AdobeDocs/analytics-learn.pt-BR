@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
-workflow-type: ht
-source-wordcount: '0'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 A ferramenta de solicitação do [!UICONTROL Data Warehouse], no Adobe Analytics, fornece acesso à consulta de dados brutos. O [!UICONTROL Data Warehouse] pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios programados e baixados. Este vídeo é uma introdução à ferramenta e inclui uma apresentação de como criar um relatório do [!UICONTROL Data Warehouse].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!

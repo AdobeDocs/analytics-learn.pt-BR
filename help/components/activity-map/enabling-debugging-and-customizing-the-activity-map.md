@@ -8,10 +8,10 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 72%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 Saiba como ativar, depurar e personalizar a maneira como o [!UICONTROL Activity Map] é implantado na extensão do Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!

@@ -11,10 +11,10 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '107'
+ht-degree: 79%
 
 ---
 
@@ -25,5 +25,9 @@ O [!DNL Fallout] no Analysis Workspace permite combinar dimensões e métricas c
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
 
 Esse recurso avançado fornece maior flexibilidade ao definir as etapas de usuário que deseja investigar.
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), disponível gratuitamente no Experience League!
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=pt-BR).

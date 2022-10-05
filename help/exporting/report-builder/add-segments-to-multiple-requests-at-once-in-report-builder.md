@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: ht
-source-wordcount: '92'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '116'
+ht-degree: 79%
 
 ---
 
@@ -22,3 +22,7 @@ Este vídeo mostra como é possível usar o [!UICONTROL Report Builder] para adi
 >[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!

@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 Às vezes, você pode precisar entrar em contato com a Adobe em caso de falha na entrega do feed de dados ou para solicitar o reenvio de um arquivo de feed de dados. É simples para a equipe de suporte ao cliente atender a essas solicitações se a ID do feed de dados for fornecida pelo cliente.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!

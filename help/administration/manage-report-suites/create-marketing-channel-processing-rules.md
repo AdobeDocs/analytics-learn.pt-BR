@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
-source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '109'
+ht-degree: 79%
 
 ---
 
@@ -27,3 +27,7 @@ Neste vídeo, abordamos como configurar regras de processamento para canais de m
 >Para maximizar a eficiência dos Canais de marketing para o Attribution IQ e o Customer Journey Analytics, publicamos algumas [práticas recomendadas revisadas](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=pt-BR).
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!

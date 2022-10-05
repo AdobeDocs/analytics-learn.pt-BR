@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '132'
+ht-degree: 81%
 
 ---
 
@@ -24,3 +24,7 @@ Agora é possível editar [!UICONTROL métricas] em várias solicitações de da
 Essa funcionalidade é uma adição aos recursos existentes para edição de [!UICONTROL conjuntos de relatórios], [!UICONTROL intervalos de datas], [!UICONTROL granularidade] e [!UICONTROL segmentos] em solicitações. A edição de solicitações em massa pode ser feita a partir do menu do botão direito do mouse ou em “[!UICONTROL Editar várias]” na janela Gerenciar.
 
 Para obter mais informações sobre esse recurso, consulte [a documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!

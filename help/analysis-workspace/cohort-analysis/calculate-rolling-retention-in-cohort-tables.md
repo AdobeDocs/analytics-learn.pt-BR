@@ -1,8 +1,7 @@
 ---
-title: 'Calcular o intervalo de retenção em tabelas de coorte '
+title: Calcular o intervalo de retenção em tabelas de coorte
 description: A configuração do intervalo de cálculo nas tabelas de coorte pode ser usada para analisar os coortes de todos os períodos, para entender como os mesmos usuários são retidos (ou churn) ao longo do tempo.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 2481
 role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 79%
 
 ---
 
@@ -25,3 +24,7 @@ A configuração do intervalo de cálculo nas [!UICONTROL tabelas de coorte] pod
 >[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo é parte de um curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), disponível gratuitamente no Experience League!
