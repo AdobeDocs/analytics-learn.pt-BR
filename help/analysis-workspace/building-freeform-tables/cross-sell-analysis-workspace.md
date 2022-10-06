@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ O relatório de [!UICONTROL venda cruzada] no [!DNL Reports & Analytics] exibe a
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso: [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), que está disponível gratuitamente na Experience League.
