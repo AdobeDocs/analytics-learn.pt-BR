@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -30,6 +30,8 @@ Para começar,
 
 Experiências de aprendizagem com curadoria por função e nível de habilidade também são oferecidas na seção de cursos. Basta fazer logon com sua Adobe ID e navegar até **Aprendizagem > Cursos recomendados** na navegação superior.
 
+<div id="whats-new-section">
+
 ## Novidades
 
 * **[Aplicativo de cartão de pontuação móvel do Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ Experiências de aprendizagem com curadoria por função e nível de habilidade 
 
 * **[Anotações no espaço de trabalho (Vídeo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    As *anotações no [!DNL Analysis Workspace] permitem que você comunique com eficiência nuances de dados contextuais e insights para seus usuários em toda a organização. Anote uma data ou intervalo de datas com problemas de dados conhecidos, feriados públicos, inicializações de campanha e assim por diante. Isso informa os usuários por que eles veem irregularidades em gráficos de linha, tabelas e muito mais.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## Escolhas da equipe
 
@@ -83,6 +89,8 @@ Experiências de aprendizagem com curadoria por função e nível de habilidade 
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Recursos adicionais
 
