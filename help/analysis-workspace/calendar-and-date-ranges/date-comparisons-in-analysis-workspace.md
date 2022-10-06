@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 85%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,4 +26,9 @@ Para obter mais informações sobre esse recurso, consulte a [documentação](ht
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso: [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), disponível gratuitamente no Experience League!
+> Este vídeo faz parte de dois cursos:
+>
+> * [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [Filtrar seus dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR)
+>
+> Ambos estão disponíveis gratuitamente no Experience League!
