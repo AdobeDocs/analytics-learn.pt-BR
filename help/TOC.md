@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2429'
 ht-degree: 99%
 
 ---
@@ -16,15 +16,16 @@ ht-degree: 99%
 + [Tutoriais do Analytics](overview.md)
 + Introdução ao Analytics {#intro-to-analytics}
    + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
-      + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-      + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-      + [Caso de uso do cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-      + [Caso de uso do cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-      + [Caso de uso do cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-      + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-      + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + [O que é o analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+   + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+   + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+   + [Caso de uso do cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+   + [Caso de uso do cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+   + [Caso de uso do cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+   + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+   + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+   + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Estratégia e liderança de pensamento {#strategy}
       + [Parte 1 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Parte 2 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
