@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -41,7 +41,12 @@ Experiências de aprendizagem com curadoria por função e nível de habilidade 
    As *anotações no [!DNL Analysis Workspace] permitem que você comunique com eficiência nuances de dados contextuais e insights para seus usuários em toda a organização. Anote uma data ou intervalo de datas com problemas de dados conhecidos, feriados públicos, inicializações de campanha e assim por diante. Isso informa os usuários por que eles veem irregularidades em gráficos de linha, tabelas e muito mais.*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## Escolhas da equipe
