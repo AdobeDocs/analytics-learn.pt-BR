@@ -2,18 +2,14 @@
 title: Uso de filtros suspensos no Analysis Workspace
 description: Neste vídeo, você aprenderá a usar os filtros suspensos no Analysis Workspace para alterar dinamicamente o conteúdo de um painel.
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '177'
+source-wordcount: '203'
 ht-degree: 100%
 
 ---
@@ -29,3 +25,7 @@ A área de destino do painel agora tem recursos suspensos de filtragem. Os filtr
 Os menus suspensos são uma maneira útil de consolidar projetos e painéis. Por exemplo, se você tiver várias versões de um projeto que fornece relatórios específicos de país, é possível recolher esses projetos em um único projeto e adicionar um menu suspenso de país para que os usuários possam alternar entre eles.
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
