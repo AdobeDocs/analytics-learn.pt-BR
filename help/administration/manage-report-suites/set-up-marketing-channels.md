@@ -10,9 +10,9 @@ thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
