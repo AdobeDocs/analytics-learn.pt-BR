@@ -12,9 +12,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ffc3863c-4875-4502-a572-b344a5ec34dc
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Os plug-ins de implementação são partes do código JavaScript que podem ser a
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.
