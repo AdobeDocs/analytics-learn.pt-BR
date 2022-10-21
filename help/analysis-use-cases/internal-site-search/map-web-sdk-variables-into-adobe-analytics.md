@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Para obter uma lista das variáveis mapeadas automaticamente do SDK da Web para 
 
 >[!INFO]
 >
-> Este vídeo faz parte de vários cursos, [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR) e [Implementação e medição da pesquisa interna do site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponível gratuitamente no Experience League!
+> Este vídeo faz parte dos cursos [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR) e [Implementação e medição da pesquisa interna do site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), que estão disponíveis gratuitamente na Experience League.
