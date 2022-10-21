@@ -7,9 +7,9 @@ thumbnail: 23975.jpg
 role: User
 level: Beginner
 exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '106'
+source-wordcount: '132'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ Ao configurar e personalizar seu projeto no Analysis Workspace, pode ser necess�
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo faz parte do curso [Filtragem de dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), disponível gratuitamente na Experience League!
