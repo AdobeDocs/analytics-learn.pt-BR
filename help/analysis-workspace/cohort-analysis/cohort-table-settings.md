@@ -11,9 +11,9 @@ role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ Para obter mais informações sobre análises de [!UICONTROL coorte] visite a [d
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
