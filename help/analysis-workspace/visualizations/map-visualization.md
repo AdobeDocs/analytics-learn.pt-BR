@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -34,4 +34,4 @@ Para obter mais informações sobre essa [!UICONTROL visualização], consulte a
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso: [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Usar visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
