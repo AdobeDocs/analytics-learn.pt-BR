@@ -12,20 +12,20 @@ role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # Melhorias na [!DNL Fallout Visualization] no Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-Este vídeo mostra atualizações na [!DNL Fallout Visualization] que foram altamente solicitados pelos clientes, incluindo etapas diretas ou eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão de pontos de contato com tendência ao longo do tempo.
+Este vídeo mostra atualizações na [!DNL Fallout Visualization] que foram bastante solicitadas pelos clientes, incluindo etapas diretas comparadas com eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão dos pontos de contato em tendência ao longo do tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).
