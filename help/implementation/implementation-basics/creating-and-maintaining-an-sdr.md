@@ -1,5 +1,5 @@
 ---
-title: Criar e manter um documento de Referência de design da solução (SDR)
+title: Criação e manutenção de um documento de Referência de design de solução (SDR)
 description: O documento Referência de design de solução (SDR) é o blueprint dos requisitos comerciais e do design da coleta de dados do Analytics em suas propriedades digitais. Saiba como criar e manter este documento como a fonte da verdade para sua solução de análise.
 feature: Implementation Basics
 role: Developer, Data Engineer
@@ -8,13 +8,13 @@ kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
-# Criar e manter um documento de Referência de design da solução (SDR){#create-and-maintain-a-solution-design-reference-document}
+# Criação e manutenção de um documento de Referência de design de solução (SDR){#create-and-maintain-a-solution-design-reference-document}
 
 O documento Referência de design de solução (SDR) é o blueprint dos requisitos comerciais e do design da coleta de dados do Analytics em suas propriedades digitais. Saiba como criar e manter este documento como a fonte da verdade para sua solução de análise.
 
@@ -26,4 +26,4 @@ O documento Referência de design de solução (SDR) é o blueprint dos requisit
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.
