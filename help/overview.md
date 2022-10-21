@@ -1,6 +1,6 @@
 ---
 title: Vídeos e tutoriais do Analytics
-description: Aproveite ao máximo o Adobe Analytics. Use estes tutoriais para conhecer os recursos do Analytics e aproveitar os benefícios de sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos.
+description: Aproveite ao máximo o Adobe Analytics. Use esses tutoriais para dominar os recursos do Analytics e aproveitar os benefícios na sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -11,7 +11,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 80%
+ht-degree: 99%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Tutoriais do Analytics
 
-Aproveite ao máximo o [!DNL Adobe Analytics]. Use estes tutoriais para conhecer os recursos do Analytics e aproveitar os benefícios de sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos.
+Aproveite ao máximo o [!DNL Adobe Analytics]. Use esses tutoriais para dominar os recursos do Analytics e aproveitar os benefícios na sua empresa. Esse conteúdo é adequado para administradores, analistas de dados, profissionais de marketing, desenvolvedores e arquitetos.
 
 Para começar,
 
@@ -38,7 +38,7 @@ Experiências de aprendizagem com curadoria por função e nível de habilidade 
    *Saiba como baixar o aplicativo de cartão de pontuação móvel e visualizar cartões de pontuação móveis criados no [!DNL Analysis Workspace].*
 
 * **[Anotações no espaço de trabalho (Vídeo)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   As *anotações no [!DNL Analysis Workspace] permitem que você comunique com eficiência nuances de dados contextuais e insights para seus usuários em toda a organização. Anote uma data ou intervalo de datas com problemas de dados conhecidos, feriados públicos, inicializações de campanha e assim por diante. Isso informa os usuários por que eles veem irregularidades em gráficos de linha, tabelas e muito mais.*
+   As *anotações no [!DNL Analysis Workspace] permitem que você comunique com eficiência nuances de dados contextuais e insights para seus usuários em toda a organização. Crie uma anotação em uma data ou intervalo de datas com problemas de dados conhecidos, feriados públicos, inicializações de campanha e assim por diante. Isso informa os usuários sobre o motivo de eles verem irregularidades em gráficos de linha, tabelas e muito mais.*
 
 </div>
 
