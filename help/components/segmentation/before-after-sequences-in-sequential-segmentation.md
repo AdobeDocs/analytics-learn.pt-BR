@@ -7,9 +7,9 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,8 @@ Esse vídeo explica como [!UICONTROL segmentar] no Adobe Analytics para obter so
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-## Vídeos relacionados
-
-[Segmentação sequencial no Adobe Analytics](sequential-segmentation.md)
-
-## Informações adicionais 
-
 Para obter mais informações sobre este tópico, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=pt-BR).
+
+>[!INFO]
+>
+> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
