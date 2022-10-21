@@ -10,9 +10,9 @@ thumbnail: 335738.jpg
 kt: KT-8458
 exl-id: a26119fd-e296-402b-8b0c-f588295bd8b2
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '173'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ As regras de bot permitem remover o tráfego gerado pelos spiders e bots conheci
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
