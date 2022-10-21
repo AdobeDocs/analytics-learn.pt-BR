@@ -11,9 +11,9 @@ role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Depois de definir as variáveis e os eventos que serão usados na implementaçã
 
 >[!INFO]
 >
-> Este vídeo faz parte de vários cursos [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) e [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte dos cursos [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) e [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), que estão disponíveis gratuitamente na Experience League.
