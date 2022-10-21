@@ -9,9 +9,9 @@ thumbnail: 335741.jpg
 kt: 8461
 exl-id: fc5f251b-120b-487c-a415-1949df62d32f
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '159'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ O Gerenciador de segurança permite controlar o acesso aos dados de relatórios.
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
