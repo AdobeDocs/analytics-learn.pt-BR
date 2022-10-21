@@ -1,5 +1,5 @@
 ---
-title: Criador de Scorecard dos painéis do Adobe Analytics
+title: Criador de cartões de pontuação dos painéis do Adobe Analytics
 description: Neste vídeo, aprenda a criar e compartilhar “Scorecards” no Analysis Workspace para serem exibidos nos painéis do Adobe Analytics (aplicativo para dispositivos móveis).
 feature: Analytics Dashboards
 role: User
@@ -9,13 +9,13 @@ thumbnail: 34544.jpg
 kt: 5286
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# Criador de Scorecard dos painéis do Adobe Analytics
+# Criador de cartões de pontuação dos painéis do Adobe Analytics
 
 Neste vídeo, aprenda a criar e compartilhar “Scorecards” no Analysis Workspace para serem exibidos nos painéis do Adobe Analytics (aplicativo para dispositivos móveis).
 
@@ -25,4 +25,4 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
