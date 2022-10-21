@@ -9,9 +9,9 @@ thumbnail: 333604.jpg
 kt: 7996
 exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Neste vídeo, conheça as etapas da implementação de variáveis de pesquisa in
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Implementação e medição da pesquisa interna do site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Implementação e medição de pesquisa interna de site](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search), que está disponível gratuitamente na Experience League.
