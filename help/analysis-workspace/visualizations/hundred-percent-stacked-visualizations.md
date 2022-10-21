@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Gráficos empilhados são úteis para representar partes de um todo em uma tend�
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso: [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Usar visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
