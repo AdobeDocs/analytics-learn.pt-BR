@@ -3,14 +3,13 @@ title: Modelos de dimensão na segmentação
 description: Os modelos de dimensão estão disponíveis por meio da engrenagem para qualquer dimensão na segmentação. Esses modelos são úteis principalmente para a segmentação sequencial e permitem segmentar valores persistentes de uma dimensão (padrão), instâncias ou instâncias não repetitivas de uma dimensão.
 feature: Segmentation
 thumbnail: 32958.jpg
-team: Technical Marketing
 kt: 4846
 role: User
 level: Beginner
 exl-id: d42f74a9-aa77-4f47-a1a2-f14bd6061996
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '86'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -20,3 +19,7 @@ ht-degree: 100%
 Os modelos de [!UICONTROL dimensão] estão disponíveis por meio da engrenagem para qualquer [!UICONTROL dimensão] na segmentação. Esses modelos são úteis principalmente para a segmentação sequencial e permitem segmentar valores persistentes de uma [!UICONTROL dimensão] (padrão), instâncias ou instâncias não repetitivas de uma [!UICONTROL dimensão].
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
+
+>[!INFO]
+>
+> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
