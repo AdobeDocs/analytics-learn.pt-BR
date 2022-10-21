@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 57bc5a02-6b78-48e2-9b67-85b97fe52d6a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Ao implementar o Adobe Analytics no seu site, a Adobe recomenda validar o que vo
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.
