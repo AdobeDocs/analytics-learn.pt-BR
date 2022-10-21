@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 >[!INFO]
 >
-> Este vídeo faz parte de vários cursos [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) e [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) disponível gratuitamente no Experience League!
+> Este vídeo faz parte de vários cursos [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) e [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponíveis gratuitamente na Experience League!
 
