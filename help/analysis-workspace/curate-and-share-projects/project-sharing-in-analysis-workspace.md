@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Para obter mais informações, consulte a [documentação](https://experiencelea
 
 >[!INFO]
 >
-> Este vídeo é parte de um curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing), disponível gratuitamente no Experience League!
+> Este vídeo faz parte do curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
