@@ -3,7 +3,7 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Analytics.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
+source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
 workflow-type: tm+mt
 source-wordcount: '2429'
 ht-degree: 99%
@@ -15,17 +15,17 @@ ht-degree: 99%
 
 + [Tutoriais do Analytics](overview.md)
 + Introdução ao Analytics {#intro-to-analytics}
-   + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
    + [O que é o analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-   + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-   + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-   + [Caso de uso do cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-   + [Caso de uso do cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-   + [Caso de uso do cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-   + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-   + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-   + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
+      + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [Caso de uso do cliente: ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [Caso de uso do cliente: Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [Caso de uso do cliente: The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [Supersessão do Summit 2019: Viagens e hospitalidade](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Supersessão do Summit 2019: Varejo](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Supersessão do Summit 2019: Alta tecnologia](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Estratégia e liderança de pensamento {#strategy}
       + [Parte 1 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [Parte 2 - Truques simples para aumentar a eficiência](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
@@ -98,7 +98,7 @@ ht-degree: 99%
       + [Utilização do painel Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=pt-BR)
       + [Painel Visualizadores simultâneos de mídia no Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=pt-BR)
-      + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [Usar filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
