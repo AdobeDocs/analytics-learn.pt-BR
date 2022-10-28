@@ -11,7 +11,7 @@ exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ Experiências de aprendizagem com curadoria por função e nível de habilidade 
 
 <div id="staff-picks-section">
 
-## Escolhas do pessoal
+## Escolhas da equipe
 
 <table>
 <tr>

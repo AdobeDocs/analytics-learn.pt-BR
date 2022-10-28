@@ -15,7 +15,7 @@ ht-degree: 99%
 
 + [Tutoriais do Analytics](overview.md)
 + Introdução ao Analytics {#intro-to-analytics}
-   + [O que é o analytics](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
+   + [O que é análise?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
    + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
       + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
@@ -102,7 +102,7 @@ ht-degree: 99%
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [Painéis e relatórios próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Painéis e relatórios de próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
       + [Entenda seus dados — Tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
