@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista a tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2410'
-ht-degree: 98%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -59,16 +59,12 @@ ht-degree: 98%
       + [Visão geral da Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navegar pela nova página de aterrissagem](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Atualizações de página de aterrissagem do Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [Criação de novos projetos do Analysis Workspace](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Criação de um projeto do Workspace do zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Criar e gerenciar modelos personalizados no Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Modelos padrão no Analysis Workspace](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [Utilização de modelos personalizados para capacitar usuários iniciantes do Analysis Workspace](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [Entender como os dados são incluídos em seu projeto do Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Métricas base no Adobe Analytics](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Gerenciamento de componentes no Analysis Workspace](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [Utilização de gerentes de componentes](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
-      + [Seleção de um conjunto de relatórios no Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [Seleção de um Conjunto de relatórios no Analysis Workspace](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Exibir métricas de desempenho do Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + Dicas e truques {#tips-and-tricks}
       + [Sete dicas e truques do Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)

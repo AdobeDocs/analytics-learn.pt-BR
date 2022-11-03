@@ -8,22 +8,22 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # Criar e gerenciar modelos personalizados no Analysis Workspace {#create-and-manage-custom-templates-in-analysis-workspace}
 
-Neste vídeo, você aprenderá a criar modelos personalizados no Analysis Workspace, para que você e sua equipe possam começar com um conjunto específico de relatórios.
+Saiba como usar modelos prontos para uso e criar modelos personalizados no Analysis Workspace, para que você e sua equipe possam começar com um conjunto predefinido de relatórios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-Embora seja ótimo ter [!UICONTROL Modelos padrão da Adobe], às vezes você quer usar seu próprio modelo. Agora você pode criar qualquer projeto em seu próprio modelo personalizado. É ainda mais fácil ajudar novos usuários a se atualizarem, encontrar seus painéis/projetos favoritos ou compartilhar seu painel entre equipes.
+O Analysis Workspace vem com vários modelos predefinidos que podem ajudar a iniciar sua análise. Dito isso, às vezes você também só quer seu próprio modelo. Saiba como criar qualquer projeto em seu próprio modelo personalizado. Você pode ajudar novos usuários a se familiarizarem com a velocidade, encontrar seus painéis/projetos favoritos ou compartilhar seu painel em equipes.
 
-Para obter mais informações sobre modelos padrão e personalizados, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=pt-BR).
+Para obter mais informações sobre modelos padrão e personalizados, visite o [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=pt-BR).
 
 >[!INFO]
 >
