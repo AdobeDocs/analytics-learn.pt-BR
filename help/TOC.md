@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista a tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: f3959874cdba14adbae2b3916417863a017b5ff0
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2410'
+ht-degree: 98%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [Introdução a variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
       + [Introdução a eventos de conversão](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=pt-BR)
    + Personalização da interface {#customizing-the-ui}
-      + [Preferências do usuário no Adobe Analytics](intro-to-analytics/customizing-the-ui/user-preferences.md)
-      + [Adição de descrições de dimensões e métricas](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Utilização de paletas de cores personalizadas no Analysis Workspace](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [Extensão Color Eyedropper para Definição de paletas personalizadas](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
+      + [Personalizar as preferências do usuário do Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Adicionar descrições de dimensão e métrica](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Personalização do menu no Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Aumento da segurança no Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Defina a Analysis Workspace como página inicial](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
-      + [Configuração de um projeto do Analysis Workspace como página de aterrissagem](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Extensão Dark Mode para o Analysis Workspace](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+      + [Melhorar a segurança no Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Definir um projeto do Analysis Workspace como página de aterrissagem](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtendo ajuda {#getting-help}
       + [Dicas no produto Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
       + [Envio de tíquete de suporte no produto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
