@@ -1,24 +1,23 @@
 ---
-title: Configuração de um projeto do Analysis Workspace como página de aterrissagem
-description: Este vídeo mostra como definir um projeto como a página de aterrissagem.
+title: Definir um projeto do Analysis Workspace como página de aterrissagem
+description: Saiba mais sobre uma maneira eficaz de colocar usuários novos facilmente em dados de projeto de análise do espaço de trabalho
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2364
 role: User
 level: Beginner
+activity: use
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '46'
-ht-degree: 100%
+source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
-# Configuração de um projeto do Analysis Workspace como página de aterrissagem {#setting-an-analysis-workspace-project-as-your-landing-page}
+# Definir um projeto do Analysis Workspace como página de aterrissagem {#set-an-analysis-workspace-project-as-your-landing-page}
 
-Este vídeo mostra como definir um projeto como a página de aterrissagem.
+Saiba mais sobre uma maneira eficaz de colocar usuários novos facilmente em dados de projeto de análise do espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/25460/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
