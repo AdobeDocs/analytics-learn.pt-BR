@@ -1,24 +1,22 @@
 ---
 title: Definir o Analysis Workspace como página de aterrissagem no Adobe Analytics
-description: Este vídeo mostra como definir vários aspectos do Analysis Workspace como página de aterrissagem no Adobe Analytics para simplificar seus fluxos de trabalho.
+description: Saiba mais sobre uma maneira eficaz de colocar usuários novos facilmente em dados de projeto de análise do espaço de trabalho.
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2363
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: dc3adde2-be62-4c78-a047-849dd50a118a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 40%
 
 ---
 
 # Definir o Analysis Workspace como página de aterrissagem no Adobe Analytics {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
-Este vídeo mostra como definir vários aspectos do [!UICONTROL Analysis Workspace] como página de aterrissagem no Adobe Analytics para simplificar seus fluxos de trabalho.
+Saiba mais sobre uma maneira eficaz de colocar usuários novos facilmente em dados de projeto de análise do espaço de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
