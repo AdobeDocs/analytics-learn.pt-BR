@@ -1,24 +1,23 @@
 ---
-title: Aumento da segurança no Adobe Analytics
-description: O Adobe Analytics acompanha os mais recentes padrões de segurança. Se a sua organização quiser estender essa segurança, como por exemplo, senhas fortes e restrições de logon de IP, este vídeo mostrará como.
+title: Melhorar a segurança
+description: Saiba mais sobre as configurações do Gerenciador de segurança nas Configurações da empresa para controlar o acesso ao Adobe Analytics.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Aumento da segurança no Adobe Analytics {#enhancing-security-in-adobe-analytics}
+# Melhorar a segurança {#enhance-security}
 
-O Adobe Analytics acompanha os mais recentes padrões de segurança. Se a sua organização quiser estender essa segurança, como por exemplo, senhas fortes e restrições de logon de IP, este vídeo mostrará como.
+Saiba mais sobre as configurações do Gerenciador de segurança nas Configurações da empresa para controlar o acesso ao Adobe Analytics. Isso inclui senhas fortes, recursos de expiração e recuperação de senha e restrições de domínio de email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)

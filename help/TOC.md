@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
 workflow-type: tm+mt
-source-wordcount: '2388'
+source-wordcount: '2382'
 ht-degree: 98%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 98%
       + [Personalizar as preferências do usuário do Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adicionar descrições de dimensão e métrica](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Personalização do menu no Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Melhorar a segurança no Adobe Analytics](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Melhorar a segurança](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Definir um projeto do Analysis Workspace como página de aterrissagem](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtendo ajuda {#getting-help}
       + [Dicas no produto Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
@@ -71,7 +71,7 @@ ht-degree: 98%
       + [Dicas para aumentar a produtividade no Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Dicas do cliente para continuar a jornada de aprendizado no Adobe Analytics](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Navegação em projetos do Espaço de trabalho {#navigating-workspace-projects}
-      + [Início do primeiro projeto no Analysis Workspace](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Criar projetos usando modelos](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Modelo do tutorial de treinamento no Analysis Workspace](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Copiar e inserir no Analysis Workspace](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [Criar um sumário](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
