@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
+source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
 workflow-type: tm+mt
-source-wordcount: '2383'
-ht-degree: 97%
+source-wordcount: '2394'
+ht-degree: 96%
 
 ---
 
@@ -92,7 +92,7 @@ ht-degree: 97%
       + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=pt-BR)
       + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [Utilização de painéis para organizar projetos do Analysis Workspace](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [Melhorias na zona de lançamento do segmento](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Escolher segmentos para um painel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Painéis e relatórios de próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
@@ -155,7 +155,7 @@ ht-degree: 97%
       + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Segmentos ad hoc (temporários)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [Utilização de diferentes modelos do Attribution IQ com segmentos](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=pt-BR)
-      + [Segmentos de nível de painel](analysis-workspace/using-panels/panel-level-segments.md)
+      + [Escolher segmentos para um painel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Utilização de segmentos como dimensões no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Utilização de segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmentos rápidos no Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
