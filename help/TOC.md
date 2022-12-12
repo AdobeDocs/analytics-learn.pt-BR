@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 95%
+source-wordcount: '2372'
+ht-degree: 93%
 
 ---
 
@@ -151,13 +151,12 @@ ht-degree: 95%
       + [Usar fallout e fluxo juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ - Análise entre dispositivos](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + Aplicação de segmentos {#applying-segments}
-      + [Aplicação de segmentos ao projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Usando segmentos na Analysis Workspace](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Segmentos ad hoc (temporários)](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [Utilização de diferentes modelos do Attribution IQ com segmentos](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=pt-BR)
+      + [Aplicar segmentos ao seu projeto do Analysis Workspace](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Aplicar segmentos ad hoc](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Usar modelos de Attribution IQ diferentes com segmentos](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=pt-BR)
       + [Escolher segmentos para um painel](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Utilização de segmentos como dimensões no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [Utilização de segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Usar segmentos como Dimension no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [Usar segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmentos rápidos no Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + Métricas {#metrics}
       + [Compreensão de métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
