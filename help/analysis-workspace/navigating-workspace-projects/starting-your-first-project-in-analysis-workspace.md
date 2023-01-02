@@ -10,15 +10,15 @@ team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 # Criar projetos usando modelos
 
-Saiba como criar projetos do Analysis Workspace usando modelos. Essa é uma técnica de economia de tempo em comparação à criação manual de projetos e pode ajudar novos usuários a se familiarizarem rapidamente.
+Saiba como criar projetos do Analysis Workspace usando modelos. Esta técnica economiza tempo em comparação à criação manual de projetos e pode ajudar novos usuários a se familiarizarem rapidamente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
