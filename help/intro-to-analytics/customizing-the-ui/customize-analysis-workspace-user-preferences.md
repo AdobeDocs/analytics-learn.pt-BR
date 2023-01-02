@@ -15,7 +15,7 @@ ht-degree: 100%
 ---
 
 
-# Personalizar preferências do usuário no [!DNL Analysis Workspace] 
+# Personalizar preferências do usuário no [!DNL Analysis Workspace]
 
 Saiba como alterar e personalizar as preferências do usuário no [!DNL Analysis Workspace]. Inclui configurações gerais padrão, preferências de exibição e dados e alteração do tema da interface do usuário.
 
