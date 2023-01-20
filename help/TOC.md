@@ -4,9 +4,9 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 99%
    + Fundamentos do Analysis Workspace {#analysis-workspace-basics}
       + [Introdução rápida ao Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Visão geral do Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Navegar na nova página de aterrissagem](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Navegar na nova página de destino](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Criação de um projeto do Espaço de trabalho do zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Criar e gerenciar modelos personalizados no Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Entender como os dados são incluídos em seu projeto do Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
