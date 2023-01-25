@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '2363'
-ht-degree: 99%
+source-wordcount: '2347'
+ht-degree: 97%
 
 ---
 
@@ -92,20 +92,20 @@ ht-degree: 99%
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Painéis e relatórios de próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
-      + [Entenda seus dados — Tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [Usar o painel esquerdo para criar tabelas de forma livre no Analysis Workspace](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Entender seus dados—tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [Use o painel esquerdo para criar tabelas de forma livre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Arraste e solte facilmente em projetos em branco](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [Trabalhar com dimensões em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [Trabalhar com métricas em uma tabela de forma livre](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Configurações de linha e coluna em tabelas de forma livre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [Utilização do Criador de tabelas de forma livre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Clique com o botão direito do mouse para obter eficiência do Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [Reorganização de linhas estáticas no Analysis Workspace](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Utilização do Attribution IQ em tabelas de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=pt-BR)
-      + [Análise de venda cruzada no Analysis Workspace](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [Filtros de tabela de forma livre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Dimensões de divisão de tempo no Analysis Workspace](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Totais de tabelas de forma livre no Analysis Workspace](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [Usar o criador de tabela de forma livre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Clique com o botão direito do mouse para obter eficiência do espaço de trabalho](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [Reordenar linhas estáticas](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [Usar o Attribution IQ em tabelas de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=pt-BR)
+      + [Análise de venda cruzada](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [Filtros de Tabela de forma livre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [Dimensões de separação de tempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Totais de Tabelas de forma livre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + Visualizações {#visualizations}
       + [Visualização de dados no Analysis Workspace](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [Tipos de visualização](analysis-workspace/visualizations/visualization-types.md)
