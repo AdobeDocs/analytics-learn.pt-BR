@@ -1,26 +1,23 @@
 ---
-title: Configuração do Advertising Analytics no Adobe Analytics
-description: Este vídeo o guiará por uma análise de alto nível sobre como configurar os seus conjuntos de relatórios para utilizar o Advertising Analytics, como configurar uma conta de pesquisa paga e sobre detalhes de relatórios do Advertising Analytics.
+title: Configurar o Advertising Analytics no Adobe Analytics
+description: Configure seu(s) conjunto(s) de relatórios para utilizar o Advertising Analytics.
 feature: Advertising Integration
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-kt: 1642
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23119.jpg
+kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 27%
 
 ---
 
-# Configuração do [!DNL Advertising Analytics] no Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
+# Configurar [!DNL Advertising Analytics] no Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-Este vídeo o guiará por uma análise de alto nível sobre como configurar os seus [!UICONTROL conjuntos de relatórios] para utilizar o [!DNL Advertising Analytics], como configurar uma conta de pesquisa paga e sobre detalhes de relatórios do [!DNL Advertising Analytics].
+Obtenha uma análise de alto nível de como configurar seu [!UICONTROL conjuntos de relatórios] para utilizar [!DNL Advertising Analytics], como configurar uma conta de pesquisa paga e detalhes de relatórios para [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 

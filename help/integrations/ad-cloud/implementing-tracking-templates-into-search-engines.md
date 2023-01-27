@@ -1,29 +1,22 @@
 ---
-title: Implementação de modelos de rastreamento do Advertising Analytics em mecanismos de pesquisa
-description: Este vídeo orientará você nas etapas de implementação dos modelos de rastreamento do Advertising Analytics nos mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa importante para coletar e enviar seus dados para o Adobe Analytics.
+title: Implementar modelos de rastreamento do Advertising Analytics em mecanismos de pesquisa
+description: Saiba mais sobre as etapas para implementar seus modelos de rastreamento do Advertising Analytics em mecanismos de pesquisa compatíveis.
 feature: Advertising Integration
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 1651
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23120.jpg
+kt: 1651
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 0%
 
 ---
 
-# Implementação de modelos de rastreamento do [!DNL Advertising Analytics] em mecanismos de pesquisa {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# Implementar modelos de rastreamento de [!DNL Advertising Analytics] em mecanismos de pesquisa {#implement-tracking-templates-from-advertising-analytics-into-search-engines}
 
-Este vídeo orientará você nas etapas de implementação dos modelos de rastreamento do [!DNL Advertising Analytics] nos mecanismos de pesquisa compatíveis. A implementação do modelo de rastreamento é a etapa importante para coletar e enviar seus dados para o Adobe Analytics.
+Saiba mais sobre as etapas para implementar seus modelos de rastreamento no [!DNL Advertising Analytics] em mecanismos de pesquisa compatíveis. Essa é uma etapa crítica necessária para coletar e enviar seus dados para a Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
-
-## Recursos adicionais {#additional-resources}
-
-* [Configuração do  [!DNL Advertising Analytics] no Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/configuring-advertising-analytics.html?lang=pt-BR)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

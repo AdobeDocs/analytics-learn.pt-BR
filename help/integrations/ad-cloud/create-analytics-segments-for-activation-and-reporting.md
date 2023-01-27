@@ -1,26 +1,22 @@
 ---
-title: Criar segmentos do Analytics para Ativação e Relatórios
-description: Utilização de dimensões da Advertising para criar segmentos para relatórios e análises mais simples.
+title: Criar segmentos de análise para ativação e relatórios
+description: Use as dimensões do Advertising Cloud para criar segmentos para relatórios e análises.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35117.jpg
-kt: 5474
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35117.jpg
+kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Criar segmentos do Analytics para Ativação e Relatórios
+# Criar segmentos de análise para ativação e relatórios
 
-Utilização de dimensões da Advertising para criar segmentos para relatórios e análises mais simples.
+Use as dimensões do Advertising Cloud para criar segmentos para relatórios e análises.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

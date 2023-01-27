@@ -1,26 +1,22 @@
 ---
-title: Relatórios com canais de marketing da Advertising
-description: Como os dados de entrada de view-through e click-through da Advertising funcionam com os canais de marketing do Adobe Analytics
+title: Relatórios com Canais de marketing do Advertising Cloud
+description: Saiba como os dados de view-through e click-through do Advertising Cloud funcionam com os Canais de marketing do Adobe Analytics.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35115.jpg
-kt: 5472
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35115.jpg
+kt: 5472
 exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 100%
+source-wordcount: '43'
+ht-degree: 11%
 
 ---
 
 # Relatórios com canais de marketing da Advertising 
 
-Como os dados de entrada de view-through e click-through da Advertising funcionam com os [!UICONTROL canais de marketing] do Adobe Analytics.
+Saiba como os dados de view-through e click-through do Advertising Cloud funcionam com o Adobe Analytics [!UICONTROL Canais de marketing].
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)

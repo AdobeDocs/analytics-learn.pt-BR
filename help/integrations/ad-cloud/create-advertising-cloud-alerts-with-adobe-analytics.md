@@ -1,26 +1,22 @@
 ---
-title: Criar alertas da Advertising Cloud com o Adobe Analytics
-description: Como utilizar os recursos dos alertas do Adobe Analytics para monitorar as campanhas de mídia paga da Advertising
+title: Criar alertas do Advertising Cloud com o Adobe Analytics
+description: Saiba como aproveitar o potencial dos Alertas do Adobe Analytics para monitorar suas campanhas de mídia paga do Advertising Cloud.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35118.jpg
-kt: 5475
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35118.jpg
+kt: 5475
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
-# Criar alertas da Advertising Cloud com o Adobe Analytics
+# Criar alertas do Advertising Cloud com o Adobe Analytics
 
-Como utilizar os recursos dos alertas do Adobe Analytics para monitorar as campanhas de mídia paga da Advertising Cloud.
+Saiba como aproveitar o potencial dos Alertas do Adobe Analytics para monitorar suas campanhas de mídia paga do Advertising Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)
