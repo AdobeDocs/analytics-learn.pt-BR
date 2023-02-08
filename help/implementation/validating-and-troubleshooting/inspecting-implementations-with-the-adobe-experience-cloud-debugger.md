@@ -10,8 +10,8 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 O [!DNL Experience Cloud debugger] é uma ferramenta que permite aos usuários inspecionar e depurar as Tags da Experience Cloud. Este vídeo aborda como usar o [!DNL Experience Cloud Debugger] para inspecionar as implementações do [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 Você aprenderá a visualizar o que está sendo acionado em páginas diferentes, carregar nomes amigáveis de variáveis e exportar resultados para casos de uso avançados.
 

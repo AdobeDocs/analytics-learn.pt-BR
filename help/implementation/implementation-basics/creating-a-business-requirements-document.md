@@ -7,8 +7,8 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Saiba mais sobre a importante etapa da definição dos dados de comportamento que você deseja capturar e analisar no Adobe Analytics. O que sua empresa precisa entender sobre como os visitantes usam suas propriedades digitais? Anote esses requisitos primeiro e decida como capturá-los usando eventos, dimensões e métricas do Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Baixe](assets/aa-implementation-playbook.xlsx) um modelo de amostra do Excel para documentar os requisitos e o design da coleta de dados para suas propriedades digitais.
 
