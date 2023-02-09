@@ -1,5 +1,5 @@
 ---
-title: Trabalhar com Dimension em uma tabela de forma livre
+title: Trabalhar com dimensões em uma tabela de forma livre
 description: Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
 source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# Trabalhar com Dimension em uma tabela de forma livre
+# Trabalhar com dimensões em uma tabela de forma livre
 
 Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
 
