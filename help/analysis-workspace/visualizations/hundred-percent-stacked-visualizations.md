@@ -1,26 +1,26 @@
 ---
 title: Visualizações 100% empilhadas no Analysis Workspace
-description: Neste vídeo, você aprenderá a configurar suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
+description: Saiba como definir suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
 feature: Visualizations
 thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '137'
-ht-degree: 100%
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 30%
 
 ---
 
-# [!UICONTROL Visualizações] 100% empilhadas no Analysis Workspace {#stacked-visualizations-in-analysis-workspace}
+# Visualizações 100% empilhadas no Analysis Workspace
 
-Neste vídeo, você aprenderá a configurar suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
+Saiba como definir suas visualizações empilhadas como porcentagens em vez de somente valores brutos.
 
->[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-Gráficos empilhados são úteis para representar partes de um todo em uma tendência. A nova configuração de visualizações 100% empilhadas ajuda a perceber rapidamente como cada parte contribui para o todo, em termos de um valor em % em vez de um valor bruto. Esta nova configuração está disponível na engrenagem Definições de [!UICONTROL Visualização], na parte superior direita das visualizações [!UICONTROL Área empilhada], [!UICONTROL Barra empilhada] e [!UICONTROL Barra horizontal empilhada].
+Gráficos empilhados são úteis para representar partes de um todo em uma tendência. A configuração de visualização 100% empilhada ajuda a visualizar rapidamente como cada parte contribui para o todo, em termos de um valor % em vez de um valor bruto. Essa configuração está disponível na engrenagem de configurações de visualização na parte superior direita das visualizações empilhadas por área, empilhadas por barra e empilhadas por barra horizontal.
 
 >[!INFO]
 >
