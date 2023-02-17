@@ -1,5 +1,5 @@
 ---
-title: Filtros de tabela de forma livre no Analysis Workspace
+title: Filtros de tabelas de forma livre no Analysis Workspace
 description: Os filtros fornecem mais controle sobre quais linhas de dados são compartilhadas em uma tabela de forma livre.
 feature: Freeform Tables
 thumbnail: 23232.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Filtros de tabela de forma livre no Analysis Workspace
+# Filtros de tabelas de forma livre no Analysis Workspace
 
 Os filtros fornecem mais controle sobre quais linhas de dados são compartilhadas em uma [!DNL freeform table].
 
@@ -28,4 +28,4 @@ Para obter mais informações sobre os filtros disponíveis, consulte a [documen
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3), que está disponível gratuitamente na Experience League.
+> Este vídeo faz parte do curso [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
