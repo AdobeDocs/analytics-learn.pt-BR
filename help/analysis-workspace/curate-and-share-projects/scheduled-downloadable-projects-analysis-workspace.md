@@ -1,5 +1,5 @@
 ---
-title: 'Projetos agendados e habilitados para download no Analysis Workspace '
+title: Projetos agendados e habilitados para download no Analysis Workspace
 description: O Analysis Workspace permite agendar e baixar projetos em PDFs e CSVs. Este vídeo mostra como é possível agendar projetos para entrega futura a si mesmo ou a colegas, e também como baixar PDFs de projetos em que está trabalhando.
 feature: Curate and Share
 topics: null
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
 

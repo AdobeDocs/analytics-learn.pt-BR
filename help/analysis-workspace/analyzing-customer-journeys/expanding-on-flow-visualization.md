@@ -12,7 +12,7 @@ role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -28,4 +28,4 @@ Para obter mais informações sobre esse recurso, consulte a [documentação](ht
 
 >[!INFO]
 >
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
+> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

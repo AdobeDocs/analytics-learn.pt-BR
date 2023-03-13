@@ -1,6 +1,6 @@
 ---
 title: Rastreamento de ações (também conhecido como Links personalizados) em um aplicativo móvel com o SDK da Experience Platform
-description: 'Ações são eventos que ocorrem no aplicativo móvel. Neste vídeo, saiba como usar a API trackAction para rastrear e medir uma ação. '
+description: Ações são eventos que ocorrem no aplicativo móvel. Neste vídeo, saiba como usar a API trackAction para rastrear e medir uma ação.
 feature: Mobile SDK
 topics: null
 activity: implement
@@ -12,7 +12,7 @@ role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
 

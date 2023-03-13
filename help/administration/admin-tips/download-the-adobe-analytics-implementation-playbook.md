@@ -10,9 +10,9 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '1805'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1803'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Lembre-se de incluir todas as propriedades digitais, mesmo que elas não estejam
 >
 >Crie uma dimensão de nome de site/propriedade no Adobe Analytics. Ter uma dimensão dedicada (geralmente um eVar) no Adobe Analytics, que identifica o nome do site/nome do aplicativo, permitirá segmentar, solucionar problemas, criar conjuntos de relatórios virtuais etc. Os benefícios são infinitos, especialmente ao combinar vários sites em um conjunto de relatórios (global). O segredo é garantir que suas equipes de desenvolvimento sempre definam esse valor na dimensão de propriedades, incluindo todos os carregamentos de página (s.t calls/trackState) e todos os eventos personalizados (s.tl calls/trackAction). As regras de processamento podem ser uma ferramenta valiosa para ajudar você a definir esses valores de maneira adequada e consistente.
 
-[Assista a este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR){target=&quot;_blank&quot;} para obter mais informações sobre como preencher o manual de implementação.
+[Assista a este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR){target="_blank"} para obter mais informações sobre como preencher o manual de implementação.
 
 ## Autores(as)
 
