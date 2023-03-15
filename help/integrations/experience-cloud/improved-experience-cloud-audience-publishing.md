@@ -1,6 +1,7 @@
 ---
 title: Publicação aprimorada de públicos-alvo na Experience Cloud
 landing-page-description: Saiba mais sobre como publicar os públicos-alvo (segmentos) e torná-los disponíveis mais rápido do que nunca.
+short-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Foram feitas melhorias na publicação de públicos-alvo na Experience Cloud. Agora você pode publicar públicos (segmentos) e disponibilizá-los seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas ou menos, dependendo do tráfego e do tamanho do segmento.
 feature: Experience Cloud Integration
 topics: null
@@ -12,8 +13,8 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
+workflow-type: ht
 source-wordcount: '165'
 ht-degree: 100%
 
