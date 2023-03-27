@@ -11,8 +11,8 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 O Conversor de projetos do [!UICONTROL Ad Hoc Analysis] converte facilmente projetos do [!UICONTROL Ad Hoc Analysis] (AHA) para projetos do [!UICONTROL Analysis Workspace] com apenas um clique.
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
 
