@@ -10,8 +10,8 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '173'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Com apenas alguns cliques na [!UICONTROL Extensão] Adobe Analytics no Adobe [!DNL Experience Platform Launch], você pode começar a rastrear links de download no seu site (links que baixam arquivos que não são de navegador no computador). Este vídeo mostra como configurar isso.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 Sejam whitepapers, manuais, arquivos de áudio ou vídeo ou várias outras possibilidades, você pode ter links em seu site para baixar arquivos que não abrem em um navegador. No mínimo, mesmo que eles possam ser abertos em um navegador (como um arquivo de texto), você não pode ter código do [!DNL Analytics] na página para rastreamento. Portanto, é necessário rastrear o link PARA o arquivo de download.
 
