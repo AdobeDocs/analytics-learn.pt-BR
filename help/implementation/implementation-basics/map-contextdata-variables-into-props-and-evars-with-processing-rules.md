@@ -7,8 +7,8 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Ao usar variáveis [!DNL contextData] na implementação do Adobe Analytics, para que seus dados sejam exibidos em relatórios reais, é necessário mapear as variáveis [!DNL contextData] para [!DNL props/eVars] na interface [!UICONTROL Regras de processamento]. Este vídeo mostra como fazer isso.
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=pt-BR).
 
