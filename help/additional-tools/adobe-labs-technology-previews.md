@@ -7,8 +7,8 @@ kt: 4818
 role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O [!DNL Adobe Labs] (Visualizações de tecnologia) permite que você interaja com novas tecnologias, descubra insights valiosos e influencie o desenvolvimento futuro de recursos e prioridades do [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 Ao usar um protótipo [!DNL Labs], você pode avaliar o recurso no contexto de seus próprios casos de uso de negócios e dados.
 
