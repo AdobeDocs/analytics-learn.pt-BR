@@ -10,8 +10,8 @@ kt: 1774
 role: User
 level: Intermediate
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '143'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Conjuntos de relatórios virtuais] podem ser gerenciados para incluir e excluir [!UICONTROL dimensões], [!UICONTROL métricas] e [!UICONTROL segmentos] no Analysis Workspace, o que ajuda muito se você estiver compartilhando-os com outras equipes que precisam apenas de uma parte específica dos dados ou que usam uma nomenclatura de dados diferente.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 Se a personalização de componentes estiver habilitada, o [!UICONTROL conjunto de relatórios virtuais] só será acessível por meio do Analysis Workspace.
 
