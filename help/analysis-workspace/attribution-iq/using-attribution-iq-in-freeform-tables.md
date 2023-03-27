@@ -7,8 +7,8 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] permite alterar o [!UICONTROL modelo] de atribuição para qualquer um dos dez modelos baseados em regras em uma coluna de [!UICONTROL Forma livre] dinamicamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
 Cada [!UICONTROL modelo] de atribuição suporta totalmente a segmentação e detalhamentos, e permite fazer comparações ilimitadas em qualquer dimensão (mesmo [!DNL props]!).
 
