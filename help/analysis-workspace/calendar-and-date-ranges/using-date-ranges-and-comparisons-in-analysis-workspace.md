@@ -8,8 +8,8 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Neste vídeo, veja como usar datas, [!UICONTROL intervalos de datas] e comparações de datas para personalizar suas tabelas e visualizações para o intervalo de tempo certo.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=pt-BR).
 
