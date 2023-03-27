@@ -10,8 +10,8 @@ kt: 2481
 role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 A configuração do intervalo de cálculo nas [!UICONTROL tabelas de coorte] pode ser usada para analisar os [!UICONTROL coortes] de todos os períodos, para entender como os mesmos usuários são retidos (ou [!UICONTROL churn]) ao longo do tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).
 
