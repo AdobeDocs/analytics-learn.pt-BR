@@ -7,8 +7,8 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Neste vídeo, mostraremos como utilizar dois recursos de comparação de datas em [!UICONTROL tabelas de forma livre] - “[!UICONTROL adicionar coluna de período]” e “[!UICONTROL comparar períodos]”.
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 As comparações de datas são uma maneira fácil de adicionar profundidade às tabelas atuais do Analysis Workspace e ajudarão você a facilmente colocar seus dados atuais em perspectiva para o desempenho histórico.
 
