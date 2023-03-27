@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Este vídeo mostra como é possível usar o [!UICONTROL Report Builder] para adicionar segmentos a todas as suas solicitações de uma só vez, economizando tempo e complicações.
 
->[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=pt-BR).
 
