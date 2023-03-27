@@ -14,8 +14,8 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '186'
 ht-degree: 100%
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Os relatórios de [!UICONTROL Uso de chamadas de servidor] possibilitarão o rastreamento exato do quanto do comprometimento de chamadas de servidor você usou em qualquer momento, além de alertá-lo proativamente quando estiver se aproximando do comprometimento total.
 
->[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
 
 Pode ser difícil estar a par do consumo de chamadas de servidor de sua organização, resultando em frustração em torno de excedentes. Com os relatórios de [!UICONTROL Uso de chamadas de servidor], você pode rastrear exatamente o quanto do seu comprometimento de chamadas de servidor você usou em qualquer momento, e ser alertado proativamente quando estiver se aproximando do comprometimento total. No painel que o acompanha, é possível analisar onde as suas chamadas de servidor estão sendo usadas, para que você possa corrigir implementações em execução ou trabalhar com colegas para redimensionar em locais onde grandes volumes de dados menos valiosos podem estar sendo coletados.
