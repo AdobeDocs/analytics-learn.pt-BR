@@ -7,8 +7,8 @@ kt: 2361
 role: Admin, Architect
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Este vídeo o guiará pela Governança de dados e mostrará como a rotulagem de dados se encaixa na preparação do GDPR. Ele fornece um exemplo prático de rotulagem de dados usando a Governança de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=pt-BR).
 
