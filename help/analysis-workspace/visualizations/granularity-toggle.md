@@ -7,8 +7,8 @@ kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Um seletor de [!UICONTROL granularidade] foi adicionado às configurações de [!UICONTROL visualização] de tendência para permitir que você ajuste com facilidade sua [!UICONTROL granularidade] de dados, desde o nível de minuto até o nível de ano. A configuração ajustará o gráfico e a tabela de origem, economizando o tempo gasto com etapas de revelação e manipulação da tabela.
 
->[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 >[!INFO]
 >
