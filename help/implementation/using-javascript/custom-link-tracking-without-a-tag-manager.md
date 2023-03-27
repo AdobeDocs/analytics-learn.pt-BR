@@ -10,8 +10,8 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '271'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Há duas funções que enviam dados para o Adobe Analytics:
 >
 >Neste vídeo, mostramos como codificar uma ocorrência de link personalizado quando você NÃO está usando um gerenciador de tag como o Adobe [!DNL Experience Platform Launch]. Recomendamos que você use o [!DNL Experience Platform Launch], nossa sugestão de práticas recomendadas para implementação. No entanto, se você precisar codificar em um `s.tl()`, veja como fazer isso.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## Código de exemplo {#sample-code}
 
