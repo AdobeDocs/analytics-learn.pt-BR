@@ -11,8 +11,8 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 O [!DNL Fallout] no Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e fluxos de trabalho. 
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 Esse recurso avançado fornece maior flexibilidade ao definir as etapas de usuário que deseja investigar.
 
