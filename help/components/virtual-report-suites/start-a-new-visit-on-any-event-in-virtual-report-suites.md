@@ -10,8 +10,8 @@ kt: 1663
 role: User
 level: Intermediate
 exl-id: ca1d8ca8-a854-4d02-8017-4e3e3587ab9e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Este vídeo mostra como usar os eventos para acionar o início de uma nova visita no Adobe Analytics usando as configurações de visita de um [!UICONTROL Conjunto de relatórios virtual].
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
 
 Você pode redefinir o contexto de uma visita no Adobe Analytics por meio de configurações de tempo limite personalizadas, ignorando ocorrências em segundo plano ou acionando uma nova visita na inicialização do aplicativo. Com esse recurso, estendemos essa funcionalidade para permitir que você acione uma nova visita em qualquer combinação de eventos, e não somente por meio de uma inicialização de aplicativo.
