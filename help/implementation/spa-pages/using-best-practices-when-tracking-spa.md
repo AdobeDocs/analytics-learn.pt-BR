@@ -11,8 +11,8 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ Quando um novo conteúdo é carregado ou quando uma ação ocorre na página do 
 
 Consulte as páginas e os documentos referenciados acima para obter mais informações sobre como e quando esses eventos são acionados. Não é necessário usar os mesmos nomes de evento na implementação. O caso de uso funcional do método usado é essencial para entender a prática recomendada para cada um. O vídeo a seguir demonstra um exemplo de página de SPA e um código de amostra no [!DNL Experience Platform Tags] que acompanha os eventos personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## Execute s.t() ou s.tl() no [!DNL Experience Platform Tags] {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ Um conceito importante para compreender o [!DNL Analytics] ao trabalhar com um S
 
 O vídeo a seguir mostra onde e como acionar `s.t()` ou `s.tl()` em tags.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## Limpar variáveis {#clear-variables}
 
@@ -114,7 +114,7 @@ O diagrama acima mostra as variáveis limpas *após* o envio dos dados. Na reali
 
 O vídeo a seguir mostra onde e como limpar as variáveis no [!DNL Tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## Considerações adicionais {#additional-considerations}
 
