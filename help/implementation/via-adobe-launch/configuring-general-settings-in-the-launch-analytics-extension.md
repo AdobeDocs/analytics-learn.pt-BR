@@ -10,7 +10,7 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Se você está começando a usar o Experience Platform Launch e a [!UICONTROL extensão] do Adobe Analytics, este vídeo pode ajudá-lo com a parte das definições [!UICONTROL Gerais] da configuração, incluindo a configuração do servidor de rastreamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
 Para obter informações adicionais relacionadas aos aspectos deste caso de uso, consulte os seguintes tópicos da documentação:
 
