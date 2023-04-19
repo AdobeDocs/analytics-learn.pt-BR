@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O novos operadores de [!UICONTROL Contagem distinta] no [!UICONTROL Construtor de segmentos] permitem segmentar com base no número de itens únicos em qualquer [!UICONTROL dimensão]. Filtre por visitas em que mais de 5 páginas foram visualizadas ou ocorrências em que mais de 5 produtos foram comprados em um único pedido.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 Esse recurso poderia ser mais legal? :)
 
