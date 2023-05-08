@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -72,7 +72,7 @@ Simplificando, se 10 pessoas pressionarem um botão para atravessar uma porta, n
 * **Último contato**: Também é exatamente como soa.   Este modelo dá 100% de crédito à última pessoa que entrou na porta.  Esse modelo geralmente é usado para analisar coisas como Pesquisar e campanhas de ciclo de marketing de curto prazo.
 * **Linear**: Isto dá crédito igual a todas as pessoas que atravessaram a porta.  Isso mesmo - Você pega um DeLorean, e você pega um DeLorean, e você pega um DeLorean.  TODO MUNDO TEM UM DELOREANO!!!
 * **Forma de U**: Este dá 40% do crédito ao primeiro na porta, espalha 20% do crédito para todos no meio e depois dá 40% ao último.  Pense em uma situação em que você deseja reconhecer a maioria das conversões tanto na frente quanto no back-end, mas também quer borrifar uma pequena parte do crédito através de algumas das interações que contribuem no meio.
-* **Declínio de tempo**: Eu ficaria em falta se não compartilhasse este com você antes de enviá-lo para a documentação oficial para revisar os modelos restantes.  Tal como o plutônio de Doc Brown, este modelo tem literalmente uma meia-vida que decai exponencialmente!  Nesse caso, o parâmetro padrão para a meia-vida desse modelo é de 7 dias.  A maneira como funciona é aplicar peso a cada Canal de marketing, com base na quantidade de tempo que passa após o ponto de contato inicial e quando o cliente converte.
+* **Declínio de tempo**: Eu ficaria em falta se não compartilhasse este com vocês antes de enviá-los para a documentação oficial para revisar os modelos restantes.  Tal como o plutônio de Doc Brown, este modelo tem literalmente uma meia-vida que decai exponencialmente!  Nesse caso, o parâmetro padrão para a meia-vida desse modelo é de 7 dias.  A maneira como funciona é aplicar peso a cada Canal de marketing, com base na quantidade de tempo que passa após o ponto de contato inicial e quando o cliente converte.
 
 Para obter mais informações sobre isso e o restante **Modelos de atribuição**, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR).
 
@@ -82,7 +82,7 @@ Sim, aqui vamos nós... nos leve de volta a tempo!!  Porque é aqui que começa 
 
 Adobe define **Janelas de pesquisa** como &quot;a quantidade de tempo que uma conversão deve retroceder para incluir pontos de contato. Os modelos de atribuição que dão mais crédito às primeiras interações veem diferenças maiores ao exibir diferentes janelas de retrospectiva.&quot;
 
-* **Janela de retrospectiva de visita**: Retorna ao início de uma visita quando ocorreu uma conversão
+* **Janela de retrospectiva de visita**: Retorna ao início de uma visita quando ocorreu uma conversão.
 * **Janela de retrospectiva do visitante**: Verifica todas as visitas até o primeiro dia do mês do intervalo de datas atual.
 * **Janela de pesquisa personalizada**: Permite expandir a Janela de atribuição além do intervalo de datas do relatório até um máximo de **90 dias**.
 
