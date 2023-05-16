@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: fff44440dc527ccfed920954301faaf01d27736c
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 1%
@@ -32,16 +32,13 @@ Se você examinar o gráfico, poderá observar algumas coisas:
 
 1. Isso porque seu combustível caiu para 0% e você teve que esperar pela assistência na estrada para passar pelo tráfego de Portland e recarregar seu tanque de gás
 
-Tal viagem seria obviamente miserável, imprevisível e perigosa.
-Não é como dirigir. Você precisa de informações contínuas sobre velocidade, distância percorrida e níveis de combustível para fazer ajustes contínuos em como você dirige. Sem dúvida, uma pessoa razoável tiraria o cartão do painel e verificaria regularmente, o que iria barbear horas da duração da viagem, quase eliminar o risco de ficar sem gás e mantê-lo na velocidade certa para evitar um tíquete de aceleração.
+Tal viagem seria obviamente miserável, imprevisível e perigosa. Não é como dirigir. Você precisa de informações contínuas sobre velocidade, distância percorrida e níveis de combustível para fazer ajustes contínuos em como você dirige. Sem dúvida, uma pessoa razoável tiraria o cartão do painel e verificaria regularmente, o que iria barbear horas da duração da viagem, quase eliminar o risco de ficar sem gás e mantê-lo na velocidade certa para evitar um tíquete de aceleração.
 
 Então, por que tantos executivos aceitam isso como uma maneira razoável de administrar seus sites e aplicativos?
 
-Muitos executivos não têm acesso a informações contínuas e relevantes necessárias para tomar medidas em tempo hábil. Em vez disso, eles recebem um baralho uma vez por mês com estatísticas exportadas do Adobe Analytics para o Excel, com gráficos e depois colocadas em um PowerPoint. Se um ponto de inflexão ocorrer no início do mês, eles não saberão disso até o início do próximo mês, bem depois de fazerem perguntas ou agirem.
-Alertas personalizados também são uma ótima opção, mas todos sabemos como a caixa de entrada de email de um executivo se parece.
+Muitos executivos não têm acesso a informações contínuas e relevantes necessárias para tomar medidas em tempo hábil. Em vez disso, eles recebem um baralho uma vez por mês com estatísticas exportadas do Adobe Analytics para o Excel, com gráficos e depois colocadas em um PowerPoint. Se um ponto de inflexão ocorrer no início do mês, eles não saberão disso até o início do próximo mês, bem depois de fazerem perguntas ou agirem. Alertas personalizados também são uma ótima opção, mas todos sabemos como a caixa de entrada de email de um executivo se parece.
 
-Mas os executivos também estão muito ocupados. Imagine que você fez a mesma viagem, mas em vez do painel limpo que você tem no seu carro, você não tinha apenas o seu nível de combustível, odométer e velocímetro, mas também duas dúzias de metros, fornecendo dados incrivelmente granulares sobre tudo, desde os níveis de fluidos do limpa para-brisas até o tempo de vida estimado dos seus filtros de óleo.
-Seria demasiado, demasiado específico, demasiado especializado.
+Mas os executivos também estão muito ocupados. Imagine que você fez a mesma viagem, mas em vez do painel limpo que você tem no seu carro, você não tinha apenas o seu nível de combustível, odométer e velocímetro, mas também duas dúzias de metros, fornecendo dados incrivelmente granulares sobre tudo, desde os níveis de fluidos do limpa para-brisas até o tempo de vida estimado dos seus filtros de óleo. Seria demasiado, demasiado específico, demasiado especializado.
 
 Você quer que os executivos tenham dados suficientes para saber quando a atenção deles é necessária imediatamente, não tanto que eles joguem as mãos na frustração. Se você entrar em uma mensagem de um proprietário de produto ou gerente de marketing que um executivo quer saber sobre uma anomalia, você está atingindo o ponto ideal.
 
@@ -59,8 +56,7 @@ Adicione algumas listas suspensas para o que for importante para sua organizaç�
 
 Ambos são muito importantes em geral, mas como sempre, certifique-se de que o que você escolher é relevante para seu site ou aplicativo.
 
-Finalmente, na parte inferior, adicione alguns detalhes. Eu acho que o desempenho da página é frequentemente popular com executivos, mas a chave é que está abaixo da dobra.
-Eles podem procurá-la se quiserem, mas caso contrário, terão os dados necessários para fazer perguntas imediatamente:
+Finalmente, na parte inferior, adicione alguns detalhes. Eu acho que o desempenho da página é frequentemente popular com executivos, mas a chave é que está abaixo da dobra. Eles podem procurá-la se quiserem, mas caso contrário, terão os dados necessários para fazer perguntas imediatamente:
 
 ![Dashboard.png grande](assets/large-dashboard.png)
 
