@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ Desempenho digital atual
 1. As primeiras visitas são convertidas em uma taxa ligeiramente mais alta do que as visitas de retorno para ambos, 11,6% vs. 11,4%.
 1. Em comparação com 2021, as taxas de conversão diminuíram em ambos os segmentos.
 
-![Tabela de visitas](assets/visits-table.png)
+![Tabela de visitas](assets/cohort1.png)
 
 ## Parte 2: Análise de coorte - produto global Visitas Compatíveis
 
@@ -70,14 +70,14 @@ Como configurar a Tabela de coorte
 1) Meses com o maior volume incluem fevereiro e maio
 1) Há aproximadamente 1.000 visitantes que retornam ao site todo mês
 
-![Tabela de retenção 2022](assets/2022-retention-table.png)
+![Tabela de retenção 2022](assets/cohort2.png)
 
 **Em 2021:**
 
 1) Os meses com as maiores taxas de retenção +1 mês incluem abril, janeiro e março
 1) Meses com o maior volume incluem fevereiro e maio
 
-![Tabela de retenção 2021](assets/2021-retention-table.png)
+![Tabela de retenção 2021](assets/cohort3.png)
 
 **Itens de ação:**
 
@@ -128,7 +128,7 @@ Qual seria o impacto se pudéssemos fazer com que mais usuários fizessem logon?
 
 Investigar a experiência do usuário do site para fazer com que os usuários criem uma conta durante o Check-out
 
-![Tabela de coorte 4](assets/cohort-table-4.png)
+![Tabela de coorte 4](assets/cohort4.png)
 
 ## Parte 4: Coorte de Dimension personalizado
 
@@ -156,7 +156,7 @@ A tabela Dimension Coorte personalizada destaca os produtos que estão aumentand
 1) Product 2
 1) Product 3 — supera frequentemente o desempenho com uma taxa de retenção mais alta em comparação à retenção média.
 
-![Tabela de coorte 5](assets/cohort-table-5.png)
+![Tabela de coorte 5](assets/cohort5.png)
 
 ## Conclusão
 
