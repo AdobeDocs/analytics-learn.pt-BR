@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
+source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
 workflow-type: tm+mt
-source-wordcount: '2434'
+source-wordcount: '2435'
 ht-degree: 97%
 
 ---
@@ -58,6 +58,7 @@ ht-degree: 97%
       + [Introdução rápida ao Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Visão geral do Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navegar na nova página de destino](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Inicie sua análise com um relatório pré-criado](analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.md)
       + [Criação de um projeto do Espaço de trabalho do zero](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Criar e gerenciar modelos personalizados no Analysis Workspace](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Entender como os dados são incluídos em seu projeto do Analysis Workspace](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -86,7 +87,7 @@ ht-degree: 97%
       + [Utilização de tabelas, visualizações e painéis no Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Painel Quick Insights no Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilização do painel Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=pt-BR)
-      + [Como entender o painel de atribuição e as janelas de pesquisa do Adobe Analytics](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+      + [Noções básicas sobre o Painel de atribuição e as janelas de pesquisa do Adobe Analytics](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Painel Visualizadores simultâneos de mídia no Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=pt-BR)
       + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -156,7 +157,7 @@ ht-degree: 97%
       + [Usar segmentos como dimensões no Analysis Workspace](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Usar segmentos para limitar dados no Analysis Workspace](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Segmentos rápidos no Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [Construção de segmentos de Jornada do cliente](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [Criação de segmentos de Jornada do cliente](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + Métricas {#metrics}
       + [Compreensão de métricas básicas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=pt-BR)
@@ -205,7 +206,7 @@ ht-degree: 97%
       + [Análise de coorte usando qualquer dimensão](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [Análise de latência com tabelas de coorte](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [Calcular o intervalo de retenção em tabelas de coorte](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [Usar a análise de coorte para entender o comportamento do cliente](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [Use a Análise de coorte para entender o comportamento do cliente](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + Análise de voz {#voice-analytics}
       + [Como gerenciar e rastrear os dados do aplicativo assistente de voz](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [Entender as diferenças entre os dispositivos habilitados por voz](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -233,7 +234,6 @@ ht-degree: 97%
       + [Criar um site interno do Adobe Analytics](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Usar um conjunto de relatórios global](administration/admin-tips/use-a-global-report-suite.md)
       + [Criar um projeto de notícias e anúncios](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [Como impulsionar o sucesso com painéis de resumo executivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
@@ -323,7 +323,7 @@ ht-degree: 97%
       + [Modelos de dimensão na segmentação](components/segmentation/dimension-models-in-segmentation.md)
       + [Igual a qualquer operador na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
-      + [Agora, apenas aguarde um segmento... Usando a segmentação para descobrir novos insights.](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [Agora aguarde um segmento... Usando segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
       + [Função distinta de contagem aproximada em métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [Attribution IQ em métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=pt-BR)
@@ -334,7 +334,7 @@ ht-degree: 97%
       + [Métricas calculadas - Seletor de métricas](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Métricas calculadas rapidamente no Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Utilização de dimensões em métricas calculadas](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Leve a análise de dados ao próximo nível com as Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Eleve sua análise de dados a um novo patamar com Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificações {#classifications}
       + [Visão geral das classificações](components/classifications/overview-of-classifications.md)
       + [Utilização do Construtor de regras de classificação](components/classifications/using-the-classification-rule-builder.md)
