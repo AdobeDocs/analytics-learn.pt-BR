@@ -7,10 +7,10 @@ kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,3 @@ Neste vídeo, você aprenderá a usar [!UICONTROL modelos] do [!DNL Attribution 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12&learn=on)
 
 Ao fazer análises no site, você geralmente usa segmentos para se concentrar em um grupo específico de visitantes, visitas ou ocorrências. Agora, à medida que faz isso, você deve adicionar uma etapa para considerar qual modelo de atribuição funciona melhor em conjunto com o segmento, as métricas e o relatório geral.
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
-

@@ -7,9 +7,9 @@ kt: 6833
 role: User
 level: Beginner
 exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Nas [!UICONTROL configurações de visualização], é possível optar por adici
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=pt-BR#analysis-workspace).
 
 Se deseja exportar médias móveis ou adicionar várias médias a uma tabela de uma só vez, é possível criar métricas calculadas ao invés disso. Saiba mais [neste vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=pt-BR#analysis-workspace).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Usar visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ Ao usar variáveis [!DNL contextData] na implementação do Adobe Analytics, par
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Configuração e administração de conjuntos de relatórios no Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

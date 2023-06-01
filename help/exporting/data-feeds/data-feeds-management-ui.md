@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ O [!UICONTROL feed de dados], do Adobe Analytics, permite exportar dados de sequ
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

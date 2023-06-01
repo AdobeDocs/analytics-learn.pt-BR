@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o
 * 4:30 - As configurações de coluna podem ser atualizadas em massa agora, em vez de individualmente. Saiba mais no minuto 8:45 do vídeo: [Configurações de linha e coluna em Tabelas de forma livre](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), disponível gratuitamente na Experience League!

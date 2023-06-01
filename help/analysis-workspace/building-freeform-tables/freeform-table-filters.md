@@ -7,9 +7,9 @@ kt: 1699
 role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '87'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ No Analysis Workspace, agora oferecemos mais controle de filtragem, com 11 crit�
 Para obter mais informações sobre os filtros disponíveis, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=pt-BR#cja-workspace).
 
 **Observação:** caracteres especiais avançados não estão disponíveis no Analysis Workspace.
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

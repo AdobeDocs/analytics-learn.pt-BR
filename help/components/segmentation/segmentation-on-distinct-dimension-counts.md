@@ -7,9 +7,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '148'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ O novos operadores de [!UICONTROL Contagem distinta] no [!UICONTROL Construtor d
 Esse recurso poderia ser mais legal? :)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

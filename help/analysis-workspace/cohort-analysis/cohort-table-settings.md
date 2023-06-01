@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ As personalizações para a [!UICONTROL Tabela de coorte] incluem a capacidade d
 A linha média é especialmente útil na exibição de [!UICONTROL retenção] ou [!UICONTROL churn] total, em vez de linhas de [!UICONTROL coorte] individuais.
 
 Para obter mais informações sobre análises de [!UICONTROL coorte] visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

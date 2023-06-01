@@ -11,9 +11,9 @@ kt: 5554
 role: User
 level: Intermediate
 exl-id: fc7a4eda-0e1b-45a5-876d-022b97ef6e42
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '68'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ O Modelo de atribuição algorítmica no Analysis Workspace usa técnicas estat�
 >[!VIDEO](https://video.tv.adobe.com/v/36205/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/algorithmic.html?lang=pt-BR)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

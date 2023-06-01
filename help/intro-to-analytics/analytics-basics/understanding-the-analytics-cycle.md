@@ -6,9 +6,9 @@ kt: 3564
 role: User
 level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Neste vídeo simples, mas importante, saiba mais sobre as etapas envolvidas na análise dos dados do seu site. Reservar algum tempo para entender esse processo pode fazer toda a diferença para o sucesso do seu programa [!DNL Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.

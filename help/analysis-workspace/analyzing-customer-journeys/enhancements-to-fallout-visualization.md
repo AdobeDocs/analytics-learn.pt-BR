@@ -11,9 +11,9 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -23,9 +23,5 @@ ht-degree: 100%
 Este vídeo mostra atualizações na [!DNL Fallout Visualization] que foram bastante solicitadas pelos clientes, incluindo etapas diretas comparadas com eventuais, renomeação de pontos de contato, comparação de segmentos ilimitados e porcentagens de conversão dos pontos de contato em tendência ao longo do tempo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).

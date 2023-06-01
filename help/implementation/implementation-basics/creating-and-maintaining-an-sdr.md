@@ -7,9 +7,9 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '129'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ O documento Referência de design de solução (SDR) é o blueprint dos requisit
 [Baixe](assets/aa-implementation-playbook.xlsx) um modelo de amostra do Excel para documentar os requisitos e o design da coleta de dados para suas propriedades digitais.
 
 [Baixe](assets/geometrixx-clothiers-brd-sdr.xlsx) o documento do Excel apresentado neste vídeo e/ou assista ao [vídeo do documento de requisitos comerciais](creating-a-business-requirements-document.md) relacionado a esse assunto.
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.

@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,3 @@ O Data Warehouse pode enviar relatórios no formato de arquivo de Extração de 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

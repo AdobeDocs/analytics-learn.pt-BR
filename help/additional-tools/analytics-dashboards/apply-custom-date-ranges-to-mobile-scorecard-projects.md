@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Este vídeo mostra como gerenciar as diferentes opções de intervalos de datas 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Exportar e democratizar dados do Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

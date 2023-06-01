@@ -7,9 +7,9 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Quanto maior for a tendência do período de tempo em que uma [!UICONTROL métrica] é exibida, mais difícil será informar as tendências direcionais para a [!UICONTROL métrica]. Para resolver isso, a [!UICONTROL função] [!UICONTROL Média cumulativa] em [!UICONTROL Métricas calculadas] pode ser usada para aplicar suavização a [!UICONTROL métricas] no Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso: [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), disponível gratuitamente na Experience League!

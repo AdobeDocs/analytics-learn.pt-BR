@@ -7,9 +7,9 @@ kt: 1770
 role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Um seletor de [!UICONTROL granularidade] foi adicionado às configurações de [!UICONTROL visualização] de tendência para permitir que você ajuste com facilidade sua [!UICONTROL granularidade] de dados, desde o nível de minuto até o nível de ano. A configuração ajustará o gráfico e a tabela de origem, economizando o tempo gasto com etapas de revelação e manipulação da tabela.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Usar visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

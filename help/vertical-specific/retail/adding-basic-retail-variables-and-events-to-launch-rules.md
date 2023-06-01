@@ -6,9 +6,9 @@ kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 Este vídeo mostra como usar uma [!UICONTROL extensão] de sequência de caracteres de produto especial no [!DNL Experience Platform Launch] para rastrear variáveis e eventos básicos de varejo, como exibição de produto, adição ao carrinho, check-out etc.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.

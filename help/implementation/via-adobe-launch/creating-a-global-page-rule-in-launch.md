@@ -6,10 +6,10 @@ kt: 3588
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,3 @@ ht-degree: 100%
 Você desejará que alguns pontos de dados sejam enviados para o Adobe Analytics em cada página. Este vídeo mostra como configurar uma regra de carregamento de página global para enviar esses dados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Implementação guiada do Analytics](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1), que está disponível gratuitamente na Experience League.

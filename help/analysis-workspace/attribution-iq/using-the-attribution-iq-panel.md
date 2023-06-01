@@ -11,9 +11,9 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ Neste vídeo, você verá que o [!DNL Attribution IQ] [!UICONTROL Painel] é um 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 O [!DNL Attribution IQ] [!UICONTROL Painel] no Analysis Workspace é uma maneira de comparar rapidamente qualquer um dos dez [!DNL attribution models] baseados em regras de uma maneira visual. Veja como cada modelo está afetando qualquer dimensão usando [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] e até mesmo [!DNL Flow Diagram]. O [!DNL Attribution] [!UICONTROL Painel] é um excelente ponto de partida para uma análise de atribuição mais sofisticada.
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

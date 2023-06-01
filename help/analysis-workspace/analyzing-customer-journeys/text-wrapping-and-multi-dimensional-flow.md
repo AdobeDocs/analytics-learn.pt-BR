@@ -12,9 +12,9 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ Este vídeo mostra como ativar e desativar o truncamento de rótulos na [!DNL fl
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Atribuição de valor a pontos de contato digitais na Jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

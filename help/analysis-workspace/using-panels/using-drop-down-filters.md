@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ A área de destino do painel agora tem recursos suspensos de filtragem. Os filtr
 Os menus suspensos são uma maneira útil de consolidar projetos e painéis. Por exemplo, se você tiver várias versões de um projeto que fornece relatórios específicos de país, é possível recolher esses projetos em um único projeto e adicionar um menu suspenso de país para que os usuários possam alternar entre eles.
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte do curso [Filtrar dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR), que está disponível gratuitamente na Experience League.

@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,12 +23,3 @@ Neste vídeo, mostraremos como utilizar dois recursos de comparação de datas e
 As comparações de datas são uma maneira fácil de adicionar profundidade às tabelas atuais do Analysis Workspace e ajudarão você a facilmente colocar seus dados atuais em perspectiva para o desempenho histórico.
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=pt-BR).
-
->[!INFO]
->
-> Este vídeo faz parte de dois cursos:
->
-> * [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [Filtrar seus dados com segmentação e datas personalizadas](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=pt-BR)
->
-> Ambos estão disponíveis gratuitamente na Experience League.
