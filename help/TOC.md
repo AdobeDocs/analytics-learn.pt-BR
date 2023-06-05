@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 96%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 96%
       + [Utilização de tabelas, visualizações e painéis no Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Painel Quick Insights no Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Utilização do painel Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=pt-BR)
-      + [Noções básicas sobre o Painel de atribuição e as janelas de pesquisa do Adobe Analytics](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Painel Visualizadores simultâneos de mídia no Analysis Workspace](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [Painel Tempo gasto com a reprodução da mídia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=pt-BR)
       + [Utilização de filtros suspensos](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 96%
       + [Criar um site interno do Adobe Analytics](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [Usar um conjunto de relatórios global](administration/admin-tips/use-a-global-report-suite.md)
       + [Criar um projeto de notícias e anúncios](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [Impulsionar o sucesso com painéis de resumo executivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
