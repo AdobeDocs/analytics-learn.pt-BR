@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -24,4 +24,4 @@ As [!UICONTROL métricas] de [!UICONTROL ciclo de vida] são informações valio
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
-Para obter mais informações sobre [!UICONTROL métricas] de [!UICONTROL ciclo de vida], consulte a [documentação](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle).
+Para obter mais informações sobre [!UICONTROL métricas] de [!UICONTROL ciclo de vida], consulte a [documentação](https://developer.adobe.com/client-sdks/documentation/mobile-core/lifecycle/).
