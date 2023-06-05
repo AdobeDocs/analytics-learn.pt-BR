@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ O uso de uma camada de dados para o [!DNL Analytics] e outras soluções da Expe
 
 Uma _camada de dados_ é uma estrutura de objetos JavaScript que os desenvolvedores adicionam às páginas da Web digitais. As soluções do Analytics usam a camada de dados para preencher relatórios. Sistemas de gerenciamento de tags, incluindo [!DNL Experience Platform Tags]) são os intermediários que leem a camada de dados, mapeiam os valores para variáveis e enviam esses dados para soluções de experiência digital.
 
-Revise informações adicionais sobre camadas de dados na [Documentação da Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR) e no blog [Camadas de dados: de palavra da moda a prática recomendada](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+Revisar informações adicionais sobre camadas de dados no [Documentação do Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR).
 
 ## Camadas de dados, [!DNL Experience Platform Tags] e Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
