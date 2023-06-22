@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
-ht-degree: 96%
+source-wordcount: '2451'
+ht-degree: 97%
 
 ---
 
@@ -95,6 +95,7 @@ ht-degree: 96%
       + [Escolher segmentos para um painel](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Vários conjuntos de relatórios no Analysis Workspace](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [Painéis e relatórios de próximo/anterior e resumo da página do Espaço de trabalho](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [Noções básicas sobre o painel de atribuição e as janelas de pesquisa](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + Criação de tabelas de forma livre {#building-freeform-tables}
       + [Entenda seus dados: tabelas de forma livre](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [Usar o painel esquerdo para criar tabelas de forma livre](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -337,7 +338,7 @@ ht-degree: 96%
       + [Métricas calculadas - Seletor de métricas](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Métricas calculadas rapidamente no Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [Utilização de dimensões em métricas calculadas](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [Eleve sua análise de dados a um novo patamar com Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [Eleve suas análises de dados a um novo patamar com as Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificações {#classifications}
       + [Visão geral das classificações](components/classifications/overview-of-classifications.md)
       + [Utilização do Construtor de regras de classificação](components/classifications/using-the-classification-rule-builder.md)
