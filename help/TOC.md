@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [Anotações](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Densidade da exibição](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Usar filtros](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + Relatórios em Tempo real {#real-time-reports}
+      + [Relatório em tempo real](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Utilização de painéis {#using-panels}
       + [Utilização de tabelas, visualizações e painéis no Analysis Workspace](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Painel Quick Insights no Analysis Workspace](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [Redução de taxas de erro e melhoria das taxas de sucesso no aplicativo de voz](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Compreender o comportamento do usuário nos assistentes de voz](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [Compreender a jornada de voz do usuário](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Relatórios em tempo real no Reports and Analytics](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + Administração {#administration}
    + Principais habilidades do administrador {#key-admin-skills}
       + [Criação de uma comunidade fortalecida](administration/key-admin-skills/empowered-community.md)
