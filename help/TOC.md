@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
 source-wordcount: '2446'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -329,14 +329,14 @@ ht-degree: 97%
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Agora aguarde um segmento... Usando segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
-      + [Função distinta de contagem aproximada em métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Attribution IQ em métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=pt-BR)
-      + [Métricas calculadas - Construtor de métricas](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [Visão geral do construtor de métrica calculada](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Métricas calculadas - Funções](components/calculated-metrics/calculated-metrics-functions.md)
       + [Métricas calculadas - Métricas sem implementação](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas - Métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [Métricas calculadas - Seletor de métricas](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Métricas calculadas rapidamente no Analysis Workspace](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Função distinta de contagem aproximada em métricas calculadas](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Attribution IQ em métricas calculadas](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=pt-BR)
       + [Utilização de dimensões em métricas calculadas](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
       + [Eleve suas análises de dados a um novo patamar com as Métricas calculadas](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + Classificações {#classifications}
