@@ -1,9 +1,12 @@
 ---
 title: Dominar a inteligência de clientes com o Virtual Analyst e o Segment IQ
 description: Saiba mais sobre a importância do uso de inteligência artificial e aprendizado de máquina (IA/ML). Veja os benefícios e saiba mais sobre histórias de sucesso reais de clientes globais que usam o Virtual Analyst e o Segment IQ para detectar anomalias, evitar outliers e maximizar o ROI.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%
