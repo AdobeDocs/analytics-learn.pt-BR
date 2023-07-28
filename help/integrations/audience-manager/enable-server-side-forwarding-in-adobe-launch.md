@@ -1,26 +1,28 @@
 ---
-title: Ativar o encaminhamento pelo lado do servidor no Experience Platform Launch
-description: Saiba como usar o Experience Platform Launch para enviar as ocorrências do Adobe Analytics automaticamente para o Adobe Audience Manager por meio do encaminhamento pelo lado do servidor.
+title: Integrar o Adobe Analytics com o Adobe Audience Manager usando o encaminhamento pelo lado do servidor
+description: Saiba como enviar dados do Adobe Analytics para o Adobe Audience Manager usando o encaminhamento pelo lado do servidor.
 feature: Experience Cloud Integration
-topics: null
-activity: use
-doc-type: feature video
+topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: Integrations
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: Leader, Architect, Admin, Developer
 level: Intermediate
+badgeIntegration: label="Integração" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 520c7d01a2d0238d53fcace4b5a2bc41fb76abee
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
-# Ativar o encaminhamento pelo lado do servidor no [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}
+# Integrar [!DNL Adobe Analytics] com [!DNL Adobe Audience Manager] uso do encaminhamento pelo lado do servidor
 
-Saiba como usar o Adobe [!DNL Experience Platform Launch] para que suas ocorrências do Adobe Analytics sejam enviadas automaticamente para o Adobe Audience Manager por meio do encaminhamento pelo lado do servidor.
+Saiba como enviar [!DNL Adobe Analytics] dados para [!DNL Adobe Audience Manager] usando encaminhamento pelo lado do servidor.
+
+>[!NOTE]
+>
+>&quot;[!UICONTROL Launch]&quot; foi renomeado para &quot;[!UICONTROL tags]&quot; na interface do Experience Cloud. Selecionar [!UICONTROL Coleta de dados] do [!UICONTROL alternador de aplicativos] para abrir tags e executar as etapas apresentadas neste vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
