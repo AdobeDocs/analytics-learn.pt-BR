@@ -4,9 +4,9 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -164,11 +164,11 @@ ht-degree: 98%
       + [Criação de segmentos de jornada do cliente](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [Criação de segmentos de jornada do cliente - Parte 2](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + Métricas {#metrics}
-      + [Noções básicas sobre métricas de visitante](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Adicionar dimensões e métricas ao seu projeto](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=pt-BR)
-      + [Introdução a eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Trabalhar com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=pt-BR)
-      + [Uso de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Compreensão de métricas básicas de visitantes](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Adição de dimensões e métricas ao seu projeto](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=pt-BR)
+      + [Introdução aos eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
+      + [Trabalho com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=pt-BR)
+      + [Utilização de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Adeus Excel, olá métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensões {#dimensions}
       + [Adicionar dimensões e métricas ao seu projeto no Analysis Workspace](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
