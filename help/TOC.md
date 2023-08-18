@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [Visualização de gráfico de marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualização de rosca](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualização de histograma](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Desbloquear insights com histogramas](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Visualização de linha](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Gráficos de combinação](analysis-workspace/visualizations/combo-charts.md)
       + [Adição de linhas de tendência às visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [Visualização de gráfico de dispersão](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [Visualização de mapa de árvore](analysis-workspace/visualizations/treemap-visualization.md)
       + [Visualização de diagrama de Venn](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [Utilização da função média cumulativa para aplicar uma suavização de métrica](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [Usar a função média cumulativa para aplicar a suavização de métricas](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [Layouts flexíveis](analysis-workspace/visualizations/flexible-layouts.md)
       + [Alteração da escala/eixo nas visualizações](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [Vinculação de gráfico de dimensão em tempo real](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [Alternância de granularidade](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Definir a granularidade das visualizações](analysis-workspace/visualizations/granularity-toggle.md)
       + [Intra-linking no Analysis Workspace](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [Reorganização e redimensionamento de visualizações](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [Personalizar legendas de visualização](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [Usar um conjunto de relatórios global](administration/admin-tips/use-a-global-report-suite.md)
       + [Criar um projeto de notícias e anúncios](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Impulsione o sucesso com painéis de resumo executivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [Criar Painéis Operacionais](administration/admin-tips/create-operational-dashboards.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
