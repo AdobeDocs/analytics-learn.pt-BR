@@ -9,7 +9,7 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
 workflow-type: tm+mt
 source-wordcount: '1150'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Deixem-me guiá-los pelos três painéis operacionais que criei para minha empre
 1. Bugs, recursos e registro de versões principais
 
 
-## 1 - Painel de perguntas frequentes*
+## 1 - Painel de perguntas frequentes
 
 Cansado do infinito loop de repetição de respostas? Stop! Economize tempo criando um painel de perguntas frequentes. Os usuários podem consultá-lo antes de perguntar, ou você pode vincular rapidamente a ele em suas respostas.
 
