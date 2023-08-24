@@ -126,7 +126,7 @@ ht-degree: 99%
       + [Visualização de gráfico de marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [Visualização de rosca](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [Visualização de histograma](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Desbloquear insights com histogramas](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [Desbloqueio de insights com histogramas](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [Visualização de linha](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [Gráficos de combinação](analysis-workspace/visualizations/combo-charts.md)
       + [Adição de linhas de tendência às visualizações de linha](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -239,7 +239,7 @@ ht-degree: 99%
       + [Usar um conjunto de relatórios global](administration/admin-tips/use-a-global-report-suite.md)
       + [Criar um projeto de notícias e anúncios](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [Impulsione o sucesso com painéis de resumo executivo](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [Criar Painéis Operacionais](administration/admin-tips/create-operational-dashboards.md)
+      + [Criação de painéis operacionais](administration/admin-tips/create-operational-dashboards.md)
    + Configurações da empresa {#company-settings}
       + [Aplicar restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
