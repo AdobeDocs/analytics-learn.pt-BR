@@ -4,9 +4,9 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -114,11 +114,11 @@ ht-degree: 99%
       + [Filtros de Tabela de forma livre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensões de separação de tempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + Visualizações {#visualizations}
-      + [Tipos e visão geral da visualização](analysis-workspace/visualizations/visualization-types.md)
+      + [Tipos de visualização e visão geral](analysis-workspace/visualizations/visualization-types.md)
       + [Casos de uso de visualização](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [Manual de visualização de dados](analysis-workspace/visualizations/data-visualization-playbook.md)
+      + [Manual de estratégia de visualização de dados](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [Adicionar dados em visualizações](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Utilização de menus suspensos de componentes no Workspace](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Uso de menus suspensos de componentes no espaço de trabalho](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Visualizações de área e áreas empilhadas](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [Visualizações de barra e barras empilhadas](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [Visualização de gráfico de marcadores](analysis-workspace/visualizations/bullet-graph-visualization.md)
