@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
-source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
+source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
 workflow-type: ht
-source-wordcount: '2450'
+source-wordcount: '2441'
 ht-degree: 100%
 
 ---
@@ -275,13 +275,11 @@ ht-degree: 100%
       + [Visão geral dos logs de administrador do Analytics](administration/logs/overview-of-analytics-admin-logs.md)
 + Implementação {#implementation}
    + Conceitos básicos de implementação {#implementation-basics}
-      + [Primeira implementação](implementation/implementation-basics/first-time-implementation.md)
       + [Como entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR)
       + [Mapear variáveis contextData em Props e eVars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Como identificar o servidor de rastreamento do Analytics e os conjuntos de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [Utilização de uma camada de dados em seu site](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Via Experience Platform Launch {#via-adobe-launch}
       + [Implementar a Experience Cloud em sites com o Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
       + [Configuração básica da extensão do Analytics no Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
