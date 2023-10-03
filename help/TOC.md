@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: bb057df9b6c1b06ebe834a4235bfb010e9060ac7
+source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
 workflow-type: tm+mt
-source-wordcount: '2441'
-ht-degree: 100%
+source-wordcount: '2435'
+ht-degree: 97%
 
 ---
 
@@ -310,21 +310,21 @@ ht-degree: 100%
       + [Utilização de práticas recomendadas ao rastrear SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componentes {#components}
    + Segmentação {#segmentation}
-      + [Visão geral do Construtor de segmento](components/segmentation/segment-builder-overview.md)
+      + [Visão geral do Construtor de segmentos](components/segmentation/segment-builder-overview.md)
       + [Localizar e criar segmentos](components/segmentation/finding-and-creating-segments.md)
-      + [Intervalos de datas contínuas nos segmentos](components/segmentation/rolling-date-ranges-in-segments.md)
+      + [Intervalos de datas contínuos em segmentos](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Comparação de segmentos no Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Containers de segmentos](components/segmentation/segment-containers.md)
       + [Gerenciamento e compartilhamento de segmentos](components/segmentation/segment-management-and-sharing.md)
-      + [Usando segmentos na Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=pt-BR)
-      + [Utilização de segmentos como dimensões no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=pt-BR)
-      + [Utilização de segmentos para limitar dados no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=pt-BR)
+      + [Aplicação de segmentos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=pt-BR)
+      + [Uso de segmentos como dimensões](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=pt-BR)
+      + [Utilização de segmentos para limitar dados](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=pt-BR)
       + [Diferenças entre o construtor de segmentos e os segmentos rápidos](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentação sequencial](components/segmentation/sequential-segmentation.md)
       + [Sequências antes/depois na segmentação sequencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentação em contagens de dimensões distintas](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [Modelos de dimensão na segmentação](components/segmentation/dimension-models-in-segmentation.md)
-      + [Igual a qualquer operador na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [modelos de Dimension na segmentação](components/segmentation/dimension-models-in-segmentation.md)
+      + [Operador &quot;Igual a qualquer um de&quot; na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Agora aguarde um segmento... Utilizando a segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
