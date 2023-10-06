@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: ht
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+workflow-type: tm+mt
 source-wordcount: '2435'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -324,7 +324,7 @@ ht-degree: 100%
       + [Sequências de “antes/depois” na segmentação sequencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [Segmentação em contagens de dimensões distintas](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [Modelos de dimensão na segmentação](components/segmentation/dimension-models-in-segmentation.md)
-      + [Operador “Igual a qualquer um de” na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Usar &quot;igual a qualquer um de&quot; na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Agora aguarde um segmento... Utilizando a segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
    + Métricas calculadas {#calculated-metrics}
