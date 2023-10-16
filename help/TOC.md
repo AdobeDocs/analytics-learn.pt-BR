@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2436'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -277,8 +277,8 @@ ht-degree: 98%
 + Implementação {#implementation}
    + Conceitos básicos de implementação {#implementation-basics}
       + [Como entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR)
-      + [Mapear variáveis contextData em props e eVars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Como identificar o servidor de rastreamento de análise e a ID do conjunto de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [Mapeie variáveis contextData em props e eVars com regras de processamento](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Como identificar o servidor de rastreamento da análise e a ID do conjunto de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Via Experience Platform Launch {#via-adobe-launch}
