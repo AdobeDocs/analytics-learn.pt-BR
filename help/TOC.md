@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: ht
-source-wordcount: '2436'
-ht-degree: 100%
+source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+workflow-type: tm+mt
+source-wordcount: '2429'
+ht-degree: 99%
 
 ---
 
@@ -342,10 +342,10 @@ ht-degree: 100%
       + [Visão geral das classificações](components/classifications/overview-of-classifications.md)
       + [Utilização do Construtor de regras de classificação](components/classifications/using-the-classification-rule-builder.md)
    + Conjuntos de relatórios virtuais {#virtual-report-suites}
-      + [Conjuntos de relatórios virtuais](components/virtual-report-suites/virtual-report-suites.md)
-      + [Curadoria de componentes em conjuntos de relatórios virtuais](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [Sessões com reconhecimento de contexto em conjuntos de relatórios virtuais](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [Iniciar uma nova visita em qualquer evento nos Conjuntos de relatórios virtuais](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [Visão geral dos conjuntos de relatórios virtuais](components/virtual-report-suites/virtual-report-suites.md)
+      + [Curadoria de componente](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [Personalização de visitas em conjuntos de relatórios virtuais](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [Iniciar uma nova visita em qualquer evento](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Visão geral do Activity Map](components/activity-map/activity-map-overview.md)
       + [Ativação, depuração e personalização do Activity Map do Adobe Analytics](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
