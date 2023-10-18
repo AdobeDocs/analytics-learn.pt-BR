@@ -5,8 +5,9 @@ feature: VRS
 kt: 1774
 role: User
 level: Intermediate
+last-substantial-update: 2023-10-18T00:00:00Z
 exl-id: 87568f06-1369-46d6-80bd-762a67e4bdcc
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
+source-git-commit: f5bcbf5f43e9a9c0de604a7eb7f0331114133978
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 43%
@@ -15,6 +16,6 @@ ht-degree: 43%
 
 # Curadoria de componentes em conjuntos de relatórios virtuais
 
-Os conjuntos de relatórios virtuais podem ser gerenciados para incluir e excluir [!UICONTROL dimensões], [!UICONTROL métricas], e [!UICONTROL segmentos] no Analysis Workspace, o que ajuda muito se você estiver compartilhando-o com outras equipes que precisam apenas de uma parte específica dos dados ou que usam uma nomenclatura de dados diferente. Para obter a documentação detalhada, visite [Curadoria do componente do conjunto de relatórios virtual](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=pt-BR).
+Os conjuntos de relatórios virtuais podem ser gerenciados para incluir e excluir [!UICONTROL dimensões], [!UICONTROL métricas], e [!UICONTROL segmentos] no Analysis Workspace, o que ajuda muito se você estiver compartilhando-o com outras equipes que precisam apenas de uma parte específica dos dados ou que usam uma nomenclatura de dados diferente. Para obter a documentação detalhada, visite [Curadoria do componente do conjunto de relatórios virtual](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=pt-BR){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
