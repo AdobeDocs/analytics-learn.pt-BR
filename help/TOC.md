@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
