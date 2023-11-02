@@ -1,22 +1,21 @@
 ---
-title: Introdução ao Data Warehouse
-description: A ferramenta de solicitação do Data Warehouse, no Adobe Analytics, fornece acesso à consulta de dados brutos. O Data Warehouse pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios programados e baixados. Este vídeo é uma introdução à ferramenta e inclui uma apresentação de como criar um relatório do Data Warehouse.
+title: Introdução à exportação do data warehouse
+description: Saiba como aproveitar ao máximo a interface do usuário dos Relatórios do Data Warehouse e as contas e locais de exportação. Este vídeo aborda o fluxo de trabalho básico de um delivery de relatório para email e Amazon S3.
 feature: Data Warehouse
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 7%
 
 ---
 
-# Introdução ao [!UICONTROL Data Warehouse] {#introduction-to-data-warehouse}
+# Introdução à exportação do data warehouse
 
-A ferramenta de solicitação do [!UICONTROL Data Warehouse], no Adobe Analytics, fornece acesso à consulta de dados brutos. O [!UICONTROL Data Warehouse] pode processar uma quantidade ilimitada de linhas em uma única solicitação para relatórios programados e baixados. Este vídeo é uma introdução à ferramenta e inclui uma apresentação de como criar um relatório do [!UICONTROL Data Warehouse].
+Saiba como aproveitar ao máximo a interface do usuário dos Relatórios do Data Warehouse e as contas e locais de exportação. Este vídeo aborda o fluxo de trabalho básico de um delivery de relatório para email e Amazon S3. Para obter a documentação detalhada, consulte [Visão geral do Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=pt-BR) e documentos relacionados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

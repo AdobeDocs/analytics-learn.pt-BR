@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+workflow-type: tm+mt
+source-wordcount: '2428'
+ht-degree: 99%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 100%
    + Da interface {#from-the-ui}
       + [Exportar para CSV do Analysis Workspace](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Introdução ao Data Warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Exportação do data warehouse](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [Enviar solicitação de Data Warehouse via SFTP](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Enviar relatórios do Data Warehouse no formato de Extração de dados do Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Enviar relatórios do Data Warehouse no extrato de dados do Tableau](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + Feeds de dados {#data-feeds}
       + [Interface de gerenciamento de feeds de dados](exporting/data-feeds/data-feeds-management-ui.md)
       + [Baixar a chave de autenticação de feed de dados](exporting/data-feeds/download-the-data-feed-authentication-key.md)
