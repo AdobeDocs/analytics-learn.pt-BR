@@ -1,22 +1,22 @@
 ---
-title: Uso de métricas de participação no Analysis Workspace
-description: Utilize este truque simples para obter qualquer métrica de participação no Analysis Workspace a qualquer momento.
+title: Criar métricas de participação
+description: Saiba como criar métricas de participação e usá-las no [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
-# Uso de métricas de participação no Analysis Workspace
+# Criar métricas de participação
 
-Utilize este truque simples para obter qualquer métrica de participação no Analysis Workspace a qualquer momento.
+Saiba como criar métricas de participação e usá-las no [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
