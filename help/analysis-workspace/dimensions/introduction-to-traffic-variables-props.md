@@ -1,20 +1,23 @@
 ---
 title: Introdução a variáveis de tráfego (props)
-description: Neste vídeo, obtenha uma introdução às variáveis de tráfego, incluindo Nome da página, Seção do site e “props”.
+description: Entenda os tipos de variáveis de tráfego e como elas são usadas no Adobe Analytics.
 feature: Dimensions
 kt: 3576
 role: User
 level: Beginner
+last-substantial-update: 2023-11-21T00:00:00Z
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 20%
 
 ---
 
-# Introdução a variáveis de tráfego ([!UICONTROL Props])
+# Introdução às variáveis de tráfego ([!UICONTROL Props])
 
-Neste vídeo, obtenha uma introdução às variáveis de tráfego, incluindo [!UICONTROL Nome da página], [!UICONTROL Seção do site] e “[!UICONTROL props]”.
+Entenda os tipos de variáveis de tráfego e como elas são usadas no Adobe Analytics, incluindo análise de tráfego, conteúdo e fluxo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
