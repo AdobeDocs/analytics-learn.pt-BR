@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2425'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -171,9 +171,9 @@ ht-degree: 99%
       + [Adeus Excel, olá métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensões {#dimensions}
       + [Adição de dimensões e métricas ao seu projeto](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [Introdução a variáveis de tráfego (props)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [Introdução a variáveis de tráfego (propriedades)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introdução a variáveis de conversão (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Trabalhar com dimensões em uma Tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=pt-BR)
+      + [Trabalho com dimensões em uma Tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=pt-BR)
    + Calendário e intervalos de datas {#calendar-and-date-ranges}
       + [Utilização de datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Aplicação de intervalos de datas reutilizáveis no projeto](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
