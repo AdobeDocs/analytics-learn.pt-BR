@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e493003e4beec22a377115a3619bd1bfc838ccfe
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '2427'
-ht-degree: 99%
+source-wordcount: '2260'
+ht-degree: 98%
 
 ---
 
@@ -283,9 +283,9 @@ ht-degree: 99%
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Uso de tags Experience Platform {#via-adobe-launch}
       + [Implementar a Experience Cloud em sites com o Experience Platform Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
-      + [Configuração básica da extensão do Analytics no Launch](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Configuração básica da extensão do Analytics](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Configurar o gerenciamento de biblioteca para a extensão do Analytics](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Definição de configurações gerais na extensão do Analytics para o Launch](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Definir configurações gerais para a extensão do Analytics](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Configuração de variáveis globais na extensão Launch do Analytics](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Definição de configurações de cookie na extensão Launch Analytics](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Utilização de código personalizado ao configurar a extensão Launch Analytics](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
