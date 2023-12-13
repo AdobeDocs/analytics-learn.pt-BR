@@ -1,24 +1,20 @@
 ---
-title: Configuração de variáveis globais na extensão Launch do Analytics
-description: Se você estiver apenas começando a usar o Experience Platform Launch, e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender quando e onde definir as variáveis globais, ou seja, valores que você deseja definir em cada página ou clique.
+title: Definir configurações de variável global para a extensão do Analytics
+description: Saiba como definir as configurações da variável global na extensão Tags do Analytics para um site básico.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2855
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: a7c86bd13b48e2549fe64240397514b84c77b3be
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Configuração de [!UICONTROL variáveis globais] na [!UICONTROL extensão] [!DNL Launch Analytics] {#configuring-global-variables-in-the-launch-analytics-extension}
+# Definir configurações de variável global para a extensão do Analytics em tags de Experience Platform {#configuring-global-variables-in-the-launch-analytics-extension}
 
-Se você estiver apenas começando a usar o Experience Platform Launch e a [!UICONTROL extensão] do Adobe Analytics, este vídeo pode ajudá-lo a entender quando e onde definir as [!UICONTROL variáveis globais], como valores que você deseja definir em cada página ou clique.
+Saiba como definir as configurações da variável global na extensão Tags do Analytics para um site básico. Para obter a documentação detalhada, consulte [Visão geral da extensão do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=pt-BR){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
