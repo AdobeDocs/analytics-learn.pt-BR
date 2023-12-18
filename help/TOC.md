@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
-ht-degree: 99%
+source-wordcount: '2249'
+ht-degree: 98%
 
 ---
 
@@ -34,19 +34,17 @@ ht-degree: 99%
    + Transição de outras plataformas {#transitioning-from-other-platforms}
       + [Transição do Google Analytics](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Noções básicas do Analytics {#analytics-basics}
-      + [Botão Testar no Espaço de trabalho no Reports and Analytics](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Como entender o ciclo do Analytics](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Como os dados do Analytics são coletados](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
-      + [Fazendo logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Como entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Compreensão de métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
-      + [Introdução a variáveis de tráfego (Props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
+      + [Faça logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+      + [Entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Entender as métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
+      + [Introdução a variáveis de tráfego (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
       + [Introdução a variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
       + [Introdução a eventos de conversão](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=pt-BR)
    + Personalização da interface {#customizing-the-ui}
       + [Personalizar as preferências do usuário do Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adicionar descrições de dimensão e métrica](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Personalização do menu no Reports and Analytics](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Melhorar a segurança](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Configurar um projeto do Analysis Workspace como landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtendo ajuda {#getting-help}
