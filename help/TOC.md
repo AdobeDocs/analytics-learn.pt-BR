@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,10 +38,10 @@ ht-degree: 98%
       + [Como os dados do Analytics são coletados](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Faça logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Entender as métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
-      + [Introdução a variáveis de tráfego (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
-      + [Introdução a variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
-      + [Introdução a eventos de conversão](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=pt-BR)
+      + [Entenda as métricas básicas de visitantes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
+      + [Introdução às variáveis de tráfego (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
+      + [Introdução às variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
+      + [Introdução aos eventos de conversão](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=pt-BR)
    + Personalização da interface {#customizing-the-ui}
       + [Personalizar as preferências do usuário do Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Adicionar descrições de dimensão e métrica](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
