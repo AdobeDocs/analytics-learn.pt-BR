@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: ht
-source-wordcount: '2249'
-ht-degree: 100%
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+workflow-type: tm+mt
+source-wordcount: '2227'
+ht-degree: 98%
 
 ---
 
@@ -180,17 +180,15 @@ ht-degree: 100%
       + [Comparação de datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [Adição de comparações com meses e anos anteriores às tendências](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + Preparar e compartilhar projetos {#curate-and-share-projects}
-      + [Salvar, compartilhar e colaborar em projetos no Analysis Workspace](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Curadoria e compartilhamento no Analysis Workspace](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [Salvar, compartilhar e colaborar em projetos](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Preparar e compartilhar projetos](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [Link direto para um projeto](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Compartilhar com qualquer pessoa no Analysis Workspace](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Compartilhar com qualquer pessoa](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Exportar em formato CSV e PDF no Analysis Workspace](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [Exportar para CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Programação e projetos baixáveis](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Compartilhamento de projetos no Analysis Workspace](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Projetos somente para visualização no Analysis Workspace](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Explore o potencial do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Criar projetos somente para visualização](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Descubra o poder do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilização da Análise entre guias para explorar a atribuição básica de marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Adição de comparações lado a lado de Modelos do Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
