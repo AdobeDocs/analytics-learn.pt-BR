@@ -4,7 +4,7 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
 ht-degree: 98%
@@ -187,7 +187,7 @@ ht-degree: 98%
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportar para CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Criar projetos somente para visualização](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Compartilhar projetos somente leitura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [Descubra o poder do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilização da Análise entre guias para explorar a atribuição básica de marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)

@@ -1,6 +1,6 @@
 ---
-title: Projetos somente para visualização no Analysis Workspace
-description: Os projetos do Workspace podem ser compartilhados com os usuários como "Somente para visualização". Quando um destinatário de visualização abre o projeto compartilhado, ele recebe uma experiência de projeto mais restritiva, sem o painel esquerdo e com interações limitadas.
+title: Compartilhar um projeto somente leitura no Analysis Workspace
+description: Saiba como compartilhar projetos somente leitura do Analysis Workspace com os usuários e entenda os recursos disponíveis para esse nível de permissão.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Projetos somente para visualização no Analysis Workspace
+# Compartilhar um projeto somente leitura no Analysis Workspace
 
-Os projetos do Workspace podem ser compartilhados com os usuários como &quot;Somente para visualização&quot;. Quando um destinatário de visualização abre o projeto compartilhado, ele recebe uma experiência de projeto mais restritiva, sem o painel esquerdo e com interações limitadas.
+Saiba como compartilhar projetos somente leitura do Analysis Workspace com os usuários e entenda os recursos disponíveis para esse nível de permissão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
