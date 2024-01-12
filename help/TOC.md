@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -188,7 +188,7 @@ ht-degree: 98%
       + [Exportar para CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [Compartilhar projetos somente leitura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [Descubra o poder do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [Explore o potencial do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilização da Análise entre guias para explorar a atribuição básica de marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Adição de comparações lado a lado de Modelos do Attribution IQ](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
