@@ -1,24 +1,25 @@
 ---
-title: Utilização de código personalizado ao configurar a extensão do Launch no Analytics
-description: Se você estiver apenas começando a usar o Experience Platform Launch, e a extensão do Adobe Analytics, este vídeo pode ajudá-lo a entender as opções de janela de código personalizado, tempo de execução do código etc.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: Usar código personalizado na extensão do Adobe Analytics no [!DNL Tags]
+description: Saiba mais sobre casos de uso e considerações técnicas para usar o editor de código personalizado ao configurar a extensão do Adobe Analytics no [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 1%
 
 ---
 
-# Utilização de código personalizado ao configurar a extensão do [!DNL Launch] no [!DNL Analytics]  {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# Usar código personalizado na extensão do Adobe Analytics no [!DNL Tags]
 
-Se você estiver apenas começando a usar o Adobe Experience Platform Launch e a [!UICONTROL extensão] do Adobe Analytics, este vídeo pode ajudá-lo a entender as opções da janela de código personalizado, tempo de execução do código etc.
+Saiba mais sobre casos de uso e considerações técnicas para usar o editor de código personalizado ao configurar a extensão do Adobe Analytics no [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+Revise o [documentação](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=pt-BR) para obter mais informações sobre o <i>função doPlugins</i> referenciados neste vídeo.
