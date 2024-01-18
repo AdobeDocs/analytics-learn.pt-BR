@@ -1,20 +1,25 @@
 ---
-title: Adição de variáveis e eventos básicos de varejo às regras do Launch
-description: Este vídeo mostra como usar uma extensão de sequência de caracteres de produto especial no Launch para rastrear variáveis e eventos básicos de varejo, como exibição do produto, adicionar ao carrinho, check-out etc.
-feature: Launch Implementation
+title: Adicionar variáveis e eventos básicos de varejo às regras no Experience Platform [!DNL tags]
+description: Este vídeo demonstra como usar uma extensão de sequência de caracteres de produto especial no [!DNL tags] para rastrear variáveis e eventos básicos de varejo, como exibições de produtos, adições ao carrinho e check-outs.
+feature: Tags
+topics: Development
 kt: 3592
 role: Developer, Data Engineer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# Adicionar variáveis e eventos básicos de varejo às [!UICONTROL regras] do [!DNL Launch]
+# Adicionar variáveis e eventos básicos de varejo às regras no Experience Platform [!DNL tags]
 
-Este vídeo mostra como usar uma [!UICONTROL extensão] de sequência de caracteres de produto especial no [!DNL Experience Platform Launch] para rastrear variáveis e eventos básicos de varejo, como exibição de produto, adição ao carrinho, check-out etc.
+Este vídeo demonstra como usar uma extensão de sequência de caracteres de produto especial no [!DNL tags] para rastrear variáveis e eventos básicos de varejo, como exibições de produtos, adições ao carrinho e check-outs.
+
+>[!NOTE]
+>
+> O Launch agora está **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
