@@ -187,7 +187,7 @@ ht-degree: 94%
       + [Baixar 50.000 itens como CSV](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Exportar para CSV e PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [Compartilhar componentes integrados](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [Compartilhar projetos somente leitura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [Compartilhar projetos de somente leitura](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [Explore o potencial do compartilhamento somente para visualização](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [Utilização da Análise entre guias para explorar a atribuição básica de marketing](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
