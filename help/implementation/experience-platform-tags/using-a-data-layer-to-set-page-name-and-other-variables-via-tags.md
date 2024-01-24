@@ -8,39 +8,18 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 50%
+source-wordcount: '126'
+ht-degree: 29%
 
 ---
 
 # Use uma camada de dados para definir variáveis do Analytics no Experience Platform [!DNL tags]
 
-O uso de uma camada de dados para o [!DNL Analytics] e outras soluções da Experience Cloud é uma prática recomendada. Neste vídeo, saiba como obter valores da camada de dados e usá-los no Experience Platform [!DNL tags] para preencher variáveis no Adobe Analytics.
+Saiba como obter valores da camada de dados e usá-los no Experience Platform [!DNL tags] para preencher variáveis no Adobe Analytics. Utilização de uma camada de dados para [!DNL Analytics] e outras soluções Experience Cloud são uma prática recomendada.
 
-## Camadas de dados
-
-Uma _camada de dados_ é uma estrutura de objetos JavaScript que os desenvolvedores adicionam às páginas da Web digitais. As soluções do Analytics usam a camada de dados para preencher relatórios. Sistemas de gerenciamento de tags, incluindo o Experience Platform [!DNL tags]) são os intermediários que leem a camada de dados, mapeiam os valores para variáveis e enviam esses dados para soluções de experiência digital.
-
-Revisar informações adicionais sobre camadas de dados no [Documentação do Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR).
-
-## Camadas de dados, Experience Platform [!DNL tags], e ADOBE ANALYTICS
-
-1. Defina ou identifique um padrão de camada de dados a ser usado no site.
-
-   1. Posicione a camada de dados na parte superior possível do cabeçalho da página e antes da chamada para o Experience Platform [!DNL tags]. Isso garante que os valores sejam acessados imediatamente pelo [!DNL tags] e por soluções da Adobe que precisam estar no topo da página, como o Adobe Target.
-
-1. Preencha os dados na camada de dados.
-1. No Experience Platform [!DNL tags], criar &quot;[!UICONTROL elementos de dados]&quot; que mapeiam os pontos de dados na camada de dados. Esses elementos de dados são usados no Experience Platform [!DNL tags] in [!UICONTROL regras] e [!UICONTROL extensões].
-1. Na seção de variáveis globais de extensão do [!DNL Analytics] ou em um [!DNL Tags rule], atribua os valores em [!UICONTROL elementos de dados] para [!UICONTROL props], [!UICONTROL eVars], [!UICONTROL pageName] e outras variáveis [!DNL Analytics].
-1. Acionar um sinal que envia os dados para o [!DNL Analytics].
-
-O vídeo a seguir o orienta pelo processo.
-
->[!NOTE]
->
-> O Launch agora está **[!DNL tags]**
+Revisar informações adicionais sobre camadas de dados no [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR) e [tags Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html) documentação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
