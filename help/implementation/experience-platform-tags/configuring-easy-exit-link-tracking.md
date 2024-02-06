@@ -1,6 +1,6 @@
 ---
-title: Configurar o rastreamento fácil de links de saída nas tags Experience Platform
-description: Você pode começar a rastrear links de saída do seu site (links que vão para outro site) com apenas alguns cliques na extensão Adobe Analytics nas tags Experience Platform. Este vídeo mostra como configurar isso.
+title: Configurar o rastreamento fácil do link de saída em tags da Experience Platform
+description: Você pode começar a rastrear links de saída em seu site (links que levam a outro site) com apenas alguns cliques na extensão do Adobe Analytics em tags da Experience Platform. Este vídeo mostra como configurar isso.
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
