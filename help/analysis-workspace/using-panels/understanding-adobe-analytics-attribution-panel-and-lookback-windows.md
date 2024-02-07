@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 3%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # Como entender o painel de atribuição do Adobe Analytics e as janelas de pesquisa
 
@@ -26,7 +26,7 @@ Eu vou admitir o **painel de atribuição** é uma ferramenta bastante complexa;
 
 Portanto, por que devemos permitir que algo como um pouco de medo interfira com ferramentas tão surpreendentes, sofisticadas e poderosas como essas que literalmente nos permitem olhar *voltar* a tempo, todos os dias?
 
-Afinal - esta é a VIAGEM NO TEMPO, pessoal!!  Somos todos sobre esse tipo de coisa.  Direita???!!
+Afinal - esta é a VIAGEM NO TEMPO, pessoal!!  Somos todos sobre esse tipo de coisa.  Certo???!!
 
 Então, o que estamos esperando - um carro de metal brilhante, uma caixa de polícia, ou uma cabine telefônica vintage usando a fiação de um guarda-chuva velho como sua antena para aparecer em nossa porta?
 
@@ -39,7 +39,7 @@ Agora que estamos todos entusiasmados com a viagem no tempo, vamos respirar fund
 
 ![Atribuição](assets/attribution.png)
 
-*Figura 1: Números exibidos em linha com o texto abaixo*
+*Figura 1: Os números exibidos estão alinhados com o texto mais abaixo*
 
 Entrada **atribuição**, basta considerar como os eventos/ações podem ser causados por um indivíduo, por vários indivíduos ou por um dentre vários eventos diferentes ao longo do tempo.
 
@@ -48,7 +48,7 @@ De acordo [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/usi
 
 >[!WARNING]
 >
->Apenas uma nota rápida para chamar isso **modelos de atribuição** são frequentemente associados a **canais de marketing** que eu propositalmente *riscado* ❷ CANAL na imagem acima para ilustrar que é possível executar **atribuição** análise em relação à maioria das outras ***dimension***.
+>**Modelos de atribuição** são frequentemente associados a **canais de marketing** que eu propositalmente *riscado* ❷ CANAL na imagem acima para ilustrar que é possível executar **atribuição** análise em relação à maioria das outras ***dimension***.
 
 
 Na verdade, raramente uma determinada jornada de cliente é realmente linear e menos previsível.  Além disso, cada cliente continuará em seu próprio ritmo; com frequência, ele pode voltar, parar, sair ou adotar outros comportamentos não lineares. Essas ações orgânicas dificultam ou são praticamente impossíveis de saber o impacto dos esforços de marketing na jornada do cliente. Também dificultam os esforços para unir vários canais de dados.
@@ -85,11 +85,11 @@ Tendo isso em mente, aqui estão alguns exemplos de como as ❸ **modelos de atr
 
 - **Personalizado**: Você escolhe quem vai receber crédito.  É a sua campanha!
 
-Para obter informações adicionais sobre esses e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR)
+Para obter informações adicionais sobre esses e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Para tornar isso ainda mais interessante, vamos falar sobre como retroceder o relógio!
 
-## **Janelas de retrospectiva**
+## **Janelas de pesquisa**
 
 Agora é hora de começar a levar sua mente ao próximo nível.  É aqui que literalmente adicionamos o elemento de viagem no tempo à nossa análise - e, novamente, estamos começando com as noções básicas.
 

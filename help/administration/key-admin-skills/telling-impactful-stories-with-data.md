@@ -8,10 +8,10 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
 source-wordcount: '460'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -34,7 +34,7 @@ Crie visuais simples e de fácil leitura que se alinhem ao tipo de dados que voc
 
 * Use gráficos de barras para dados categóricos e binários
 * Use gráficos de linha (ou bolha fora da Adobe) para dados numéricos
-* Use gráficos de dispersão para demonstrar relações estatísticas
+* Usar gráficos de dispersão para demonstrar relações estatísticas
 
 ## Oferecer uma solução
 
