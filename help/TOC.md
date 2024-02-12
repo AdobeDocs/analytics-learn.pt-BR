@@ -5,9 +5,9 @@ breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2187'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -289,7 +289,7 @@ ht-degree: 99%
       + [Usar uma camada de dados para definir variáveis](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [Usar doPlugins e plug-ins de implementação](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [Configurar rastreamento de link de download fácil](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [Configurar o rastreamento fácil de links de saída](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Configurar o rastreamento fácil do link de saída](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Preparar tags para a implementação do Analytics](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [Criar elementos de dados para a implementação do Analytics](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [Criar uma regra de carregamento de página](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
