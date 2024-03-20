@@ -1,25 +1,21 @@
 ---
 title: Publicar bibliotecas da Experience Platform [!DNL tags] para preparo e produção
-description: Aprenda como criar seu código de desenvolvimento do  [!DNL tags]  para um ambiente de preparo para testes. Quando o teste for concluído, crie-o no ambiente de produção. Este vídeo demonstra esse processo.
+description: Saiba como publicar o código de análise do seu site, do desenvolvimento ao preparo e produção nas tags Experience Platform, bem como configurar os conjuntos de relatórios para receber corretamente os dados apropriados.
 feature: Tags
 topics: Development
 kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: 8212b481653a5b2dccbc980a6fd9d29b94f756a3
+workflow-type: tm+mt
+source-wordcount: '79'
+ht-degree: 20%
 
 ---
 
 # Publicar bibliotecas da Experience Platform [!DNL tags] para preparo e produção
 
-Saiba como criar seu código de desenvolvimento do [!DNL tags] para um ambiente de preparo para testes. Quando o teste for concluído, crie-o no ambiente de produção. Este vídeo demonstra esse processo.
-
->[!NOTE]
->
-> O Launch agora é **[!DNL tags]**
+Saiba como publicar o código de análise do seu site, do desenvolvimento ao preparo e produção no Experience Platform [!DNL tags], bem como configurar os conjuntos de relatórios para receber corretamente os dados adequados.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
