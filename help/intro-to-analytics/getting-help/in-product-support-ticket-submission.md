@@ -1,24 +1,20 @@
 ---
 title: Envio de tíquete de suporte no produto
-description: Agora você pode enviar um tíquete de suporte do Atendimento ao cliente diretamente pela interface do usuário, simplificando o processo de resolução.
+description: Saiba como enviar um tíquete de suporte para o Atendimento ao cliente da Adobe diretamente no produto, simplificando o processo de resolução.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1664
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User
 level: Beginner
 exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 8%
 
 ---
 
 # Envio de tíquete de suporte no produto {#in-product-support-ticket-submission}
 
-Agora você pode enviar um tíquete de suporte do [!DNL Customer Care] diretamente pela interface do usuário, simplificando o processo de resolução.
+Saiba como enviar um tíquete de suporte para o [!DNL Customer Care] no Adobe diretamente no produto, simplificando o processo de resolução.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

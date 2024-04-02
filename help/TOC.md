@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
-workflow-type: ht
-source-wordcount: '2180'
-ht-degree: 100%
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
+workflow-type: tm+mt
+source-wordcount: '2176'
+ht-degree: 99%
 
 ---
 
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [Melhorar a segurança](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Configurar um projeto do Analysis Workspace como landing page](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + Obtendo ajuda {#getting-help}
-      + [Dicas no produto Analysis Workspace](intro-to-analytics/getting-help/in-product-tips.md)
       + [Envio de tíquete de suporte no produto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Obter ajuda no Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
