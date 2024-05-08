@@ -1,6 +1,6 @@
 ---
 title: Configurações da Tabela de coorte
-description: Há várias configurações da Tabela de coorte que permitem personalizar sua visualização de retenção ou churn. Você poderá vê-las em destaque neste vídeo.
+description: Saiba como personalizar sua visualização de tabelas de retenção ou churn usando configurações da Tabela de coorte.
 feature: Visualizations
 activity: use
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 198405506f7aab1dc450a6f7b19224fd96ab1baa
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 46%
 
 ---
 
 # Configurações da [!UICONTROL Tabela de coorte]
 
-Existem várias configurações que permitem personalizar sua visualização de [!UICONTROL retenção] ou [!UICONTROL churn]. Você poderá vê-las em destaque neste vídeo.
+Saiba como personalizar sua visualização de tabelas de retenção ou churn usando configurações da Tabela de coorte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
@@ -29,6 +29,6 @@ As personalizações para a [!UICONTROL Tabela de coorte] incluem a capacidade d
 1. Arredondar porcentagens para o número inteiro mais próximo
 1. Mostrar/ocultar uma linha de porcentagem média na parte superior da tabela.
 
-A linha média é especialmente útil na exibição de [!UICONTROL retenção] ou [!UICONTROL churn] total, em vez de linhas de [!UICONTROL coorte] individuais.
+As linhas médias são ideais para exibição [!UICONTROL retenção] ou [!UICONTROL churn] em geral, e não individualmente [!UICONTROL coorte] linhas.
 
 Para obter mais informações sobre análises de [!UICONTROL coorte] visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=pt-BR).
