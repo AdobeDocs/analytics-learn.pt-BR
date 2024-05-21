@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,6 @@ Saiba mais sobre a importante etapa da definição dos dados de comportamento qu
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-[Baixe](assets/aa-implementation-playbook.xlsx) um modelo de amostra do Excel para documentar os requisitos e o design da coleta de dados para suas propriedades digitais.
+[Baixar](assets/aa_en_BRD_SDR_template.xlsx) um modelo de amostra do Excel para documentar requisitos, uso e atribuição de variáveis, segmentos e design da coleta de dados para suas propriedades digitais.
 
-[Baixe](assets/geometrixx-clothiers-brd-sdr.xlsx) o documento do Excel apresentado neste vídeo e/ou assista ao [vídeo de referência do design de solução](creating-and-maintaining-an-sdr.md) relacionado.
+Assista ao vídeo relacionado para saber como criar um [documento de referência do design da solução](creating-and-maintaining-an-sdr.md).
