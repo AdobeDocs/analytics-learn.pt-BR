@@ -4,9 +4,9 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + Utilização do JavaScript {#using-javascript}
       + [Rastreamento de link personalizado sem um Gerenciador de tags](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Atualização do AppMeasurement quando o Experience Platform Launch não estiver sendo usado](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + Validação e solução de problemas {#validating-and-troubleshooting}
-      + [Inspeção de implementações com o Adobe Experience Cloud Debugger](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + Páginas SPA {#spa-pages}
-      + [Utilização de práticas recomendadas ao rastrear SPA](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + Componentes {#components}
    + Segmentação {#segmentation}
       + [Visão geral do construtor de segmentos](components/segmentation/segment-builder-overview.md)
