@@ -1,24 +1,23 @@
 ---
 title: Criar uma tabela de conteúdo no Analysis Workspace
-description: Aprenda a criar uma tabela de conteúdo do projeto do Workspace e a configurá-la como a página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
+description: Saiba mais sobre o índice no Analysis Workspace, que fornece links que permitem que os usuários pulem rapidamente para painéis e visualizações no projeto.
 feature: Panels
-topics: null
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2812
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f3357dcef123114c89ce5ea2409d8a67b0ae537f
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 21%
 
 ---
 
 # Criar uma tabela de conteúdo no Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Aprenda a criar uma tabela de conteúdo do projeto do Workspace e a configurá-la como a página de aterrissagem dos usuários para que eles possam encontrar rapidamente os dados e insights necessários no Adobe Analytics.
+Saiba mais sobre o índice no Analysis Workspace, que fornece links que permitem que os usuários pulem rapidamente para painéis e visualizações no projeto. Para obter a documentação detalhada, visite [Sumário do projeto](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

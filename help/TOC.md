@@ -4,9 +4,9 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [Exibir métricas de desempenho do Analysis Workspace](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [Criar relatórios de bots](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + Dicas e truques {#tips-and-tricks}
+      + [Criar hiperlinks em tabelas de forma livre](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Sete dicas e truques do Analysis Workspace](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Dicas e truques de clique com o botão direito do mouse para gerar fluxos de trabalho mais eficientes](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Dicas para aumentar a produtividade no Analysis Workspace](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [Anotações](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [Densidade da exibição](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [Usar filtros](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [Usar filtros suspensos de várias seleções](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + Relatórios em Tempo real {#real-time-reports}
       + [Relatório em tempo real](analysis-workspace/real-time-reports/realtime-reporting.md)
    + Utilização de painéis {#using-panels}
