@@ -96,6 +96,6 @@ Agora é possível transformar facilmente qualquer projeto em um modelo personal
 
 [Clique aqui para encontrar mais dicas e truques na Experience League](https://experienceleague.adobe.com/?search=tips&amp;lang=pt-BR#recommended/solutions/analytics)
 
-| Sobre o autor |  |
+| Sobre o autor |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser é gerente da equipe de gerenciamento de produtos do Adobe Analytics. <br> Nessa função, ela se reúne com clientes para entender suas necessidades de negócios, <br>usando o que ela aprende para adicionar informações ao roteiro de produtos do Adobe Analytics <br>e priorizar novos recursos em produtos. Antes da sua posição atual, <br>Jen foi uma consultora principal da equipe Adobe Consulting, trabalhando como <br>especialista no assunto em visualização de dados, Analysis Workspace e [!DNL Report Builder]. <br><br>Beneficiando-nos dos insights que ela adquiriu do mundo real, preparamos as seguintes dicas e truques para <br>a facilitar a criação, a visualização e o compartilhamento dos projetos do Analysis Workspace |

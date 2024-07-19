@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
 
 ---
-
 
 # Como explorar o potencial do compartilhamento somente leitura no Analysis Workspace
 
@@ -39,7 +39,7 @@ Além do compartilhamento de projetos somente leitura, o Painel do Analytics é 
 Um bom painel executivo deve ser simples e centrar-se em pontos-chave. Adicionando apenas KPIs à primeira tela de um Painel do Analytics, com um detalhamento opcional de um nível para detalhar um KPI por uma dimensão a partir de um conjunto predefinido de opções. O Painel do Analytics permite contar uma história que queremos para os executivos.
 
 Mesmo que seus chefes não estejam usando o Painel do Analytics diretamente, deixe esses KPIs prontos no Painel do Analytics e obtenha a resposta correta quando solicitado. Você simplesmente parece legal e bem preparado.
-Ao adotar o Adobe Analytics em uma organização, provavelmente desejamos permitir que todos os usuários com recursos completos criem/modifiquem projetos do Workspace para análise. No entanto, há usuários com diferentes habilidades e focos, alguns deles precisam apenas consumir dados em alguns projetos predefinidos do espaço de trabalho e não farão nenhuma análise adicional com pouca experiência no Adobe Analytics. O painel de projeto ou de análise somente leitura fornece uma interface simples com experiências predefinidas para que eles acessem os dados.
+Ao adotar o Adobe Analytics em uma organização, provavelmente desejamos permitir que todos os usuários com recursos completos criem/modifiquem projetos Workspace para análise. No entanto, há usuários com diferentes habilidades e focos, alguns deles precisam apenas consumir dados em alguns projetos predefinidos do espaço de trabalho e não farão nenhuma análise adicional com pouca experiência no Adobe Analytics. O painel de projeto ou de análise somente leitura fornece uma interface simples com experiências predefinidas para que eles acessem os dados.
 
 ## Autora
 
@@ -47,6 +47,6 @@ Este documento foi escrito por:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, MarTech Lead Ásia
+**Leo Lau**, Director, líder da MarTech na Ásia
 
-Especialista em Adobe Analytics
+Especialista no Adobe Analytics

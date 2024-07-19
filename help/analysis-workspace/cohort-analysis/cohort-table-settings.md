@@ -29,6 +29,6 @@ As personalizações para a [!UICONTROL Tabela de coorte] incluem a capacidade d
 1. Arredondar porcentagens para o número inteiro mais próximo
 1. Mostrar/ocultar uma linha de porcentagem média na parte superior da tabela.
 
-As linhas médias são ideais para exibição [!UICONTROL retenção] ou [!UICONTROL churn] em geral, e não individualmente [!UICONTROL coorte] linhas.
+As linhas médias são ideais para exibir [!UICONTROL retenção] ou [!UICONTROL churn] no geral, em vez de linhas [!UICONTROL coorte] individuais.
 
 Para obter mais informações sobre análises de [!UICONTROL coorte] visite a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=pt-BR).

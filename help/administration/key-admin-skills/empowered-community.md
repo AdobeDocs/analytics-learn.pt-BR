@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Criar um processo de integração de usuário:
 
-   Quais são os requisitos e os processos associados ao acesso do Adobe Analytics da sua empresa? Se você ainda não tiver requisitos e um processo em vigor para a integração de novos usuários, a criação dessa infraestrutura oferecerá escalabilidade.
+  Quais são os requisitos e os processos associados ao acesso do Adobe Analytics da sua empresa? Se você ainda não tiver requisitos e um processo em vigor para a integração de novos usuários, a criação dessa infraestrutura oferecerá escalabilidade.
 
 * Implementar o gerenciamento e o acesso adequados do usuário:
 
-   O acesso do usuário aos conjuntos de relatórios, métricas, dimensões, ferramentas, relatórios e componentes é fundamental para o Adobe Analytics e uma parte essencial do [processo de gerenciamento do grupo de usuários](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=pt-BR). O acesso adequado à ferramenta permite que os usuários se tornem capacitados para o autoatendimento no Analysis Workspace e no Reports &amp; Analytics.
+  O acesso do usuário aos conjuntos de relatórios, métricas, dimensões, ferramentas, relatórios e componentes é fundamental para o Adobe Analytics e uma parte essencial do [processo de gerenciamento do grupo de usuários](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=pt-BR). O acesso adequado à ferramenta permite que os usuários se tornem capacitados para o autoatendimento no Analysis Workspace e no Reports &amp; Analytics.
 
 * Entenda a implementação:
 
-   Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos de negócios apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos de negócios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=pt-BR) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
+  Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos de negócios apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos de negócios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=pt-BR) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
 
 * Usar modelos de relatório:
 
-   Os modelos de relatório e projetos do Adobe Analytics são recursos fundamentais para habilitar os usuários das ferramentas na implementação do seu negócio, para relatórios de casos de uso e práticas recomendadas. Esses recursos devem abordar as perguntas comuns sobre negócios e como melhor respondê-las dentro da ferramenta.
+  Os modelos de relatório e projetos do Adobe Analytics são recursos fundamentais para habilitar os usuários das ferramentas na implementação do seu negócio, para relatórios de casos de uso e práticas recomendadas. Esses recursos devem abordar as perguntas comuns sobre negócios e como melhor respondê-las dentro da ferramenta.
 
 ## 2. Crie um plano para quem executa e para quem deve estar envolvido
 
 * Decidir quem administrará a comunidade:
 
-   Uma comunidade fortalecida começa com uma infraestrutura baseada na administração e implementação dos requisitos de negócios. Dessa forma, as equipes que gerenciam a administração e a capacitação de um negócio no Adobe Analytics geralmente são fundamentais para gerenciar um grupo de usuários ou uma comunidade interna.
+  Uma comunidade fortalecida começa com uma infraestrutura baseada na administração e implementação dos requisitos de negócios. Dessa forma, as equipes que gerenciam a administração e a capacitação de um negócio no Adobe Analytics geralmente são fundamentais para gerenciar um grupo de usuários ou uma comunidade interna.
 
 * Definir quem está envolvido, as funções e responsabilidades:
 
@@ -65,7 +65,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * [Criar uma carta de projeto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (download do modelo):
 
-   Uma carta de projeto é geralmente uma ótima maneira de alinhar os seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar a sua carta:
+  Uma carta de projeto é geralmente uma ótima maneira de alinhar os seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar a sua carta:
 
    * Qual é a descrição do problema que você está tentando resolver? Qual é o objetivo de sua comunidade e o que você prevê como dentro ou fora do escopo?
    * “O que eu ganho com isso?” Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?

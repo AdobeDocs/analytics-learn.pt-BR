@@ -8,19 +8,19 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1089'
-ht-degree: 2%
+source-wordcount: '1098'
+ht-degree: 1%
 
 ---
 
-
 # Desbloquear insights com histogramas: além das médias no Analytics
 
-_Descubra o impacto dos histogramas no Analytics para insights além de médias. Os histogramas revelam padrões de dados no comportamento do cliente, no envolvimento do visitante, no desempenho técnico e em erros de formulário, permitindo insights mais profundos e decisões informadas no Adobe Workspace._
+_Descubra o impacto dos histogramas no Analytics para insights além das médias. Os histogramas revelam padrões de dados no comportamento do cliente, no engajamento do visitante, no desempenho técnico e em erros de formulário, permitindo insights mais profundos e decisões informadas no Adobe Workspace._
 
-Vamos pular direto. Você deveria estar usando [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=pt-BR). Vou explicar por que, mas quero responder sua primeira pergunta: O que diabos é um histograma? Entendi. Na maioria das vezes, quando você vê um monte de barras subindo, você pode pensar que é um gráfico de barras. Sim, os histogramas são parecidos, mas eu garanto que são diferentes. Um gráfico de barras compara as coisas, enquanto um histograma mostra a frequência com que uma variável ocorreu. Dê uma olhada. Aqui está um gráfico de barras:
+Vamos pular direto. Você deve usar [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=pt-BR). Vou explicar por que, mas quero responder sua primeira pergunta: O que diabos é um histograma? Entendi. Na maioria das vezes, quando você vê um monte de barras subindo, você pode pensar que é um gráfico de barras. Sim, os histogramas são parecidos, mas eu garanto que são diferentes. Um gráfico de barras compara as coisas, enquanto um histograma mostra a frequência com que uma variável ocorreu. Dê uma olhada. Aqui está um gráfico de barras:
 
 ![Gráfico de barras 1](assets/bar-chart-1.png)
 

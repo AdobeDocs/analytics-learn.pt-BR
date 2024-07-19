@@ -10,7 +10,7 @@ kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 99%
 
 ---
@@ -50,7 +50,7 @@ Envie uma lista de perguntas para que a parte interessada analise antes da reuni
 
 As perguntas variam de acordo com a capacidade técnica ou analítica, a estrutura da empresa ou a complexidade do tópico de coleção de dados. Muitas vezes, é útil começar de forma geral, com questões sobre toda a organização, depois discutir o papel das partes interessadas no apoio a esses objetivos organizacionais, e assim por diante, aumentando os níveis de detalhe. Em seguida, é possível garantir que os pontos de dados granulares discutidos sejam compatíveis com os objetivos gerais da organização. Ele também permite que você pense de forma criativa e sugira novas ideias para dados que apoiam suas metas.
 
-[Explorar este modelo](assets/stakeholder-questionnaire.pdf){target="_blank"} contendo várias perguntas de amostra para entrevistas das partes interessadas. Reutilize-as ou ajuste-as para preparar perguntas relevantes para suas discussões.
+[Explore este modelo](assets/stakeholder-questionnaire.pdf){target="_blank"} contendo várias perguntas de amostra para entrevistas das partes interessadas. Reutilize-as ou ajuste-as para preparar perguntas relevantes para suas discussões.
 
 ### 2. Solicitar relatórios de amostra
 

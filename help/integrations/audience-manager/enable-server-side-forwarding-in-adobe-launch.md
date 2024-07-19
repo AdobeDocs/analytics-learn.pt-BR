@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# Integrar [!DNL Adobe Analytics] com [!DNL Adobe Audience Manager] uso do encaminhamento pelo lado do servidor
+# Integrar [!DNL Adobe Analytics] a [!DNL Adobe Audience Manager] usando o encaminhamento pelo lado do servidor
 
-Saiba como enviar [!DNL Adobe Analytics] dados para [!DNL Adobe Audience Manager] usando encaminhamento pelo lado do servidor.
+Saiba como enviar dados do [!DNL Adobe Analytics] para o [!DNL Adobe Audience Manager] usando o encaminhamento pelo lado do servidor.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]&quot; foi renomeado para &quot;[!UICONTROL tags]&quot; na interface do Experience Cloud. Selecionar [!UICONTROL Coleta de dados] do [!UICONTROL alternador de aplicativos] para abrir tags e executar as etapas apresentadas neste vídeo.
+>&quot;[!UICONTROL Launch]&quot; foi renomeado para &quot;[!UICONTROL tags]&quot; na interface Experience Cloud. Selecione [!UICONTROL Coleção de dados] no [!UICONTROL alternador de aplicativos] para abrir marcas e executar as etapas apresentadas neste vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

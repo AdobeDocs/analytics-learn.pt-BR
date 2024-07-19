@@ -1,6 +1,6 @@
 ---
 title: Criar relatórios de bot no Analysis Workspace
-description: Saiba como criar relatórios sobre dados de bot no Analysis Workspace. Os dados de bot estão disponíveis como dados de resumo e podem ser analisados em conjuntos de relatórios habilitados para bot.
+description: Saiba como criar relatórios sobre dados de bot no Analysis Workspace. Os dados de bots estão disponíveis como dados de resumo e podem ser analisados em conjuntos de relatórios compatíveis com bots.
 feature: Bot Removal
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08T00:00:00Z
 jira: KT-13458
 thumbnail: 3420314.jpeg
-source-git-commit: 8feccfa54d20a086dfdbcab98edd8025bfb164b8
+exl-id: 630fee46-2a78-4347-a884-c892dc174170
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 9%
+source-wordcount: '70'
+ht-degree: 52%
 
 ---
 
-
 # Criar relatórios de bot no Analysis Workspace
 
-Saiba como criar relatórios sobre dados de bot no Analysis Workspace. Os dados de bot estão disponíveis como dados de resumo e podem ser analisados em conjuntos de relatórios habilitados para bot.
+Saiba como criar relatórios sobre dados de bot no Analysis Workspace. Os dados de bots estão disponíveis como dados de resumo e podem ser analisados em conjuntos de relatórios compatíveis com bots.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 

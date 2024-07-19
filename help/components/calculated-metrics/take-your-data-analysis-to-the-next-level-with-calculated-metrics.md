@@ -1,6 +1,6 @@
 ---
-title: Leve a análise de dados ao próximo nível com as Métricas calculadas
-description: Saiba como um especialista em peer usa as Métricas calculadas para criar novas métricas sem alterar a implementação e usar os dados já coletados para ajudar a responder perguntas comerciais complexas.
+title: Eleve suas análises de dados a um novo patamar com as Métricas calculadas
+description: Saiba como um especialista ponto a ponto usa métricas calculadas para criar novas métricas sem alterar sua implementação e usar os dados já coletados para ajudar a responder a perguntas comerciais complexas.
 feature: Calculated Metrics
 role: User
 level: Beginner
@@ -8,134 +8,134 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13266
 thumbnail: KT-13266.jpeg
-source-git-commit: c64f2fde1b91edd9f3d6c0f87aa889ed2c613d9b
+exl-id: 74793149-9967-4765-832c-c65e578ee34b
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1566'
-ht-degree: 1%
+source-wordcount: '1583'
+ht-degree: 3%
 
 ---
 
+# Eleve suas análises de dados a um novo patamar com as Métricas calculadas
 
-# Leve a análise de dados ao próximo nível com as Métricas calculadas
+A maioria dos novos usuários do Adobe Analytics está familiarizada com os Segmentos como uma maneira de cortar e dividir seus dados. Hoje, quero apresentar a vocês as métricas calculadas, a próxima melhor ferramenta da sua caixa de ferramentas de analistas.
 
-A maioria dos novos usuários do Adobe Analytics está familiarizada com Segmentos como uma maneira de destrinchar e analisar seus dados. Hoje, quero apresentar a você métricas calculadas, a melhor ferramenta a seguir na sua caixa de ferramentas de analistas.
-
-Como um recurso avançado do Adobe Analytics, as métricas calculadas permitem criar novas métricas sem alterar a implementação usando os dados que você já coletou. O Criador de métricas calculadas pode usar diversas funções matemáticas e estatísticas, para que você possa criar métricas que respondam até mesmo às perguntas comerciais mais complexas.
+Como um recurso avançado do Adobe Analytics, as métricas calculadas permitem criar novas métricas sem alterar a implementação usando os dados já coletados. O Construtor de métricas calculadas pode usar várias funções matemáticas e estatísticas diferentes, para que você possa criar métricas que respondam até mesmo às perguntas comerciais mais complexas.
 
 ## Introdução às métricas calculadas
 
-Para começar a usar métricas calculadas, vamos ver um exemplo simples. Imagine que você queira entender se os usuários de autoatendimento online têm um valor médio de pedido (AOV) mais alto do que os usuários assistidos por chamadas. Para criar uma métrica calculada para responder a essa pergunta, faça o seguinte:
+Para começar a usar métricas calculadas, vejamos um exemplo simples. Imagine que você queira entender se os usuários de autoatendimento online têm um valor médio de pedido (AOV) mais alto do que os usuários assistidos por chamada. Para criar uma métrica calculada para responder a essa pergunta, faça o seguinte:
 
-Para abrir o Criador de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou você pode clicar no botão **sinal +** above **Métricas** no painel Componentes.
+Para abrir o Construtor de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou clique no sinal de **+** acima de **Métricas** no painel Componentes.
 
 
 ![Calc 01](assets/calc01.png) ![Calc 02](assets/calc03.png) ![Calc 03](assets/calc02.png)
 
 ![Calc 04](assets/calc04.png)
 
-*Descrições abaixo para itens da interface do usuário*
+*Descrições abaixo para itens de interface do usuário*
 
-Quando o Criador de métricas calculadas for aberto, adicione e/ou faça o seguinte:
+Depois que o Construtor de métricas calculadas for aberto, adicione e/ou faça o seguinte:
 
-**A.** Um nome para a métrica calculada. Esse nome é exibido na lista de componentes da métrica, portanto, torne algo claro para você e para outros, como *Call Center AOV*.
+**A.** Um nome para a métrica calculada. Este nome é exibido na lista de componentes de métricas, portanto, torne-o algo que ficará claro para você mesmo e para outras pessoas, como *Call Center AOV*.
 
-**B.** Uma descrição da métrica calculada. Esta descrição é exibida quando os usuários clicam no botão **i** Ao lado da métrica na lista de componentes, verifique se ela é informativa. Por exemplo, para o Call Center AOV, podemos adicionar *Calcula AOV para pedidos assistidos do Call Center*.
+**B.** Uma descrição da métrica calculada. Esta descrição aparece quando os usuários clicam em &#39;**i**&#39; ao lado da métrica na lista de componentes; portanto, verifique se ela é informativa. Por exemplo, para o AOV da central de atendimento, podemos adicionar *Calcula o AOV para Pedidos assistidos da central de atendimento*.
 
-**C.** O formato da métrica: Escolha decimal, hora, porcentagem ou moeda e adicione casas decimais e polaridade. Aqui, vamos escolher *Moeda para o Formato, 0 para o número de decimais e* ⬆ *Bom (verde) para a polaridade.*
+**C.** O formato da métrica: escolha decimal, hora, porcentagem ou moeda, e adicione casas decimais e polaridade. Aqui, vamos escolher *Moeda para o Formato, 0 para o número de decimais e* ⬆ *Bom (Verde) para a polaridade.*
 
-**D**. Se você estiver usando tags, que permitem aplicar tópicos e localizar rapidamente as métricas calculadas, adicione as tags que se aplicam aqui. Adicionamos *AOV* e *Central de atendimento* tags.
+**D**. Se você estiver usando tags, que permitem aplicar tópicos e localizar rapidamente métricas calculadas, adicione aqui as tags que se aplicam. Adicionamos as marcas *AOV* e *Call Center*.
 
 **E.** Esta seção é para exibição - à medida que você cria sua métrica calculada na seção F, a fórmula será exibida aqui.
 
-**F.** Aqui, você arrastará e soltará dimensões (H), métricas (I) ou segmentos (J) para criar sua métrica calculada, bem como os operadores para a fórmula. Para cada métrica, se você clicar no ícone de engrenagem, poderá alterar o Tipo de métrica (Padrão/Total) e o Modelo de atribuição. *Arrastaremos e soltaremos a Receita da Central de Atendimento, e logo abaixo disso, nós iremos*÷ ￼*. Aceitaremos o tipo de métrica padrão e o modelo de atribuição.*
+**F.** Aqui, você arrastará e soltará dimensões (H), métricas (I) ou segmentos (J) para criar sua métrica calculada, bem como os operadores da fórmula. Para cada métrica, se você clicar no botão de rolagem, será possível alterar o Tipo de métrica (Padrão/Total) e o Modelo de atribuição. *Arrastaremos e soltaremos a Receita da Central de Atendimento e, abaixo dela, vamos**. Aceitaremos o tipo de métrica padrão e o modelo de atribuição.*
 
-**G**. Use este **+Adicionar** para adicionar condições adicionais ou números estáticos, que não precisamos aqui.
+**G**. Use esta opção **+Adicionar** para adicionar condições ou números estáticos adicionais, que não são necessários aqui.
 
-**K.** E finalmente, conforme você constrói o cálculo, você pode visualizar os dados dos últimos 90 dias aqui.
+**K.** E, finalmente, ao criar seu cálculo, você pode visualizar os dados dos últimos 90 dias aqui.
 
-Agora que criamos o Call Center AOV, também precisamos de uma métrica calculada para o Online AOV. Faremos isso seguindo as mesmas etapas descritas acima.
+Agora que criamos o AOV da Central de Atendimento, também precisamos de uma métrica calculada para o AOV Online. Fazíamos isso seguindo as mesmas etapas descritas acima.
 
-Em seguida, podemos criar uma terceira métrica calculada, usando o Construtor de métricas calculadas ou em tempo real na tabela de forma livre, para comparar o Call Center e o Online AOV, de modo que acabamos com algo como isto:
+Em seguida, podemos criar uma terceira métrica calculada, usando o Construtor de métricas calculadas ou dinamicamente na tabela de forma livre, para comparar a Central de atendimento e o AOV online, de modo que tenhamos algo como isso:
 
 ![Calc 05](assets/calc05.png)
 
-No nosso exemplo, vemos um aumento significativo quando os compradores usam a central de atendimento para ajudá-los a fazer uma compra. Esses dados podem então informar nossas decisões sobre como ajudar os clientes a obter assistência com suas compras, por exemplo, por meio de ofertas pop-up ou outras experiências guiadas.
+Em nosso exemplo, vemos um aumento significativo quando os compradores usam a central de atendimento para ajudá-los a fazer uma compra. Esses dados podem informar nossas decisões sobre como ajudar os clientes a obter assistência com suas compras por meio de, por exemplo, ofertas pop-up ou outras experiências guiadas.
 
-## Uso de segmentos em métricas calculadas
+## Utilização de segmentos em métricas calculadas
 
-Agora, vamos observar como podemos usar segmentos em métricas calculadas para obter mais informações sobre o comportamento, as preferências e as motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
+Agora, vamos ver como podemos usar segmentos em métricas calculadas para obter mais informações sobre o comportamento, as preferências e as motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
 
-Já sabemos, com base nos exemplos acima, que as compras assistidas da central de atendimento normalmente têm um AOV mais alto. No entanto, outras métricas nos informam que a maioria dos usuários não usa a central de atendimento para compras.
+Já sabemos pelos exemplos de AOV acima que as compras assistidas pela central de atendimento normalmente têm uma AOV mais alta. No entanto, outras métricas nos informam que a maioria dos usuários não usa a central de atendimento para compras.
 
-Então, quais categorias de varejo - e caminhos de usuário por essas categorias - resultam no maior AOV?  Podemos descobrir ao combinar segmentos com métricas calculadas.
+Então, quais categorias de varejo - e caminhos de usuário por meio dessas categorias - resultam no AOV mais alto?  Podemos descobrir ao combinar segmentos com métricas calculadas.
 
-Para fazer isso, primeiro precisamos criar um nível de visita *incluir* e *exclude* segmentos para cada categoria de produto. Incluir ou excluir é determinado ao clicar no botão **Opções** no canto direito do contêiner. O padrão é Incluir.
+Para fazer isso, primeiro precisamos criar segmentos *include* e *exclude* no nível da visita para cada categoria de produto. Incluir ou excluir é determinado ao clicar na engrenagem **Opções** no canto direito do contêiner. O padrão é Incluir.
 
 ![Calc 06](assets/calc06.png) ![Calc 07](assets/calc07.png)
 
-Depois de criar esses segmentos, podemos criar uma métrica calculada para fornecer a resposta à sua pergunta. Abrimos o Criador de métricas calculadas e fazemos o seguinte:
+Após criar esses segmentos, podemos criar uma métrica calculada para responder à sua pergunta. Abrimos o Criador de métricas calculadas e fazemos o seguinte:
 
-1. Procure os segmentos recém-criados e arraste e solte os que queremos usar na área cinza na parte superior do **Definição** caixa. Por exemplo, se queremos criar um AOV para usuários que visitaram as categorias de Mulheres e Homens, mas não de Crianças, podemos arrastar e soltar esses três segmentos nessa área: *Incluir mulheres*, *Incluir masculino* e *Excluir Kids*. Chamamos isso *empilhamento de segmentos*.
+1. Procure os segmentos recém-criados e arraste e solte os que queremos usar na área cinza na parte superior da caixa **Definição**. Por exemplo, se queremos criar uma AOV para usuários que visitaram categorias Femininas e Masculinas, mas não Infantis, podemos arrastar e soltar esses três segmentos nessa área: *Incluir Femininos*, *Incluir Masculinos* e *Excluir Infantis*. Chamamos isso de *segmentos de empilhamento*.
 
    ![Calc 09](assets/calc09.png) ![Calc 08](assets/calc08.png)
 
-1. Em seguida, arrastamos e soltamos o **Receita online** no mesmo contêiner, em seguida **Pedidos online**. Como os contêineres funcionam como expressões matemáticas para determinar a ordem das operações, os itens em contêineres são processados antes dos processos subsequentes, embora não tenhamos vários contêineres ou processos nesse cálculo.
-1. Alteramos o operador entre as duas métricas para divisão ( igual).
+1. Em seguida, arrastamos e soltamos a métrica **Receita online** no mesmo contêiner e depois **Pedidos online**. Como os contêineres funcionam como expressões matemáticas para determinar a ordem das operações, os itens nos contêineres são processados antes dos processos subsequentes, embora não tenhamos vários contêineres ou processos nesse cálculo.
+1. Alteramos o operador entre as duas métricas para divisão ().
 1. Selecionamos **Moeda** como formato, **0** casas decimais e **UP** para polaridade.
 1. Nomeie a métrica calculada e forneça uma descrição.
 1. Salvar.
 
-Quando terminamos, nossa métrica calculada fica assim:
+Quando terminarmos, nossa métrica calculada ficará assim:
 
 ![Calc 10](assets/calc10.png)
 
-Depois de criar métricas calculadas usando segmentos empilhados para cada combinação da jornada de categoria do visitante e observar os dados, veja o que aprendemos! Os usuários que visitam as categorias de Mulheres e Homens durante sua visita têm o maior AOV e, em comparação com os visitantes de uma única categoria, o aumento é significativo:
+Depois de criarmos métricas calculadas usando segmentos empilhados para cada combinação da jornada de categoria do visitante e analisarmos os dados, veremos o que aprendemos! Os usuários que visitam as categorias Feminino e Masculino durante sua visita têm o AOV mais alto e, quando comparado aos visitantes de uma única categoria, o aumento é significativo:
 
 ![Calc 11](assets/calc11.png) ![Calc 12](assets/calc12.png)
 
-Sabendo disso, podemos otimizar o layout da página, disposições de produtos e mensagens promocionais para colocar mais pessoas nessas categorias antes de fazer check-out.
+Sabendo disso, podemos otimizar o layout da página, as disposições do produto e as mensagens promocionais para inserir mais pessoas nessas categorias antes de concluir a compra.
 
 ## Valioso, mas não disponível em todos os lugares
 
-**Assim, as métricas calculadas, simples e complexas, são super valiosas para os analistas!**
+**Portanto, as métricas calculadas simples e complexas são super valiosas para analistas!**
 
 No entanto, essas métricas não estão disponíveis em todas as áreas do Adobe Analytics. Não é possível usar métricas calculadas em:
 
 - Fallout na Analysis Workspace
 - Análise de coorte no Analysis Workspace
-- Data warehouse
+- Data Warehouse
 - Relatórios em tempo real
 - Relatórios de Dados atuais
 - Analytics for Target
 - Report Builder
 
-## Práticas recomendadas para métricas calculadas
+## Práticas recomendadas de métricas calculadas
 
-Agora que você sabe o quão valiosas as métricas calculadas podem ser, vamos observar algumas práticas recomendadas para criá-las.
+Agora que você sabe o quanto as métricas calculadas podem ser valiosas, vamos dar uma olhada nas práticas recomendadas para criá-las.
 
-1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e segue a sintaxe do Adobe Analytics para garantir que você obtenha informações significativas.
-1. **Verifique a ordem das operações.** Use os contêineres com cuidado e coloque as coisas em uma ordem matemática adequada de operações.
-1. **Não contar dados duas vezes**. Você pode evitar a dupla contagem de dados, garantindo que a fórmula usada na métrica calculada não conte os mesmos dados várias vezes. Isso é frequentemente conseguido através da combinação *Incluir* e *Excluir* condições na métrica calculada ou por meio do uso de segmentos.
-1. **Verifique a granularidade de tempo.** Certifique-se de que a métrica calculada tenha a mesma granularidade de tempo que as métricas de origem usadas na fórmula.
-1. **Use dados precisos:** Você só obterá resultados valiosos se usar dados precisos e confiáveis no cálculo.
+1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e se segue a sintaxe do Adobe Analytics para obter informações relevantes.
+1. **Verifique a ordem das operações.** Certifique-se de usar os contêineres com cuidado e colocar as coisas em ordem matemática adequada de operações.
+1. **Não conte dados duas vezes**. É possível evitar a contagem dupla de dados, garantindo que a fórmula usada na métrica calculada não conte os mesmos dados várias vezes. Geralmente, isso é feito combinando as condições *Incluir* e *Excluir* na métrica calculada ou por meio do uso de segmentos.
+1. **Verifique a granularidade de tempo.** Verifique se a métrica calculada tem a mesma granularidade de tempo que as métricas de origem usadas na fórmula.
+1. **Usar dados precisos:** você só obterá resultados valiosos se usar dados precisos e confiáveis no cálculo.
 
 ## Práticas recomendadas do segmento personalizado
 
-Ao criar segmentos no Adobe Analytics, lembre-se das práticas recomendadas a seguir:
+Ao criar segmentos no Adobe Analytics, lembre-se destas práticas recomendadas:
 
-1. **Mantenha simples.** Evite complicar demais o segmento. Mantenha-o o mais simples possível e use apenas as condições necessárias para garantir a precisão.
-1. **Usar os tipos de contêiner corretos**. Certifique-se de usar o tipo de contêiner correto - visitante, visita ou ocorrência - na definição do segmento para evitar obter resultados incorretos.
-1. **Não contar dados duas vezes**. Assim como com métricas calculadas, verifique se o segmento não conta os mesmos dados várias vezes. Incluir e excluir contêineres pode ajudar.
+1. **Mantenha simples.** Evite complicar o segmento em excesso. Mantenha o mais simples possível e use apenas as condições necessárias para garantir a precisão.
+1. **Usar os tipos de contêiner corretos**. Use o tipo correto de contêiner (visitante, visita ou ocorrência) na definição do segmento para evitar resultados incorretos.
+1. **Não conte dados duas vezes**. Assim como com as métricas calculadas, verifique se o segmento não conta os mesmos dados várias vezes. Os contêineres Incluir e Excluir podem ajudar.
    1. Quando um contêiner de inclusão é usado, ele *inclui* *todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
-   1. Quando um contêiner de exclusão é usado, ele *exclui todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
-1. **Aninhar contêineres adequadamente**. Determine quais dados estão incluídos usando o contêiner mais externo e, em seguida, aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo do segmento age como um funil, e as regras subsequentes não se aplicam a quaisquer ocorrências que a primeira regra excluiu.
-1. **Verifique se os dados estão atualizados.** Certifique-se de usar dados precisos e atualizados na definição do segmento para obter resultados precisos.
-1. **Teste o segmento.** Sempre teste o segmento para verificar se ele está funcionando conforme o esperado antes de liberá-lo para outros.
-1. **Considere o desempenho.** Os segmentos podem atrasar o processamento do relatório, portanto, considere esse impacto ao criá-los.
+   1. Quando um container de exclusão é usado, ele *exclui todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
+1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como um funil e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
+1. **Verifique se seus dados estão atualizados.** Certifique-se de usar dados precisos e atualizados na definição do segmento para obter resultados precisos.
+1. **Testar o segmento.** Sempre teste o segmento para verificar se ele está funcionando como pretendido antes de liberá-lo para outras pessoas.
+1. **Considere o desempenho.** Segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.
 
 ## Principais aprendizados
 
-A combinação de segmentos e métricas calculadas no Adobe Analytics pode absolutamente levar a uma análise de dados mais robusta e eficaz. Ao cortar e cortar seus dados e criar cálculos para comparação, você pode obter insights mais profundos sobre o comportamento do cliente que você pode usar para otimizar suas campanhas de marketing e criar painéis e relatórios personalizados. No entanto, lembre-se de que as métricas calculadas não estão disponíveis em todas as áreas do Adobe Analytics e certifique-se de seguir as práticas recomendadas para garantir que você obtenha dados precisos e úteis.
+A combinação de segmentos e métricas calculadas no Adobe Analytics pode resultar em uma análise de dados mais robusta e eficaz. Ao cortar e cortar seus dados e criar cálculos para comparação, você pode obter insights mais profundos sobre o comportamento do cliente que pode usar para otimizar suas campanhas de marketing e criar painéis e relatórios personalizados. No entanto, lembre-se de que as métricas calculadas não estão disponíveis em todas as áreas do Adobe Analytics e siga as práticas recomendadas para garantir que você esteja obtendo dados precisos e úteis.
 
 
 ## Autora
@@ -144,6 +144,6 @@ Este documento foi escrito por:
 
 ![Debbie Kern](assets/calc13.jpeg)
 
-**Debbie Kern**, Gerente sênior da Adobe Analytics na Adswerve
+**Debbie Kern**, gerente sênior do Adobe Analytics na Adobe
 
-![Adswerve](assets/calc14.png)
+![Resposta](assets/calc14.png)

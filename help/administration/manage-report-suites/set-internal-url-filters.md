@@ -18,7 +18,7 @@ ht-degree: 30%
 
 # Definir filtros internos do URL
 
-Neste vídeo, saiba mais sobre as configurações relacionadas aos referenciadores, definindo-os como referenciadores internos (para alimentar os relatórios de definição de caminho) ou referenciadores externos (para alimentar os relatórios do referenciador/domínio de referência). Para obter a documentação detalhada, visite [Filtros internos do URL](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=pt-BR){target="_blank"}.
+Neste vídeo, saiba mais sobre as configurações relacionadas aos referenciadores, definindo-os como referenciadores internos (para alimentar os relatórios de definição de caminho) ou referenciadores externos (para alimentar os relatórios do referenciador/domínio de referência). Para obter a documentação detalhada, visite [Filtros internos de URL](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=pt-BR){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 

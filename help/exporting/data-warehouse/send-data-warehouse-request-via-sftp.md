@@ -17,8 +17,8 @@ ht-degree: 11%
 
 ---
 
-# Enviar [!DNL Data Warehouse] relatórios via SFTP
+# Enviar relatórios de [!DNL Data Warehouse] via SFTP
 
-Saiba como criar um [!DNL Data Warehouse] no Adobe Analytics e configure-a para o delivery SFTP. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
+Saiba como criar uma solicitação [!DNL Data Warehouse] no Adobe Analytics e configurá-la para entrega SFTP. Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw).
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

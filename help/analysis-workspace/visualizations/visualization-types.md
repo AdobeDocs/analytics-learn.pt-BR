@@ -1,5 +1,5 @@
 ---
-title: Tipos e visão geral da visualização
+title: Tipos de visualização e visão geral
 description: Saiba mais sobre os diferentes tipos ou tipos de visualizações que você pode colocar em seus projetos do Analysis Workspace para ajudá-lo a contar suas histórias de dados.
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
@@ -9,12 +9,12 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 26%
+source-wordcount: '209'
+ht-degree: 23%
 
 ---
 
-# Tipos e visão geral da visualização {#visualization-types-in-analysis-workspace}
+# Tipos de visualização e visão geral {#visualization-types-in-analysis-workspace}
 
 Saiba mais sobre os diferentes tipos ou tipos de visualizações que você pode colocar em seus projetos do Analysis Workspace para ajudá-lo a contar suas histórias de dados.
 

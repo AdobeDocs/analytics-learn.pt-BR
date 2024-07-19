@@ -1,6 +1,6 @@
 ---
-title: Compartilhe com qualquer pessoa no Analysis Workspace
-description: Saiba mais sobre o recurso compartilhar com qualquer pessoa no Espaço de trabalho. Você pode usar esse recurso para conceder acesso somente leitura a projetos do Workspace a pessoas que não têm acesso ao Adobe Analytics ou CJA, incluindo recipients fora da organização.
+title: Compartilhar com qualquer pessoa no Analysis Workspace
+description: Saiba mais sobre o recurso compartilhar com qualquer pessoa no Workspace. Você pode usar esse recurso para conceder acesso somente leitura aos projetos do Workspace para pessoas que não têm acesso ao Adobe Analytics ou CJA, incluindo recipients fora da organização.
 feature: Curate and Share
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-13381
 thumbnail: 3420093.jpeg
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+exl-id: 88285a1c-c1fb-4705-8eaa-347f5ea76bb8
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '98'
+ht-degree: 20%
 
 ---
 
+# Compartilhar com qualquer pessoa no Analysis Workspace
 
-# Compartilhe com qualquer pessoa no Analysis Workspace
-
-Saiba mais sobre o recurso &quot;compartilhar com qualquer pessoa&quot; no Workspace. Você pode usar esse recurso para conceder acesso somente leitura a projetos do Espaço de trabalho para pessoas que não têm acesso ao Adobe Analytics ou Customer Journey Analytics, incluindo recipients fora da organização.
+Saiba mais sobre o recurso &quot;compartilhar com qualquer pessoa&quot; no Workspace. Você pode usar esse recurso para conceder acesso somente leitura a projetos do Workspace para pessoas que não têm acesso ao Adobe Analytics ou Customer Journey Analytics, incluindo recipients fora da organização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 

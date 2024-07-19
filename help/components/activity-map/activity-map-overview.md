@@ -11,11 +11,11 @@ exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
 source-git-commit: 3f8e08ed84ffc40f77b678fbe2cb0310d671abec
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 10%
+ht-degree: 44%
 
 ---
 
-# [!UICONTROL Activity Map] visão geral no Adobe Analytics
+# Visão geral do [!UICONTROL Activity Map] no Adobe Analytics
 
 Conheça o Activity Map, uma ferramenta que ajuda a visualizar os dados de atividade do usuário diretamente no seu site. Veja o número de cliques ou outras métricas diretamente nos links da sua página.
 

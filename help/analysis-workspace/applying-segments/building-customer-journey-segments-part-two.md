@@ -7,13 +7,13 @@ level: Experienced
 last-substantial-update: 2023-07-21T00:00:00Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
-source-git-commit: bc3bf5b22e3cf5a9d77e3fe8aa2d86c65a7eaefb
+exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1981'
+source-wordcount: '1997'
 ht-degree: 0%
 
 ---
-
 
 # Criação de segmentos de jornada do cliente - parte dois
 
@@ -91,7 +91,7 @@ Adicione um container Excluir ao segmento unido pela condição &quot;And&quot;.
 
 Como prática recomendada, certifique-se de rotular os containers. Você ficará feliz em fazer isso, especialmente quando nossas definições de segmento se tornarem mais complexas.
 
-Agora que criamos o segmento de intenção de compra, podemos usar o Espaço de trabalho de qualidade de dados de intenção de visita para ver que nosso segmento de intenção de compra é mutuamente exclusivo com nosso segmento Um e Concluído.
+Agora que criamos o segmento de intenção de compra, podemos usar o Workspace de qualidade de dados de intenção de visita para ver que nosso segmento de intenção de compra é mutuamente exclusivo com nosso segmento Um e Concluído.
 
 ![Imagem 5](assets/Image-5.png)
 
@@ -131,7 +131,7 @@ Em seguida, adicione os contêineres de exclusão para suas Maravilhas de uma oc
 
 ![Imagem 7](assets/Image-7.png)
 
-Mais uma vez, examine o Espaço de trabalho de qualidade de dados de intenção de visita para garantir que seus segmentos sejam mutuamente exclusivos. Nossos segmentos de Intenção de visita estão tomando forma muito bem!
+Mais uma vez, examine sua Workspace de qualidade de dados de intenção de visita para garantir que seus segmentos sejam mutuamente exclusivos. Nossos segmentos de Intenção de visita estão tomando forma muito bem!
 
 ![Imagem 8](assets/Image-8.png)
 
@@ -143,6 +143,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Digital Analytics
+**Aaron Fossum**, Director, Análise Digital
 
-Especialista em Adobe Analytics
+Especialista no Adobe Analytics

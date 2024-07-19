@@ -15,8 +15,8 @@ badgeIntegration: label="Integração" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 61%
+source-wordcount: '118'
+ht-degree: 65%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 61%
 
 Exemplos de dados de [!UICONTROL segmento] que podem ser compartilhados incluem: dados demográficos de provedores de dados de terceiros, dados de campanha de servidores de anúncios (como impressões externas) e dados de CRM integrados. Essa é a primeira integração do mercado produzida entre um DMP e um mecanismo de análise.
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/integration/audience-analytics/mc-audiences-aam).

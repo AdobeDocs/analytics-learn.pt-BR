@@ -1,6 +1,6 @@
 ---
 title: Compartilhar um projeto somente leitura no Analysis Workspace
-description: Saiba como compartilhar projetos somente leitura do Analysis Workspace com os usuários e entenda os recursos disponíveis para esse nível de permissão.
+description: Saiba como compartilhar projetos do Workspace Analysis somente leitura com os usuários e entenda os recursos disponíveis para esse nível de permissão.
 feature: Curate and Share
 topics: null
 activity: use
@@ -20,7 +20,7 @@ ht-degree: 11%
 
 # Compartilhar um projeto somente leitura no Analysis Workspace
 
-Saiba como compartilhar projetos somente leitura do Analysis Workspace com os usuários e entenda os recursos disponíveis para esse nível de permissão.
+Saiba como compartilhar projetos do Workspace Analysis somente leitura com os usuários e entenda os recursos disponíveis para esse nível de permissão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 

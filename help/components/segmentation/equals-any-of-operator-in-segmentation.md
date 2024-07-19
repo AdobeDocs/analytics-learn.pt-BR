@@ -10,13 +10,13 @@ last-substantial-update: 2023-10-06T00:00:00Z
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
 source-git-commit: 2d94ca8a247adfccb2db127eb6a9f444f54cbf6e
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 57%
+source-wordcount: '127'
+ht-degree: 43%
 
 ---
 
 # Uso do operador &quot;igual a qualquer um de&quot; na segmentação
 
-Os operadores de segmento &quot;é igual a qualquer um de&quot; e &quot;não é igual a nenhum&quot; podem ser usados para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou &quot;contém qualquer um de&quot;. Usar esses operadores em vez de “contém qualquer um de” também ajudará a melhorar a velocidade da consulta. Para obter a documentação detalhada, visite [Operadores de comparação para segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=pt-BR){target="_blank"}.
+Os operadores de segmento &quot;é igual a qualquer um de&quot; e &quot;não é igual a nenhum&quot; podem ser usados para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou &quot;contém qualquer um de&quot;. Usar esses operadores em vez de &quot;contém qualquer um de&quot; também ajudará a melhorar a velocidade da consulta. Para obter a documentação detalhada, visite [Operadores de comparação para segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=pt-BR){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)

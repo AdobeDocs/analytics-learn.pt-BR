@@ -11,8 +11,8 @@ kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 88%
+source-wordcount: '321'
+ht-degree: 85%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 88%
 * As 5 principais dicas no Adobe Analytics (por exemplo: como criar menus suspensos)
 * Como utilizar o Attribution IQ
 
-Você pode facilmente apontar os usuários para eles em vez de escrever emails longos ou ter outra reunião. Para obter mais dicas e truques sobre treinamento de usuários, confira [Artigo do Adobe Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=pt-BR){target="_blank"} tudo sobre como simplificar e gastar menos tempo treinando usuários.
+Você pode facilmente apontar os usuários para eles em vez de escrever emails longos ou ter outra reunião. Para obter mais dicas e truques sobre treinamento de usuários, consulte o [Artigo do especialista em Adobe Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=pt-BR){target="_blank"} sobre como simplificar e passar menos tempo treinamento usuários.
 
-Além disso, há uma abundância (sim, uma abundância) de [tutoriais em vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning){target="_blank"}. Se você precisar de um vídeo específico para os dados e KPIs de negócios da sua empresa, grave seus próprios vídeos. Mas se um vídeo de instrução geral for suficiente, não há razão para reinventar a roda.
+Além disso, há vários [tutoriais em vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} no Adobe Experience League, bem como [cursos gratuitos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning){target="_blank"}. Se você precisar de um vídeo específico para os dados e KPIs de negócios da sua empresa, grave seus próprios vídeos. Mas se um vídeo de instrução geral for suficiente, não há razão para reinventar a roda.
 
 ## Autores(as)
 

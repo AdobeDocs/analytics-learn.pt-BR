@@ -18,13 +18,13 @@ ht-degree: 1%
 
 # Como entender o painel de atribuição do Adobe Analytics e as janelas de pesquisa
 
-Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e **janela de retrospectiva**, eu fui imediatamente lembrado do conceito de &quot;*viagem no tempo&#39;*; então, é claro, também me lembraram que nossa resposta típica a muitas novas ferramentas como essas é simplesmente parar de tentar usá-las, porque elas parecem tão complicadas.
+Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e a **janela de retrospectiva**, lembrei-me imediatamente do conceito de &#39;*viagem no tempo&#39;*; então, é claro, também lembrei-me da resposta típica a muitas ferramentas novas como essas que é simplesmente parar de tentar usá-lo, porque elas parecem tão complicadas.
 
 Quero dizer, honestamente, basta olhar para todas essas opções, interruptores, painéis, leituras, e botões.  E sério, vamos falar sobre essas complicadas luzes piscando, mangueiras, medidores... ESPERE!  Não é hora de distrair falando de máquinas do tempo, só não temos tempo... ou temos?
 
-Eu vou admitir o **painel de atribuição** é uma ferramenta bastante complexa; no entanto, nosso trabalho típico como analistas, dia após dia, é usar outra de nossas ferramentas favoritas e altamente complexas para também dar uma olhada no que aconteceu no passado. Essa ferramenta é chamada de ***Adobe Analytics***!  Então sim, para responder a nossa pergunta muito relevante, eu acredito que estas duas coisas dizem que temos muito tempo.
+Vou admitir que o **painel de atribuição** é uma ferramenta bastante complexa; no entanto, nosso trabalho típico como analistas, dia após dia, é usar outra de nossas ferramentas favoritas e altamente complexas para também observar o que aconteceu no passado. Esta ferramenta chama-se ***Adobe Analytics***!  Então sim, para responder a nossa pergunta muito relevante, eu acredito que estas duas coisas dizem que temos muito tempo.
 
-Portanto, por que devemos permitir que algo como um pouco de medo interfira com ferramentas tão surpreendentes, sofisticadas e poderosas como essas que literalmente nos permitem olhar *voltar* a tempo, todos os dias?
+Portanto, por que devemos permitir que algo como um pouco de medo interfira com ferramentas tão surpreendentes, sofisticadas e poderosas como essas que literalmente nos permitem olhar *para trás* no tempo, todos os dias?
 
 Afinal - esta é a VIAGEM NO TEMPO, pessoal!!  Somos todos sobre esse tipo de coisa.  Certo???!!
 
@@ -35,20 +35,20 @@ Não!  Temos algo ainda melhor, então vamos nos amarrar e esperar!
 Bem... você entendeu a ideia.
 
 
-Agora que estamos todos entusiasmados com a viagem no tempo, vamos respirar fundo, dar um passo para trás, estabelecer o que **painel de atribuição** *realmente* é e detalhar um pouco:
+Agora que estamos todos entusiasmados com a viagem no tempo, vamos respirar fundo, voltar um pouco, estabelecer o que é o **painel de atribuição** *realmente* e detalhar um pouco:
 
 ![Atribuição](assets/attribution.png)
 
-*Figura 1: Os números exibidos estão alinhados com o texto mais abaixo*
+*Figura 1 - Os números exibidos estão alinhados com o texto abaixo*
 
-Entrada **atribuição**, basta considerar como os eventos/ações podem ser causados por um indivíduo, por vários indivíduos ou por um dentre vários eventos diferentes ao longo do tempo.
+Em **attribution**, considere apenas como eventos/ações podem ser causados por um indivíduo, por vários indivíduos ou por um de vários eventos diferentes ao longo do tempo.
 
-De acordo [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), *atribuição* oferece aos analistas a capacidade de personalizar como *Dimension* os itens recebem crédito por *eventos de sucesso*.
+De acordo com [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), a *atribuição* oferece aos analistas a capacidade de personalizar como *Dimension* itens recebem crédito por *eventos bem-sucedidos*.
 
 
 >[!WARNING]
 >
->**Modelos de atribuição** são frequentemente associados a **canais de marketing** que eu propositalmente *riscado* ❷ CANAL na imagem acima para ilustrar que é possível executar **atribuição** análise em relação à maioria das outras ***dimension***.
+>**Os modelos de atribuição** são tão frequentemente associados a **canais de marketing** que eu *risquei* propositalmente ❷ CANAL na imagem acima para ilustrar que é possível executar a análise de **atribuição** em relação à maioria das outras ***dimensões***.
 
 
 Na verdade, raramente uma determinada jornada de cliente é realmente linear e menos previsível.  Além disso, cada cliente continuará em seu próprio ritmo; com frequência, ele pode voltar, parar, sair ou adotar outros comportamentos não lineares. Essas ações orgânicas dificultam ou são praticamente impossíveis de saber o impacto dos esforços de marketing na jornada do cliente. Também dificultam os esforços para unir vários canais de dados.
@@ -57,35 +57,35 @@ Isso mesmo.  Deixe suas analogias &quot;dominó&quot; na porta e abra suas mente
 
 ## **Modelos de atribuição**
 
-Quando usamos o **painel de atribuição** No entanto, podemos começar a observar várias coisas diferentes.  Por exemplo, a variável **modelos de atribuição** demonstrar para nós como nossas *conversões* (ou seja, ❶ **métricas de sucesso**) podem ser distribuídos entre *ocorrências* em qualquer grupo específico.
+Quando usamos o **painel de atribuição**, podemos começar a observar várias coisas diferentes.  Por exemplo, os **modelos de atribuição** demonstram como nossas *conversões* (ou seja, ❶ **métricas de sucesso**) podem ser distribuídas entre *ocorrências* em qualquer grupo específico.
 
-Simplificando, se **10 pessoas** pressione a **BOTÃO VERMELHO GRANDE** para entrar por uma porta, nosso **modelos de atribuição** vão nos dizer qual dessas **10 pessoas** queremos atribuir &quot;crédito&quot; - ou melhor ainda, como *muito* &quot;crédito&quot; queremos atribuí-los - por pressionar o botão dito.
+Simplificando, se **10 pessoas** pressionarem um **BOTÃO VERMELHO GRANDE** para passarem pela porta, nossos **modelos de atribuição** nos dirão quais **10 pessoas** queremos atribuir &quot;crédito&quot; - ou melhor, quanto *muito* &quot;crédito&quot; queremos atribuir - para pressionar o botão dito.
 
 ![Botão](assets/button.png)
 
-Tendo isso em mente, aqui estão alguns exemplos de como as ❸ **modelos de atribuição** podem afetar esses **10 pessoas**:
+Tendo isso em mente, aqui estão alguns exemplos de como os **modelos de atribuição** do ❸ podem afetar essas **10 pessoas**:
 
-- **Primeiro contato**: esse modelo funciona exatamente como parece dando **100% de crédito** para o *primeiro* pessoa que entrou pela porta.  Os profissionais de marketing têm mais probabilidade de usar essa abordagem para táticas como ***redes sociais*** ou ***exibição***; no entanto, também é uma ótima tática para usar com frequência na eficácia das recomendações de produtos no local.
-- **Último contato**: Essa tática também funciona exatamente como parece, mas em vez disso oferece **100% de crédito** à ÚLTIMA pessoa que atravessou a porta.  Normalmente, esse modelo é usado para analisar coisas como ***pesquisa natural (orgânica)*** e outros *curto prazo* campanhas do ciclo de marketing.
-- **Linear**: Esse modelo distribui crédito igual para TODAS AS PESSOAS que passaram pela porta.
+- **Primeiro contato**: este modelo funciona exatamente como parece dando **100% de crédito** à pessoa *primeira* que entrou pela porta.  Os profissionais de marketing têm mais probabilidade de usar essa abordagem para táticas como ***mídia social*** ou ***exibição***; no entanto, também é uma ótima tática para usar com frequência na eficácia das recomendações de produtos no site.
+- **Último contato**: esta tática também funciona exatamente como parece, mas oferece **100% de crédito** à ÚLTIMA pessoa que entrou pela porta.  Normalmente, esse modelo é usado para analisar coisas como a ***pesquisa natural (orgânica)*** e outras *campanhas de curto prazo* do ciclo de marketing.
+- **Linear**: este modelo distribui crédito igual para TODAS AS PESSOAS que passaram pela porta.
 
   >[!CAUTION]
   >
   >No entanto, recomenda-se cautela aqui, porque você tem o potencial de espalhar seus resultados muito rapidamente ao aplicar essa tática, considerando quanto mais longa ela é executada e quanto maior o público em que ela é atingida.
 
-- **Forma de U**: essa abordagem atribui **40%** do crédito para o *primeira pessoa* na porta, espalha **20%** do crédito em *todos entre eles* e então dá **40%** para o **último** até. Esse modelo será usado com mais frequência em situações em que você tem uma **ciclo longo de conversão/vendas** contendo *vários pontos de contato* pelo caminho.  Nesse caso, seu objetivo é destacar principalmente o ***primeiro*** e ***último*** táticas de marketing que contribuíram para a conversão do cliente.
-- **J**-**Em forma** e **J invertido**:
-   - Pense em **Forma de U**, mas em vez disso esse modelo atribui **60%** crédito para o *última pessoa* andando pela porta, **20%** para o *primeiro* e depois *divide* o restante **20%** em *todos os outros* no meio.  **J invertido** faz exatamente o oposto.
+- **Forma de U**: esta abordagem atribui **40%** do crédito à *primeira pessoa* na porta, distribui **20%** do crédito entre *todos entre* e dá **40%** ao **último**. Este modelo será usado com mais frequência em situações em que você tem um **longo ciclo de conversão/vendas** contendo *vários pontos de contato* ao longo do caminho.  Nesse caso, seu objetivo é destacar principalmente as táticas de marketing do ***first*** e do ***last*** que contribuíram para a conversão do cliente.
+- **J**-**Formatado** e **J Inverso**:
+   - Pense em **Forma de U**, mas este modelo atribui crédito de **60%** à *última pessoa* que anda pela porta, **20%** à *primeira* e, em seguida, *divide* os **20%** restantes em *todas as outras pessoas* no meio.  **J invertido** faz exatamente o oposto.
 
-     O objetivo aqui é colocar a maior parte de sua ênfase, seja no *início* ou o *fim* da sua campanha; no entanto, você ainda deseja atribuir uma certa quantidade de crédito ao item de contribuição na extremidade oposta, reconhecendo os &quot;carinhas&quot; ao longo do caminho.
+     O objetivo aqui é colocar a maior parte de sua ênfase, seja no *início* ou no *fim* de sua campanha. No entanto, você ainda deseja atribuir uma certa quantidade de crédito ao item de contribuição na extremidade oposta, reconhecendo os &quot;carinhas&quot; ao longo do caminho.
 
-- **Decaimento de tempo**: Agora, eu seria negligente se não compartilhasse desse. Esse modelo tem literalmente uma meia-vida que decai exponencialmente - com o tempo!  Neste caso, o *padrão* O parâmetro para a meia-vida deste modelo é **7 dias**.  A maneira como funciona é aplicar *peso* para cada **canal de marketing**, *com base na quantidade de tempo* que passa após o *ponto de contato inicial* e quando o cliente converte.
+- **Declínio de tempo**: agora, eu seria negligente se não compartilhasse este. Esse modelo tem literalmente uma meia-vida que decai exponencialmente - com o tempo!  Neste caso, o parâmetro *padrão* para a meia-vida deste modelo é **7 dias**.  Funciona da seguinte maneira: aplicar *peso* a cada **canal de marketing**, *com base no tempo* decorrido após o *ponto de contato inicial* e quando o cliente se converter.
 
-  **Decaimento de tempo** e **Modelos de atribuição em forma de U** são normalmente usados para medir campanhas de longo prazo, mas, como você pode ver, eles têm metas um pouco diferentes, com base em como elas são *peso* o valor do resultado.
+  **Declínio de tempo** e **Modelos de atribuição em forma de U** normalmente são usados para medir campanhas de longo prazo, mas, como você pode ver, eles têm metas um pouco diferentes, com base em como eles *pesam* o valor do resultado.
 
-- **Personalizado**: Você escolhe quem vai receber crédito.  É a sua campanha!
+- **Personalizado**: você escolhe quem vai receber crédito.  É a sua campanha!
 
-Para obter informações adicionais sobre esses e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Para obter informações adicionais sobre estes e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Para tornar isso ainda mais interessante, vamos falar sobre como retroceder o relógio!
 
@@ -96,32 +96,32 @@ Agora é hora de começar a levar sua mente ao próximo nível.  É aqui que lit
 ***Adobe*** define ❹ **janelas de retrospectiva** como &quot;o tempo que uma conversão deve retroceder para incluir pontos de contato. Os modelos de atribuição que dão mais crédito às primeiras interações veem diferenças maiores ao exibir diferentes janelas de retrospectiva.&quot;
 
 
-Em outras palavras, **janelas de retrospectiva** determinar o período durante o qual *conversões* são considerados e fornecem *contexto* à análise de atribuição. ***Adobe Analytics*** O oferece três tipos de **janelas de retrospectiva**:
+Em outras palavras, as **janelas de retrospectiva** determinam o período durante o qual *conversões* são consideradas e fornecem *contexto* para a análise de atribuição. O ***Adobe Analytics*** oferece três tipos de **janelas de retrospectiva**:
 
-- **Janela de retrospectiva de visita:** Retroage para o início de um ***visita*** quando uma conversão ocorria, fornecia insights sobre as interações imediatas que resultavam em conversões.
+- **Janela de retrospectiva de visita:** retroage ao início de uma ***visita*** quando ocorreu uma conversão, fornecendo insights sobre as interações imediatas que resultaram em conversões.
 
-  Lembre-se de que normalmente é o menor **janela de retrospectiva** para usar.
-- **Janela de pesquisa do visitante:** Examina tudo ***visitas*** fazer backup até o primeiro dia do mês na pasta selecionada **intervalo de datas**, oferecendo uma visão mais ampla das interações do cliente e ajudando a identificar padrões ao longo do tempo.
-- **Janela de pesquisa personalizada:** Permite expandir a variável **janela de atribuição** além do relatório **intervalo de datas** até um *máximo* de **90 dias**.  Ele fornece *flexibilidade* na captura de pontos de contato que ocorreram *fora* o selecionado **intervalo de datas**, garantindo uma análise abrangente.
+  Lembre-se de que esta é normalmente a **janela de retrospectiva** mais curta a ser usada.
+- **Janela de retrospectiva do visitante:** verifica todas as ***visitas*** até o primeiro dia do mês dentro do **intervalo de datas** selecionado, oferecendo uma visão muito mais ampla das interações do cliente e ajudando a identificar padrões ao longo do tempo.
+- **Janela de pesquisa personalizada:** Permite expandir a **janela de atribuição** além do **intervalo de datas** do relatório até um *máximo* de **90 dias**.  Ele fornece *flexibilidade* para capturar pontos de contato que ocorreram *fora* do **intervalo de datas** selecionado, garantindo uma análise abrangente.
 
-Ao ajustar um determinado **janela de retrospectiva** Além disso, os analistas podem examinar o impacto de um ou mais pontos de contato em intervalos de tempo específicos e obter insights maiores sobre como as diferentes durações afetam os resultados da atribuição.
+Ao ajustar determinada **janela de lookback**, os analistas podem examinar o impacto de um ou mais pontos de contato em intervalos de tempo específicos e obter insights adicionais sobre como as diferentes durações afetam os resultados da atribuição.
 
 ## **Reunindo tudo**
 
 Então, o que tudo isso significa para nós analistas?
 
-A variável **painel de atribuição** e **janela de retrospectiva** dê-nos o poder de olhar além do mundano, dos dados de nível de superfície e mergulhar mais fundo na jornada do cliente. Ao compreender quais pontos de contato tiveram maior impacto no *conversões* Além disso, podemos tomar decisões conscientes sobre nossas estratégias de marketing e alocar recursos de maneira mais eficaz.
+O **painel de atribuição** e a **janela de retrospectiva** permitem que olhemos além dos dados comuns e de superfície e aprofundemos na jornada do cliente. Ao entender quais pontos de contato tiveram maior impacto em *conversões*, podemos tomar decisões informadas sobre nossas estratégias de marketing e alocar recursos de maneira mais eficaz.
 
-Lembre-se, depois de ter seu **modelos de atribuição** e **janelas de retrospectiva** selecionada, você ainda poderá manipular seus dados filtrando-os com um ❺ **segmento,** ou qualquer outro componente que desejar neste momento.  Além disso, após a renderização do painel, você terá toda a funcionalidade de um espaço de trabalho tradicional à sua disposição.
+Lembre-se, depois de selecionar seus **modelos de atribuição** e **janelas de retrospectiva**, você ainda poderá manipular seus dados filtrando-os com um **segmento,** ❺ ou qualquer outro componente desejado neste momento.  Além disso, depois que o painel for renderizado, você terá toda a funcionalidade de um Workspace tradicional à sua disposição.
 
 ## **Finalmente, colocando em prática**
 
-Agora que você concluiu os conceitos, imagine que está executando uma campanha de marketing e tentando determinar qual canal é o *mais eficaz* para gerar conversões. Com a ajuda da **painel de atribuição**, você não só pode ver a **último contato**, mas também a **primeiro contato**, **mesmo toque** e qualquer outro **modelo** você escolhe determinar qual **canais** são as *mais eficaz* na condução do seu *conversões*. Em seguida, essas informações podem ser usadas para *otimizar* suas campanhas e melhorar o desempenho geral simplesmente restaurando o relógio com o **janela de retrospectiva** de sua escolha!
+Agora que você concluiu os conceitos, imagine que está executando uma campanha de marketing e tentando determinar qual canal é o *mais eficaz* para gerar conversões. Com a ajuda do **painel de atribuição**, você não apenas poderá ver o **último contato**, mas também o **primeiro contato**, **mesmo contato** e qualquer outro **modelo** escolhido para determinar quais **canais** são os *mais eficazes* na condução de suas *conversões*. Em seguida, essas informações podem ser usadas para *otimizar* suas campanhas e melhorar o desempenho geral simplesmente restaurando o relógio com a **janela de retrospectiva** de sua escolha!
 
-Agora que você viu o que ele pode fazer, não se deixe enganar ou se intimidar pelas características aparentemente complexas do painel de atribuição.  **Encarar**.  *Adotar* o mesmo.  **Compreender** o mesmo.
-MAS ACIMA DE TUDO - *Use-o em sua vantagem.* A variável **painel de atribuição** e **janela de retrospectiva** são a chave para obter uma compreensão mais profunda dos clientes e de suas jornadas com a sua marca.
+Agora que você viu o que ele pode fazer, não se deixe enganar ou se intimidar pelas características aparentemente complexas do painel de atribuição.  **Enfrente isso**.  *Adote*.  **Entenda**.
+MAS ACIMA DE TUDO - *Use-o em seu benefício.* O **painel de atribuição** e a **janela de retrospectiva** são as chaves para desbloquear uma compreensão mais profunda de seus clientes e suas jornadas com sua marca.
 
-Agora, podemos viajar &quot;[voltar no tempo](https://youtu.be/gVryJmZNFdU)&quot; com confiança e usar o poder de nossa confiável máquina do tempo (também conhecida como ***Adobe Analytics***) para tomar decisões orientadas por dados.
+Agora, podemos viajar &quot;[de volta no tempo](https://youtu.be/gVryJmZNFdU)&quot; com confiança e usar o poder de nossa confiável máquina do tempo (também conhecida como ***Adobe Analytics***) para tomar decisões orientadas por dados.
 
 ## Autora
 
