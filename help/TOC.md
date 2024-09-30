@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
-ht-degree: 99%
+source-wordcount: '2160'
+ht-degree: 96%
 
 ---
 
@@ -379,18 +379,18 @@ ht-degree: 99%
    + Target {#target}
       + [Painel Analytics for Target (A4T) no Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [Analisar uma atividade de direcionamento automático usando o painel A4T](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Configuração do Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [Implementação de modelos de rastreamento em mecanismos de pesquisa](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Introdução à integração do Analytics para Advertising Cloud DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [Criar uma Análise de campanha de pré-lançamento](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Relatórios com Canais de marketing da Advertising Cloud](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Introdução à integração do Adobe Advertising DSP](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [Criar uma análise de campanha de pré-lançamento](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Relatório sobre canais de marketing do Advertising DSP](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [Criar perfis de jornada de site no Analytics](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [Criar segmentos do Analytics para ativação e relatórios](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Criar alertas da Advertising Cloud com o Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Criar métricas personalizadas do Analytics com dados da Advertising Cloud](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Criar relatórios de entrada de site da Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Criar painéis da Advertising Cloud](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Criar alertas do Advertising DSP com o Adobe Analytics](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Criar métricas personalizadas do Analytics com dados do Advertising DSP](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Criar relatórios de entrada de site do Advertising DSP](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Criar painéis do Advertising DSP](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
       + [Utilização do Conversor de projetos para mover projetos do Ad Hoc Analysis para o Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
