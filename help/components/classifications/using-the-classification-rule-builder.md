@@ -14,7 +14,6 @@ source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 100%
-
 ---
 
 # Usar o [!UICONTROL Construtor de regras de classificação] no Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}
