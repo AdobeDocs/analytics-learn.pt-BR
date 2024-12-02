@@ -1,6 +1,6 @@
 ---
 title: Utilização de datas no Analysis Workspace
-description: "Este vídeo explica três maneiras diferentes de trabalhar com datas na Análise de forma livre: o calendário, os elementos do intervalo de datas e os elementos de granularidade. Não mostrado, de uma maneira um pouco embaraçosa: como usar datas para habilitar gráficos lineares. "
+description: 'Este vídeo explica três maneiras diferentes de trabalhar com datas na Análise de forma livre: o calendário, os elementos do intervalo de datas e os elementos de granularidade. Não mostrado, de uma maneira um pouco embaraçosa: como usar datas para habilitar gráficos lineares. '
 feature: Calendar
 topics: null
 activity: use
@@ -13,7 +13,7 @@ exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 100%
+ht-degree: 70%
 
 ---
 
