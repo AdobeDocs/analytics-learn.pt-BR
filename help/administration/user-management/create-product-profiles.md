@@ -23,4 +23,4 @@ Crie perfis de produto do Analytics no Admin Console da Experience Cloud para ge
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-Saiba mais acessando a [documentação](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile).
+Saiba mais acessando a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/admin/admin-console/permissions/product-profile).

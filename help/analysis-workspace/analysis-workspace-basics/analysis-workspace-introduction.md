@@ -20,4 +20,4 @@ Obtenha uma introdução rápida sobre como o Analysis Workspace oferece suporte
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Assista ao vídeo Visão geral do Analysis Workspace ou faça o [curso introdutório gratuito](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) aqui na Experience League!
+Assista ao vídeo Visão geral do Analysis Workspace ou faça o [curso introdutório gratuito](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) aqui na Experience League!

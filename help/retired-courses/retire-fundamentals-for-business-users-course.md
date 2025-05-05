@@ -28,11 +28,11 @@ Por todos esses motivos, decidimos que seria melhor reorganizar, gravar e lança
 
 Caso você seja um usuário empresarial, um profissional de negócios ou tenha outra função semelhante, recomendamos que faça os seguintes cursos para aprender fundamentos básicos que o ajudarão a se destacar no uso do Analysis Workspace:
 
-1. [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR)
-1. [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR)
-1. [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=pt-BR)
+1. [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR)
+1. [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.3)
+1. [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2021.1.visualizations&amp;lang=pt-BR)
+1. [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.2&amp;lang=pt-BR)
 
-Há outros cursos relacionados ao [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) disponíveis na Experience League.
+Há outros cursos relacionados ao [Adobe Analytics](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.1.workspace&amp;lang=pt-BR) disponíveis na Experience League.
 
 Obrigado.

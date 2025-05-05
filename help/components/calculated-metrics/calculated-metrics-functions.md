@@ -19,4 +19,4 @@ Saiba como usar funções na criação de métricas calculadas no Analysis Works
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-Consulte a documentação para obter mais informações sobre como usar as funções [básicas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) e [avançadas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) ao criar métricas calculadas.
+Consulte a documentação para obter mais informações sobre como usar as funções [básicas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=pt-BR) e [avançadas](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=pt-BR) ao criar métricas calculadas.

@@ -94,7 +94,7 @@ Agora é possível transformar facilmente qualquer projeto em um modelo personal
 >
 >**Recurso altamente solicitado:** vários clientes nos pediram que fosse possível salvar projetos como modelos personalizados. Agora, esse recurso se tornou um dos favoritos.
 
-[Clique aqui para encontrar mais dicas e truques na Experience League](https://experienceleague.adobe.com/?search=tips&amp;lang=pt-BR#recommended/solutions/analytics)
+[Clique aqui para encontrar mais dicas e truques na Experience League](https://experienceleague.adobe.com/pt-br?search=tips&amp;lang=pt-BR#recommended/solutions/analytics)
 
 | Sobre o autor |            |
 |------------|------------|

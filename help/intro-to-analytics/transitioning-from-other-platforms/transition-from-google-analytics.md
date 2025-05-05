@@ -137,7 +137,7 @@ Outro recurso eficiente dos espaços de trabalho é a capacidade de aplicar modi
 
 >[!IMPORTANT]
 >
->Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=pt>
 
 ##### 2.1.2.2. Google Analytics: painéis, relatórios personalizados e relatórios salvos
 
@@ -267,7 +267,7 @@ No entanto, eu recomendaria o uso do Adobe Analytics e do Google Analytics em su
 
 Há muitos recursos disponíveis para você além deste guia que podem ajudar a melhorar sua estratégia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
+* [Adobe Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
 * [Grupos de usuários da Adobe](https://analytics-augs.adobe.com/) - Um centro de eventos executados pela comunidade para ajudar os usuários a se conectarem e melhorar suas implementações.
 * [Canal do YouTube para grupos de usuários do Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Não foi possível criar uma sessão de grupo de usuários do Adobe Analytics? Assista novamente às sessões anteriores de grupos de usuários em todo o mundo para saber mais sobre como seus colegas estão usando a ferramenta.
 * [Canal de chat do Slack para medições](https://www.measure.chat/) - Conecte-se com usuários do Adobe Analytics em todo o mundo e compartilhe aprendizados do setor, faça perguntas a seus colegas e participe de grupos de interesse com foco em medição.

@@ -22,4 +22,4 @@ Saiba como habilitar, depurar e personalizar a maneira como o [!UICONTROL Activi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-Para obter mais informações sobre como implantar o [!UICONTROL Activity Map], visite a [documentação](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+Para obter mais informações sobre como implantar o [!UICONTROL Activity Map], visite a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Como entender o painel de atribuição do Adobe Analytics e as janelas de pesquisa
 
-Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e a **janela de retrospectiva**, lembrei-me imediatamente do conceito de &#39;*viagem no tempo&#39;*; então, é claro, também lembrei-me da resposta típica a muitas ferramentas novas como essas que é simplesmente parar de tentar usá-lo, porque elas parecem tão complicadas.
+Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=pt-BR) e a **janela de retrospectiva**, lembrei-me imediatamente do conceito de &#39;*viagem no tempo&#39;*; então, é claro, também lembrei-me da resposta típica a muitas ferramentas novas como essas que é simplesmente parar de tentar usá-lo, porque elas parecem tão complicadas.
 
 Quero dizer, honestamente, basta olhar para todas essas opções, interruptores, painéis, leituras, e botões.  E sério, vamos falar sobre essas complicadas luzes piscando, mangueiras, medidores... ESPERE!  Não é hora de distrair falando de máquinas do tempo, só não temos tempo... ou temos?
 
@@ -43,7 +43,7 @@ Agora que estamos todos entusiasmados com a viagem no tempo, vamos respirar fund
 
 Em **attribution**, considere apenas como eventos/ações podem ser causados por um indivíduo, por vários indivíduos ou por um de vários eventos diferentes ao longo do tempo.
 
-De acordo com [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), a *atribuição* oferece aos analistas a capacidade de personalizar como *Dimension* itens recebem crédito por *eventos bem-sucedidos*.
+De acordo com [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=pt-BR), a *atribuição* oferece aos analistas a capacidade de personalizar como *Dimension* itens recebem crédito por *eventos bem-sucedidos*.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ Tendo isso em mente, aqui estão alguns exemplos de como os **modelos de atribui
 
 - **Personalizado**: você escolhe quem vai receber crédito.  É a sua campanha!
 
-Para obter informações adicionais sobre estes e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+Para obter informações adicionais sobre estes e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR)
 
 Para tornar isso ainda mais interessante, vamos falar sobre como retroceder o relógio!
 
