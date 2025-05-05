@@ -19,6 +19,6 @@ ht-degree: 29%
 
 Neste vídeo, saiba como criar e compartilhar &quot;Scorecards&quot; no Analysis Workspace para serem exibidos nos painéis do Adobe Analytics (aplicativo móvel).
 
->[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38149/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=pt-BR).

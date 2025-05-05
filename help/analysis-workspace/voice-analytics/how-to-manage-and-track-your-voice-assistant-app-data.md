@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como criar um painel personalizado para gerenciar e rastrear o desempenho do seu aplicativo assistente de voz de uma maneira fácil, flexível, intuitiva e visual.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34971/?quality=12&learn=on&captions=por_br)

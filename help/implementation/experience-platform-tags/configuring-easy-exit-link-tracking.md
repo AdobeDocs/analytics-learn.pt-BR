@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Você pode começar a rastrear links de saída do seu site (links que vão para outro site) com apenas alguns cliques na extensão do Adobe Analytics na Experience Platform [!DNL tags]. Este vídeo mostra como configurar isso.
 
->[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33551/?quality=12&learn=on&captions=por_br)
 
 Você pode ter links no seu site que vão para outros sites de sua propriedade ou com os quais faz parceria. É comum querer saber quantas pessoas estão clicando nesses sites a partir de suas páginas. Ao usar a configuração detalhada neste vídeo, é possível configurar o rastreamento de links de saída de maneira rápida e fácil e até mesmo ajustá-lo às suas necessidades.

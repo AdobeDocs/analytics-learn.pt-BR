@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como aproveitar ao máximo a nova página de destino do Analytics e seus recursos.
 
->[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409141/?quality=12&learn=on&captions=por_br)

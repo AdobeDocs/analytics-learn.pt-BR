@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Não sabemos exatamente como chamar isso, mas é bem interessante. Ao criar um gráfico de linhas de um valor de dimensão, agora é possível selecionar valores de dimensão diferentes e alterar o gráfico dinamicamente. Assista ao vídeo para saber mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33592/?quality=12&learn=on&captions=por_br)

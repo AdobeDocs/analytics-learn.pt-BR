@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Trabalhar em várias funcionalidades
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345456/?quality=12&learn=on&captions=por_br)
 
 A jornada para o Adobe Analytics começa com uma boa implementação. Todos nós conhecemos a expressão “lixo entra, lixo sai”. Para eliminar uma implementação “lixo sai”, os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleção de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
 

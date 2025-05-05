@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como entender a fundo a qualidade do engajamento no seu aplicativo de voz utilizando recursos como frequência de uso, [!UICONTROL coorte], duração de visita/usuário e duração da sessão.
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34960/?quality=12&learn=on&captions=por_br)

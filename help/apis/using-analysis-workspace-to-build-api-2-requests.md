@@ -21,6 +21,6 @@ ht-degree: 99%
 
 Neste vídeo, mostramos como aproveitar o Analysis Workspace para criar solicitações da API 2.0 automaticamente. Depurando a interface do usuário, você pode copiar e colar solicitações JSON diretamente em qualquer cliente da API para retornar os dados do [!DNL Analytics]. Agora é possível ativar o depurador mais facilmente acessando a Ajuda do Workspace > Ativar o Debugger.
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328326/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html).

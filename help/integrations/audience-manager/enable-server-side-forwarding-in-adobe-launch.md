@@ -25,4 +25,4 @@ Saiba como enviar dados do [!DNL Adobe Analytics] para o [!DNL Adobe Audience Ma
 >
 >&quot;[!UICONTROL Launch]&quot; foi renomeado para &quot;[!UICONTROL tags]&quot; na interface Experience Cloud. Selecione [!UICONTROL Coleção de dados] no [!UICONTROL alternador de aplicativos] para abrir marcas e executar as etapas apresentadas neste vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34659?quality=12&learn=on&captions=por_br)

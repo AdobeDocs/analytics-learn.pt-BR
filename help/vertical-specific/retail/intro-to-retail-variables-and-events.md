@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Se você tiver um site de varejo, há algumas variáveis e eventos criados especialmente para você. Este vídeo fornece uma rápida introdução para entender as variáveis e eventos específicos do varejo.
 
->[!VIDEO](https://video.tv.adobe.com/v/28750/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31175/?quality=12&learn=on&captions=por_br)

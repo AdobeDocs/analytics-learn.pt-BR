@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Criar um relatório de entrada de site da Advertising Cloud para monitorar o dia da semana, a hora do dia, o navegador e a influência geográfica.
 
->[!VIDEO](https://video.tv.adobe.com/v/35120/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40457/?quality=12&learn=on&captions=por_br)

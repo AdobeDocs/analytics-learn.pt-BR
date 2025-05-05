@@ -22,7 +22,7 @@ ht-degree: 100%
 
 O [!DNL Fallout] no Analysis Workspace permite combinar dimensões e métricas como pontos de contato em funis e fluxos de trabalho. 
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30793/?quality=12&learn=on&captions=por_br)
 
 Esse recurso avançado fornece maior flexibilidade ao definir as etapas de usuário que deseja investigar.
 

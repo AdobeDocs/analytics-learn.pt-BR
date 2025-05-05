@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Há muitas maneiras de elevar o padrão da sua metodologia de atribuição com o Adobe Analytics. Neste vídeo, destacamos como é possível obter insights mais profundos do relatório de Canais de marketing usando a análise entre guias no Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327754/?quality=12&learn=on&captions=por_br)
 
 **ATUALIZAÇÃO**: Várias melhorias foram feitas no [!DNL Workspace] desde que este vídeo foi publicado. Vamos manter o vídeo no ar porque ele contém ótimas dicas que você deveria saber de qualquer forma.
 

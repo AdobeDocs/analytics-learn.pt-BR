@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba quando e como definir e configurar variáveis de hierarquia para o seu site, um recurso que pode ser usado para mostrar uma visualização hierárquica das páginas do site e quanto tráfego está chegando a cada nó.
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344370/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=pt-BR).

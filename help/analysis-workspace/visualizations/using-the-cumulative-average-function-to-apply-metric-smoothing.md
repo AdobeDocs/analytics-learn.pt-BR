@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Quanto maior for a tendência do período de tempo em que uma métrica é exibida, mais difícil será informar as tendências direcionais para a métrica. Para resolver isso, a função Média cumulativa em Métricas calculadas pode ser usada para aplicar suavização a métricas no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35046/?quality=12&learn=on&captions=por_br)

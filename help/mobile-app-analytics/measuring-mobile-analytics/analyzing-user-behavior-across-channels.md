@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como descobrir os caminhos dos usuários para conversão em aplicativos móveis usando [!DNL Flow] e comparando com outras experiências, como a Web. Defina e meça a conversão em processos de várias etapas para impulsionar o sucesso de seus aplicativos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32089/?quality=12&learn=on&captions=por_br)

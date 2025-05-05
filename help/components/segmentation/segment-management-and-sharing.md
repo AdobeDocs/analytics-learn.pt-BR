@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Você pode criar excelentes segmentos, mas por que mantê-los apenas para si mesmo? Neste vídeo, você receberá algumas dicas para gerenciar e compartilhar os seus segmentos, para que você e outros possam aproveitá-los.
 
->[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32597/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-manage.html?lang=pt-BR).

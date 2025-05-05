@@ -20,4 +20,4 @@ ht-degree: 19%
 
 Saiba como gerenciar suas métricas calculadas, incluindo como encontrá-las, ver uma lista, renomear, excluir, compartilhar etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423591/?learn=on&captions=por_br)

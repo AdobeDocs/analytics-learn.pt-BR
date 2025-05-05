@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Neste vídeo, abordamos como configurar regras de processamento para canais de marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344356/?quality=12&learn=on&captions=por_br)
 
 >[!NOTE]
 >

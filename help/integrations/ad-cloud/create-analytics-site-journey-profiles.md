@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Aprenda a usar o Adobe Analytics para criar pools robustos de redirecionamento de site para remarketing da Advertising Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40433/?quality=12&learn=on&captions=por_br)

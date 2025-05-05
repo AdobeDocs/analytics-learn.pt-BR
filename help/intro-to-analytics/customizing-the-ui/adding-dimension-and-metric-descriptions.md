@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como adicionar contexto a dimensões e métricas no [!DNL Adobe Analytics]. Use o campo de descrição se o nome atribuído aos seus relatórios e métricas não fornecer clareza suficiente para os usuários em sua organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39723/?quality=12&learn=on&captions=por_br)

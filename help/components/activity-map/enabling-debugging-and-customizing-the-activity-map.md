@@ -20,6 +20,6 @@ ht-degree: 0%
 
 Saiba como habilitar, depurar e personalizar a maneira como o [!UICONTROL Activity Map] é implantado na extensão do Analytics nas tags da Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327633?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre como implantar o [!UICONTROL Activity Map], visite a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).

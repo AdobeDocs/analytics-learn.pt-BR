@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Tradução da linguagem técnica do Adobe Analytics para uma forma não técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345332/?quality=12&learn=on&captions=por_br)
 
 ## Falando línguas diferentes
 

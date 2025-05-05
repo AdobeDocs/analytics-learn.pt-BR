@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Este vídeo mostra como usar regras no [!DNL tags] para rastrear eventos de conversão (eventos de sucesso) no seu site.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429953/?quality=12&learn=on&captions=por_br)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba o que afeta os totais nas tabelas de forma livre, bem como ativá-las e desativá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32735/?quality=12&learn=on&captions=por_br)

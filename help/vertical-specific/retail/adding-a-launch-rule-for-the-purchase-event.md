@@ -22,4 +22,4 @@ Este vídeo mostra como usar a [!UICONTROL extensão] de sequência de caractere
 >
 > O Launch agora é **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31146/?quality=12&learn=on&captions=por_br)

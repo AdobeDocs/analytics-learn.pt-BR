@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Conquistar um lugar à mesa
 
->[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345320/?quality=12&learn=on&captions=por_br)
 
 “Conquistar um lugar à mesa.” Essa frase popular é um tema central no mundo dos negócios há anos. Mas o que ela significa? Conquistar um lugar à mesa significa que você faz parte das conversões da tomada de decisão de alto nível. Você não é apenas convidado, seu comentário é valorizado e apreciado. Vou mostrar como conquistar um lugar à mesa ajudará sua empresa e sua carreira como usuário avançado do Adobe Analytics, seja sua função oficial de administrador, analista de dados ou o que estiver escrito em seu cartão de visita.
 

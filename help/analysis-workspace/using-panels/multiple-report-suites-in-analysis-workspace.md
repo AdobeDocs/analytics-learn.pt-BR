@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Vários [!UICONTROL conjuntos de relatórios] podem ser analisados em um único projeto do [!DNL Workspace] selecionando [!UICONTROL conjuntos de relatórios] no nível do painel. Isso permite que você faça análises lado a lado no painel em diferentes conjuntos de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37063/?quality=12&learn=on&captions=por_br)
 
 >[!TIP]
 >
