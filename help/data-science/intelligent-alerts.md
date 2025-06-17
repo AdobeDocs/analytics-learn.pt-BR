@@ -1,7 +1,7 @@
 ---
 title: Alertas inteligentes no Adobe Analytics
 description: Os alertas inteligentes colocam o recurso de detecção de anomalias diretamente na sua caixa de entrada ou no seu telefone. Estar imediatamente ciente de mudanças significativas em suas métricas e segmentos principais significa não perder oportunidades.
-feature: Data Science
+feature: Alerts
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 2338
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Os [!DNL Intelligent Alerts] colocam o recurso de [!UICONTROL detecção de anomalias] diretamente na sua caixa de entrada ou no seu telefone. Estar imediatamente ciente de mudanças significativas em suas métricas e segmentos principais significa não perder oportunidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/30787/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR).

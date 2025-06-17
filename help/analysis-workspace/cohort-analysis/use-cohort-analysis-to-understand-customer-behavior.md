@@ -1,7 +1,7 @@
 ---
 title: Utilização de análises de coorte para entender o comportamento do cliente
 description: Para melhorar a experiência e a receita do cliente, as empresas devem entender o comportamento do cliente. A análise de coorte pode ajudar a compreender o engajamento e a retenção, resultando em ações como a melhoria da criação de contas e a criação de campanhas para meses de alto volume.
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 13%
@@ -132,19 +132,19 @@ Investigar a experiência do usuário do site para fazer com que os usuários cr
 
 ![Tabela de coorte 4](assets/cohort4.png)
 
-## Parte 4: Coorte de Dimension personalizado
+## Parte 4: Coorte personalizada do Dimension
 
-Coorte de Dimension personalizada: crie coortes com base na dimensão selecionada, em vez de coortes com base no tempo (padrão). Muitos usuários desejam analisar suas coortes segundo critérios que não sejam o tempo, por isso o novo recurso de Coorte de dimensão personalizada permite ter flexibilidade para criar coortes com base nas dimensões desejadas. Use dimensões como canal de marketing, campanha, produto, página, região ou qualquer outra dimensão no Adobe Analytics para mostrar como a retenção é alterada com base nos diferentes valores dessas dimensões. O
+Coorte personalizada do Dimension: crie coortes com base na dimensão selecionada, em vez de coortes com base no tempo (padrão). Muitos usuários desejam analisar suas coortes segundo critérios que não sejam o tempo, por isso o novo recurso de Coorte de dimensão personalizada permite ter flexibilidade para criar coortes com base nas dimensões desejadas. Use dimensões como canal de marketing, campanha, produto, página, região ou qualquer outra dimensão no Adobe Analytics para mostrar como a retenção é alterada com base nos diferentes valores dessas dimensões. O
 
-A definição de segmento de coorte de Dimension personalizada aplica o item de dimensão somente como parte do período de inclusão, não como parte da definição de retorno.
+A definição de segmento de coorte personalizada do Dimension aplica o item de dimensão somente como parte do período de inclusão, não como parte da definição de retorno.
 
-Depois de escolher a opção Coorte de Dimension personalizado, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão similares entre o mesmo período de tempo. Por exemplo, você pode comparar o desempenho de cidades lado a lado
+Depois de escolher a opção Coorte personalizada do Dimension, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão similares entre o mesmo período de tempo. Por exemplo, você pode comparar o desempenho de cidades lado a lado
 
 lado, produtos, campanhas etc. Ele retornará seus 14 principais itens de dimensão. Entretanto, você pode usar um filtro (acesse-o passando o mouse sobre o lado direito da dimensão que foi arrastada) para exibir somente os itens de dimensão desejados. Um Coorte de dimensão personalizado não pode ser usado com o recurso de Tabela de latência.
 
 ### Quais produtos estão causando aderência no site?
 
-A tabela de coorte de Dimension personalizada destaca os produtos que estão impulsionando taxas de retenção mais altas do que a média.  Esta tabela ajuda a identificar os principais produtos para impulsionar campanhas de marketing internas e externas com os principais produtos dignos de atenção.
+A tabela de coorte personalizada do Dimension destaca os produtos que estão impulsionando taxas de retenção mais altas do que a média.  Esta tabela ajuda a identificar os principais produtos para impulsionar campanhas de marketing internas e externas com os principais produtos dignos de atenção.
 
 **Em fevereiro:** 3 produtos se destacam com taxas de retenção mais altas
 
@@ -162,7 +162,7 @@ A tabela de coorte de Dimension personalizada destaca os produtos que estão imp
 
 ## Conclusão
 
-A análise de coorte e o Coorte de Dimension personalizado são ferramentas eficientes para entender o comportamento do cliente e melhorar o desempenho digital. Analisando taxas de retenção, taxas de logon e o impacto de produtos específicos, as empresas podem tomar decisões orientadas por dados para melhorar a experiência do cliente e impulsionar o crescimento.
+A Análise de coorte e a Coorte personalizada do Dimension são ferramentas eficientes para entender o comportamento do cliente e melhorar o desempenho digital. Analisando taxas de retenção, taxas de logon e o impacto de produtos específicos, as empresas podem tomar decisões orientadas por dados para melhorar a experiência do cliente e impulsionar o crescimento.
 
 ## Autora
 
@@ -170,6 +170,6 @@ Este documento foi escrito por:
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**, Director sênior da Marriott
+**Jennifer Yacenda**, diretora sênior da Marriott
 
 Especialista no Adobe Analytics
