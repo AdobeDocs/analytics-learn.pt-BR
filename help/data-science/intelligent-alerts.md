@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Os [!DNL Intelligent Alerts] colocam o recurso de [!UICONTROL detecção de anomalias] diretamente na sua caixa de entrada ou no seu telefone. Estar imediatamente ciente de mudanças significativas em suas métricas e segmentos principais significa não perder oportunidades.
 
->[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30787/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=pt-BR).

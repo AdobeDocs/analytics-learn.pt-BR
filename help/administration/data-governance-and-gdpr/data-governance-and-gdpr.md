@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Este vídeo o guiará pela Governança de dados e mostrará como a rotulagem de dados se encaixa na preparação do RGPD. Ele fornece um exemplo prático de rotulagem de dados usando a Governança de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40789/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=pt-BR).
