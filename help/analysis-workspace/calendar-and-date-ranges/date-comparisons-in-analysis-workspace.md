@@ -22,4 +22,4 @@ Neste vídeo, você aprenderá a utilizar dois recursos de comparação de datas
 
 As comparações de datas são uma maneira fácil de adicionar profundidade às tabelas atuais do Analysis Workspace e ajudarão você a facilmente colocar seus dados atuais em perspectiva para o desempenho histórico.
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison).
