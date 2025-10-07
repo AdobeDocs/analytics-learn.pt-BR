@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 + [Tutoriais do Analytics](overview.md)
 + Introdução ao Analytics {#intro-to-analytics}
    + [O que é análise?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + O que o Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
+   + O que a Adobe Analytics pode me oferecer? {#what-can-aa-do-for-me}
       + [Como o Adobe Analysis Workspace pode mudar sua empresa](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [É mais do que dados. É a inteligência de clientes](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei e Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -51,7 +51,7 @@ ht-degree: 92%
       + [Ajuda no Adobe Analytics](intro-to-analytics/getting-help/getting-help.md)
       + [Envio de tíquete de suporte no produto](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
-   + Fundamentos do Analysis Workspace {#analysis-workspace-basics}
+   + Noções básicas do Analysis Workspace {#analysis-workspace-basics}
       + [Introdução rápida ao Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Visão geral do Analysis Workspace](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Navegar na nova página de destino](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
@@ -146,7 +146,7 @@ ht-degree: 92%
       + [Visualizações 100% empilhadas](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [Configurações da fonte de dados de tabelas e visualizações](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [Criar um mapa de calor de divisão de tempo](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-   + Análise de jornadas do cliente {#analyzing-customer-journeys}
+   + Análise de Jornadas do cliente {#analyzing-customer-journeys}
       + [Criar uma visualização de fallout](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [Criar uma visualização de fluxo](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [Usar fallout e fluxo juntos](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
@@ -246,7 +246,7 @@ ht-degree: 92%
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [Transferir ativos do usuário para um usuário diferente](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [Verifique a ID do IMS vinculado para evitar problemas de logon](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + Gerenciar Conjuntos de relatórios {#manage-report-suites}
+   + Gerenciar conjuntos de relatórios {#manage-report-suites}
       + [Definir configurações gerais da conta](administration/manage-report-suites/configuring-general-account-settings.md)
       + [Personalizar configurações do calendário](administration/manage-report-suites/customize-calendar-settings.md)
       + [Configurar a detecção de pesquisa paga](administration/manage-report-suites/configure-paid-search-detection.md)
@@ -265,7 +265,7 @@ ht-degree: 92%
       + [Ativar a configuração de carimbo de data e hora opcional](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Configurar regras de bot no Analytics](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + Governança de dados e GDPR {#data-governance-and-gdpr}
-      + [Governança de dados e GDPR no Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
+      + [Governança de dados e RGPD no Adobe Analytics](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
    + Gerenciamento de tráfego {#traffic-management}
       + [Uso de chamadas do servidor](administration/traffic-management/server-call-usage.md)
       + [Gerenciar um pico de tráfego futuro](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
@@ -279,7 +279,7 @@ ht-degree: 92%
       + [Como identificar o servidor de rastreamento da análise e a ID do conjunto de relatórios](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Tags da Experience Platform {#experience-platform-tags}
+   + Tags do Experience Platform {#experience-platform-tags}
       + [Implementação de soluções da Experience Cloud em sites usando tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
       + [Configuração básica da extensão do Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configurar o gerenciamento de bibliotecas para a extensão do Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
@@ -319,7 +319,7 @@ ht-degree: 92%
       + [Usar “igual a qualquer um de” na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Agora aguarde um segmento... Utilizando a segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
-   + Métricas calculadas {#calculated-metrics}
+   + Métricas calculadas  {#calculated-metrics}
       + [Visão geral do construtor de métricas calculadas](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Métricas calculadas: métricas sem implementação](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas: métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
@@ -333,6 +333,8 @@ ht-degree: 92%
    + Classificações {#classifications}
       + [Visão geral das classificações](components/classifications/overview-of-classifications.md)
       + [Utilização do Construtor de regras de classificação](components/classifications/using-the-classification-rule-builder.md)
+      + [Introdução aos conjuntos de classificações](components/classifications/introduction-to-classification-sets.md)
+      + [Usar conjuntos de classificações](components/classifications/use-classification-sets.md)
    + Conjuntos de relatórios virtuais {#virtual-report-suites}
       + [Visão geral dos conjuntos de relatórios virtuais](components/virtual-report-suites/virtual-report-suites.md)
       + [Curadoria de componente](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -344,7 +346,7 @@ ht-degree: 92%
 + Ferramentas adicionais {#additional-tools}
    + [Adobe Labs (Visualizações de tecnologia)](additional-tools/adobe-labs-technology-previews.md)
    + Painéis do Analytics {#analytics-dashboards}
-      + [Criador de scorecard dos painéis do Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Criador de cartões de pontuação dos painéis do Adobe Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Visualizações para cartões de pontuação móveis](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [Aplicar intervalos de datas personalizados](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Experiência no aplicativo dos painéis do Analytics](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
@@ -375,7 +377,7 @@ ht-degree: 92%
    + Experience Cloud {#experience-cloud}
       + [Publicação aprimorada de públicos-alvo na Experience Cloud](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
-      + [Ativar o encaminhamento pelo lado do servidor no Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
+      + [Habilitar o encaminhamento pelo lado do servidor no Experience Platform Launch](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - Integrar segmentos do AAM no Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Painel Analytics for Target (A4T) no Analysis Workspace](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
@@ -417,8 +419,8 @@ ht-degree: 92%
 + Media Analytics {#media-analytics}
    + Medição do Media Analytics {#measuring-media-analytics}
       + [Painel Tempo gasto com a reprodução da mídia](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
-      + [Utilização do modelo de consumo de áudio no Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Análise de aplicativos móveis {#mobile-app-analytics}
+      + [Utilização do modelo de Consumo de áudio no Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
++ Análise de aplicativo móvel {#mobile-app-analytics}
    + Implementação {#implementation}
       + [Configurações do administrador para aplicativos móveis](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Inicialização e visualização de métricas de ciclo de vida com o SDK da Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
