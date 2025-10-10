@@ -21,4 +21,4 @@ Conheça o Activity Map, uma ferramenta que ajuda a visualizar os dados de ativi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/activity-map/activity-map).

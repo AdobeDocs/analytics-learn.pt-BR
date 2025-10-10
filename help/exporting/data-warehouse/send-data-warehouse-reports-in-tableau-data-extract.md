@@ -22,4 +22,4 @@ Saiba como o [!DNL Data Warehouse] pode fornecer relatórios no formato de arqui
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/export/data-warehouse/t-tableau).

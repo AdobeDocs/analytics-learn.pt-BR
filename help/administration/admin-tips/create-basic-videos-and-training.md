@@ -33,7 +33,7 @@ ht-degree: 85%
 
 Você pode facilmente apontar os usuários para eles em vez de escrever emails longos ou ter outra reunião. Para obter mais dicas e truques sobre treinamento de usuários, consulte o [Artigo do especialista do Adobe Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=pt-BR){target="_blank"} sobre como simplificar e passar menos tempo treinamento usuários.
 
-Além disso, há vários [tutoriais em vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} na Adobe Experience League, bem como [cursos gratuitos](https://experienceleague.adobe.com/?lang=pt-BR#dashboard/learning){target="_blank"}. Se você precisar de um vídeo específico para os dados e KPIs de negócios da sua empresa, grave seus próprios vídeos. Mas se um vídeo de instrução geral for suficiente, não há razão para reinventar a roda.
+Além disso, há vários [tutoriais em vídeo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR){target="_blank"} na Adobe Experience League, bem como [cursos gratuitos](https://experienceleague.adobe.com/pt-br?lang=pt-BR#dashboard/learning){target="_blank"}. Se você precisar de um vídeo específico para os dados e KPIs de negócios da sua empresa, grave seus próprios vídeos. Mas se um vídeo de instrução geral for suficiente, não há razão para reinventar a roda.
 
 ## Autores(as)
 

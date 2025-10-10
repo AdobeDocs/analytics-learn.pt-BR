@@ -22,4 +22,4 @@ Saiba como criar filtros suspensos com base em uma dimensão inteira. Os itens d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=pt-BR#dynamic-drop-down-filters).

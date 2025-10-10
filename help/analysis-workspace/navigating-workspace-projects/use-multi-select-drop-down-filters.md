@@ -18,6 +18,6 @@ ht-degree: 38%
 
 # Usar filtros suspensos de várias seleções
 
-Saiba mais sobre a opção de multisseleção de campos em filtros suspensos no Analysis Workspace, permitindo que os usuários exibam dados de qualquer um dos campos selecionados. Para obter a documentação detalhada, visite [Visão geral dos painéis](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
+Saiba mais sobre a opção de multisseleção de campos em filtros suspensos no Analysis Workspace, permitindo que os usuários exibam dados de qualquer um dos campos selecionados. Para obter a documentação detalhada, visite [Visão geral dos painéis](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)

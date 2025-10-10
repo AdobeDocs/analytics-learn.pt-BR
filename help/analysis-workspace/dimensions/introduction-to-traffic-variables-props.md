@@ -20,4 +20,4 @@ Entenda os tipos de variáveis de tráfego e como elas são usadas no Adobe Anal
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=pt-BR).
