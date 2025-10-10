@@ -26,7 +26,7 @@ Como muitos administradores, eu executo um hub de informações interno (Conflue
 
 Percebi que usuários e usuárias frequentemente ignoravam minhas indicações ao site do Confluence, com justificativas como “Meu VPN está desativado” ou “Não posso lê-lo agora”, etc. Basicamente, “eu vou ler esse documento mais tarde” significa que o documento nunca será lido e a mesma pergunta será feita na próxima semana.
 
-***Foi aí que percebi:**a versatilidade do Workspace pode ser um divisor de águas. As pessoas preferem respostas rápidas e diretas no Workspace, então vamos mantê-las lá e evitar as etapas adicionais.*
+***Foi aí que percebi:**&#x200B;a versatilidade do Workspace pode ser um divisor de águas. As pessoas preferem respostas rápidas e diretas no Workspace, então vamos mantê-las lá e evitar as etapas adicionais.*
 
 Prossegui e criei painéis operacionais para compartilhar com toda a empresa. Até o momento, os painéis mantiveram os usuários e usuárias informados, centralizaram as informações e reduziram a frustração. Este tem sido um processo fácil e em evolução que aumenta a eficiência ao longo do tempo.
 
