@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como encontrar áreas de aprimoramento para seu aplicativo de voz, com recursos como [!UICONTROL churn], taxas de sucesso e erro e intenção de fallback.
 
->[!VIDEO](https://video.tv.adobe.com/v/327675/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

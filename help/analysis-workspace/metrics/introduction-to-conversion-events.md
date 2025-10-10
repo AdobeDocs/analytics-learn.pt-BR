@@ -18,4 +18,4 @@ ht-degree: 12%
 
 Saiba mais sobre as noções básicas dos eventos de conversão, geralmente chamados de eventos bem-sucedidos, no [!DNL Adobe Analytics]. Eles medem conversões em suas propriedades digitais e são usados como métricas nos relatórios.
 
->[!VIDEO](https://video.tv.adobe.com/v/31176/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

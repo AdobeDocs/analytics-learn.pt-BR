@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Este vídeo descreve o modelo de [!UICONTROL Consumo de áudio] no Analysis Workspace, que está disponível e pronto para uso para [!DNL Audio Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/33528/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
 
 [!DNL Audio Analytics] conecta o envolvimento de áudio da transmissão dos ouvintes com o comportamento digital completo deles, e assim entender quem está ouvindo, onde e quando, e com que frequência avaliar o comportamento do usuário em um mercado de áudio normalmente fragmentado. Com esse recurso, as empresas podem medir o alcance dos ouvintes, a popularidade do conteúdo e fornecer insights sobre como manter os usuários envolvidos com base no comportamento deles e na modelagem por semelhança.

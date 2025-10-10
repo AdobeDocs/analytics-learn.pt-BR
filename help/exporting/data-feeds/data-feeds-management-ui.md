@@ -19,6 +19,6 @@ ht-degree: 100%
 
 O [!UICONTROL feed de dados], do Adobe Analytics, permite exportar dados de sequência de cliques brutos para serem importados e mesclados com outras fontes de dados em um EDW ou no data lake. Você pode criar e gerenciar os seus próprios [!UICONTROL feeds de dados] no Adobe Analytics. Este vídeo mostrará como.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428567/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=pt-BR).

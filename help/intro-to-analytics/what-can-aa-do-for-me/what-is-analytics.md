@@ -53,7 +53,7 @@ Os requisitos de negócios, o design de dados e a coleção de dados são fatore
 
 ![analytics-business-requirements](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-Depois que a base de dados é coletada no Adobe Analytics, os profissionais de marketing e analistas comerciais usam diversos relatórios e ferramentas de visualização de dados disponíveis no produto para realizar análises e contar histórias significativas sobre os dados. Além disso, o Adobe Analytics fornece várias formas de resultados. Pode ser um segmento ou público enviado para uma ferramenta de otimização, como o Adobe Target, para executar testes A/B. Pode ser uma pontuação preditiva para indicar a probabilidade de uma ação por uma pessoa que é usada como modelo por outro sistema.
+Depois que a base de dados é coletada no Adobe Analytics, os profissionais de marketing e analistas comerciais usam diversos relatórios e ferramentas de visualização de dados disponíveis no produto para realizar análises e contar histórias significativas sobre os dados. Além disso, o Adobe Analytics fornece várias formas de resultados. Pode ser um segmento ou público-alvo enviado para uma ferramenta de otimização, como o Adobe Target, para executar testes A/B. Pode ser uma pontuação preditiva para indicar a probabilidade de uma ação por uma pessoa que é usada como modelo por outro sistema.
 
 ![analytics-workspace-project](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 

@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Nesse caso de uso, configuraremos o sistema para receber códigos postais, classificá-los como no mercado ou fora do mercado e, em seguida, usaremos esses dados no Analysis Workspace para ver a eficácia de nossas campanhas de marketing direcionadas geograficamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/35807/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 Para obter informações adicionais relacionadas aos aspectos deste caso de uso, consulte os seguintes tópicos da documentação:
 

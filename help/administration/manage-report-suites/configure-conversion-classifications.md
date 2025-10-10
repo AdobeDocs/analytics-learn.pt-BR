@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Neste vídeo, abordamos a configuração de classificações para variáveis de conversão, geralmente conhecidas como “eVars”. Isso também se aplica a produtos e variáveis de lista.
 
->[!VIDEO](https://video.tv.adobe.com/v/342943/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=pt-BR).

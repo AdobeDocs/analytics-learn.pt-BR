@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Este vídeo mostra como ativar e desativar o truncamento de rótulos na [!DNL flow visualization]. Além disso, aprenda a arrastar e soltar dimensões no seu [!DNL flow] para análise de [!DNL flow] multidimensional.
 
->[!VIDEO](https://video.tv.adobe.com/v/30808/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).

@@ -47,13 +47,13 @@ Agora, se preferir trazer o conteúdo diretamente para o relatório, você pode 
 
 ![texto 06](assets/t06.png)
 
-Você pode adicionar uma imagem acessível em qualquer URL pública ao seu relatório, desde que a URL esteja no formato *https* e esteja formatada como .png, .jpeg, .jpg ou .gif - embora isso possa parecer restritivo, qualquer ferramenta online usada para compartilhar imagens ou GIF, como imgur ou GIPHY, pode fornecer um método rápido para carregar arquivos acessíveis ao Workspace usando um Link de Compartilhamento.
+Você pode adicionar uma imagem acessível em qualquer URL pública ao seu relatório, desde que a URL esteja no formato *https* e esteja formatada como .png, .jpeg, .jpg ou .gif - embora possa parecer restritiva, qualquer ferramenta online usada para compartilhar imagens ou GIFs, como imgur ou GIPHY, pode fornecer um método rápido para carregar arquivos acessíveis pela Workspace usando um Link de Compartilhamento.
 
 O resultado? Você pode mostrar a página da Web à qual seus dados fazem referência diretamente no seu projeto:
 
 ![texto 07](assets/t07.png)
 
-Você também pode usar GIF em seus projetos para incluir imagens em movimento, como uma apresentação do site, um caminho ideal pelo site ou uma tarefa no aplicativo, ou simplesmente mostrar à sua equipe como ***incríveis*** seus relatórios se tornaram:
+Você também pode usar GIFs em seus projetos para incluir imagens em movimento, como uma explicação passo a passo do site, um caminho ideal pelo site ou uma tarefa no aplicativo, ou simplesmente mostrar à sua equipe como ***impressionante*** seus relatórios se tornaram:
 
 ![texto 08](assets/t08.png)
 

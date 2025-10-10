@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Saiba mais sobre a importante etapa da definição dos dados de comportamento que você deseja capturar e analisar no Adobe Analytics. O que sua empresa precisa entender sobre como os visitantes usam suas propriedades digitais? Anote esses requisitos primeiro e decida como capturá-los usando eventos, dimensões e métricas do Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31174/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [Baixe](assets/aa_en_BRD_SDR_template.xlsx) uma amostra do modelo do Excel para documentar os requisitos, o uso e a atribuição de variáveis, os segmentos e o design da coleta de dados para as suas propriedades digitais.
 

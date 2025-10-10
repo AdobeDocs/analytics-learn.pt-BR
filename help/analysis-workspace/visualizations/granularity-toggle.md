@@ -18,6 +18,6 @@ ht-degree: 13%
 
 Um seletor de granularidade está disponível para configurações de visualização de tendências, para permitir que você ajuste com facilidade como seus dados são exibidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/30785/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 A configuração de granularidade ajustará o gráfico e a tabela de origem, economizando o tempo gasto com etapas de revelação e manipulação da tabela.

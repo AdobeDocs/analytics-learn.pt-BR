@@ -17,7 +17,7 @@ ht-degree: 99%
 
 # Você está fazendo as perguntas certas?
 
->[!VIDEO](https://video.tv.adobe.com/v/3409140/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
 
 _Todos_. Essa é uma das respostas mais comuns das partes interessadas à pergunta: _Quais dados você deseja rastrear?_ Pode ser mais valioso identificar e coletar os _pontos de dados acionáveis_ do que registrar cada elemento possível. A identificação eficiente desses pontos de dados exige um plano básico e discussões criativas com as partes interessadas.
 
@@ -44,7 +44,7 @@ Empresas, unidades de negócios e equipes têm uma cultura exclusiva e linguagem
 
 Estabeleça alguns princípios antes da discussão. Como administrador do Analytics, você precisa adquirir os dados certos para desenvolver e fornecer a solução ideal para a parte interessada.
 
-### 1. Fornecer um questionário
+### &#x200B;1. Fornecer um questionário
 
 Envie uma lista de perguntas para que a parte interessada analise antes da reunião de descoberta. Eles podem fornecer respostas antecipadamente ou simplesmente se familiarizar com os tópicos de discussão. Você pode fornecer respostas de amostra juntamente com o questionário, se isso esclarecer ainda mais as expectativas.
 
@@ -52,11 +52,11 @@ As perguntas variam de acordo com a capacidade técnica ou analítica, a estrutu
 
 [Explore este modelo](assets/stakeholder-questionnaire.pdf){target="_blank"} contendo várias perguntas de amostra para entrevistas das partes interessadas. Reutilize-as ou ajuste-as para preparar perguntas relevantes para suas discussões.
 
-### 2. Solicitar relatórios de amostra
+### &#x200B;2. Solicitar relatórios de amostra
 
 A parte interessada deve fornecer exemplos reais ou detalhados de pontos de dados de interesse e como eles podem ser utilizados ou comunicados. Estes relatórios oferecem uma nova visão dos objetivos, da abordagem e da cultura da sua parte interessada e do seu estado atual ou ideal.
 
-### 3. Nenhuma promessa na descoberta
+### &#x200B;3. Nenhuma promessa na descoberta
 
 As solicitações feitas e as ideias de dados discutidas durante a descoberta não são compromissos para com as partes interessadas. Há camadas de complexidade envolvidas na execução da coleção de dados, que não podem ser avaliadas totalmente até a entrevista. Você pode discutir ideias em brainstorming criativo que, no fim, não são priorizadas por causa da baixa relevância para seus objetivos. Por estas e outras razões, a fase de descoberta é apenas uma oportunidade de coleta de opiniões, onde as ideias capturadas não serão disponibilizadas nos relatórios.
 

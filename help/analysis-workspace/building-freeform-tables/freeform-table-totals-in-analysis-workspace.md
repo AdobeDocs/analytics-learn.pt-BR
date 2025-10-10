@@ -1,6 +1,6 @@
 ---
 title: Totais de Tabelas de forma livre no Analysis Workspace
-description: Saiba o que afeta os totais nas tabelas de forma livre, bem como ativá-las e desativá-las.
+description: Saiba o que afeta os totais nas tabelas de forma livre, bem como habilitá-las e desabilitá-las.
 feature: Freeform Tables
 thumbnail: 29273.jpg
 kt: 3857
@@ -16,6 +16,6 @@ ht-degree: 100%
 
 # Totais de Tabelas de forma livre no Analysis Workspace
 
-Saiba o que afeta os totais nas tabelas de forma livre, bem como ativá-las e desativá-las.
+Saiba o que afeta os totais nas tabelas de forma livre, bem como habilitá-las e desabilitá-las.
 
->[!VIDEO](https://video.tv.adobe.com/v/32735/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)

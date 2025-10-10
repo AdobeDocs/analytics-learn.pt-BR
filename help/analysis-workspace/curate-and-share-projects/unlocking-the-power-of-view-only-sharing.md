@@ -47,6 +47,6 @@ Este documento foi escrito por:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, líder da MarTech na Ásia
+**Leo Lau**, Diretor, MarTech Lead Ásia
 
 Especialista no Adobe Analytics

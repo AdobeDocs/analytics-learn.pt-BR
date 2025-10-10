@@ -14,7 +14,7 @@ ht-degree: 39%
 
 ---
 
-# Adicionar uma regra para o evento de compra no Experience Platform [!DNL tags]
+# Adicione uma regra para o evento de compra no Experience Platform [!DNL tags]
 
 Este vídeo mostra como usar a [!UICONTROL extensão] de sequência de caracteres do produto no [!DNL Experience Platform Launch] para rastrear as compras no site, resultando nas [!UICONTROL métricas] de [!UICONTROL Receita], [!UICONTROL Pedidos] e [!UICONTROL Unidades] na análise.
 
@@ -22,4 +22,4 @@ Este vídeo mostra como usar a [!UICONTROL extensão] de sequência de caractere
 >
 > O Launch agora é **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31146/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)

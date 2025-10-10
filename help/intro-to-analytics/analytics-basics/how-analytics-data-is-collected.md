@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Como os dados são recebidos de sua página nos relatórios no Adobe Analytics? Este vídeo mostra como.
 
->[!VIDEO](https://video.tv.adobe.com/v/31185/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)

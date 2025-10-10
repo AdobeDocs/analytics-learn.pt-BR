@@ -15,6 +15,6 @@ ht-degree: 60%
 
 # Envio de tíquete de suporte no produto {#in-product-support-ticket-submission}
 
-Saiba como enviar um tíquete de suporte para [!DNL Customer Care] no Adobe diretamente do produto, simplificando o processo de resolução.
+Saiba como enviar um tíquete de suporte para [!DNL Customer Care] na Adobe diretamente do produto, simplificando o processo de resolução.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430053/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)

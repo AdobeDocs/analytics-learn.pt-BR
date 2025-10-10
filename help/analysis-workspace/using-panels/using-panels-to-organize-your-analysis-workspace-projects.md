@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Os painéis são uma coleção de visualizações no Analysis Workspace. Saiba como usar painéis para organizar e comparar dados em seus projetos.
 
->[!VIDEO](https://video.tv.adobe.com/v/30817/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)

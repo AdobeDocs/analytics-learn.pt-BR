@@ -12,8 +12,8 @@ thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1152'
-ht-degree: 100%
+source-wordcount: '1151'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ Percebi que usuários e usuárias frequentemente ignoravam minhas indicações a
 
 Prossegui e criei painéis operacionais para compartilhar com toda a empresa. Até o momento, os painéis mantiveram os usuários e usuárias informados, centralizaram as informações e reduziram a frustração. Este tem sido um processo fácil e em evolução que aumenta a eficiência ao longo do tempo.
 
-As pessoas têm sido capazes de obter várias informações importantes sem mim, entender áreas do site, ver como o Adobe Analytics é legal e (mais importante para mim ??) me fazer menos perguntas e tomar menos do meu tempo.
+As pessoas conseguiram obter muitas informações sem mim, entender as áreas do site, ver como o Adobe Analytics é legal e (importante para mim 😊) fazer menos perguntas e usar menos do meu tempo.
 
 **É altamente recomendável criar painéis para todas as suas propriedades ou áreas principais do site.** Os painéis devem fornecer uma visão geral da propriedade/site/aplicativo/fluxo e ter informações básicas e insights rápidos. Eles devem ser compartilhados com toda a empresa, permitindo que todos os usuários e usuárias entendam a propriedade sem precisar de ajuda. Para mim, esses painéis geralmente respondem a 80% das perguntas que recebo e me economizam um tempo valioso.
 

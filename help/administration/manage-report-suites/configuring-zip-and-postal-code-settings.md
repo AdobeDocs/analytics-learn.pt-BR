@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a definir configurações de [!UICONTROL CEP] e código postal, para fazer análises com base nos dados da região.
 
->[!VIDEO](https://video.tv.adobe.com/v/35007/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 Para obter mais informações sobre configurações de [!UICONTROL código postal], consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=pt-BR).

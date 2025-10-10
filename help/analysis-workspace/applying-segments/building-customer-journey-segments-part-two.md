@@ -47,13 +47,13 @@ Embora um modelo de propensão busque prever se um visitante comprará, nossos s
 
 ## Criação do segmento de intenção de visita de compra
 
-O segmento Intenção de visita de compra é fácil de definir. No meu caso, qualquer um que clicar no botão &quot;Reservar Agora&quot; está indicando algum tipo de intenção de reservar um cruzeiro. É semelhante a clicar em &quot;Check-out&quot; para um varejista online ou em um link &quot;Assinar&quot; em um contexto de mídia.
+O segmento Intenção de visita de compra é fácil de definir. No meu caso, qualquer um que clicar no botão &quot;Reservar Agora&quot; está indicando algum tipo de intenção de reservar um cruzeiro. É semelhante a clicar em &quot;Check-out&quot; para uma retailer online ou em um link &quot;Assinar&quot; em um contexto de mídia.
 
 Você precisará ter algum discernimento ao decidir qual sinal usar para inferir a intenção de compra. Queremos que o segmento Intenção de compra contenha todas as compras, mas a taxa de conversão não deve ser de 100%. Portanto, não queremos usar a página Confirmação de compra ou Agradecimento para este segmento.
 
-Da mesma forma, a página Revisar sua compra (ou o que quer que seja imediatamente antes da confirmação da compra) provavelmente fica muito longe do funil para ser útil para análise e direcionamento.
+Da mesma forma, a página Revisar sua compra (ou o que quer que seja imediatamente antes da confirmação da compra) provavelmente está muito distante do funnel para ser útil para análise e direcionamento.
 
-À medida que você sobe o funil, pode ficar menos claro se o sinal é útil ou não para indicar que um cliente pretende fazer uma compra. No meu caso, &quot;Reservar agora&quot; é semelhante a um link &quot;Check-out&quot; de varejo e esse é o sinal que usei. Mas em um contexto de varejo, o Check-out pode ainda estar muito longe do funil e a opção Exibir carrinho ou até mesmo Adicionar ao carrinho pode ser melhor.
+À medida que você avança no funnel, pode ficar menos claro se o sinal é útil ou não para indicar que um cliente pretende fazer uma compra. No meu caso, &quot;Reservar agora&quot; é semelhante a um link &quot;Check-out&quot; de varejo e esse é o sinal que usei. Mas em um contexto de varejo, o Check-out pode ainda estar muito longe da funnel e a opção Exibir carrinho ou até mesmo Adicionar ao carrinho podem ser melhores.
 
 Podemos pensar nisso como uma mercearia. Se alguém pegar um produto da prateleira isso não significa que pretende comprá-lo. Mesmo que o coloquem no carrinho, eles podem imediatamente colocá-lo de volta na prateleira. Mas se eles colocarem o produto em seus carrinhos e começarem a andar por aí com ele, há uma boa chance de que eles queiram comprá-lo. E se eles entrarem na fila de check-out com aquele produto é uma boa aposta que eles comprarão.
 
@@ -143,6 +143,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Análise Digital
+**Aaron Fossum**, Diretor, Digital Analytics
 
 Especialista no Adobe Analytics

@@ -1,6 +1,6 @@
 ---
 title: Preparar e compartilhar no Analysis Workspace
-description: Depois de criar um projeto no Analysis Workspace, você pode preparar (simplificar) e compartilhar o projeto com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a curadoria e o compartilhamento.
+description: Depois de criar um projeto no Analysis Workspace, você pode preparar (simplificar) e compartilhar o projeto com outras equipes e pessoas em suas organizações para que possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a curadoria e o compartilhamento.
 feature: Curate and Share
 topic: Collaboration
 role: User
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # Preparar e compartilhar no Analysis Workspace
 
-Depois de criar um projeto no Analysis Workspace, você pode [!UICONTROL preparar] (simplificar) e compartilhar o projeto com outras equipes e indivíduos em suas organizações para que eles possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a [!UICONTROL curadoria] e o compartilhamento.
+Depois de criar um projeto no Analysis Workspace, você pode [!UICONTROL preparar] (simplificar) e compartilhar o projeto com outras equipes e pessoas em suas organizações para que possam explorá-lo e se autobeneficiar com os dados. Este vídeo mostra como trabalhar com a [!UICONTROL curadoria] e o compartilhamento.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341021/?quality=12&learn=on)
 

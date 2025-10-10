@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Nas [!UICONTROL configurações de visualização], é possível optar por adicionar uma regressão ou uma linha de tendência de média móvel à sua série de linhas, o que pode ajudar a distinguir um padrão mais claro nos dados. As opções incluem Médias lineares, logarítmicas, exponenciais, potentes, quadráticas e móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/342847/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=pt-BR#analysis-workspace).
 

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Veja clipes selecionados da “supersessão” sobre alta tecnologia do [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/330380/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/30548/?quality=12&learn=on)

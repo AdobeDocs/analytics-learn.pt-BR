@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba mais sobre as configurações do Gerenciador de segurança nas Configurações da empresa para controlar o acesso ao Adobe Analytics. Inclui senhas fortes, recursos de expiração e recuperação de senha e restrições de domínio de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/40796/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)

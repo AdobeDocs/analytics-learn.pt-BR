@@ -11,7 +11,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1583'
+source-wordcount: '1582'
 ht-degree: 3%
 
 ---
@@ -63,7 +63,7 @@ Em nosso exemplo, vemos um aumento significativo quando os compradores usam a ce
 
 ## Utilização de segmentos em métricas calculadas
 
-Agora, vamos ver como podemos usar segmentos em métricas calculadas para obter mais informações sobre o comportamento, as preferências e as motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
+Agora, vejamos como podemos usar segmentos em métricas calculadas para obter mais insight sobre comportamento, preferências e motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
 
 Já sabemos pelos exemplos de AOV acima que as compras assistidas pela central de atendimento normalmente têm uma AOV mais alta. No entanto, outras métricas nos informam que a maioria dos usuários não usa a central de atendimento para compras.
 
@@ -128,7 +128,7 @@ Ao criar segmentos no Adobe Analytics, lembre-se destas práticas recomendadas:
 1. **Não conte dados duas vezes**. Assim como com as métricas calculadas, verifique se o segmento não conta os mesmos dados várias vezes. Os contêineres Incluir e Excluir podem ajudar.
    1. Quando um contêiner de inclusão é usado, ele *inclui* *todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
    1. Quando um container de exclusão é usado, ele *exclui todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
-1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como um funil e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
+1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como uma funnel e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
 1. **Verifique se seus dados estão atualizados.** Certifique-se de usar dados precisos e atualizados na definição do segmento para obter resultados precisos.
 1. **Testar o segmento.** Sempre teste o segmento para verificar se ele está funcionando como pretendido antes de liberá-lo para outras pessoas.
 1. **Considere o desempenho.** Segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.

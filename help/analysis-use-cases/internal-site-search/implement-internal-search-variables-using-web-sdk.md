@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como usar o SDK da Web para implementar variáveis de análise para um caso de uso de rastreamento de termo de pesquisa interna. Veja o fluxo de dados da página para o Experience Edge e, em seguida, para o Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413461/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/333605/?quality=12&learn=on)

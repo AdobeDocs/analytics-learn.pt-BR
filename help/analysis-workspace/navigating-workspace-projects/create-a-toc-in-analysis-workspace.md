@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # Criar uma tabela de conteúdo no Analysis Workspace {#create-a-table-of-contents-in-analysis-workspace}
 
-Saiba mais sobre o índice no Analysis Workspace, que fornece links que permitem que os usuários pulem rapidamente para painéis e visualizações no projeto. Para obter a documentação detalhada, visite [Sumário do projeto](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
+Saiba mais sobre o índice no Analysis Workspace, que fornece links que permitem que os usuários pulem rapidamente para painéis e visualizações no projeto. Para obter a documentação detalhada, visite [Sumário do projeto](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents).
 
->[!VIDEO](https://video.tv.adobe.com/v/35023/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

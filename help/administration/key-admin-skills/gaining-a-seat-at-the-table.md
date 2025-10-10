@@ -11,13 +11,13 @@ exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
 source-git-commit: 17a07f0734b9bb36ce1b2f95e1678abac5c823bf
 workflow-type: tm+mt
 source-wordcount: '1286'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
 # Conquistar um lugar à mesa
 
->[!VIDEO](https://video.tv.adobe.com/v/345320/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 “Conquistar um lugar à mesa.” Essa frase popular é um tema central no mundo dos negócios há anos. Mas o que ela significa? Conquistar um lugar à mesa significa que você faz parte das conversões da tomada de decisão de alto nível. Você não é apenas convidado, seu comentário é valorizado e apreciado. Vou mostrar como conquistar um lugar à mesa ajudará sua empresa e sua carreira como usuário avançado do Adobe Analytics, seja sua função oficial de administrador, analista de dados ou o que estiver escrito em seu cartão de visita.
 
@@ -39,7 +39,7 @@ Agora que você entende por que precisa fazer parte desse processo, é hora de c
 
 * Esse tomador de decisão tem poder/influência para convidar outras pessoas? Se eles não puderem influenciar a lista de convidados, então eles não são o seu alvo.
 * Posso dar valor a esta pessoa? Algumas pessoas na mesa estarão muito distantes do trabalho que você faz para que você realmente forneça valor. Encontre alguém que realmente se importa com os dados que são sua especialidade.
-* Essa pessoa será um bom parceiro? Isso provavelmente é o mais difícil de identificar, mas pode ser o mais importante. Os atributos que mais procuro são a acessibilidade e a autoconfiança. Eles consideram seriamente pontos de vista alternativos quando apresentados com evidências? Eles têm a autoconfiança necessária para compartilhar o crédito pelo bom trabalho? (Lembre-se, se você não for parte do processo, essa pessoa provavelmente está levando todo o crédito.) Estas são algumas das perguntas que você pode fazer ao procurar um bom parceiro.
+* Essa pessoa será um bom parceiro? Isso provavelmente é o mais difícil de identificar, mas pode ser o mais importante. Os atributos que mais procuro são a acessibilidade e a autoconfiança. Eles consideram seriamente pontos de vista alternativos quando apresentados com evidências? Eles têm a autoconfiança necessária para compartilhar o crédito pelo bom trabalho? (Lembre-se, se você não estiver à mesa, essa pessoa provavelmente está levando todo o crédito.) Estas são algumas das perguntas que você pode fazer ao procurar um bom parceiro.
 * BÔNUS - Essa pessoa está fazendo um trabalho impactante? Vamos dizer a verdade, nem todos fazem um trabalho impactante. Há pessoas “bem-sucedidas” que não estão causando um impacto notável na organização. Encontre alguém que esteja causando impacto. Será muito mais satisfatório quando você puder ver que seu trabalho faz a diferença.
 
 As perguntas acima devem ajudar a limitar a lista. Agora, você deve ter uma ou duas pessoas em que pode se concentrar para os próximos dois passos. Vou usar o enquadramento dos próximos dois passos de uma [Convidada do Analytics Power Hour - Cassie Kozyrkov](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Ela foi perfeita quando disse que você precisa “ser útil e ser excelente.”
@@ -50,7 +50,7 @@ Mostre a esta pessoa que entende o que é importante para ela e que pode ajudar 
 
 **Etapa 3: Seja excelente -** Agora que você identificou as partes interessadas e determinou como ser útil, é necessário fazer um trabalho excelente. Todo mundo tem sua própria ideia de como é a excelência. Pode ser bem diferente para você e para mim. O segredo é ir além do que normalmente você faria com qualquer outra pessoa ou qualquer outra solicitação. Aqui estão algumas dicas que me ajudaram a produzir um trabalho excelente.
 
-* **Dica 1: Concentre-se no design.** Uma dica simples que é ignorada com muita frequência é concentrar-se no design. Seja criterioso na apresentação do seu trabalho e siga as práticas recomendadas para o design de informações. Isso ajudará a garantir que sua mensagem seja fácil de entender. Quando você entrega trabalhos muito complexos sem uma mensagem clara, seu público pode se incapaz. Ninguém gosta de se sentir assim. E eles não querem trabalhar com alguém que os faça se sentir incapaz.
+* **Dica 1: Concentre-se no design.** Uma dica simples que é ignorada com muita frequência é concentrar-se no design. Seja criterioso na apresentação do seu trabalho e siga as práticas recomendadas para o design de informações. Isso ajudará a garantir que sua mensagem seja fácil de entender. Quando você entrega trabalhos muito complexos sem uma mensagem clara, seu público-alvo pode se incapaz. Ninguém gosta de se sentir assim. E eles não querem trabalhar com alguém que os faça se sentir incapaz.
 * **Dica 2: Faça o impossível.** Você já recebeu uma solicitação que parecia impossível? Normalmente, elas vêm de pessoas que não entendem como os dados funcionam. É fácil reagir com humor (“eles não têm ideia do que estão falando”) ou até mesmo raiva (“Não acredito que eles querem que eu faça isso. É impossível!”). Já tive as duas reações muitas vezes. Mas quando dou um passo atrás e abordo o problema com a mente aberta, quase sempre fico impressionado com o que posso fazer. Se você pensar no problema por um tempo, algo bom geralmente acontece. Quando algo parece impossível, você tem que pensar fora da caixa para criar uma solução. E pensar fora da caixa muitas vezes gera um excelente trabalho.
 
 Espero que este artigo tenha o ajudado a perceber que você precisa conquistar um lugar à mesa. Provavelmente levará tempo e você terá que se esforçar. Mas se continuar e seguir as etapas acima, você estará em uma posição com mais autonomia e influência em sua organização. Você terá mais sucesso na sua função e uma carreira mais gratificante.

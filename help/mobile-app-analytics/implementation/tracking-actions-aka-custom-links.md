@@ -22,7 +22,7 @@ ht-degree: 99%
 
 Ações são eventos que ocorrem no aplicativo móvel. Neste vídeo, saiba como usar a API trackAction para rastrear e medir uma ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/328310/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 Esta é a API que você deve usar para rastrear todas as ações que não são carregadas na tela do seu site. Se a tela estiver aparecendo, use trackState, que aciona um hit de exibição de página. Caso contrário, use trackAction para enviar variáveis associadas à ação que está ocorrendo.
 

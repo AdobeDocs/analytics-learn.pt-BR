@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como entender o comportamento do usuário e obter insights observando as [!UICONTROL métricas] fundamentais, como as principais intenções, parâmetros e a autenticação de usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/34993/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)

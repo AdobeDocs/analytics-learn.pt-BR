@@ -28,10 +28,10 @@ ht-degree: 100%
    * Eles podem incluir novos recursos da Adobe, novas variáveis/eventos, novos sites/aplicativos, novos recursos que estão sendo rastreados etc.
    * Os marcadores devem conter data, propriedade afetada, se aplicável, e detalhes mínimos
 1. Lista de painéis de visão geral:
-   * É altamente recomendável ter painéis de visão geral para todas as suas propriedades principais ou outras grandes categorias de conteúdo. A criação desses itens evitará muitos relatórios ad hoc e rapidamente dará aos usuários a compreensão geral de uma propriedade sem precisar de ajuda adicional. Eles devem ser compartilhados com toda a empresa e marcados como “Painéis de visão geral”. Também recomendo a criação de um painel “Visão geral de todos os sites e aplicativos” para que os usuários compreendam todo o cenário digital e onde uma propriedade específica se encaixa dentro desse cenário maior.
+   * É altamente recomendável ter painéis de visão geral para todas as suas propriedades principais ou outras grandes categorias de conteúdo. A criação desses itens interromperá muitos relatórios ad hoc e rapidamente dará aos usuários a compreensão geral de uma propriedade sem precisar de ajuda adicional. Eles devem ser compartilhados com toda a empresa e marcados como “Painéis de visão geral”. Também recomendo a criação de um painel “Visão geral de todos os sites e aplicativos” para que os usuários compreendam todo o cenário digital e onde uma propriedade específica se encaixa dentro desse cenário maior.
    * Liste tudo isso em um formato de marcadores simples, vinculando diretamente cada painel.
 1. Relatórios interessantes para examinar:
-   * Anime os usuários mostrando seus melhores painéis e o que o Adobe Analytics pode fazer. Mantenha esses painéis gerais e acessíveis a um público maior.
+   * Anime os usuários mostrando seus melhores painéis e o que o Adobe Analytics pode fazer. Mantenha esses painéis gerais e acessíveis a um público-alvo maior.
    * Liste-os com marcadores, vinculando os usuários diretamente ao painel. Uma breve descrição sobre eles também é útil.
 1. Bugs, erros e alterações conhecidos:
    * É possível manter um registro de erros e alterações no Excel, mas é difícil lembrar-se de atualizá-lo. Além disso, os usuários não verificarão proativamente uma planilha que esteja fora da plataforma. Manter tudo dentro da interface facilitará a atualização e a observação pelos usuários.

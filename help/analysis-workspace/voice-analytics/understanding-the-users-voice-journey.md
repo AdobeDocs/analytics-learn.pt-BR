@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Saiba como entender a jornada do cliente no aplicativo de voz observando o [!UICONTROL fluxo] do caminho e a [!UICONTROL saída], para identificar quais são as ações mais comuns, a sequência dessas ações e quando e onde os usuários saem da jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/35001/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)

@@ -1,12 +1,13 @@
 ---
 title: Atualizar e reagendar pastas de trabalho do Report Builder
-description: Saiba como atualizar e reagendar pastas de trabalho de Report Builder herdadas para a versão mais recente do Report Builder do Adobe Analytics.
+description: Saiba como atualizar e reagendar pastas de trabalho herdadas do Report Builder para a versão mais recente do Adobe Analytics Report Builder.
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 kt: 16311
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+exl-id: 043eea67-77e4-4d99-9dd9-cf66216dbbf1
+source-git-commit: 6eb3065a4f9fc04262ea5428ace5adbb8e40157e
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 16%
@@ -15,8 +16,8 @@ ht-degree: 16%
 
 # Atualizar e reagendar [!DNL Report Builder] pastas de trabalho
 
-Saiba como atualizar e reagendar pastas de trabalho [!DNL Report Builder] herdadas para a versão mais recente do Report Builder do Adobe Analytics.
+Saiba como atualizar e reagendar pastas de trabalho [!DNL Report Builder] herdadas para a versão mais recente do Adobe Analytics Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446187/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/report-builder/home).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home).

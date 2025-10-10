@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # Tradução da linguagem técnica do Adobe Analytics para uma forma não técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345332/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Falando línguas diferentes
 
@@ -34,18 +34,18 @@ Por exemplo, esta é a minha maneira favorita de explicar eVars e métodos de al
 >[!TIP]
 >
 >**Nomeie claramente os componentes (ou seja, dimensões, segmentos e métricas) com descrições.**
->O compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Adobe Workspace, verifique se os nomes dos componentes são descritivos com tags e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
+>>O compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Adobe Workspace, verifique se os nomes dos componentes são descritivos com tags e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
 
 ## Dica nº 2: Encontre uma linguagem comum
 
 Não importa o setor em que você trabalha, encontre a linguagem comum que conecta o mundo do Adobe Analytics a algo familiar às partes interessadas.
 
-No [!DNL The Home Depot], um comerciante ou um gerente de loja pode não estar familiarizado com uma ocorrência, visita ou um visitante exclusivo. Podemos fornecer uma explicação sobre chamadas do servidor do Analytics, sessões de navegação, tempos limite e cookies... ou podemos trazê-los de volta à loja física e aos clientes (ou seja, essa linguagem comum). Um visitante único se torna um cliente que navega pelas nossas portas da frente. Visitas ao site se tornam quantas viagens a uma loja [!DNL Home Depot] o cliente fez. E as ocorrências se tornam ações do cliente, como caminhar pelos corredores ou conversar com um associado da loja.
+No [!DNL The Home Depot], um comerciante ou um gerente de loja pode não estar familiarizado com uma ocorrência, visita ou um visitante único. Podemos fornecer uma explicação sobre chamadas do servidor do Analytics, sessões de navegação, tempos limite e cookies... ou podemos trazê-los de volta à loja física e aos clientes (ou seja, essa linguagem comum). Um visitante único se torna um cliente que navega pelas nossas portas da frente. Visitas ao site se tornam quantas viagens a uma loja [!DNL Home Depot] o cliente fez. E as ocorrências se tornam ações do cliente, como caminhar pelos corredores ou conversar com um associado da loja.
 
 >[!TIP]
 >
 >**Fazer com que sua implementação reflita a linguagem comum.**
->Quase tudo na interface do usuário do Adobe Analytics é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
+>>Quase tudo na interface do usuário do Adobe Analytics é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
 >
 >Considere criar um vocabulário próprio controlado para sua organização se você encontrar vários sinônimos por aí, ou se houver termos que geralmente confundem os usuários. Tome a iniciativa de padronizar a terminologia preferencial. Além disso, analise os termos confusos mais comuns em suas sessões de integração e capacitação para ajudar os usuários a se familiarizarem.
 
@@ -58,7 +58,7 @@ No [!DNL The Home Depot], fizemos um desafio do Adobe Analytics, onde fizemos pe
 >[!TIP]
 >
 >**Criar modelos e orientações do espaço de trabalho específico da solução.**
->Aproveite os relatórios da empresa (Modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
+>>Aproveite os relatórios da empresa (Modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
 >
 >A flexibilidade do Analysis Workspace permite criar modelos para fazer análises mais rápidas, além de permitir autoatendimento e autoativação. Ao combinar as capacidades de recursos, como modelos com curadoria, anotações e links entre/dentro do espaço de trabalho, você tem uma ótima maneira de criar orientações eficientes, acessíveis e fáceis de disseminar para usuários não técnicos no contexto do Adobe Analytics.
 

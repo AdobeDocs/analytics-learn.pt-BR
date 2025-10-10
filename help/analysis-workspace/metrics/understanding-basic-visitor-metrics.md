@@ -1,6 +1,6 @@
 ---
 title: Compreensão de métricas básicas de visitante
-description: Saiba mais sobre Exibições de página, Visitas e Visitantes no Adobe Analytics. Obter informações sobre as métricas básicas de visitante que ajudam você a entender o tráfego do seu site.
+description: Saiba mais sobre Exibições de página, Visitas e Visitantes no Adobe Analytics. Inclusão do insight nas métricas básicas de visitante que ajudam você a entender o tráfego do seu site.
 feature: Metrics
 kt: 3575
 role: User
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # Compreensão de métricas básicas de visitante
 
-Saiba mais sobre [[!UICONTROL Exibições de página]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=pt-BR), [[!UICONTROL Visitas]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=pt-BR) e [[!UICONTROL Visitantes]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=pt-BR) no Adobe Analytics.
+Saiba mais sobre [[!UICONTROL Exibições de página]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL Visitas]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=pt-BR) e [[!UICONTROL Visitantes]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=pt-BR) no Adobe Analytics.
 
 * Obtenha as definições dessas métricas básicas de visita e saiba mais sobre suas semelhanças e diferenças.
 
@@ -23,4 +23,4 @@ Saiba mais sobre [[!UICONTROL Exibições de página]](https://experienceleague.
 
 * Exiba uma amostra do projeto [!UICONTROL Workspace] que mostra como essas métricas são exibidas na interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/31179/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Neste vídeo, aprenda a configurar um agendamento avançado para enviar uma pasta de trabalho do Report Builder para o Power BI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409138/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=pt-BR).

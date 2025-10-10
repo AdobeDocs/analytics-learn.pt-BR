@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Currículo do Adobe Analytics para área de educação
 
->[!VIDEO](https://video.tv.adobe.com/v/3443861/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Conteúdo do curso do Analytics
 

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Quando é necessário colocar mais de um valor em um eVar (uma variável de conversão) de uma vez, o que você faz? Variáveis de lista são a solução. Neste vídeo, saiba como e porque configurar e usar variáveis de lista no Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/342202/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=pt-BR).

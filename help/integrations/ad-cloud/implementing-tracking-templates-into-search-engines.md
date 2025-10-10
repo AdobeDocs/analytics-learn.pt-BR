@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba mais sobre as etapas para implementar seus modelos de rastreamento do [!DNL Advertising Analytics] em mecanismos de pesquisa compatíveis. Essa etapa é fundamental e necessária para coletar e enviar seus dados para o Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/33013/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

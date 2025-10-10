@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Saiba mais sobre os benefícios de usar métricas calculadas no Adobe Analytics e como elas podem fornecer uma visualização dinâmica e contínua dos dados neste artigo.
 
-Ei! Por que você está no Excel agora? Quero dizer, eu sei por quê. Você tem relatórios para chegar às pessoas certas. Você está ocupado inserindo dados do Adobe Analytics e calculando taxas de conversão, traçando-as e se preparando para colocá-las em um PowerPoint que está se encaminhando para os tomadores de decisão. Realmente espero que você esteja pelo menos usando o Report Builder para fazer isso, mas sei que alguns de vocês estão copiando e colando manualmente dados de um Workspace para o Excel.
+Ei! Por que você está no Excel agora? Quero dizer, eu sei por quê. Você tem relatórios para chegar às pessoas certas. Você está ocupado inserindo dados do Adobe Analytics e calculando taxas de conversão, traçando-as e se preparando para colocá-las em um PowerPoint que está se encaminhando para os tomadores de decisão. Realmente espero que você esteja pelo menos usando o Report Builder para fazer isso, mas sei que alguns de vocês estão copiando e colando dados manualmente de um Workspace para o Excel.
 
 Por quê?
 
@@ -38,7 +38,7 @@ Métricas calculadas são poderosas, mas até mesmo as funções matemáticas b�
 
    Eu estive lá. Copiar/colar. Insira a fórmula ou arraste a célula acima dela para baixo. Clique no gráfico e altere o intervalo para que você tenha os últimos doze ou treze meses. Agora copie o gráfico. Agora faça de novo. E de novo. E de novo. Envie o PowerPoint. É tedioso e demorado e parece que você tem que fazer isso todos os meses para sempre.
 
-   Em vez disso, você pode criar uma Workspace que use sua métrica calculada, tenha Doze ou Treze últimos meses completos como intervalo de datas e fazer com que os dados e o gráfico sejam atualizados automaticamente no traço da meia-noite no primeiro dia de cada mês. Os recipients podem ter acesso direto à Workspace. Eles podem receber uma cópia em PDF automaticamente enviada por email para eles no primeiro dia do mês ou depois de usar Visualizações de texto para adicionar seus comentários sobre os dados (você sabe, a parte divertida dos relatórios).
+   Em vez disso, você pode criar uma Workspace que use sua métrica calculada, tenha Doze ou Treze últimos meses completos como intervalo de datas e fazer com que os dados e o gráfico sejam atualizados automaticamente no traço da meia-noite no primeiro dia de cada mês. Os recipients podem ter acesso direto à Workspace. Eles podem ter uma cópia do PDF enviada automaticamente por email a eles no primeiro dia do mês ou após o uso de Visualizações de texto para adicionar comentários sobre os dados (você sabe, a parte divertida dos relatórios).
 
 1. **Métricas calculadas podem ser aplicadas a grandes conjuntos de dados**
 
@@ -52,7 +52,7 @@ Métricas calculadas são poderosas, mas até mesmo as funções matemáticas b�
 
 **Caso de Uso 1: Taxas de Conversão**
 
-A maioria das taxas de conversão é apenas uma simples divisão. Divida o número de conversões pelo número de visitantes ou visitas. Divida o número de exibições de página para a página final de um funil pelo número de exibições de páginas para a primeira página de um funil. Divida o número de cliques internos na campanha pelo número de impressões. Tudo isso pode ser facilmente feito como métricas calculadas e colocado em um painel, aproveitando a baixa latência de dados, a atualização de visualizações e uma maior capacidade de compartilhamento.
+A maioria das taxas de conversão é apenas uma simples divisão. Divida o número de conversões pelo número de visitantes ou visitas. Divida o número de exibições de página para a página final de uma funnel pelo número de exibições de páginas para a primeira página de uma funnel. Divida o número de cliques internos na campanha pelo número de impressões. Tudo isso pode ser facilmente feito como métricas calculadas e colocado em um painel, aproveitando a baixa latência de dados, a atualização de visualizações e uma maior capacidade de compartilhamento.
 
 **Caso de Uso 2: Pesquisa Interna**
 

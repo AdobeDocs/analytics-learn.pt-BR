@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Conheça uma maneira eficiente de colocar facilmente usuários novatos nos dados do projeto do Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/41100/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

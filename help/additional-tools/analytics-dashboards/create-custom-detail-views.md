@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Saiba como personalizar visualizações detalhadas, incluindo textos de painéis do Adobe Analytics, para refinar a história que você deseja contar às partes interessadas por meio de projetos de cartões de pontuação móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417879/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)

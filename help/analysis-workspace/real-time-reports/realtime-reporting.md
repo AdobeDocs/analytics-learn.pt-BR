@@ -19,4 +19,4 @@ Saiba mais sobre o relatório em tempo real no Adobe Analytics, incluindo como c
 
 >[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html).

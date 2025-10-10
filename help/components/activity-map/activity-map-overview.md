@@ -1,5 +1,5 @@
 ---
-title: Visão geral de Activity Map no Adobe Analytics
+title: Visão geral do Activity Map no Adobe Analytics
 description: Conheça o Activity Map, uma ferramenta que ajuda a visualizar os dados de atividade do usuário diretamente no seu site. Veja o número de cliques ou outras métricas diretamente nos links da sua página.
 feature: Activity Map
 thumbnail: 25451.jpg
@@ -19,6 +19,6 @@ ht-degree: 44%
 
 Conheça o Activity Map, uma ferramenta que ajuda a visualizar os dados de atividade do usuário diretamente no seu site. Veja o número de cliques ou outras métricas diretamente nos links da sua página.
 
->[!VIDEO](https://video.tv.adobe.com/v/39683/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/activity-map/activity-map).
+Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map).

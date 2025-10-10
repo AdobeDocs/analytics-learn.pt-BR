@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Em algum momento, todos precisaremos de ajuda com o Adobe Analytics. Estes vídeos mostram alguns dos excelentes recursos que estão ao seu alcance quando você encontra um problema e precisa de ajuda.
 
->[!VIDEO](https://video.tv.adobe.com/v/31181/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)

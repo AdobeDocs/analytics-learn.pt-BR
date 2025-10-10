@@ -1,6 +1,6 @@
 ---
 title: Usar dimensões em métricas calculadas
-description: Os Dimension estão disponíveis no construtor de métricas calculadas e podem ser adicionados a qualquer fórmula de métrica calculada para limitar a nova métrica a uma dimensão ou valor de dimensão.
+description: Dimensões estão disponíveis no construtor de métricas calculadas e podem ser adicionadas a qualquer fórmula de métrica calculada para limitar a nova métrica a uma dimensão ou valor de dimensão.
 feature: Calculated Metrics
 kt: 1904
 role: User
@@ -15,9 +15,9 @@ ht-degree: 22%
 
 # Usar dimensões em métricas calculadas {#using-dimensions-in-calculated-metrics}
 
-Os Dimension estão disponíveis no construtor de métricas calculadas e podem ser adicionados a qualquer fórmula de métrica calculada para limitar a nova métrica a uma dimensão ou valor de dimensão.
+Dimensões estão disponíveis no construtor de métricas calculadas e podem ser adicionadas a qualquer fórmula de métrica calculada para limitar a nova métrica a uma dimensão ou valor de dimensão.
 
->[!VIDEO](https://video.tv.adobe.com/v/33525/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 Este recurso simplifica o fluxo de trabalho para criar e usar segmentos dentro das métricas calculadas.
 

@@ -21,4 +21,4 @@ Ao implementar o Adobe Analytics em seu site, você precisa validar o código no
 >
 > O Launch agora é **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/31150/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)

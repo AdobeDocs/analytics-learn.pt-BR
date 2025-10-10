@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Ao decidir rastrear a pesquisa interna em seu site, é importante decidir primeiro quais aspectos da pesquisa você deseja rastrear e quais ações podem ser tomadas com base na análise dos resultados. Este vídeo documenta os requisitos comerciais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413454/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/333511/?quality=12&learn=on)

@@ -12,7 +12,7 @@ exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
 workflow-type: tm+mt
 source-wordcount: '1802'
-ht-degree: 99%
+ht-degree: 94%
 
 ---
 
@@ -24,7 +24,7 @@ Antes de começar, [baixe o manual](assets/aa-implementation-playbook.xlsx).
 
 **O QUE:** um Documento de requisitos comerciais (geralmente chamado de BRD) é uma documentação muito importante na qual os principais interessados, usuários empresariais e de tecnologia desejam colaborar. É um local para documentar todos os KPIs, requisitos de relatórios e qualquer ponto de dados desejado que você deseja ver quando a implementação do Adobe Analytics (AA) for concluída.
 
-**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum de verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
+**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum da verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
 
 **COMO:** a documentação dos requisitos de negócios é comumente feita pelos usuários empresariais finais do AA, mas é importante obter feedback dos usuários de tecnologia, pois pode haver desafios técnicos a serem observados e alguns pontos de dados podem exigir mais esforço do que outros, o que faz parte da priorização.
 
@@ -44,7 +44,7 @@ Por fim, a coluna Status da implementação servirá como uma verificação de s
 
 **POR QUE:** este documento terá muitos propósitos, mas os mais importantes são:
 
-* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
+* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e qual é a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
 * Para o proprietário/usuário técnico de um produto do AA, este documento servirá como um lembrete de como outras variáveis são configuradas e quais variáveis estão disponíveis para uso ao adicionar uma nova dimensão.
 
 **COMO:** comece listando todas as variáveis prontas para uso da Adobe (página, produto, geo etc.), bem como eVars, props, eventos e variáveis de lista em um documento do Excel. Isso deve ter uma guia por site/conjunto de relatórios.

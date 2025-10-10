@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Saiba como mapear variáveis de análise do SDK da Web para o Adobe Analytics usando regras de processamento.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413468/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
 
 ## Informações adicionais 
 

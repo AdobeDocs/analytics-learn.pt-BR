@@ -10,16 +10,16 @@ exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
 # Definir configurações gerais para a extensão do Analytics na Experience Platform [!DNL tags]
 
-Saiba mais sobre as opções de configuração geral para a extensão do Analytics no [!DNL tags], incluindo a configuração do servidor de rastreamento. Para obter a documentação detalhada, consulte [Visão geral da extensão do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=pt-BR){target="_blank"}.
+Saiba mais sobre as opções de configuração geral para a extensão do Analytics no [!DNL tags], incluindo a configuração do servidor de rastreamento. Para obter a documentação detalhada, consulte [visão geral da extensão do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=pt-BR){target="_blank"}.
 
 >[!NOTE]
 >
 > O Launch agora é **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/3429918/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)

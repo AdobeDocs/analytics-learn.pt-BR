@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Ao configurar e personalizar seu projeto no Analysis Workspace, pode ser necessário usar um intervalo de datas além do que vem pré-construído no produto. Este vídeo mostra como criar três exemplos de intervalos de datas personalizados.
 
->[!VIDEO](https://video.tv.adobe.com/v/30768/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=pt-BR).

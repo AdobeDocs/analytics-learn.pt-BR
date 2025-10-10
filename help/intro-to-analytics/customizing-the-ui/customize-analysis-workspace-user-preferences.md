@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Saiba como alterar e personalizar as preferências do usuário no [!DNL Analysis Workspace]. Inclui configurações gerais padrão, preferências de exibição e dados e alteração do tema da interface do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429987/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)

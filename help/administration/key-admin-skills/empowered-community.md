@@ -25,7 +25,7 @@ Uma comunidade fortalecida tem algumas características importantes. Primeiro, �
 
 Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
-## 1. Crie uma infraestrutura sólida, a base para sua comunidade fortalecida
+## &#x200B;1. Crie uma infraestrutura sólida, a base para sua comunidade fortalecida
 
 * Criar um processo de integração de usuário:
 
@@ -43,7 +43,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
   Os modelos de relatório e projetos do Adobe Analytics são recursos fundamentais para habilitar os usuários das ferramentas na implementação do seu negócio, para relatórios de casos de uso e práticas recomendadas. Esses recursos devem abordar as perguntas comuns sobre negócios e como melhor respondê-las dentro da ferramenta.
 
-## 2. Crie um plano para quem executa e para quem deve estar envolvido
+## &#x200B;2. Crie um plano para quem executa e para quem deve estar envolvido
 
 * Decidir quem administrará a comunidade:
 
@@ -61,7 +61,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Lembre-se - “O que eles ganham com isso?” Manter a sua comunidade focada nos casos de uso e prioridades do negócio ajuda a garantir o engajamento e o sucesso.
 
-## 3. Use as ferramentas para começar a criar a sua comunidade
+## &#x200B;3. Use as ferramentas para começar a criar a sua comunidade
 
 * [Criar uma carta de projeto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (download do modelo):
 
@@ -89,7 +89,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Use o seu veículo da comunidade para ir ao ar. Dependendo da pilha de tecnologia do seu negócio, você também desejará escolher uma ferramenta ou um veículo para a sua comunidade. Isso será personalizado para a sua organização, mas muitos constatam que o Microsoft Teams funciona bem.
 
-## 4. Mantenha sua comunidade e garanta o seu sucesso contínuo
+## &#x200B;4. Mantenha sua comunidade e garanta o seu sucesso contínuo
 
 * Tempo de reserva - Adicione as reuniões da comunidade aos calendários para marcar a data antecipadamente. As reuniões recorrentes, quando possíveis, são uma ótima ideia e ajudarão a dar vida ao seu plano de conteúdo. Para ajudá-lo a começar, veja algumas ideias de programação:
 

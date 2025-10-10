@@ -20,6 +20,6 @@ ht-degree: 52%
 
 Saiba como criar relatórios sobre dados de bot no Analysis Workspace. Os dados de bots estão disponíveis como dados de resumo e podem ser analisados em conjuntos de relatórios compatíveis com bots.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447642/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=pt-BR).
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html).

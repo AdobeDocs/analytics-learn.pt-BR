@@ -1,5 +1,5 @@
 ---
-title: Ativar a configuração de Carimbo data e hora opcional
+title: Habilitar a configuração de Carimbo data e hora opcional
 description: Carimbos de data e hora opcionais permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar carimbos de data e hora sem precisar criar um novo conjunto de relatórios.
 feature: Data Configuration and Collection, Report Suite Settings
 topic: Administration
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ---
 
-# Ativar a configuração de Carimbo data e hora opcional
+# Habilitar a configuração de Carimbo data e hora opcional
 
 Carimbos de data e hora opcionais permitem combinar dados com e sem carimbos de data e hora no mesmo conjunto de relatórios global, enviar dados com carimbos de data e hora de um aplicativo para dispositivos móveis para um conjunto de relatórios global e atualizar aplicativos para usar carimbos de data e hora sem precisar criar um novo conjunto de relatórios.
 

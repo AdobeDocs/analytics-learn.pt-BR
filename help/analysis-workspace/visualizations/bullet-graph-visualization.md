@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Gráficos de [!UICONTROL marcadores] são uma maneira útil de mostrar o progresso em direção (ou além) de uma meta em sua análise. Eles fornecem outra maneira de visualizar o sucesso da sua organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/30760/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=pt-BR).

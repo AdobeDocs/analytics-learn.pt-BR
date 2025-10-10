@@ -1,6 +1,6 @@
 ---
 title: Como aumentar as taxas de engajamento e retenção
-description: Identifique audiências engajadas por meio de seus comportamentos usando Coortes e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no Segment IQ para saber as diferenças e as semelhanças entre os segmentos.
+description: Identifique públicos-alvos engajados por meio de seus comportamentos usando Coortes e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no Segment IQ para saber as diferenças e as semelhanças entre os segmentos.
 feature: Workspace Basics
 topics: mobile
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # Como aumentar as taxas de engajamento e retenção {#how-to-increase-engagement-and-retention-rates}
 
-Identifique públicos envolvidos por meio do comportamento deles usando [!UICONTROL Coortes] e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no [!UICONTROL Segment IQ] para saber as diferenças e semelhanças entre os segmentos.
+Identifique públicos-alvos envolvidos por meio do comportamento deles usando [!UICONTROL Coortes] e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no [!UICONTROL Segment IQ] para saber as diferenças e semelhanças entre os segmentos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)

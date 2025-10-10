@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Este vídeo mostra como usar a visualização de mapa no Analysis Workspace. A visualização de mapa permite exibir os dados [!UICONTROL móveis de latitude/longitude] ou da web (endereço IP) em um mapa dinâmico, possibilitando que você tenha uma noção do uso dos clientes no contexto de sua localização.
 
->[!VIDEO](https://video.tv.adobe.com/v/30791/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 Para obter mais informações sobre essa visualização, acesse a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=pt-BR).

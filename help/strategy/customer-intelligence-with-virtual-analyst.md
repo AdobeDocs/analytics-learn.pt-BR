@@ -77,7 +77,7 @@ Pense no [Virtual Analyst](https://experienceleague.adobe.com/docs/analytics/ana
 O Virtual Analyst revelou os seguintes cenários para clientes reais da Adobe:
 
 * Encerramento da campanha: aumento diário de US$ 1,7 milhão em receita, impulsionado principalmente por uma campanha que tinha sido encerrada prematuramente.
-* Bug do fornecedor: aumento de 73% nas remoções do carrinho devido a um bug do gerenciador de tags que removia automaticamente determinados produtos do carrinho.
+* Erro do fornecedor: aumento de 73% nas remoções do carrinho devido a um erro do gerenciador de tags que removia automaticamente determinados produtos do carrinho.
 * Problema do navegador: 8% de aumento no abandono de carrinhos associado aos navegadores Chrome. Essa correção resultou em um aumento incremental diário de US$ 1,2 milhão na receita.
 * Fraude de cupom: identificou um pico de 81% em pedidos causado pelo tráfego referido por dois importantes sites diários de ofertas/cupons que promoviam cupons de produtos de higiene pessoal fraudulentos. Esses pedidos puderam ser cancelados.
 * Espionagem corporativa: aumento de 200% nas visitas causadas pelo bot/crawler criado pelo principal concorrente para extrair o conteúdo do site para reutilização. Esses IPs puderam ser bloqueados.

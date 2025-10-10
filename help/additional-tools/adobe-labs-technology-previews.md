@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O [!DNL Adobe Labs] (Visualizações de tecnologia) permite que você interaja com novas tecnologias, descubra insights valiosos e influencie o desenvolvimento futuro de recursos e prioridades do [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/37054/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 Ao usar um protótipo [!DNL Labs], você pode avaliar o recurso no contexto de seus próprios casos de uso de negócios e dados.
 

@@ -66,7 +66,7 @@ Na etapa um, do construtor de VRS, escolha o [!UICONTROL conjunto de relatórios
 *Escolha um [!UICONTROL conjunto de relatórios]* de base (fonte) habilitada para CDA
 ![[!UICONTROL Conjunto de relatórios virtuais] Etapa Um](assets/cda-vrs-step-one.png)
 
-Em seguida, ative o [!UICONTROL Processamento de tempo do relatório] e ative a [!UICONTROL compilação entre dispositivos]:
+Em seguida, habilite o [!UICONTROL Processamento de tempo do relatório] e habilite a [!UICONTROL compilação entre dispositivos]:
 
 *Ativar [!UICONTROL processamento de tempo do relatório] e [!UICONTROL compilação entre dispositivos]*
 ![[!UICONTROL Conjunto de relatórios virtuais] Etapa dois](assets/cda-vrs-step-two.png)

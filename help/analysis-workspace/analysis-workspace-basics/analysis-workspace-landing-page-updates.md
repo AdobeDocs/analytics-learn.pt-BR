@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba mais sobre algumas das grandes melhorias e adições feitas na nova página de aterrissagem. Recebemos seus comentários de clientes e tentamos incorporar os recursos mais importantes, como redimensionamento de colunas, novos tipos de colunas, links para relatórios em tempo real e de bot e muitos outros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409142/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)

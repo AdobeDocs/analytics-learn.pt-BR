@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Apresentação de alguns novos recursos que permitem aos analistas e profissionais de marketing ajustar os rótulos em gráficos para antender às suas necessidades de [!UICONTROL visualização].
 
->[!VIDEO](https://video.tv.adobe.com/v/30804/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Obtenha algumas dicas para selecionar um conjunto de relatórios no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428555/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)

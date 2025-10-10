@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -47,11 +47,11 @@ Outros desafios principais que os analistas enfrentam:
 
    **Especificações técnicas**
 
-   _Caso de uso:_ instruções que descrevem como criar scripts para a coleta de dados
+   _Caso de Uso :_Instruções que descrevem como criar scripts para a coleta de dados
 
-   _Usuários principais:_ desenvolvedores
+   _Usuários Primários :_Desenvolvedores
 
-   _Outras observações:_
+   _Outras Anotações :_
 
    * Documento altamente técnico criado especificamente para seus ambientes de implantação
    * Útil para a implementação inicial e manutenção/referência subsequentes
@@ -74,11 +74,11 @@ Outros desafios principais que os analistas enfrentam:
 
    Painel de integridade do Analytics (AHD):
 
-   _Caso de uso:_ imagem de cada métrica e dimensão capturada por um único conjunto de relatórios
+   _Instantâneo de Caso de Uso :_de cada métrica e dimensão capturada por um único conjunto de relatórios
 
-   _Usuários principais:_ líder de análise SME e/ou desenvolvedor
+   _Usuários Primários :_Líderes de Análise SME e/ou Desenvolvimento
 
-   _Outras observações:_
+   _Outras Anotações :_
    * Entregue por meio do Excel usando uma integração personalizada da API de relatórios da Adobe
    * Os usuários devem ter acesso à API dos serviços web do Analytics
    * Existem opções para semiautomatizar

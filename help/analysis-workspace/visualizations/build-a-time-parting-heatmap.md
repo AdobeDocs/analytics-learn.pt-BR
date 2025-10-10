@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como elevar sua análise de divisão de tempo para o próximo nível criando uma [!UICONTROL visualização] de mapa de calor dos comportamentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/35004/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

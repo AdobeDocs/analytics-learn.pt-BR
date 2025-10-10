@@ -104,6 +104,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Análise Digital
+**Aaron Fossum**, Diretor, Digital Analytics
 
 Especialista no Adobe Analytics

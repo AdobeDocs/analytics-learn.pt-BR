@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Este vídeo mostra como alterar facilmente a escala (ou limites de eixo) para o eixo Y em um gráfico de [!UICONTROL linha] no Analysis Workspace para tornar os dados mais difíceis de serem interpretados incorretamente.
 
->[!VIDEO](https://video.tv.adobe.com/v/30761/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)

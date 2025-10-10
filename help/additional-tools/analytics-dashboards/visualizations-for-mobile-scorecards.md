@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Ao visualizar análises em seu dispositivo móvel, utilizar as visualizações certas é mais importante do que nunca. Neste vídeo, saiba como adicionar visualizações a projetos de cartão de pontuação para dispositivos móveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445771/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)

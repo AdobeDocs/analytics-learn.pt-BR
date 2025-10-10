@@ -1,5 +1,5 @@
 ---
-title: Visão geral do Construtor de segmento
+title: Visão geral do Construtor de segmentos
 description: Analise detalhadamente seus dados com a segmentação no Adobe Analytics. Este vídeo o orienta pelo construtor de segmentos e fornece uma visão geral básica.
 feature: Segmentation
 thumbnail: 25404.jpg
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Criador de segmentos no Adobe Analytics {#segment-builder-in-adobe-analytics}
+# Construtor de segmentos no Adobe Analytics {#segment-builder-in-adobe-analytics}
 
 Analise detalhadamente seus dados com a segmentação no Adobe Analytics. Este vídeo o orienta pelo construtor de segmentos e fornece uma visão geral básica.
 
->[!VIDEO](https://video.tv.adobe.com/v/32617/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

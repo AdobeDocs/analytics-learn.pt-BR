@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Esse vídeo explica como [!UICONTROL segmentar] no Adobe Analytics para obter somente os dados de antes ou depois de um caminho de usuário específico.
 
->[!VIDEO](https://video.tv.adobe.com/v/33553/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12&learn=on)
 
 Para obter mais informações sobre este tópico, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=pt-BR).
