@@ -22,6 +22,6 @@ ht-degree: 100%
 
 As janelas de pesquisa personalizadas permitem expandir a janela de atribuição além do intervalo de relatórios (até um máximo de 90 dias) e se aplicam a cada conversão no intervalo de relatórios. Essa configuração pode aumentar a precisão da atribuição para eventos que ocorrem no início do período dos relatórios, contabilizando as interações que ocorreram no(s) mês(es) anterior(es).
 
->[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40043/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR#janelas-de-retrospectiva)

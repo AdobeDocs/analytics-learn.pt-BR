@@ -21,6 +21,6 @@ ht-degree: 100%
 
 A configuração da [!UICONTROL Tabela de latência] em [!UICONTROL tabelas de coorte] permite analisar o comportamento de [!UICONTROL coortes] antes e depois do evento de inclusão (não somente depois, como é feito no [!UICONTROL coorte] padrão). Essa configuração é útil para analisar o impacto de um novo produto ou lançamento de campanha, por exemplo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430188/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).

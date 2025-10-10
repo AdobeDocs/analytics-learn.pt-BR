@@ -20,6 +20,6 @@ ht-degree: 20%
 
 Saiba mais sobre o recurso &quot;compartilhar com qualquer pessoa&quot; no Workspace. Você pode usar esse recurso para conceder acesso somente leitura a projetos do Workspace a pessoas que não têm acesso ao Adobe Analytics ou Customer Journey Analytics, incluindo recipients fora da organização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452457/?learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=pt-BR#share-public-link).

@@ -18,6 +18,6 @@ ht-degree: 16%
 
 Saiba como atualizar e reagendar pastas de trabalho [!DNL Report Builder] herdadas para a versão mais recente do Adobe Analytics Report Builder.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446187/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/report-builder/home).

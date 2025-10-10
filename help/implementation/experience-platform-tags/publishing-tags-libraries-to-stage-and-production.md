@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como publicar o código de análise do seu site, do desenvolvimento ao preparo e produção nas [!DNL tags] da Experience Platform, bem como configurar os conjuntos de relatórios para receber corretamente os dados adequados.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429976/?quality=12&learn=on&captions=por_br)

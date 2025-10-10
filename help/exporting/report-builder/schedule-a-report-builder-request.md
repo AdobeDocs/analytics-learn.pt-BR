@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Neste vídeo, aprenda a configurar um agendamento básico para uma pasta de trabalho do [!DNL Report Builder].
 
->[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409139/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=pt-BR).

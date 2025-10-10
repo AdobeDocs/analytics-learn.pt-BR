@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Este vídeo demonstra como usar [!DNL Attribution IQ] em [!DNL Calculated Metrics].
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30759/?quality=12&learn=on&captions=por_br)
 
 As métricas calculadas agora oferecem suporte para qualquer um dos dez modelos de atribuição baseados em regras. As métricas calculadas permitem comparar modelos de atribuição (por exemplo, subtrair [!UICONTROL Primeiro contato] de [!UICONTROL Último contato]) para ver a diferença. Você também pode criar modelos híbridos (por exemplo, 50% [!UICONTROL Declínio de tempo] mais 50% [!UICONTROL Primeiro contato]) ou aplicar atribuição às suas métricas de conversão importantes, como receita por pedidos ou pedidos por visita.
 

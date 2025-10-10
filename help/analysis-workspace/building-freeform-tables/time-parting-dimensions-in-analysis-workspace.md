@@ -18,6 +18,6 @@ ht-degree: 100%
 
 A [!DNL Time-parting] coleta o carimbo de data e hora de ocorrências coletadas e o divide em dimensões mais significativas, como “Hora do dia” ou “Dia da semana”. Essas dimensões estão prontas para uso no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30809/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, acesse a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=pt-BR).

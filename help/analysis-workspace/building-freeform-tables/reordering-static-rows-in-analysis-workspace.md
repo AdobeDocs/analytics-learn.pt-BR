@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Você pode reordenar manualmente linhas estáticas no construtor de Tabelas de forma livre. Isso permite que você organize linhas estáticas da tabela na ordem exata necessária, por exemplo, visitas, pedidos e taxa de conversão.
 
->[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33843/?quality=12&learn=on&captions=por_br)

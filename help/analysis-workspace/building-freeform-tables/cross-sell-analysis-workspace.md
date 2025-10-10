@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a criar um relatório de venda cruzada no Analysis Workspace e a estender sua funcionalidade para qualquer classificação ou dimensão de vários valores.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40768/?quality=12&learn=on&captions=por_br)

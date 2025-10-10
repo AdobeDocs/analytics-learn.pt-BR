@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como usar atalhos de teclado no Analysis Workspace. Essas técnica economizam tempo para ajudar você a executar várias tarefas em um projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30789/?quality=12&learn=on&captions=por_br)

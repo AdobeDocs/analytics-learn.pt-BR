@@ -18,4 +18,4 @@ ht-degree: 88%
 
 Saiba mais sobre as opções de configuração de gerenciamento de biblioteca para a extensão do Analytics na Experience Platform [!DNL tags]. Este vídeo também aborda a seleção de conjuntos de relatórios para coleção de dados.  Para obter a documentação detalhada, consulte [visão geral da extensão do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=pt-BR){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429838/?quality=12&learn=on&captions=por_br)

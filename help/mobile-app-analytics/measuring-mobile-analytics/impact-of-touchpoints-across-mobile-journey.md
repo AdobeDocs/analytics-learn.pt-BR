@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Saiba como os usuários do aplicativo móvel são influenciados por pontos de contato e quais canais estão afetando seu aplicativo móvel usando o [!DNL Attribution IQ]. Saiba quais canais estão trabalhando em conjunto para impulsionar eventos bem-sucedidos em seu aplicativo móvel.
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32094/?quality=12&learn=on&captions=por_br)

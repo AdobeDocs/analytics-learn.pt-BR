@@ -22,6 +22,6 @@ ht-degree: 100%
 
 A configuração do [!UICONTROL intervalo de cálculo] nas [!UICONTROL tabelas de coorte] pode ser usada para analisar [!UICONTROL coortes] período por período, para entender como os mesmos usuários são retidos (ou [!UICONTROL churn]) ao longo do tempo.
 
->[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430087/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).

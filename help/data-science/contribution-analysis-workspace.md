@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo aborda a [!UICONTROL análise de contribuição] e sua capacidade de usar o aprendizado de máquina para explicar de maneira rápida e fácil os fatores que contribuíram para uma tendência em seus dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30767/?quality=12&learn=on&captions=por_br)
 
 A [!UICONTROL análise de contribuição] está disponível no Analysis Workspace para clientes do Adobe Analytics Premium.
 

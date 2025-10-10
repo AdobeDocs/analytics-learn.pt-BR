@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Saiba como aproveitar ao máximo a interface do usuário de relatórios do Data Warehouse e as contas e locais de exportação. Este vídeo aborda o fluxo de trabalho básico de um delivery de relatório para email e Amazon S3. Para obter a documentação detalhada, consulte a [visão geral do Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=pt-BR) e os documentos adjacentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428488/?quality=12&learn=on&captions=por_br)

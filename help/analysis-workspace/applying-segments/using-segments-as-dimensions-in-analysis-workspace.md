@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Este vídeo mostra como você pode comparar e visualizar segmentos usando-os como uma dimensão no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33248/?quality=12&learn=on&captions=por_br)

@@ -22,4 +22,4 @@ Este vídeo demonstra como usar uma extensão de sequência de caracteres de pro
 >
 > O Launch agora é **[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31147/?quality=12&learn=on&captions=por_br)

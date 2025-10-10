@@ -41,4 +41,4 @@ Para ver o beacon, bem como todas as outras informações que chegam ao Analytic
 
 Veja o vídeo abaixo para obter mais informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40899/?quality=12&learn=on&captions=por_br)

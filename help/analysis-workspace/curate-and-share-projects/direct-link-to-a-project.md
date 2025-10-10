@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Este vídeo mostra como é possível democratizar melhor as análises criando links mais curtos que levarão seus colegas aos projetos do Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439087/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=pt-BR).

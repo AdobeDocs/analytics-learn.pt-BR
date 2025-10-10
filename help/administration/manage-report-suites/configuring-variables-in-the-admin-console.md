@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Saiba como configurar variáveis e eventos no Gerenciador de conjunto de relatórios, garantindo que os relatórios, as dimensões e as métricas tenham os nomes e o comportamento corretos.
 
->[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31172/?quality=12&learn=on&captions=por_br)
 

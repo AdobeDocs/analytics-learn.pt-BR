@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Para os clientes do Media Analytics, o painel Visualizadores simultâneos de mídia permite compreender onde ocorreu o pico de simultaneidade ou onde ocorreram quedas, para fornecer informações valiosas sobre a qualidade do conteúdo e o engajamento do visualizador e para ajudar na solução de problemas ou no planejamento de volume e escala.
 
->[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342840/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=pt-BR#analysis-workspace).

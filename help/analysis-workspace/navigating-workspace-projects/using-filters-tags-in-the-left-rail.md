@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como usar filtros, chamados de tags, no Analysis Workspace. Estas técnicas economizam tempo para ajudar você a criar seu projeto com eficiência.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37060/?quality=12&learn=on&captions=por_br)

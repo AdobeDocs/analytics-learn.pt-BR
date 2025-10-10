@@ -21,4 +21,4 @@ ht-degree: 100%
 
 A configuração [!UICONTROL Densidade de visualização], em [!UICONTROL Projeto] > [!UICONTROL Informações do projeto e configurações], permite controlar o preenchimento vertical aplicado ao painel e às tabelas à esquerda ([!UICONTROL Forma livre] e [!UICONTROL Coorte]). Você pode escolher entre Expandido (padrão), Confortável ou Compacto.
 
->[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/41122/?quality=12&learn=on&captions=por_br)

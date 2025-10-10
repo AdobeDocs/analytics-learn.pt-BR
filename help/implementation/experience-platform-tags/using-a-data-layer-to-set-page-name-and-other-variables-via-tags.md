@@ -21,7 +21,7 @@ Aprenda como obter valores da camada de dados e usá-los na Experience Platform 
 
 Revisar informações adicionais sobre camadas de dados na documentação do [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR) e das [tags da Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327647/?quality=12&learn=on&captions=por_br)
 
 >[!NOTE]
 >

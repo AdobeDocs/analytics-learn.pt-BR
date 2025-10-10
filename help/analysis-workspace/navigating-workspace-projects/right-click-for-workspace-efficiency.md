@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Conheça todos os cliques com o botão direito do mouse favoritos no Analysis Workspace e como usá-los. De [!UICONTROL Tabelas de forma livre] a [!UICONTROL Visualizações de fallout], clicar com o botão direito o tornará mais eficiente e proficiente no [!DNL Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327568/?quality=12&learn=on&captions=por_br)

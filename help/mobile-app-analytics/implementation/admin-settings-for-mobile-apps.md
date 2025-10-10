@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Saiba como configurar relatórios de aplicativo móvel no Adobe Analytics, incluindo os componentes [!UICONTROL Ciclo de vida], [!UICONTROL Rastreamento de localização] e os relatórios de [!UICONTROL Hits em segundo plano].
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39730/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=pt-BR).

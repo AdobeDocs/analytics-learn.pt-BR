@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Saiba mais sobre a visualização do gráfico de combinação no Analysis Workspace. A visualização de gráfico de combinação facilita a construção rápida de uma visualização de comparação sem ter que construir uma tabela primeiro. Você pode visualizar facilmente as tendências em seus dados em uma combinação de linha/barra.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415821/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=pt-BR).

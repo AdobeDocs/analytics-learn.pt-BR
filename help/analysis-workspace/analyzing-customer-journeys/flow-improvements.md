@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Saiba mais sobre algumas das grandes melhorias na visualização de fluxo. As melhorias incluem a possibilidade de configurar o início ou o fim do caminho em que está interessado, filtrar uma coluna para incluir ou excluir um item específico e configurações avançadas pré-configuráveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412492/?quality=12&learn=on&captions=por_br)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/create-flow.html?lang=pt-BR).

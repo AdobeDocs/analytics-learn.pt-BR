@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Neste vídeo, demonstramos como configurar relatórios de canais de marketing no conjunto de relatórios do Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344363/?quality=12&learn=on&captions=por_br)
 
 >[!NOTE]
 >

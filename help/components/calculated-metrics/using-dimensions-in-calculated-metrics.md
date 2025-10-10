@@ -17,7 +17,7 @@ ht-degree: 22%
 
 Dimensões estão disponíveis no construtor de métricas calculadas e podem ser adicionadas a qualquer fórmula de métrica calculada para limitar a nova métrica a uma dimensão ou valor de dimensão.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33525/?quality=12&learn=on&captions=por_br)
 
 Este recurso simplifica o fluxo de trabalho para criar e usar segmentos dentro das métricas calculadas.
 

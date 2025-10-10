@@ -17,4 +17,4 @@ ht-degree: 24%
 
 A análise de forma livre inclui a capacidade de alterar a localização, a largura e a altura dos gráficos e das tabelas para que você possa criar um projeto mais elaborado. Este vídeo mostra como você pode alterar o layout.
 
->[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30782/?quality=12&learn=on&captions=por_br)

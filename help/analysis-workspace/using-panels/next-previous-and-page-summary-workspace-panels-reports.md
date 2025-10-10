@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adicionamos dois novos tipos de painel ao Analysis Workspace: Próximo/Anterior e Resumo da página. Eles também foram listados como parte dos relatórios prontos para uso. Eles equipararam o espaço de trabalho a alguns dos relatórios mais populares do Reports &amp; Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346422/?quality=12&learn=on&captions=por_br)
