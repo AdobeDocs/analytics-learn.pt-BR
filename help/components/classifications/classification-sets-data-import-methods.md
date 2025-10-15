@@ -22,4 +22,4 @@ Saiba mais sobre os diferentes métodos de importação de dados de classificaç
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/components/classifications/sets/overview){target="_blank"}.
