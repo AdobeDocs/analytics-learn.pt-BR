@@ -4,10 +4,10 @@ user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e sai
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -240,7 +240,7 @@ ht-degree: 88%
    + Configurações da empresa {#company-settings}
       + [Impor restrições de domínio de email](administration/company-settings/enforce-email-domain-restrictions.md)
       + [Exibir os recursos disponíveis de sua conta](administration/company-settings/view-your-accounts-available-features.md)
-   + Gerenciamento de usuários {#user-management}
+   + User Management {#user-management}
       + [Adicionar um administrador ao Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Criar perfis de produto](administration/user-management/create-product-profiles.md)
       + [Limitar o acesso ao conjunto de relatórios no Admin Console](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [Introdução aos conjuntos de classificações](components/classifications/introduction-to-classification-sets.md)
       + [Usar conjuntos de classificações](components/classifications/use-classification-sets.md)
       + [Métodos de importação de dados de conjuntos de classificações](components/classifications/classification-sets-data-import-methods.md)
+      + [Histórico de processos dos conjuntos de classificações](components/classifications/classification-sets-job-history.md)
    + Conjuntos de relatórios virtuais {#virtual-report-suites}
       + [Visão geral dos conjuntos de relatórios virtuais](components/virtual-report-suites/virtual-report-suites.md)
       + [Curadoria de componente](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -421,7 +422,7 @@ ht-degree: 88%
    + Medição do Media Analytics {#measuring-media-analytics}
       + [Painel Tempo gasto com a reprodução da mídia](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Utilização do modelo de Consumo de áudio no Analysis Workspace](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
-+ Análise de aplicativo móvel {#mobile-app-analytics}
++ Análise de aplicativos móveis {#mobile-app-analytics}
    + Implementação {#implementation}
       + [Configurações do administrador para aplicativos móveis](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Inicialização e visualização de métricas de ciclo de vida com o SDK da Experience Platform](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
