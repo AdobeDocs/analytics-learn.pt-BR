@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Saiba como usar o painel esquerdo no Analysis Workspace para localizar, criar e adicionar itens às tabelas de forma livre.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475913/?captions=por_br&quality=12&learn=on)
