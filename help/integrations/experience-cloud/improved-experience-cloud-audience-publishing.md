@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Foram feitas melhorias na publicação de públicos-alvo na Experience Cloud. Agora você pode publicar públicos-alvo ([!UICONTROL segmentos]) e disponibilizá-los seis vezes mais rápido, reduzindo o tempo de latência atual de 48 horas para aproximadamente 8 horas ou menos, dependendo do tráfego e do tamanho do [!UICONTROL segmento].
 
->[!VIDEO](https://video.tv.adobe.com/v/37055/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 Além disso, a quantidade de [!UICONTROL segmentos] que podem ser publicados de uma vez aumentou de 20 para 75 por [!UICONTROL conjunto de relatórios].
 Para obter mais informações, consulte [Publicar segmentos na Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=pt-BR) na ajuda do Analytics.

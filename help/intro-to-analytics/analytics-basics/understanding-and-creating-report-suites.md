@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Este vídeo ajuda você a entender o que são [!UICONTROL conjuntos de relatórios] e mostra como criá-los na interface, para que você possa rastrear e otimizar o tráfego que chega ao seu site.
 
->[!VIDEO](https://video.tv.adobe.com/v/31180/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)

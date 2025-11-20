@@ -319,7 +319,7 @@ ht-degree: 87%
       + [Usar “igual a qualquer um de” na segmentação](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Webinário do Analytics Insider - Estratégias de segmentação de clientes](components/segmentation/customer-segmentation-strategies.md)
       + [Agora aguarde um segmento... Utilizando a segmentação para descobrir novos insights](components/segmentation/segmentation-to-discover-new-insights.md)
-   + Métricas calculadas  {#calculated-metrics}
+   + Métricas calculadas {#calculated-metrics}
       + [Visão geral do construtor de métricas calculadas](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [Métricas calculadas: métricas sem implementação](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [Métricas calculadas: métricas segmentadas](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
