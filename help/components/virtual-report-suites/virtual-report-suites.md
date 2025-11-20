@@ -18,5 +18,5 @@ ht-degree: 0%
 
 O Adobe Analytics permite criar &quot;conjuntos de relatórios virtuais&quot; para os seus usuários, os quais segmentam os seus dados e restringem os usuários/grupos somente aos segmentos de dados permitidos. Este vídeo mostra como criar e trabalhar com conjuntos de relatórios virtuais. Para obter a documentação detalhada, visite [Visão geral dos conjuntos de relatórios virtuais](https://experienceleague.adobe.com/pt-br/docs/analytics/components/virtual-report-suites/vrs-about){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476976/?captions=por_br&quality=12&learn=on)
 
