@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Neste vídeo, navegaremos pelo Conector do Adobe Analytics, criando e carregando uma solicitação, alterando o formato dos dados, criando uma [!UICONTROL visualização] e publicando-a no serviço online.
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33017/?captions=por_br&quality=12&learn=on)
 
 ## Recursos adicionais {#additional-resources}
 

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Para se tornar uma empresa baseada em experiências, o marketing orientado por dados é fundamental. Leve sua maturidade de análise a um novo nível: dos dados aos insights e à ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36301/?captions=por_br&quality=12&learn=on)
 
 Saiba como a Adobe pode ajudar você a conhecer seus clientes de todos os ângulos: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)

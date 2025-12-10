@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Veja clipes selecionados da “supersessão” sobre varejo do [!DNL Summit] 2019
 
->[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330388/?captions=por_br&quality=12&learn=on)

@@ -21,7 +21,7 @@ ht-degree: 65%
 
 Este vídeo mostra como usar o [!UICONTROL Rastreamento de Log de Uso] em projetos do [!DNL Workspace], o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32856/?captions=por_br&quality=12&learn=on)
 
 As opções de rastreamento do [!DNL Workspace] incluem:
 
