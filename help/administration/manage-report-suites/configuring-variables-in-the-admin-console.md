@@ -5,10 +5,10 @@ feature: Report Suite Settings
 thumbnail: 28755.jpg
 kt: 3582
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
-source-git-commit: 35642a97b2f59c92458504d81c9d6bf2e7dec446
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -19,5 +19,5 @@ ht-degree: 0%
 
 Saiba como configurar variáveis e eventos no Gerenciador de conjunto de relatórios, garantindo que os relatórios, as dimensões e as métricas tenham os nomes e o comportamento corretos.
 
->[!VIDEO](https://video.tv.adobe.com/v/31172/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

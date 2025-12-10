@@ -4,10 +4,10 @@ description: O Adobe Labs (Visualizações de tecnologia) permite que você inte
 feature: Analytics Basics
 doc-type: feature video
 kt: 4818
-role: Architect
+role: Developer
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 O [!DNL Adobe Labs] (Visualizações de tecnologia) permite que você interaja com novas tecnologias, descubra insights valiosos e influencie o desenvolvimento futuro de recursos e prioridades do [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/37054/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12&learn=on)
 
 Ao usar um protótipo [!DNL Labs], você pode avaliar o recurso no contexto de seus próprios casos de uso de negócios e dados.
 

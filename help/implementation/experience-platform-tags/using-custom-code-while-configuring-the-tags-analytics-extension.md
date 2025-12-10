@@ -6,10 +6,10 @@ topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Saiba mais sobre casos de uso e considerações técnicas para usar o editor de código personalizado ao configurar a extensão do Adobe Analytics no [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/327661/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
 Revise a [documentação](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=pt-BR) para obter mais informações sobre a <i>função doPlugins</i> referenciada neste vídeo.

@@ -4,10 +4,10 @@ description: Antes de implementar o Analytics no [!DNL tags], são necessários 
 feature: Tags
 topics: Development
 kt: 3584
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
-source-git-commit: d55ed948736144c2789624072eac96999585c47d
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Antes de implementar o Analytics no [!DNL tags], são necessários alguns documentos de suporte, e você precisa fazer algumas configurações no Analytics e no [!DNL tags]. Este vídeo aborda isso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429966/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)

@@ -7,10 +7,10 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 O [!DNL Adobe Sensei] torna o Adobe Analytics mais inteligente e ajuda os profissionais de marketing a descobrir insights significativos sobre seus clientes. Este vídeo inclui explicações adicionais sobre os principais recursos do Adobe Analytics com a tecnologia do [!DNL Adobe Sensei], incluindo [!UICONTROL Detecção de anomalias], [!UICONTROL Análise de contribuição], [!UICONTROL Alertas inteligentes], Agrupamento, [!UICONTROL Segment IQ] e Modelagem de propensão.
 
->[!VIDEO](https://video.tv.adobe.com/v/36305/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 Saiba mais sobre o [!DNL Adobe Sensei] [AQUI](https://www.adobe.com/br/sensei.html).

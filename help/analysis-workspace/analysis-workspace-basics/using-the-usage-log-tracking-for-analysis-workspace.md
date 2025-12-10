@@ -1,29 +1,27 @@
 ---
 title: Utilização do rastreamento de log de uso do Analysis Workspace
 seo-title: Using the Usage Log Tracking for Analysis Workspace
-description: Este vídeo mostra como usar o rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
-seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
-feature: data configuration and collection
-topics: null
+description: Este vídeo mostra como usar o Rastreamento de log de uso em projetos do Workspace, o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users' usage of Adobe Analytics.
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 100%
+ht-degree: 65%
 
 ---
 
 
 # Utilização do [!UICONTROL Rastreamento de log de uso] do Analysis Workspace {#using-the-usage-log-tracking-for-analysis-workspace}
 
-Este vídeo mostra como usar o [!UICONTROL Rastreamento de log de uso] em projetos do [!DNL Workspace], o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
+Este vídeo mostra como usar o [!UICONTROL Rastreamento de Log de Uso] em projetos do [!DNL Workspace], o que pode ajudá-lo a entender melhor o uso do Adobe Analytics pelos usuários.
 
->[!VIDEO](https://video.tv.adobe.com/v/32856/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 As opções de rastreamento do [!DNL Workspace] incluem:
 

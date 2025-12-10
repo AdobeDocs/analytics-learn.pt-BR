@@ -4,10 +4,10 @@ description: Saiba mais sobre as opções de configuração de gerenciamento de 
 feature: Tags
 topics: Development
 kt: 2836
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 88%
@@ -18,4 +18,4 @@ ht-degree: 88%
 
 Saiba mais sobre as opções de configuração de gerenciamento de biblioteca para a extensão do Analytics na Experience Platform [!DNL tags]. Este vídeo também aborda a seleção de conjuntos de relatórios para coleção de dados.  Para obter a documentação detalhada, consulte [visão geral da extensão do Adobe Analytics](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=pt-BR){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429838/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27092/?quality=12&learn=on)

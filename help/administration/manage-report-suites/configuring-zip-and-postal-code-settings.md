@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a definir configurações de [!UICONTROL CEP] e código postal, para fazer análises com base nos dados da região.
 
->[!VIDEO](https://video.tv.adobe.com/v/35007/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 Para obter mais informações sobre configurações de [!UICONTROL código postal], consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=pt-BR).

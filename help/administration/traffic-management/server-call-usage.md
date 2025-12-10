@@ -2,7 +2,7 @@
 title: Uso de chamadas de servidor no Adobe Analytics
 seo-title: Server Call Usage in Adobe Analytics
 description: Os relatórios de uso de Chamadas de servidor possibilitarão o rastreamento exato do quanto do comprometimento de chamadas de servidor você usou em qualquer momento, além de alertá-lo proativamente quando estiver se aproximando do comprometimento total.
-seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
+seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you've used at any point in time, and will also proactively alert you when you are approaching your total commitment.
 feature: Data Configuration and Collection
 topics: null
 activity: use
@@ -11,13 +11,13 @@ author: Doug Moore
 team: Technical Marketing
 kt: 1665
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 100%
+ht-degree: 27%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 Os relatórios de [!UICONTROL Uso de chamadas de servidor] possibilitarão o rastreamento exato do quanto do comprometimento de chamadas de servidor você usou em qualquer momento, além de alertá-lo proativamente quando estiver se aproximando do comprometimento total.
 
->[!VIDEO](https://video.tv.adobe.com/v/33029/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12&learn=on)
 
-Pode ser difícil estar a par do consumo de chamadas de servidor de sua organização, resultando em frustração em torno de excedentes. Com os relatórios de [!UICONTROL Uso de chamadas de servidor], você pode rastrear exatamente o quanto do seu comprometimento de chamadas de servidor você usou em qualquer momento, e ser alertado proativamente quando estiver se aproximando do comprometimento total. No painel que o acompanha, é possível analisar onde as suas chamadas de servidor estão sendo usadas, para que você possa corrigir implementações em execução ou trabalhar com colegas para redimensionar em locais onde grandes volumes de dados menos valiosos podem estar sendo coletados.
+Pode ser difícil manter-se a par do consumo de chamadas de servidor de sua organização, resultando em frustração em torno de excedentes. Com os relatórios de [!UICONTROL Uso de chamadas do servidor], você pode rastrear exatamente o quanto do seu comprometimento de chamadas do servidor você usou em qualquer momento, e ser alertado proativamente quando estiver se aproximando do comprometimento total. No painel que o acompanha, é possível analisar onde as suas chamadas de servidor estão sendo usadas, para que você possa corrigir implementações em execução ou trabalhar com colegas para redimensionar em locais onde grandes volumes de dados menos valiosos podem estar sendo coletados.

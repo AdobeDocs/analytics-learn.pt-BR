@@ -7,10 +7,10 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Para se tornar uma empresa baseada em experiências, o marketing orientado por dados é fundamental. Leve sua maturidade de análise a um novo nível: dos dados aos insights e à ação.
 
->[!VIDEO](https://video.tv.adobe.com/v/36301/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 Saiba como a Adobe pode ajudar você a conhecer seus clientes de todos os ângulos: [https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
