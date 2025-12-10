@@ -19,7 +19,7 @@ ht-degree: 100%
 
 Aprenda como obter valores da camada de dados e usá-los na Experience Platform [!DNL tags] para preencher variáveis no Adobe Analytics. A utilização de uma camada de dados para o [!DNL Analytics] e outras soluções da Experience Cloud é uma prática recomendada.
 
-Revisar informações adicionais sobre camadas de dados na documentação do [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR) e das [tags da Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html).
+Revisar informações adicionais sobre camadas de dados na documentação do [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=pt-BR) e das [tags da Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
