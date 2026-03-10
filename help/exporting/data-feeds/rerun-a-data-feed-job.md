@@ -1,23 +1,22 @@
 ---
-title: Executar novamente uma tarefa do Feed de dados
-description: A interface do Feed de dados no Adobe Analytics facilita muito o gerenciamento do feed de dados. Se você tiver acesso para gerenciar o feed de dados, poderá executar novamente uma tarefa por conta própria usando a interface do recurso, sem que a equipe de suporte ao cliente precise reenviar os arquivos recentes de feed de dados.
+title: Executar novamente um processo de Feed de dados
+description: A interface do Feed de dados no Adobe Analytics facilita muito o gerenciamento do feed de dados. Se você tiver acesso para gerenciar feeds de dados, poderá executar novamente uma tarefa por conta própria na interface do feed de dados, sem que a equipe de suporte ao cliente reenvie os arquivos de feed de dados.
 feature: Data Feeds, Data Configuration and Collection
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335748.jpg
-kt: KT-8465
+kt: 8465
+last-substantial-update: 2026-03-09T00:00:00Z
 exl-id: 7cf7ea59-4516-486d-99f5-79cb55b23a3c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: dbfe7953a2d22f6c4d3305b046afcabda7f193df
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 9%
 
 ---
 
-# Executar novamente uma tarefa do Feed de dados
+# Executar novamente um processo de Feed de dados
 
-A interface do Feed de dados no Adobe Analytics facilita muito o gerenciamento do feed de dados. Se você tiver acesso para gerenciar o feed de dados, poderá executar novamente uma tarefa por conta própria usando a interface do recurso, sem que a equipe de suporte ao cliente precise reenviar os arquivos recentes de feed de dados.
+A interface do Feed de dados no Adobe Analytics facilita muito o gerenciamento do feed de dados. Se você tiver acesso para gerenciar feeds de dados, poderá executar novamente uma tarefa por conta própria na interface do feed de dados, sem que a equipe de suporte ao cliente reenvie os arquivos de feed de dados.
 
->[!VIDEO](https://video.tv.adobe.com/v/335748/?quality=12&learn=on)
+>[!SLIDE](aa-rerun-data-feed-job)
