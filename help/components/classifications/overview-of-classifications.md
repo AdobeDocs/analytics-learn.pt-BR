@@ -3,24 +3,26 @@ title: Visão geral das Classificações no Adobe Analytics
 description: As Classificações são uma maneira avançada de adicionar metadados — atributos descritivos — aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor os seus esforços de marketing e experiência ao permitir agrupar elementos semelhantes e analisar dados para descobrir o que está e o que não está funcionando para você.
 feature: Classifications
 topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2350
 role: User
 level: Beginner
+last-substantial-update: 2026-03-13T00:00:00Z
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: ef2db82030e0853badc174825fdafa5c261c8f5d
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 83%
 
 ---
 
 # Visão geral das [!UICONTROL Classificações] no Adobe Analytics {#overview-of-classifications-in-adobe-analytics}
 
+>[!WARNING]
+>
+>O gerenciamento e a importação de classificações no Gerenciador de conjunto de relatórios serão descontinuados em 31 de agosto de 2026. Alterne e use a experiência dos conjuntos de classificação para garantir a funcionalidade contínua.
+
 As [!UICONTROL Classificações] são uma maneira avançada de adicionar metadados — atributos descritivos — aos seus produtos, campanhas, páginas, clientes e muito mais. Esses atributos podem ajudá-lo a entender melhor os seus esforços de marketing e experiência ao permitir agrupar elementos semelhantes e analisar dados para descobrir o que está e o que não está funcionando para você.
 
->[!VIDEO](https://video.tv.adobe.com/v/40937/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=pt-BR).
