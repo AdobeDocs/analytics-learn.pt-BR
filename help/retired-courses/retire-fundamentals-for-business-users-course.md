@@ -7,9 +7,8 @@ level: Beginner
 doc-type: article
 kt: 9167
 hide: true
-hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
-source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
@@ -29,7 +28,7 @@ Por todos esses motivos, decidimos que seria melhor reorganizar, gravar e lança
 Caso você seja um usuário empresarial, um profissional de negócios ou tenha outra função semelhante, recomendamos que faça os seguintes cursos para aprender fundamentos básicos que o ajudarão a se destacar no uso do Analysis Workspace:
 
 1. [Introdução ao Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace&lang=pt-BR)
-1. [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?lang=pt-br&recommended=Analytics-U-1-2020.3)
+1. [Tabelas de forma livre, a base da análise](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
 1. [Uso de visualizações para contar suas histórias de dados](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&lang=pt-BR)
 1. [Atribuição de valor a pontos de contato digitais na jornada do cliente](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&lang=pt-BR)
 
