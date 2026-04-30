@@ -3,11 +3,12 @@ user-guide-title: Tutoriais do Adobe Analytics
 user-guide-description: Assista aos tutoriais em vídeo do Adobe Analytics e saiba como aproveitar ao máximo seus dados.
 breadcrumb-title: Tutoriais do Analytics
 solution: Analytics
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
-source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
+source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
-source-wordcount: '2177'
-ht-degree: 99%
+source-wordcount: 2607
+ht-degree: 96%
 
 ---
 
@@ -38,9 +39,9 @@ ht-degree: 99%
       + [Como os dados do Analytics são coletados](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Faça logon no Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Entender e criar conjuntos de relatórios](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Entenda as métricas básicas de visitantes](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
-      + [Introdução às variáveis de tráfego (props)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
-      + [Introdução às variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
+      + [Entender as métricas básicas de visitante](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=pt-BR)
+      + [Introdução a variáveis de tráfego (propriedades)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=pt-BR)
+      + [Introdução a variáveis de conversão (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=pt-BR)
       + [Introdução aos eventos de conversão](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=pt-BR)
    + Personalizar interface {#customizing-the-ui}
       + [Personalizar as preferências do usuário do Analysis Workspace](intro-to-analytics/customizing-the-ui/user-preferences.md)
@@ -107,9 +108,9 @@ ht-degree: 99%
       + [Configurações de linha e coluna em tabelas de forma livre](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [Totais de Tabelas de forma livre](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [Usar o Criador de tabelas de forma livre](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [Clique com o botão direito do mouse para obter eficiência do espaço de trabalho](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=pt-BR)
+      + [Clique com o botão direito para obter eficiência do espaço de trabalho](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=pt-BR)
       + [Reordenar linhas estáticas](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [Usar o Attribution IQ em tabelas de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=pt-BR)
+      + [Usar Attribution IQ em tabelas de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=pt-BR)
       + [Análise de venda cruzada](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [Filtros de Tabela de forma livre](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Dimensões de separação de tempo](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
@@ -165,14 +166,14 @@ ht-degree: 99%
       + [Compreensão de métricas básicas de visitantes](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Adição de dimensões e métricas ao seu projeto](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=pt-BR)
       + [Introdução aos eventos de conversão](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [Trabalho com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=pt-BR)
+      + [Trabalhar com métricas em uma tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=pt-BR)
       + [Utilização de métricas de participação no Analysis Workspace](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Adeus, Excel. Olá, métricas calculadas](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + Dimensões {#dimensions}
       + [Adição de dimensões e métricas ao seu projeto](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [Introdução a variáveis de tráfego (propriedades)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [Introdução a variáveis de conversão (eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [Trabalho com dimensões em uma Tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=pt-BR)
+      + [Trabalhar com dimensões em uma Tabela de forma livre](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=pt-BR)
    + Calendário e intervalos de datas {#calendar-and-date-ranges}
       + [Usar datas no Analysis Workspace](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Aplicação de intervalos de datas reutilizáveis no projeto](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -280,7 +281,7 @@ ht-degree: 99%
       + [Criação de um documento de requisitos comerciais](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [Criação e manutenção de um SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Tags da Experience Platform {#experience-platform-tags}
-      + [Implementação de soluções da Experience Cloud em sites usando tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
+      + [Implementar soluções da Experience Cloud em sites usando tags](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=pt-BR)
       + [Configuração básica da extensão do Analytics](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
       + [Configurar o gerenciamento de bibliotecas para a extensão do Analytics](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Definir configurações gerais na extensão do Analytics](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
@@ -308,9 +309,9 @@ ht-degree: 99%
       + [Comparação de segmentos no Analysis Workspace](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [Containers de segmentos](components/segmentation/segment-containers.md)
       + [Gerenciamento e compartilhamento de segmentos](components/segmentation/segment-management-and-sharing.md)
-      + [Aplicar segmentos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=pt-BR)
+      + [Aplicação de segmentos no Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=pt-BR)
       + [Uso de segmentos como dimensões](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=pt-BR)
-      + [Uso de segmentos para limitar dados](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=pt-BR)
+      + [Utilização de segmentos para limitar dados](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=pt-BR)
       + [Diferenças entre o construtor de segmentos e os segmentos rápidos](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [Segmentação sequencial](components/segmentation/sequential-segmentation.md)
       + [Sequências de “antes/depois” na segmentação sequencial](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
@@ -410,14 +411,14 @@ ht-degree: 99%
    + [Adobe Analytics e Adobe Sensei - democratização da ciência de dados para TODOS](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Específico vertical {#vertical-specific}
    + Alta tecnologia {#high-tech}
-      + [Supersessão do Summit 2019 – Alta tecnologia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=pt-BR)
+      + [Supersessão do Summit 2019: Alta tecnologia](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=pt-BR)
    + Turismo e hospitalidade {#travel-and-hospitality}
-      + [Supersessão do Summit 2019 – Viagens e hospitalidade](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=pt-BR)
+      + [Supersessão do Summit 2019: Viagens e hospitalidade](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=pt-BR)
    + Varejo {#retail}
       + [Introdução a variáveis e eventos de varejo](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Adição de variáveis e eventos básicos de varejo às regras do Launch](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [Adição de uma regra do Launch para o Evento de compra](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Supersessão do Summit 2019 – Varejo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=pt-BR)
+      + [Supersessão do Summit 2019: Varejo](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=pt-BR)
 + Media Analytics {#media-analytics}
    + Medir o Media Analytics {#measuring-media-analytics}
       + [Painel Tempo gasto com a reprodução da mídia](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
@@ -429,7 +430,7 @@ ht-degree: 99%
       + [Rastreamento de ações (também conhecido como Links personalizados)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [Rastreamento de estado (também conhecido como Páginas ou Telas)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [Implementar em aplicativos iOS Swift](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=pt-BR)
-      + [Implementar em aplicativos iOS Objetive-C](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=pt-BR)
+      + [Implementar em aplicativos Objetive-C para iOS](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=pt-BR)
       + [Implementar em aplicativos Android](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=pt-BR)
    + Medir o Mobile Analytics {#measuring-mobile-analytics}
       + [Introdução do Adobe Mobile Analytics](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
