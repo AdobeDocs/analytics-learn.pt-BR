@@ -5,14 +5,20 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32id: f73667dc-d296-4875-8975-ac3fdc3adc42id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 100%
+source-wordcount: 879
+ht-degree: 93%
 
 ---
 
@@ -20,7 +26,8 @@ ht-degree: 100%
 
 _Os executivos muitas vezes não têm informações oportunas e relevantes de seus sites e aplicativos e dependem de gráficos mensais do Excel ou se afundam em dados granulares. A solução: painel de resumo executivo._
 
-Imagine dirigir de Seattle a São Francisco. Em relação ao trajeto, é muito fácil. Pegue I-5 Sul por 12 a 16 horas e você estará lá. Simples, certo? Agora, quero que você imagine que coloquei um pedaço de papelão sobre o painel do carro e digo que no final da viagem, você verá um painel indicando a velocidade, os níveis de combustível e a distância percorrida:
+Imagine dirigir de Seattle a São Francisco. Em relação ao trajeto, é muito fácil. Pegue I-5 Sul por 12 a 16 horas e você estará lá. Simples, certo? Agora, quero que imaginem que coloquei um pedaço de papelão sobre seus painéis, e digo isso no final
+da sua viagem, você receberá um painel que informa a velocidade, os níveis de combustível e a distância percorrida:
 
 ![Bar Graph.png](assets/bar-graph.png)
 
@@ -70,8 +77,8 @@ Com esse produto final em mãos, só será necessário:
 
 - Pegue um café e se prepare, porque quando estiverem com os dados em mãos, os executivos virão até você com muitas perguntas
 
-Em conclusão, os painéis de resumo executivo oferecem informações contínuas e relevantes para a tomada de decisões em tempo hábil. As apresentações mensais com gráficos do Excel são insuficientes e a disponibilização de muitos dados granulares pode sobrecarregar os executivos. Uma bom meio termo é se concentrar apenas nos três KPIs mais importantes com dados históricos e listas suspensas para fatores relevantes. Ao treinar
-os executivos sobre como usar o painel, eles podem tomar decisões informadas e fazer perguntas. Os painéis de resumo executivo podem melhorar o desempenho do site e do aplicativo e impulsionar o sucesso.
+Em conclusão, os painéis de resumo executivo oferecem informações contínuas e relevantes para a tomada de decisões em tempo hábil. As apresentações mensais com gráficos do Excel são insuficientes e a disponibilização de muitos dados granulares pode sobrecarregar os executivos. Uma bom meio termo é se concentrar apenas nos três KPIs mais importantes com dados históricos e listas suspensas para fatores relevantes. Por treinamento
+executivos sobre como usar o painel, eles podem tomar decisões informadas e fazer perguntas. Os painéis de resumo executivo podem melhorar o desempenho do site e do aplicativo e impulsionar o sucesso.
 
 ## Autora
 
@@ -81,4 +88,4 @@ Este documento foi escrito por:
 
 **Gitai Ben-Ammi**, Consultor principal do Concentrix Catalyst
 
-Especialista no Adobe Analytics
+Especialista em Adobe Analytics

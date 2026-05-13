@@ -8,16 +8,22 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-source-git-commit: 32af3db3bd0abe57504708318d9b641324569c65
+TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79eid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1022'
-ht-degree: 100%
+source-wordcount: 1027
+ht-degree: 97%
 
 ---
 
 # Tradução da linguagem técnica do Adobe Analytics para uma forma não técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345332/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Falando línguas diferentes
 
@@ -33,19 +39,19 @@ Por exemplo, esta é a minha maneira favorita de explicar eVars e métodos de al
 
 >[!TIP]
 >
->**Nomeie claramente os componentes (ou seja, dimensões, segmentos e métricas) com descrições.**
->>O compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Adobe Workspace, verifique se os nomes dos componentes são descritivos com tags e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
+>**Nomeie claramente os componentes (ou seja, dimensões, segmentos e métricas) com descrições**
+>O compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Adobe Workspace, verifique se os nomes dos componentes são descritivos com tags e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
 
 ## Dica nº 2: Encontre uma linguagem comum
 
 Não importa o setor em que você trabalha, encontre a linguagem comum que conecta o mundo do Adobe Analytics a algo familiar às partes interessadas.
 
-No [!DNL The Home Depot], um comerciante ou um gerente de loja pode não estar familiarizado com uma ocorrência, visita ou um visitante único. Podemos fornecer uma explicação sobre chamadas do servidor do Analytics, sessões de navegação, tempos limite e cookies... ou podemos trazê-los de volta à loja física e aos clientes (ou seja, essa linguagem comum). Um visitante único se torna um cliente que navega pelas nossas portas da frente. Visitas ao site se tornam quantas viagens a uma loja [!DNL Home Depot] o cliente fez. E as ocorrências se tornam ações do cliente, como caminhar pelos corredores ou conversar com um associado da loja.
+No [!DNL The Home Depot], um comerciante ou um gerente de loja pode não estar familiarizado com uma ocorrência, visita ou um visitante único. Podemos fornecer uma explicação sobre chamadas do servidor do Analytics, sessões de navegação, tempos-limites e cookies... ou podemos trazê-los de volta à loja física e aos clientes (ou seja, essa linguagem comum). Um visitante único se torna um cliente que navega pelas nossas portas da frente. Visitas ao site se tornam quantas viagens a uma loja [!DNL Home Depot] o cliente fez. E as ocorrências se tornam ações do cliente, como caminhar pelos corredores ou conversar com um associado da loja.
 
 >[!TIP]
 >
->**Fazer com que sua implementação reflita a linguagem comum.**
->>Quase tudo na interface do usuário do Adobe Analytics é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
+>**Fazer com que sua implementação reflita a linguagem comum**
+>Quase tudo na interface do usuário do Adobe Analytics é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
 >
 >Considere criar um vocabulário próprio controlado para sua organização se você encontrar vários sinônimos por aí, ou se houver termos que geralmente confundem os usuários. Tome a iniciativa de padronizar a terminologia preferencial. Além disso, analise os termos confusos mais comuns em suas sessões de integração e capacitação para ajudar os usuários a se familiarizarem.
 
@@ -58,7 +64,7 @@ No [!DNL The Home Depot], fizemos um desafio do Adobe Analytics, onde fizemos pe
 >[!TIP]
 >
 >**Criar modelos e orientações do espaço de trabalho específico da solução.**
->>Aproveite os relatórios da empresa (Modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
+>Aproveite os relatórios da empresa (Modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
 >
 >A flexibilidade do Analysis Workspace permite criar modelos para fazer análises mais rápidas, além de permitir autoatendimento e autoativação. Ao combinar as capacidades de recursos, como modelos com curadoria, anotações e links entre/dentro do espaço de trabalho, você tem uma ótima maneira de criar orientações eficientes, acessíveis e fáceis de disseminar para usuários não técnicos no contexto do Adobe Analytics.
 

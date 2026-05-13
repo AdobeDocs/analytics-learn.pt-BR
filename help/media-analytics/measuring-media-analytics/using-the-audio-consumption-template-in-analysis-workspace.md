@@ -10,9 +10,16 @@ kt: 1950
 role: User, Developer, Admin, Leader
 level: Intermediate
 exl-id: 08131913-cb39-4c58-a322-da1e83442e84
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/vajYvJpSeohcfmCPIdCg-0e9iGqXQFgCfZt6nIFAgRQ
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: 111
 ht-degree: 100%
 
 ---
@@ -21,6 +28,6 @@ ht-degree: 100%
 
 Este vídeo descreve o modelo de [!UICONTROL Consumo de áudio] no Analysis Workspace, que está disponível e pronto para uso para [!DNL Audio Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/33528/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12&learn=on)
 
 [!DNL Audio Analytics] conecta o engajamento de áudio da transmissão dos ouvintes com o comportamento digital completo deles, e assim entender quem está ouvindo, onde e quando, e com que frequência avaliar o comportamento do usuário em um mercado de áudio normalmente fragmentado. Com esse recurso, as empresas podem medir o alcance dos ouvintes, a popularidade do conteúdo e fornecer insights sobre como manter os usuários envolvidos com base no comportamento deles e na modelagem por semelhança.

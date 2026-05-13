@@ -7,10 +7,17 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
+TQID: https://experienceleague.adobe.com/rWtllAn3jMduCGGWsN-DpKB1WmE-P-EuVcjOyuQn6S0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7aid: f73667dc-d296-4875-8975-ac3fdc3adc42id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: ac8a38fa-dec3-4581-8f64-178fde9f64e8id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705cid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e318d41c-1d01-4c1e-9b18-1f61d435ceeeid: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: e3e906cf-5493-4e0a-9a33-bf0ac37393d6id: e7d92df1-c5ba-4e93-85df-f83171b889beid: f1f1a2d4-0976-4881-b091-c2bb8de7ffacid: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '3403'
-ht-degree: 97%
+source-wordcount: 3446
+ht-degree: 94%
 
 ---
 
@@ -34,7 +41,7 @@ Quando as pessoas comparam o Google Analytics com o Adobe Analytics, elas coment
 
 Vamos começar observando os relatórios &quot;no site&quot;.
 
-### 2.1. Relatórios no site
+### 2.1. Relatório no site
 
 #### 2.1.1. Tela inicial
 
@@ -72,7 +79,7 @@ No GA4, os usuários têm mais opções para personalizar e adicionar seus próp
 
 Isso é provavelmente o que você mais sente falta no Adobe Analytics. Não há uma tela inicial pré-construída para você. No entanto, você pode facilmente configurar um espaço de trabalho personalizado para replicar o que precisa da lista acima e configurá-lo como sua tela de destino. Mais informações sobre isso serão apresentadas mais adiante (ou consulte a Seção 2.1.2.1 do Adobe Workspace).
 
-#### 2.1.2. Report Builders no local
+#### 2.1.2. Construtores de relatórios no site
 
 Além de fornecer relatórios simples, as ferramentas de análise fornecem ferramentas mais eficientes para criar seus próprios relatórios personalizados.
 
@@ -123,7 +130,7 @@ O Espaço de trabalho permite que sua criatividade flua, você não fica limitad
 
 >[!TIP]
 >
->Não tenha medo de experimentar e explorar. Há várias maneiras de pensar fora da caixa. Além disso, validar o que você construiu mostra a sua opinião. A experiência ajuda.
+>Não tenha medo de experimentar e explorar. Há muitas maneiras de pensar fora da caixa. Além disso, validar o que você construiu mostra a sua opinião. A experiência ajuda.
 
 Você pode criar métricas calculadas dinamicamente ou segmentos que vivem somente dentro do relatório para evitar a inundação do segmento e do repositório de cálculos. Isso permite criar itens focados que são necessários para relatórios específicos sem confundir sua organização com itens que não podem ser usados em outros contextos.
 
@@ -137,7 +144,7 @@ Outro recurso eficiente dos espaços de trabalho é a capacidade de aplicar modi
 
 >[!IMPORTANT]
 >
->Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=pt>
+>Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google Analytics: painéis, relatórios personalizados e relatórios salvos
 
@@ -151,7 +158,7 @@ Nos relatórios personalizados, um dos maiores desafios é que, ao criar um filt
 
 Ele funciona para comparações simples. Todos são semelhantes aos painéis herdados, aos relatórios personalizados e aos marcadores da Adobe. São ferramentas básicas fornecidas para atender às suas necessidades, que estão no conjunto de relatórios.
 
-#### 2.1.3 Relatórios
+#### 2.1.3. Relatórios
 
 O Google e a Adobe têm alguns relatórios navegáveis que são tabelas pré-construídas e gráficos de linha do tempo básicos baseados em uma dimensão.
 
@@ -193,7 +200,7 @@ Todos os relatórios aqui permitiam várias colunas de métrica e detalhamentos 
 
 ##### 2.1.3.2. Relatórios do Google Analytics
 
-O Google Analytics divide esses relatórios nas seguintes seções: Tempo real, Público-alvo, Aquisição, Comportamento, Conversas (no GA3), Ciclo de vida (com as subseções: Aquisição, Envolvimento, Monetização, Retenção) e Usuário (com as subseções: Demografia e Tecnologia).
+O Google Analytics divide esses relatórios nas seguintes seções: Tempo real, Público-alvo, Aquisição, Comportamento, Conversas (no GA3), Ciclo de vida (com as subseções: Aquisição, Engajamento, Monetização, Retenção) e Usuário (com as subseções: Demografia e Tecnologia).
 
 ![google-analytics-interface-compare](assets/ga-to-aa_7.png)
 
@@ -203,7 +210,7 @@ Esses fornecem insights rápidos e fáceis para seus dados. No entanto, você n�
 
 São boas para dados analíticos rápidos, mas se você realmente precisa pesquisar fundo, elas sofrem com as limitações.
 
-### 2.2. Acesso estendido ao relatório
+### 2.2. Acesso Estendido ao Relatório
 
 Além do “Relatório local”, a maioria das ferramentas oferece uma funcionalidade estendida que permite levar sua análise para fora das ferramentas e criar algo um pouco mais personalizado.
 
@@ -233,7 +240,7 @@ Se você está lendo este documento, já sabe que mencionei o Data Studio como u
 Mesmo assim, essa é uma ferramenta eficiente, e eu de forma alguma desaconselharia as pessoas a usá-la. A minha experiência pessoal é que considero o comportamento rígido bastante limitante.
 
 
-#### 2.2.4. Extensão das Planilhas Google
+#### 2.2.4. Extensão de planilha do Google
 
 Para uso próprio, quando preciso extrair dados de maneira estendida do Google Analytics, minha ferramenta pessoal de escolha é a extensão de planilhas do Google. Embora eu precise fazer várias conexões com minhas tabelas de GA, posso fazer referência às células dos dados brutos e criar os relatórios que preciso. Em seguida, visualizo-os usando os recursos gráficos das Planilhas do Google.
 
@@ -242,7 +249,7 @@ Para uso próprio, quando preciso extrair dados de maneira estendida do Google A
 
 Há ocasiões em que realmente precisamos de dados brutos. Tanto a Adobe quanto o Google oferecem os recursos para obter informações nesse formato.
 
-### 3.1. Feed de dados da Adobe
+### 3.1. Feed de dados do Adobe
 
 Na Seção 2.2.2, mencionei que a API do Adobe Analytics extraía de &quot;dados processados&quot;. O feed de dados brutos extrai dados processados pelas “Regras de processamento” que foram configuradas no painel de administração, mas esses dados brutos incluem todos os dados excluídos em qualquer outro lugar.
 
@@ -250,12 +257,12 @@ Isso significa que todas as exclusões de bot, dados filtrados por IP interno et
 
 Os feeds de dados brutos podem ser personalizados para enviar todas as colunas de dados ou apenas colunas específicas se você precisar de um feed mais focado.
 
-Os feeds podem ser enviados diretamente para o FTP, SFTP ou S3. 
+Os feeds podem ser enviados diretamente para o FTP, SFTP ou S3.
 
 
 ### 3.2. Google Big Query
 
-Infelizmente, esta é uma ferramenta do Google com a qual não tenho nenhuma experiência de uso. Em teoria, ele deve ser semelhante ao feed de dados da Adobe, permitindo que sua equipe de engenharia acesse dados brutos da conta do Google Analytics.
+Infelizmente, essa é uma ferramenta do Google que eu não tenho experiência em usar. Em teoria, ele deve ser semelhante ao Feed de dados da Adobe, permitindo que sua equipe de engenharia acesse dados brutos da conta da Google Analytics.
 
 No entanto, em vez de fornecer um despejo completo de dados brutos, ele permite que os engenheiros acessem os dados por meio de consultas SQL para obter dados brutos direcionados ou todas as colunas de dados brutos.
 
@@ -267,7 +274,7 @@ No entanto, eu recomendaria o uso do Adobe Analytics e do Google Analytics em su
 
 Há muitos recursos disponíveis para você além deste guia que podem ajudar a melhorar sua estratégia:
 
-* [Adobe Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
 * [Grupos de usuários da Adobe](https://analytics-augs.adobe.com/) - Um centro de eventos executados pela comunidade para ajudar os usuários a se conectarem e melhorar suas implementações.
 * [Canal do YouTube para grupos de usuários do Adobe Analytics](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Não foi possível criar uma sessão de grupo de usuários do Adobe Analytics? Assista novamente às sessões anteriores de grupos de usuários em todo o mundo para saber mais sobre como seus colegas estão usando a ferramenta.
 * [Canal de chat do Slack para medições](https://www.measure.chat/) - Conecte-se com usuários do Adobe Analytics em todo o mundo e compartilhe aprendizados do setor, faça perguntas a seus colegas e participe de grupos de interesse com foco em medição.

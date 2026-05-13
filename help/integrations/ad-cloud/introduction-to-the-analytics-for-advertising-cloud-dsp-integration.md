@@ -1,5 +1,5 @@
 ---
-title: Introdução à integração do Adobe Advertising DSP
+title: Introdução à integração da Adobe Advertising DSP
 description: A integração do Adobe Advertising DSP é uma integração bidirecional nativa entre o Adobe Analytics e o Adobe Advertising DSP.
 feature: Advertising Analytics
 topic: Integrations
@@ -8,15 +8,22 @@ level: Intermediate
 thumbnail: 27237.jpg
 kt: 2913
 exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/Sjavphe1FIJSjOObiqmOQ6YjjMPAEXL19O34TXqJKJo
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+subfeature_v2: id: a9364d69-0c51-44bf-8b5f-6d99c04493b8id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 0%
+source-wordcount: 97
+ht-degree: 14%
 
 ---
 
-# Introdução à integração do Adobe Advertising DSP
+# Introdução à integração da Adobe Advertising DSP
 
 A integração do DSP [!DNL Adobe Advertising] é uma integração bidirecional nativa entre o Adobe Analytics e o Adobe Advertising DSP. Esta integração captura `Viewthroughs` de impressões de anúncios do Advertising para [!DNL Analytics]. [!DNL Analytics] conecta `Viewthroughs` a todas as atividades downstream do site, como `Clickthroughs`. [!DNL Analytics] passa [!DNL metrics] de volta para [!DNL Advertising DSP] para alimentar modelos de lances algorítmicos avançados. Este vídeo aborda a métrica `Viewthrough`, os benefícios da integração e fornece exemplos básicos do uso das [!UICONTROL dimensões] e [!UICONTROL métricas] no [!UICONTROL Analysis Workspace].
 
->[!VIDEO](https://video.tv.adobe.com/v/327668/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=12&learn=on)

@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2: id: c8add8f2-4250-4fd9-9cde-9707036c567did: cc449013-c052-42d5-9ca4-0d2bceb6f06aid: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1802'
-ht-degree: 94%
+source-wordcount: 1823
+ht-degree: 89%
 
 ---
 
@@ -24,7 +31,7 @@ Antes de começar, [baixe o manual](assets/aa-implementation-playbook.xlsx).
 
 **O QUE:** um Documento de requisitos comerciais (geralmente chamado de BRD) é uma documentação muito importante na qual os principais interessados, usuários empresariais e de tecnologia desejam colaborar. É um local para documentar todos os KPIs, requisitos de relatórios e qualquer ponto de dados desejado que você deseja ver quando a implementação do Adobe Analytics (AA) for concluída.
 
-**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum da verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
+**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum de verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
 
 **COMO:** a documentação dos requisitos de negócios é comumente feita pelos usuários empresariais finais do AA, mas é importante obter feedback dos usuários de tecnologia, pois pode haver desafios técnicos a serem observados e alguns pontos de dados podem exigir mais esforço do que outros, o que faz parte da priorização.
 
@@ -44,7 +51,7 @@ Por fim, a coluna Status da implementação servirá como uma verificação de s
 
 **POR QUE:** este documento terá muitos propósitos, mas os mais importantes são:
 
-* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e qual é a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
+* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
 * Para o proprietário/usuário técnico de um produto do AA, este documento servirá como um lembrete de como outras variáveis são configuradas e quais variáveis estão disponíveis para uso ao adicionar uma nova dimensão.
 
 **COMO:** comece listando todas as variáveis prontas para uso da Adobe (página, produto, geo etc.), bem como eVars, props, eventos e variáveis de lista em um documento do Excel. Isso deve ter uma guia por site/conjunto de relatórios.
@@ -60,7 +67,7 @@ Para cada uma dessas dimensões, adiciono as seguintes colunas:
 * **Configuração:** configurações da interface do administrador para cada variável (ou seja, para eVars — expiração, alocação, merchandising etc.)
 
 Captura de tela do SDR de amostra:
-![SDR de exemplo](assets/sample-sdr.png)
+![SDR de Exemplo](assets/sample-sdr.png)
 
 Também é recomendável usar este documento de marcação para rastrear qualquer variável livre e qualquer variável “inútil”. Quando uma dimensão não é mais útil, o desenvolvimento geralmente precisará de um tempo para excluí-la. Mesmo depois disso, o armazenamento em cache pode ocorrer, ou você pode perceber que a dimensão também estava sendo definida em outro lugar. Limpar dimensões não é uma tarefa fácil e pode exigir paciência. Veja algumas dicas para manter seu lixo escondido para que seus usuários não fiquem confusos enquanto o acompanham.
 
@@ -99,7 +106,7 @@ Lembre-se de incluir todas as propriedades digitais, mesmo que elas não estejam
 
 >[!TIP]
 >
->Crie uma dimensão de nome de site/propriedade no Adobe Analytics. Ter uma dimensão dedicada (geralmente um eVar) no Adobe Analytics, que identifica o nome do site/nome do aplicativo, permitirá segmentar, solucionar problemas, criar conjuntos de relatórios virtuais etc. Os benefícios são infinitos, especialmente ao combinar vários sites em um conjunto de relatórios (global). O segredo é garantir que suas equipes de desenvolvimento sempre definam esse valor na dimensão de propriedades, incluindo todos os carregamentos de página (s.t calls/trackState) e todos os eventos personalizados (s.tl calls/trackAction). As regras de processamento podem ser uma ferramenta valiosa para ajudar você a definir esses valores de maneira adequada e consistente.
+>Crie uma dimensão de nome de site/propriedade no Adobe Analytics. Ter uma dimensão dedicada (geralmente uma eVar) no Adobe Analytics que identifica o nome do site/nome do aplicativo permitirá segmentar, solucionar problemas, criar conjuntos de relatórios virtuais etc. Os benefícios são infinitos, especialmente ao combinar vários sites em um conjunto de relatórios (global). O segredo é garantir que suas equipes de desenvolvimento sempre definam esse valor na dimensão de propriedades, incluindo todos os carregamentos de página (s.t calls/trackState) e todos os eventos personalizados (s.tl calls/trackAction). As regras de processamento podem ser uma ferramenta valiosa para ajudar você a definir esses valores de maneira adequada e consistente.
 
 [Assista a este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR){target="_blank"} para obter mais informações sobre como preencher o manual de implementação.
 
@@ -109,7 +116,7 @@ Este documento foi coescrito por:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon, gerente de plataforma de análise digital do NortonLifeLock 
+Christel Guidon, gerente de plataforma de análise digital da NortonLifeLock
 Especialista em Adobe Analytics
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

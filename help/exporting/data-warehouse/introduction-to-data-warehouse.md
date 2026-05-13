@@ -7,10 +7,16 @@ level: Beginner
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+TQID: https://experienceleague.adobe.com/VFBMRRa6bUimYE6MV5YX0mNJ4IjzDDDuhAKLLO-Gr3Q
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: c153fd90-23e1-4614-81d3-3cc7571227f7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: 95
+ht-degree: 9%
 
 ---
 
@@ -18,4 +24,4 @@ ht-degree: 1%
 
 Saiba como aproveitar ao máximo a interface do usuário de relatórios do Data Warehouse e as contas e locais de exportação. Este vídeo aborda o fluxo de trabalho básico de um delivery de relatório para email e Amazon S3. Para obter a documentação detalhada, consulte a [visão geral do Data Warehouse](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/data-warehouse.html?lang=pt-BR) e os documentos adjacentes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428488/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12&learn=on)

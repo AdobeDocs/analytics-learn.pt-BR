@@ -7,9 +7,16 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/s1Xd0O3MJpoKScrk-FhStl3FppGHLilR4vms1DZg8xM
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: 190
 ht-degree: 100%
 
 ---
@@ -18,7 +25,7 @@ ht-degree: 100%
 
 Neste vídeo, você aprenderá a usar os filtros suspensos no Analysis Workspace para alterar dinamicamente o conteúdo de um painel.
 
->[!VIDEO](https://video.tv.adobe.com/v/30816/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 A área de destino do painel agora tem recursos suspensos de filtragem. Os filtros suspensos permitem que analistas e usuários finais interajam com os dados por meio de filtros controlados. Você pode criar um filtro suspenso a partir de qualquer tipo de componente e, em seguida, alternar entre itens na lista suspensa para filtrar o conteúdo do painel. Também é possível adicionar vários menus suspensos a um único painel para obter controle adicional.
 
