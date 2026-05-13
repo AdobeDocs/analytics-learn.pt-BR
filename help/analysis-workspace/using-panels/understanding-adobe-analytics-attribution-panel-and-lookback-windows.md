@@ -10,11 +10,18 @@ jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
 TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
-subfeature_v2: id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1704
@@ -54,7 +61,7 @@ De acordo com o [Adobe](https://experienceleague.adobe.com/docs/analytics-platfo
 
 >[!WARNING]
 >
-**Os modelos de atribuição** são tão frequentemente associados a **canais de marketing** que eu *risquei* ❷ o CANAL na imagem acima para ilustrar que é possível executar a análise de **atribuição** comparando-a com a maioria das outras ***dimensões***.
+>**Os modelos de atribuição** são tão frequentemente associados a **canais de marketing** que eu *risquei* ❷ o CANAL na imagem acima para ilustrar que é possível executar a análise de **atribuição** comparando-a com a maioria das outras ***dimensões***.
 
 
 Na verdade, raramente uma determinada jornada de cliente é realmente linear e menos previsível.  Além disso, cada cliente continuará em seu próprio ritmo; com frequência, ele pode voltar, parar, sair ou adotar outros comportamentos não lineares. Essas ações orgânicas dificultam ou são praticamente impossíveis de saber o impacto dos esforços de marketing na jornada do cliente. Também dificultam os esforços para unir vários canais de dados.
@@ -77,7 +84,7 @@ Tendo isso em mente, aqui estão alguns exemplos de como os ❸ **modelos de atr
 
   >[!CAUTION]
   >
-  No entanto, recomenda-se cautela aqui, porque você tem o potencial de espalhar seus resultados muito rapidamente ao aplicar essa tática, considerando quanto mais longa ela é executada e quanto maior o público em que ela é atingida.
+  >No entanto, recomenda-se cautela aqui, porque você tem o potencial de espalhar seus resultados muito rapidamente ao aplicar essa tática, considerando quanto mais longa ela é executada e quanto maior o público em que ela é atingida.
 
 - **Forma de U**: esta abordagem atribui **40%** do crédito à *primeira pessoa* na porta, distribui **20%** do crédito entre *todos entre* e dá **40%** ao **último**. Este modelo será usado com mais frequência em situações em que você tem um **longo ciclo de conversão/vendas** contendo *vários pontos de contato* ao longo do caminho.  Nesse caso, seu objetivo é destacar principalmente as táticas de marketing do ***first*** e do ***last*** que contribuíram para a conversão do cliente.
 - **J**-**Formatado** e **J Inverso**:
