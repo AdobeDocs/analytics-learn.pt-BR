@@ -26,4 +26,4 @@ ht-degree: 94%
 
 Os modelos de dimensão estão disponíveis por meio da engrenagem para qualquer dimensão na segmentação. Esses modelos são úteis principalmente para a segmentação sequencial e permitem segmentar valores persistentes de uma dimensão (padrão), instâncias ou instâncias não repetitivas de uma dimensão. Para obter a documentação detalhada, visite [Construtor de segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=pt-BR){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430063/?captions=por_br&quality=12&learn=on)

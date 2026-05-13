@@ -34,7 +34,7 @@ ht-degree: 63%
 
 Saiba tudo sobre como trabalhar com dimensões em tabelas de forma livre, incluindo como adicioná-las, classificá-las, filtrá-las, separá-las em outras dimensões etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328535/?captions=por_br&quality=12&learn=on)
 
 Tópicos abordados no vídeo, incluindo tempos:
 

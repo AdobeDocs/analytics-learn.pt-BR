@@ -30,4 +30,4 @@ ht-degree: 62%
 
 Saiba como usar o [!UICONTROL Construtor de regras de classificação] para aplicar automaticamente [!UICONTROL classificações] baseadas em regras no Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434379?captions=por_br&quality=12&learn=on)

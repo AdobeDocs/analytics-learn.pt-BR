@@ -31,4 +31,4 @@ ht-degree: 100%
 
 Aprenda sobre os recursos que permitem aos analistas e profissionais de marketing editar visualizações de texto (ou descrições) no Analysis Workspace - negrito, itálico, cabeçalhos, hiperlinks e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30800/?captions=por_br&quality=12&learn=on)

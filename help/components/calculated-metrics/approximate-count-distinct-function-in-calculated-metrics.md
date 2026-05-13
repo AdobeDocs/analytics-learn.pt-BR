@@ -34,6 +34,6 @@ ht-degree: 0%
 
 Saiba como criar uma métrica calculada usando a função Contagem distinta aproximada, que retorna a contagem distinta aproximada de itens de dimensão para uma dimensão selecionada.
 
->[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33527/?captions=por_br&quality=12&learn=on)
 
 Você pode usar a métrica mostrada neste vídeo em qualquer relatório para entender a contagem de uma dimensão em relação aos valores de outras. Um caso de uso muito comum seria usar essa função para criar uma métrica de IDs do cliente, que você poderia usar em qualquer relatório para ver quantos clientes se aplicam aos diferentes valores de dimensão.

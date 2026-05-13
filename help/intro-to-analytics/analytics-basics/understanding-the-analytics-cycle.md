@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Neste vídeo simples, mas importante, saiba mais sobre as etapas envolvidas na análise dos dados do seu site. Reservar algum tempo para entender esse processo pode fazer toda a diferença para o sucesso do seu programa [!DNL Analytics].
 
->[!VIDEO](https://video.tv.adobe.com/v/28950/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35881/?captions=por_br&quality=12&learn=on)

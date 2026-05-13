@@ -33,4 +33,4 @@ ht-degree: 45%
 
 Os conjuntos de relatórios virtuais podem ser gerenciados para incluir e excluir [!UICONTROL dimensões], [!UICONTROL métricas] e [!UICONTROL segmentos] no Analysis Workspace, o que ajuda muito se você estiver compartilhando-os com outras equipes que precisam apenas de uma parte específica dos dados ou que usam uma nomenclatura de dados diferente. Para obter a documentação detalhada, visite [Curadoria do componente do conjunto de relatórios virtual](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=pt-BR){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425526/?captions=por_br&quality=12&learn=on)

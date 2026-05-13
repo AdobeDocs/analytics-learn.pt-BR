@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Obtenha uma visão geral do uso de calendários e datas para suas visualizações no Analysis Workspace
 
->[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30815/?captions=por_br&quality=12&learn=on)

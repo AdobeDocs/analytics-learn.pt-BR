@@ -30,6 +30,6 @@ ht-degree: 100%
 
 As [!UICONTROL tabelas de coorte] oferecem dois tipos de análise - [!UICONTROL Retenção] e [!UICONTROL Churn]. Enquanto a análise de [!UICONTROL Retenção] mostra quantos usuários foram retidos ao longo do tempo, a opção [!UICONTROL Churn] mostrará quantos usuários foram perdidos (1 - Retenção).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430161/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).

@@ -32,6 +32,6 @@ ht-degree: 100%
 
 “Segmentos rápidos” é uma experiência de segmentação simplificada diretamente na tela do Espaço de trabalho. Os Segmentos rápidos permitem que os usuários criem segmentos instantâneos com até três regras sem precisar sair do fluxo de trabalho de análise.
 
->[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345341/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=pt-BR).

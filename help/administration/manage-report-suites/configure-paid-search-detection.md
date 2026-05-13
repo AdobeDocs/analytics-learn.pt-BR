@@ -40,6 +40,6 @@ ht-degree: 100%
 
 Saiba como usar a configuração da seção Detecção de pesquisa paga no Admin Console do Adobe Analytics, incluindo algumas recomendações.
 
->[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343280/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=pt-BR#section_0C2CFA0AF77B47098BE37CB024665D0D).

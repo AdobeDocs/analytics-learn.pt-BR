@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Aprenda estas técnicas para criar um painel da Advertising Cloud para monitoramento de campanha ao vivo.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40463/?captions=por_br&quality=12&learn=on)

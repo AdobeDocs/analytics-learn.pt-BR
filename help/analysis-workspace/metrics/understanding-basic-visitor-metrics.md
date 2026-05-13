@@ -35,4 +35,4 @@ Saiba mais sobre [[!UICONTROL Exibições de página]](https://experienceleague.
 
 * Exiba uma amostra do projeto [!UICONTROL Workspace] que mostra como essas métricas são exibidas na interface.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31179/?captions=por_br&quality=12&learn=on)

@@ -30,7 +30,7 @@ ht-degree: 94%
 
 # Você está fazendo as perguntas certas?
 
->[!VIDEO](https://video.tv.adobe.com/v/342361/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3409140/?captions=por_br&quality=12&learn=on)
 
 _Todos_. Esta é uma das respostas mais comuns das partes interessadas à pergunta: _Quais dados você deseja rastrear?_ Pode ser mais valioso identificar e coletar os _pontos de dados acionáveis_ do que registrar cada elemento possível. A identificação eficiente desses pontos de dados exige um plano básico e discussões criativas com as partes interessadas.
 

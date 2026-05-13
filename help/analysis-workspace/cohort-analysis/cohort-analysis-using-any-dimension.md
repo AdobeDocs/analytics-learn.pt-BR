@@ -28,6 +28,6 @@ ht-degree: 59%
 
 A opção [!UICONTROL Dimensão] de [!UICONTROL coorte] personalizada permite analisar [!UICONTROL coortes] usando [!UICONTROL dimensões] além das de tempo. Compare [!UICONTROL coortes] por canal de marketing, região da campanha, página do produto etc. para entender melhor como a [!UICONTROL retenção] (ou a [!UICONTROL churn]) muda pelo item [!UICONTROL dimensão].
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430183/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=pt-BR).

@@ -35,7 +35,7 @@ ht-degree: 53%
 
 Saiba como personalizar sua visualização de tabelas de retenção ou churn usando configurações da Tabela de coorte.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430101/?captions=por_br&quality=12&learn=on)
 
 As personalizações para a [!UICONTROL Tabela de coorte] incluem a capacidade de:
 

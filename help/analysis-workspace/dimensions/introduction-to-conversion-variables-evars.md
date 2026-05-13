@@ -38,6 +38,6 @@ ht-degree: 25%
 
 Saiba mais sobre como as variáveis de conversão, também conhecidas como [!DNL eVars], são usadas no Adobe Analytics, incluindo como elas estão relacionadas a eventos de conversão e se diferem das variáveis de tráfego.
 
->[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429025/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/components/dimensions/evar).

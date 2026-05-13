@@ -33,6 +33,6 @@ ht-degree: 26%
 
 [!UICONTROL Os histogramas] permitem visualizar a distribuição de uma métrica entre seus visitantes, visitas e ocorrências, para encontrar segmentos de alto e baixo valor.
 
->[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30786/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte [a documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=pt-BR).

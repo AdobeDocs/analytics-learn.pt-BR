@@ -35,6 +35,6 @@ ht-degree: 24%
 
 Saiba como compartilhar projetos do Workspace Analysis somente leitura com os usuários e entenda os recursos disponíveis para esse nível de permissão.
 
->[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40059/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html?lang=pt-BR)

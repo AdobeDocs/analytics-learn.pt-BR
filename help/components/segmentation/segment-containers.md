@@ -29,6 +29,6 @@ ht-degree: 100%
 
 Ao construir segmentos, os contêineres de ocorrência, visita e visitante controlam quantos dados seu segmento conterá. Neste vídeo, aprenda como usar os contêineres e veja alguns exemplos de cada tipo de contêiner.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429097/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=pt-BR).

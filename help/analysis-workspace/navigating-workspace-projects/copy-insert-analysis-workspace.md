@@ -33,4 +33,4 @@ ht-degree: 100%
 
 Saiba como copiar e inserir painéis e visualizações no Analysis Workspace. Estas técnicas economizam tempo ao refinar um projeto atual ou iniciar um novo projeto.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33028/?captions=por_br&quality=12&learn=on)

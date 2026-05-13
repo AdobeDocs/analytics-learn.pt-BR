@@ -32,6 +32,6 @@ ht-degree: 74%
 
 Saiba como criar filtros suspensos com base em uma dimensão inteira. Os itens de dimensão são atualizados dinamicamente com base no intervalo de datas usado no painel de relatórios e nos valores selecionados em outros filtros suspensos no mesmo painel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446821/?captions=por_br&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=pt-BR#dynamic-drop-down-filters).

@@ -31,6 +31,6 @@ ht-degree: 37%
 
 Neste vídeo, saiba como usar painéis do Adobe Analytics (aplicativo móvel) para acessar e exibir &quot;scorecards&quot; criados por você ou compartilhados com você.
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38148/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=pt-BR).

@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Analise detalhadamente seus dados com a segmentação no Adobe Analytics. Este vídeo o orienta pelo construtor de segmentos e fornece uma visão geral básica.
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32617/?captions=por_br&quality=12&learn=on)

@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Use as dimensões da Advertising Cloud para criar segmentos para relatórios e análises.
 
->[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40439/?captions=por_br&quality=12&learn=on)

@@ -27,4 +27,4 @@ ht-degree: 61%
 
 Saiba como enviar um tíquete de suporte para [!DNL Customer Care] na Adobe diretamente do produto, simplificando o processo de resolução.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430053/?captions=por_br&quality=12&learn=on)
