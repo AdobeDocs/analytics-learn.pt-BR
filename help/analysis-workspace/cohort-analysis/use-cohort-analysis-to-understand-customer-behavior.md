@@ -5,14 +5,25 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 13%
+source-wordcount: 1155
+ht-degree: 8%
 
 ---
 
@@ -138,9 +149,9 @@ Coorte personalizada do Dimension: crie coortes com base na dimensão selecionad
 
 A definição de segmento de coorte personalizada do Dimension aplica o item de dimensão somente como parte do período de inclusão, não como parte da definição de retorno.
 
-Depois de escolher a opção Coorte personalizada do Dimension, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão similares entre o mesmo período de tempo. Por exemplo, você pode comparar o desempenho de cidades lado a lado
+Depois de escolher a opção Coorte personalizada do Dimension, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão semelhantes no mesmo período. Por exemplo, você pode comparar o desempenho de cidades lado a lado
 
-lado, produtos, campanhas etc. Ele retornará seus 14 principais itens de dimensão. Entretanto, você pode usar um filtro (acesse-o passando o mouse sobre o lado direito da dimensão que foi arrastada) para exibir somente os itens de dimensão desejados. Um Coorte de dimensão personalizado não pode ser usado com o recurso de Tabela de latência.
+lado, produtos, campanhas etc. Ele retornará seus 14 principais itens de dimensão. No entanto, você pode usar um filtro (acesse-o passando o mouse sobre a direita da dimensão que foi arrastada) para exibir somente os itens de dimensão desejados. Um Coorte Dimension personalizado não pode ser usado com o recurso de Tabela de latência.
 
 ### Quais produtos estão causando aderência no site?
 
@@ -172,4 +183,4 @@ Este documento foi escrito por:
 
 **Jennifer Yacenda**, diretora sênior da Marriott
 
-Especialista no Adobe Analytics
+Especialista em Adobe Analytics

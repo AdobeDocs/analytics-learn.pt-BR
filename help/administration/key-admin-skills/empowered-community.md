@@ -10,10 +10,31 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/ir0Ck8qSsCgq2MsalGph9EUNvPp7-ov8IN2xlG2bypk
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: 1605
+ht-degree: 94%
 
 ---
 
@@ -59,7 +80,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
    * **Usuários da ferramenta:** A oportunidade de se envolver está aberta para qualquer pessoa, independentemente de cargo ou função, que tenha o potencial de impactar dados alinhados à implementação do Adobe Analytics na sua empresa.
 
-* Lembre-se - “O que eles ganham com isso?” Manter a sua comunidade focada nos casos de uso e prioridades do negócio ajuda a garantir o engajamento e o sucesso.
+* Lembre-se - &quot;O que eles ganham com isso?&quot; Manter a sua comunidade focada nos casos de uso e prioridades do negócio ajuda a garantir o engajamento e o sucesso.
 
 ## &#x200B;3. Use as ferramentas para começar a criar a sua comunidade
 
@@ -68,8 +89,8 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
   Uma carta de projeto é geralmente uma ótima maneira de alinhar os seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar a sua carta:
 
    * Qual é a descrição do problema que você está tentando resolver? Qual é o objetivo de sua comunidade e o que você prevê como dentro ou fora do escopo?
-   * “O que eu ganho com isso?” Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
-   * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário em uma perspectiva de capacitação, ferramenta, grupos de usuários administradores etc?   Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
+   * &quot;O que eu ganho com isso?&quot; Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
+   * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário de uma perspectiva de capacitação, ferramenta, grupos de usuários administradores etc? Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
    * Qual será a eficácia dos principais membros da equipe para o sucesso da comunidade e quem será apoiado dentro da iniciativa?
    * Por fim, quem é o seu patrocinador executivo? Não podemos enfatizar o suficiente o valor de um patrocinador executivo forte, alguém que apoie o trabalho e o seu valor.
 
@@ -107,7 +128,7 @@ Estabelecer e manter uma comunidade fortalecida dá muito trabalho. É important
 
 * Tomada de decisão orientada por dados - Uma comunidade fortalecida pode [mudar o seu negócio](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=pt-BR), já que o Adobe Analytics permite a narrativa de dados, prevê resultados e também os prescreve de uma maneira acessível em toda a organização para oferecer suporte à inteligência do cliente e à tomada de decisões orientadas por dados.
 
-* Maior experiência e eficiência - Correlações diretas podem ser feitas entre o envolvimento de capacitação e o retorno do investimento em marketing. Uma comunidade fortalecida eleva o nível de conhecimento de todos, facilitando o compartilhamento de insights, práticas recomendadas, projetos e atualizações de produtos, incentivando a colaboração. Ela faz isso enquanto permite a autossuficiência e uma otimização maior por meio do Adobe Analytics. Isso apoia o canal de marketing, a página, a geolocalização, o público-alvo e assim por diante. Também oferece suporte a otimizações de experiência, permitindo que as equipes se concentrem em onde podem causar o maior impacto.
+* Maior experiência e eficiência - Correlações diretas podem ser feitas entre o engajamento de capacitação e o retorno do investimento em marketing. Uma comunidade fortalecida eleva o nível de conhecimento de todos, facilitando o compartilhamento de insights, práticas recomendadas, projetos e atualizações de produtos, incentivando a colaboração. Ela faz isso enquanto permite a autossuficiência e uma otimização maior por meio do Adobe Analytics. Isso apoia o canal de marketing, a página, a geolocalização, o público-alvo e assim por diante. Também oferece suporte a otimizações de experiência, permitindo que as equipes se concentrem em onde podem causar o maior impacto.
 
 * Valorização - Se a sua empresa investiu em uma ferramenta tão avançada quanto o Adobe Analytics, é do interesse de todos que você perceba o valor total de seu potencial.
 

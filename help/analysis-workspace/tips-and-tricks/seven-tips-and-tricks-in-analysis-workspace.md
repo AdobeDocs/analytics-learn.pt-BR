@@ -10,10 +10,37 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1054'
-ht-degree: 100%
+source-wordcount: 1072
+ht-degree: 91%
 
 ---
 
@@ -36,7 +63,7 @@ Basta arrastar e soltar um [!UICONTROL segmento] ou qualquer outro componente na
 
 ### ***Dica 2: Criar métricas simples sem sair do seu fluxo de trabalho***
 
-Com as [!UICONTROL métricas calculadas] rápidas, você pode criar novas [!UICONTROL métricas] diretamente do Analysis Workspace, em vez de navegar até o Construtor de [!UICONTROL métrica calculada]. Basta selecionar as colunas de [!UICONTROL métrica] que deseja calcular e, em seguida, clicar com o botão direito do mouse e selecionar “[!UICONTROL Criar métrica a partir da seleção]”. Agora, você pode adicionar, subtrair, dividir, multiplicar e muito mais, sem sair do projeto e perder a linha de raciocínio.
+Com as [!UICONTROL métricas calculadas] rápidas, você pode criar novas [!UICONTROL métricas] diretamente do Analysis Workspace, em vez de navegar até o Construtor de [!UICONTROL métrica calculada]. Basta selecionar as colunas de [!UICONTROL métrica] que deseja calcular e, em seguida, clicar com o botão direito do mouse e selecionar &quot;[!UICONTROL Criar métrica a partir da seleção]&quot;. Agora, você pode adicionar, subtrair, dividir, multiplicar e muito mais, sem sair do projeto e perder a linha de raciocínio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30798/?captions=por_br&quality=12&learn=on)
 
@@ -94,8 +121,8 @@ Agora é possível transformar facilmente qualquer projeto em um modelo personal
 >
 >**Recurso altamente solicitado:** vários clientes nos pediram que fosse possível salvar projetos como modelos personalizados. Agora, esse recurso se tornou um dos favoritos.
 
-[Clique aqui para encontrar mais dicas e truques na Experience League](https://experienceleague.adobe.com/pt-br?search=tips&lang=pt-BR#recommended/solutions/analytics)
+[Clique aqui para encontrar mais dicas e truques no Experience League](https://experienceleague.adobe.com/pt-br?search=tips&lang=pt-BR#recommended/solutions/analytics)
 
 | Sobre o autor |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser é gerente da equipe de gerenciamento de produtos do Adobe Analytics. <br> Nessa função, ela se reúne com clientes para entender suas necessidades de negócios, <br>usando o que ela aprende para adicionar informações ao roteiro de produtos do Adobe Analytics <br>e priorizar novos recursos em produtos. Antes da sua posição atual, <br>Jen foi uma consultora principal da equipe Adobe Consulting, trabalhando como <br>especialista no assunto em visualização de dados, Analysis Workspace e [!DNL Report Builder]. <br><br>Beneficiando-nos dos insights que ela adquiriu do mundo real, preparamos as seguintes dicas e truques para <br>a facilitar a criação, a visualização e o compartilhamento dos projetos do Analysis Workspace |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser é gerente da equipe de gerenciamento de produtos da Adobe Analytics. <br> Nessa função, ela se reúne com clientes para entender suas necessidades de negócios, <br>usando o que ela aprende para informar o roteiro de produtos da Adobe Analytics <br>e priorizar novos recursos em produtos. Antes da sua posição atual, <br>Jen foi uma consultora principal da equipe Adobe Consulting, trabalhando como <br>especialista no assunto em visualização de dados, Analysis Workspace e [!DNL Report Builder]. <br><br>Beneficiando-nos dos insights que ela adquiriu do mundo real, preparamos as seguintes dicas e truques para <br>a facilitar a criação, a visualização e o compartilhamento dos projetos do Analysis Workspace |

@@ -5,14 +5,35 @@ feature: Calculated Metrics
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13266
 thumbnail: KT-13266.jpeg
 exl-id: 74793149-9967-4765-832c-c65e578ee34b
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/4e4X0vaCKGCen3dCf8APh5vZ-bhgL2JF3MxqLgEvq-4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: e9cb007b-c8b7-4975-bc81-11a788c535fa
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1582'
-ht-degree: 3%
+source-wordcount: 1589
+ht-degree: 2%
 
 ---
 
@@ -26,7 +47,7 @@ Como um recurso avançado do Adobe Analytics, as métricas calculadas permitem c
 
 Para começar a usar métricas calculadas, vejamos um exemplo simples. Imagine que você queira entender se os usuários de autoatendimento online têm um valor médio de pedido (AOV) mais alto do que os usuários assistidos por chamada. Para criar uma métrica calculada para responder a essa pergunta, faça o seguinte:
 
-Para abrir o Construtor de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou clique no sinal de **+** acima de **Métricas** no painel Componentes.
+Para abrir o Construtor de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou você pode clicar no sinal **+** acima de **Métricas** no painel Componentes.
 
 
 ![Calc 01](assets/calc01.png) ![Calc 02](assets/calc03.png) ![Calc 03](assets/calc02.png)
@@ -101,7 +122,7 @@ Sabendo disso, podemos otimizar o layout da página, as disposições do produto
 
 No entanto, essas métricas não estão disponíveis em todas as áreas do Adobe Analytics. Não é possível usar métricas calculadas em:
 
-- Fallout na Analysis Workspace
+- Fallout no Analysis Workspace
 - Análise de coorte no Analysis Workspace
 - Data Warehouse
 - Relatórios em tempo real
@@ -113,8 +134,8 @@ No entanto, essas métricas não estão disponíveis em todas as áreas do Adobe
 
 Agora que você sabe o quanto as métricas calculadas podem ser valiosas, vamos dar uma olhada nas práticas recomendadas para criá-las.
 
-1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e se segue a sintaxe do Adobe Analytics para obter informações relevantes.
-1. **Verifique a ordem das operações.** Certifique-se de usar os contêineres com cuidado e colocar as coisas em ordem matemática adequada de operações.
+1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e segue a sintaxe do Adobe Analytics para obter informações relevantes.
+1. **Verifique a ordem das operações.** Certifique-se de usar os contêineres com cuidado e colocar as coisas na ordem matemática correta de operações.
 1. **Não conte dados duas vezes**. É possível evitar a contagem dupla de dados, garantindo que a fórmula usada na métrica calculada não conte os mesmos dados várias vezes. Geralmente, isso é feito combinando as condições *Incluir* e *Excluir* na métrica calculada ou por meio do uso de segmentos.
 1. **Verifique a granularidade de tempo.** Verifique se a métrica calculada tem a mesma granularidade de tempo que as métricas de origem usadas na fórmula.
 1. **Usar dados precisos:** você só obterá resultados valiosos se usar dados precisos e confiáveis no cálculo.
@@ -123,15 +144,15 @@ Agora que você sabe o quanto as métricas calculadas podem ser valiosas, vamos 
 
 Ao criar segmentos no Adobe Analytics, lembre-se destas práticas recomendadas:
 
-1. **Mantenha simples.** Evite complicar o segmento em excesso. Mantenha o mais simples possível e use apenas as condições necessárias para garantir a precisão.
+1. **Mantenha a simplicidade.** Evite complicar o segmento em excesso. Mantenha o mais simples possível e use apenas as condições necessárias para garantir a precisão.
 1. **Usar os tipos de contêiner corretos**. Use o tipo correto de contêiner (visitante, visita ou ocorrência) na definição do segmento para evitar resultados incorretos.
 1. **Não conte dados duas vezes**. Assim como com as métricas calculadas, verifique se o segmento não conta os mesmos dados várias vezes. Os contêineres Incluir e Excluir podem ajudar.
    1. Quando um contêiner de inclusão é usado, ele *inclui* *todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
    1. Quando um container de exclusão é usado, ele *exclui todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
 1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como uma funnel e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
-1. **Verifique se seus dados estão atualizados.** Certifique-se de usar dados precisos e atualizados na definição do segmento para obter resultados precisos.
+1. **Verifique se seus dados estão atualizados.** Use dados precisos e atualizados na definição de segmento para obter resultados precisos.
 1. **Testar o segmento.** Sempre teste o segmento para verificar se ele está funcionando como pretendido antes de liberá-lo para outras pessoas.
-1. **Considere o desempenho.** Segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.
+1. **Considere o desempenho.** Os segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.
 
 ## Principais aprendizados
 

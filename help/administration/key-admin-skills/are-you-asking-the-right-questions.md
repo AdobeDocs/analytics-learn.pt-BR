@@ -8,18 +8,31 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # Você está fazendo as perguntas certas?
 
->[!VIDEO](https://video.tv.adobe.com/v/3409140/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3409140/?captions=por_br&quality=12&learn=on)
 
-_Todos_. Essa é uma das respostas mais comuns das partes interessadas à pergunta: _Quais dados você deseja rastrear?_ Pode ser mais valioso identificar e coletar os _pontos de dados acionáveis_ do que registrar cada elemento possível. A identificação eficiente desses pontos de dados exige um plano básico e discussões criativas com as partes interessadas.
+_Todos_. Esta é uma das respostas mais comuns das partes interessadas à pergunta: _Quais dados você deseja rastrear?_ Pode ser mais valioso identificar e coletar os _pontos de dados acionáveis_ do que registrar cada elemento possível. A identificação eficiente desses pontos de dados exige um plano básico e discussões criativas com as partes interessadas.
 
 ## Colete dados importantes
 

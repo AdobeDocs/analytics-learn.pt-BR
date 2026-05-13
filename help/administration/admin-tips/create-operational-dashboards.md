@@ -6,14 +6,31 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 96%
+source-wordcount: 1166
+ht-degree: 89%
 
 ---
 
@@ -24,7 +41,7 @@ _Descubra como os painéis operacionais no Adobe Analytics Workspace revoluciona
 
 Como muitos administradores, eu executo um hub de informações interno (Confluence ou semelhante) do Adobe Analytics. Com o tempo, cansei de responder às mesmas perguntas repetidamente e precisava de uma maneira mais suave para alcançar meus usuários e usuárias sem sentir como se estivesse incomodando o tempo todo. Eu precisava de repositórios para informações menos estáticas.
 
-Percebi que usuários e usuárias frequentemente ignoravam minhas indicações ao site do Confluence, com justificativas como “Meu VPN está desativado” ou “Não posso lê-lo agora”, etc. Basicamente, “eu vou ler esse documento mais tarde” significa que o documento nunca será lido e a mesma pergunta será feita na próxima semana.
+Percebi que os usuários frequentemente ignoravam minhas indicações ao site de Confluência, com motivos como &quot;Minha VPN está desativada&quot; ou &quot;Não posso lê-la agora&quot; etc. Basicamente, &quot;eu vou ler esse documento mais tarde&quot; significa que ele nunca será lido, e a mesma pergunta será feita novamente na próxima semana.
 
 ***Foi aí que percebi:**&#x200B;a versatilidade do Workspace pode ser um divisor de águas. As pessoas preferem respostas rápidas e diretas no Workspace, então vamos mantê-las lá e evitar as etapas adicionais.*
 
@@ -32,7 +49,7 @@ Prossegui e criei painéis operacionais para compartilhar com toda a empresa. At
 
 As pessoas conseguiram obter muitas informações sem mim, entender as áreas do site, ver como o Adobe Analytics é legal e (importante para mim 😊) fazer menos perguntas e usar menos do meu tempo.
 
-**É altamente recomendável criar painéis para todas as suas propriedades ou áreas principais do site.** Os painéis devem fornecer uma visão geral da propriedade/site/aplicativo/fluxo e ter informações básicas e insights rápidos. Eles devem ser compartilhados com toda a empresa, permitindo que todos os usuários e usuárias entendam a propriedade sem precisar de ajuda. Para mim, esses painéis geralmente respondem a 80% das perguntas que recebo e me economizam um tempo valioso.
+**É altamente recomendável que você crie painéis para todas as suas propriedades ou áreas principais do site.** Eles devem fornecer uma visão geral da propriedade/site/aplicativo/fluxo e ter informações básicas e insights rápidos. Eles devem ser compartilhados com toda a empresa, permitindo que todos os usuários e usuárias entendam a propriedade sem precisar de ajuda. Para mim, esses painéis geralmente respondem a 80% das perguntas que recebo e me economizam um tempo valioso.
 
 Nada disso impede que mantenha seu site do Confluence, que continua sendo muito útil de se ter. Eu até o menciono na parte superior de cada painel operacional. Mas adoro atalhos, tanto para mim quanto para meus usuários e usuárias.
 
@@ -110,4 +127,4 @@ Este documento foi escrito por:
 
 **Christel Guidon**, gerente da plataforma Adobe® Analytics na Gen
 
-Especialista no Adobe Analytics
+Especialista em Adobe Analytics

@@ -10,10 +10,31 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 01e6e84f748e359aeb42c9be3afa52088f41018b
+TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: a544b409-2610-410d-a842-474ac1d0d54e
+  - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1466'
-ht-degree: 100%
+source-wordcount: 1607
+ht-degree: 94%
 
 ---
 
@@ -30,18 +51,18 @@ Os usuários interagem com sua marca de muitas formas e em várias &quot;superf�
 Veja um exemplo. Suponha que Isabelle interagiu com sua marca da seguinte maneira:
 
 *Isabelle é três visitantes*
-![Jornada da análise tradicional](assets/cda-isabelle-journey-traditional-analytics.png)
+![Jornada tradicional do Analytics](assets/cda-isabelle-journey-traditional-analytics.png)
 
 Usando a análise tradicional, a jornada de Isabelle é dividida em três partes. Ela é representada como três visitantes únicos, cada um usando um dispositivo diferente para executar tarefas isoladas. É necessário uma visão unificada, entre dispositivos, das interações de Isabelle. O [!DNL Journey IQ: Cross-Device Analytics] fornece essa visualização.
 
 *Isabelle é uma pessoa*
-![Jornada da Análise entre dispositivos](assets/cda-isabelle-journey-cross-device-analytics.png)
+![Jornada de Análise entre Dispositivos](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### Uma visualização entre dispositivos fornece análises melhores
 
 Ter uma visão centrada em pessoas e entre dispositivos do comportamento de Isabelle pode fazer uma diferença significativa na sua análise. Por exemplo, a abordagem tradicional baseada em visitantes não fornece a visão completa da eficácia do canal de marketing. Vamos olhar para a jornada de Isabelle mais uma vez, focando qual canal recebe crédito pela visualização do produto e pela compra. Usaremos a atribuição [!UICONTROL last-touch] para simplificar, mas o mesmo problema ocorre usando qualquer modelo de atribuição ao dividir o comportamento de Isabelle em visitantes separados. Usar a visão tradicional do mundo baseada em visitantes produz resultados muito diferentes, até mesmo enganosos:
 
-*Análise tradicional versus Análise entre dispositivos*
+*Análise tradicional vs. Análise entre dispositivos*
 ![atribuição de canal](assets/channel-attribution.png)
 
 Observe que, com a visualização entre dispositivos, o canal de email recebe crédito pela exibição do produto e pela compra, o que representa com maior precisão a experiência real de Isabelle.
@@ -59,22 +80,22 @@ A [!DNL Journey IQ: Cross-Device Analytics (CDA)] se integra ao[!DNL Adobe Exper
 
 ### O [!DNL Cross-Device Virtual Report Suite]
 
-A CDA é apresentada por meio de um tipo especial de [[!UICONTROL Conjunto de relatórios virtuais]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=pt-BR) entre dispositivos. Isso permite que você continue usando o conjunto original de relatórios baseado em dispositivos ao introduzir a análise entre dispositivos na sua organização. Configurar um Conjunto de relatórios virtual (VRS) de análise entre dispositivos (CDA) é fácil.
+A CDA é apresentada por meio de um tipo especial de [[!UICONTROL Conjunto de relatórios virtuais]](https://experienceleague.adobe.com/pt-br/docs/analytics/components/virtual-report-suites/vrs-about) entre dispositivos. Isso permite que você continue usando o conjunto original de relatórios baseado em dispositivos ao introduzir a análise entre dispositivos na sua organização. Configurar um Conjunto de relatórios virtual (VRS) de análise entre dispositivos (CDA) é fácil.
 
 Na etapa um, do construtor de VRS, escolha o [!UICONTROL conjunto de relatórios] que foi configurado pela Adobe como habilitado para CDA:
 
-*Escolha um [!UICONTROL conjunto de relatórios]* de base (fonte) habilitada para CDA
-![[!UICONTROL Conjunto de relatórios virtuais] Etapa Um](assets/cda-vrs-step-one.png)
+*Escolha um conjunto de relatórios de base habilitada para CDA (fonte) *
+![[!UICONTROL Conjunto de Relatórios Virtuais] Etapa Um](assets/cda-vrs-step-one.png)
 
 Em seguida, habilite o [!UICONTROL Processamento de tempo do relatório] e habilite a [!UICONTROL compilação entre dispositivos]:
 
-*Ativar [!UICONTROL processamento de tempo do relatório] e [!UICONTROL compilação entre dispositivos]*
-![[!UICONTROL Conjunto de relatórios virtuais] Etapa dois](assets/cda-vrs-step-two.png)
+*Habilitar [!UICONTROL processamento de tempo do relatório] e [!UICONTROL compilação entre dispositivos]*
+![[!UICONTROL Conjunto de Relatórios Virtuais] Etapa Dois](assets/cda-vrs-step-two.png)
 
 Termine a configuração do VRS e salve-a. O VRS da CDA será exibido no Analysis Workspace com um ícone especial ao lado dele, conforme mostrado abaixo:
 
-*Selecione o VRS da CDA no Analysis Workspace*
-![[!UICONTROL Conjunto de relatórios virtuais] Etapa três](assets/cda-vrs-step-three.png)
+*Selecionar o VRS da CDA no Analysis Workspace*
+![[!UICONTROL Conjunto de Relatórios Virtuais] Etapa Três](assets/cda-vrs-step-three.png)
 
 >[!TIP]
 >
@@ -110,8 +131,8 @@ A CDA está incluída com [[!DNL Analytics Ultimate]](https://helpx.adobe.com/br
 
 No [!UICONTROL Conjunto de relatórios virtuais] da CDA, você verá algumas alterações. Por exemplo, a métrica [!UICONTROL Visitantes únicos] foi substituída por duas métricas novas: [!UICONTROL Pessoas] e [!UICONTROL Dispositivos exclusivos]. Essas novas métricas fornecem um insight muito melhor sobre o tamanho do público-alvo.
 
-*Pessoas e dispositivos exclusivos*
-![CDA [!UICONTROL Métrica de pessoas]](assets/cda-people-metric.png)
+*Pessoas e Dispositivos Exclusivos*
+![Métrica de [!UICONTROL Pessoas]](assets/cda-people-metric.png) do CDA
 
 No [[!UICONTROL Construtor de segmentos]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=pt-BR), o contêiner do segmento [!UICONTROL Visitante] foi substituído por um contêiner do segmento [!UICONTROL Pessoa]. Usando um VRS da CDA, você pode criar segmentos entre dispositivos, como:
 
@@ -144,16 +165,16 @@ Você já se perguntou quantas pessoas estão interagindo com a sua marca? Você
 
 Com a CDA e o Analysis Workspace, você pode visualizar como as pessoas estão mudando de um dispositivo para outro ao longo do tempo na [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=pt-BR). Você pode ver onde eles desistem em sua jornada, e onde continuam.
 
-*[!DNL Flow] com CDA*
+*[!DNL Flow]com CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### [!DNL Fallout] entre dispositivos
 
 Provavelmente você usa várias [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR) para analisar o desempenho dos usuários em uma determinada série de etapas antes de alcançar o sucesso. Você sabia que a sua visão dessas [!DNL Fallout visualizations] fica limitada ao usar as análises tradicionais baseadas em dispositivos? Para que uma sequência de etapas bem-sucedida, a próxima etapa deve ocorrer no mesmo navegador ou aplicativo que a anterior. Na análise baseada em dispositivos, você não consegue ver as pessoas que concluem com sucesso a próxima etapa em outro dispositivo.
 
-Não se preocupe, a CDA tem a solução. A CDA cria a visualização entre dispositivos que torna o [!DNL Fallout visualizations] muito mais útil. Afinal, o que realmente importa é se a pessoa atingiu o objetivo no final, em algum lugar. 
+Não se preocupe, a CDA tem a solução. A CDA cria a visualização entre dispositivos que torna o [!DNL Fallout visualizations] muito mais útil. Afinal, o que realmente importa é se a pessoa atingiu o objetivo no final, em algum lugar.
 
-*[!DNL Fallout] com CDA*
+*[!DNL Fallout]com CDA*
 ![[!DNL Fallout Visualization]](assets/cda-fallout-viz.png)
 
 ### [!DNL Cross-Device Attribution IQ]
@@ -162,7 +183,7 @@ Como a CDA cria uma camada de dados entre dispositivos no Analysis Workspace, to
 
 Por exemplo, suponhamos que você queira entender com que frequência um celular é o primeiro dispositivo usado em uma interação que leva ao sucesso. Isso representa a &quot;taxa de aquisição&quot; do celular. A CDA e o [!DNL Attribution IQ] permite fazer essa análise:
 
-*[!DNL Attribution IQ] com CDA*
+*[!DNL Attribution IQ]com CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
 Para obter mais informações, consulte a [[!DNL Cross-Device Analytics] documentação de ajuda](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=pt-BR)
