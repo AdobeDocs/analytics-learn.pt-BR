@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Este vídeo aborda a configuração de variáveis de tráfego, geralmente chamadas de “propriedades”, no Admin Console do Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342186/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=pt-BR).
