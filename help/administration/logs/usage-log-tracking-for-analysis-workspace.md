@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Em [!UICONTROL Administração] - [!UICONTROL Logs] - [!UICONTROL Uso e acesso], é possível entender melhor o uso do Adobe Analytics por parte dos usuários. Este vídeo se concentra especificamente em medir o uso do projeto do [!DNL Workspace]. Observação: desde que este vídeo foi lançado, uma dica de produto sobre como fazer uma análise de uso robusta no Analysis Workspace foi publicada em adobe.ly/aausage.
 
->[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32856/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=pt-BR).

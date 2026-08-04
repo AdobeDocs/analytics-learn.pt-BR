@@ -34,4 +34,4 @@ ht-degree: 100%
 
 Identifique públicos-alvos envolvidos por meio do comportamento deles usando [!UICONTROL Coortes] e saiba as causas subjacentes que geram aderência em seus aplicativos móveis. Use algoritmos de ciência de dados no [!UICONTROL Segment IQ] para saber as diferenças e semelhanças entre os segmentos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32084/?captions=por_br&quality=12&learn=on)
