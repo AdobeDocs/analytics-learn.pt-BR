@@ -34,6 +34,6 @@ ht-degree: 100%
 
 As visualizações de fluxo são usadas para explorar as jornadas exatas que os clientes têm com sua marca. O fluxo pode ser aplicado a páginas, canais de marketing e qualquer outra dimensão ou combinação de dimensões coletadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452621/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=pt-BR).

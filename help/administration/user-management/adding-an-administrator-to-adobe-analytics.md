@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Saiba como adicionar um usuário como Administrador no Adobe Admin Console.
 
->[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327040/?captions=por_br&quality=12&learn=on)
 
 Saiba mais acessando a [documentação](https://helpx.adobe.com/br/enterprise/using/admin-console.html).
