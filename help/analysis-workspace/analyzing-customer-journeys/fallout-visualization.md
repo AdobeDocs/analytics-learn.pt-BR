@@ -36,7 +36,7 @@ ht-degree: 100%
 
 As visualizações de fallout do [!DNL Analysis Workspace] são usadas para analisar por onde os clientes passam ou saem dos fluxos principais de suas propriedades digitais. Entenda como adicionar vários tipos de pontos de contato e como criar e usar segmentos neste componente.
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453251/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=pt-BR).
 

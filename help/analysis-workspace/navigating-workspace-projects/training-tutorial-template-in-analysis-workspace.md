@@ -37,6 +37,6 @@ ht-degree: 100%
 
 O tutorial de treinamento do Analysis Workspace orienta os usuários sobre a terminologia e as etapas comuns para a construção de sua primeira análise no Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37184/?captions=por_br&quality=12&learn=on)
 
 Esse modelo está disponível como um modelo padrão na modalidade Novo projeto. A partir desse modelo, você pode criar os seus próprios tutoriais, adaptando-os aos casos de uso exclusivos da sua organização e à estrutura de dados (eVars, eventos personalizados).
