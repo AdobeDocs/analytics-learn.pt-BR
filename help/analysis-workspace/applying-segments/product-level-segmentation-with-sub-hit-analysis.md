@@ -20,6 +20,6 @@ A segmentação tradicional no Adobe Analytics geralmente é limitada ao nível 
 
 Este vídeo demonstra como a análise de subocorrência no Adobe Analytics fornece recursos de segmentação mais granulares.
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
+Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
