@@ -22,4 +22,4 @@ Este vídeo demonstra como a análise de subocorrência no Adobe Analytics forne
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/pt-br/docs/analytics/components/segmentation/sub-hit){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497079/?captions=por_br&quality=12&learn=on)
