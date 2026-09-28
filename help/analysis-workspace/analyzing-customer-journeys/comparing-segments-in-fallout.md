@@ -35,6 +35,6 @@ ht-degree: 100%
 
 Este vídeo mostra como comparar fluxos de trabalho fundamentais em vários segmentos no Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30765/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=pt-BR).

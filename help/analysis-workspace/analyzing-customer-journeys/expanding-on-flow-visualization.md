@@ -35,7 +35,7 @@ ht-degree: 100%
 
 Este vídeo mostra as várias opções do botão direito do mouse disponíveis no [!DNL Flow visualization] do Analysis Workspace. As opções incluem criar um segmento a partir de um caminho, recolher colunas e muito mais.
 
->[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30779/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações sobre esse recurso, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=pt-BR#analysis-workspace).
 
