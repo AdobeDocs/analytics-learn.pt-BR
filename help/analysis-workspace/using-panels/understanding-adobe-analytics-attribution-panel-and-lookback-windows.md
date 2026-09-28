@@ -9,29 +9,41 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Como entender o painel de atribuição do Adobe Analytics e as janelas de pesquisa
 
-Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=pt-BR) e a **janela de retrospectiva**, lembrei-me imediatamente do conceito de &#39;*viagem no tempo&#39;*; então, é claro, também lembrei-me da resposta típica a muitas ferramentas novas como essas que é simplesmente parar de tentar usá-lo, porque elas parecem tão complicadas.
+Quando eu pensei pela primeira vez sobre o [painel de atribuição](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) e a **janela de retrospectiva**, lembrei-me imediatamente do conceito de &#39;*viagem no tempo&#39;*; então, é claro, também lembrei-me da resposta típica a muitas ferramentas novas como essas que é simplesmente parar de tentar usá-lo, porque elas parecem tão complicadas.
 
 Quero dizer, honestamente, basta olhar para todas essas opções, interruptores, painéis, leituras, e botões.  E sério, vamos falar sobre essas complicadas luzes piscando, mangueiras, medidores... ESPERE!  Não é hora de distrair falando de máquinas do tempo, só não temos tempo... ou temos?
 
@@ -56,7 +68,7 @@ Agora que estamos todos entusiasmados com a viagem no tempo, vamos respirar fund
 
 Em **attribution**, considere apenas como eventos/ações podem ser causados por um indivíduo, por vários indivíduos ou por um de vários eventos diferentes ao longo do tempo.
 
-De acordo com o [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=pt-BR), a *atribuição* oferece aos analistas a capacidade de personalizar como os itens do *Dimension* recebem crédito por *eventos bem-sucedidos*.
+De acordo com o [Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en), a *atribuição* oferece aos analistas a capacidade de personalizar como os itens do *Dimension* recebem crédito por *eventos bem-sucedidos*.
 
 
 >[!WARNING]
@@ -88,9 +100,9 @@ Tendo isso em mente, aqui estão alguns exemplos de como os ❸ **modelos de atr
 
 - **Forma de U**: esta abordagem atribui **40%** do crédito à *primeira pessoa* na porta, distribui **20%** do crédito entre *todos entre* e dá **40%** ao **último**. Este modelo será usado com mais frequência em situações em que você tem um **longo ciclo de conversão/vendas** contendo *vários pontos de contato* ao longo do caminho.  Nesse caso, seu objetivo é destacar principalmente as táticas de marketing do ***first*** e do ***last*** que contribuíram para a conversão do cliente.
 - **J**-**Formatado** e **J Inverso**:
-   - Pense em **Forma de U**, mas este modelo atribui crédito de **60%** à *última pessoa* que anda pela porta, **20%** à *primeira* e, em seguida, *divide* os **20%** restantes em *todas as outras pessoas* no meio.  **J invertido** faz exatamente o oposto.
+  - Pense em **Forma de U**, mas este modelo atribui crédito de **60%** à *última pessoa* que anda pela porta, **20%** à *primeira* e, em seguida, *divide* os **20%** restantes em *todas as outras pessoas* no meio.  **J invertido** faz exatamente o oposto.
 
-     O objetivo aqui é colocar a maior parte de sua ênfase, seja no *início* ou no *fim* de sua campanha. No entanto, você ainda deseja atribuir uma certa quantidade de crédito ao item de contribuição na extremidade oposta, reconhecendo os &quot;carinhas&quot; ao longo do caminho.
+    O objetivo aqui é colocar a maior parte de sua ênfase, seja no *início* ou no *fim* de sua campanha. No entanto, você ainda deseja atribuir uma certa quantidade de crédito ao item de contribuição na extremidade oposta, reconhecendo os &quot;carinhas&quot; ao longo do caminho.
 
 - **Declínio de tempo**: agora, eu seria negligente se não compartilhasse este. Esse modelo tem literalmente uma meia-vida que decai exponencialmente - com o tempo!  Neste caso, o parâmetro *padrão* para a meia-vida deste modelo é **7 dias**.  Funciona da seguinte maneira: aplicar *peso* a cada **canal de marketing**, *com base no tempo* decorrido após o *ponto de contato inicial* e quando o cliente se converter.
 
@@ -98,7 +110,7 @@ Tendo isso em mente, aqui estão alguns exemplos de como os ❸ **modelos de atr
 
 - **Personalizado**: você escolhe quem vai receber crédito.  É a sua campanha!
 
-Para obter informações adicionais sobre estes e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=pt-BR)
+Para obter informações adicionais sobre estes e outros modelos de atribuição, [clique aqui](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Para tornar isso ainda mais interessante, vamos falar sobre como retroceder o relógio!
 
@@ -132,7 +144,7 @@ Lembre-se, depois de selecionar seus **modelos de atribuição** e **janelas de 
 Agora que você concluiu os conceitos, imagine que está executando uma campanha de marketing e tentando determinar qual canal é o *mais eficaz* para gerar conversões. Com a ajuda do **painel de atribuição**, você não apenas poderá ver o **último contato**, mas também o **primeiro contato**, **mesmo contato** e qualquer outro **modelo** escolhido para determinar quais **canais** são os *mais eficazes* na condução de suas *conversões*. Em seguida, essas informações podem ser usadas para *otimizar* suas campanhas e melhorar o desempenho geral simplesmente restaurando o relógio com a **janela de retrospectiva** de sua escolha!
 
 Agora que você viu o que ele pode fazer, não se deixe enganar ou se intimidar pelas características aparentemente complexas do painel de atribuição.  **Enfrente isso**.  *Adote*.  **Entenda**.
-MAS PRINCIPALMENTE - *Use-o em seu benefício.* O **painel de atribuição** e a **janela de retrospectiva** são as chaves para desbloquear uma compreensão mais profunda de seus clientes e suas jornadas com sua marca.
+MAS PRINCIPALMENTE - *Use-a em seu benefício.* O **painel de atribuição** e a **janela de retrospectiva** são as chaves para desbloquear uma compreensão mais profunda de seus clientes e suas jornadas com sua marca.
 
 Agora, podemos viajar &quot;[de volta no tempo](https://youtu.be/gVryJmZNFdU)&quot; com confiança e usar o poder de nossa confiável máquina do tempo (também conhecida como ***Adobe Analytics***) para tomar decisões orientadas por dados.
 

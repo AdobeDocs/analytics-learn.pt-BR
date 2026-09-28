@@ -9,34 +9,50 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
-TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
+TQID: 'https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+    internal-label: Methods
   - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+    internal-label: Implementation playbook
   - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+    internal-label: Variables
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1823
+source-wordcount: '1823'
 ht-degree: 89%
-
 ---
-
 # Baixar o manual de implementação do Adobe Analytics
 
 Antes de começar, [baixe o manual](assets/aa-implementation-playbook.xlsx).
@@ -86,16 +102,16 @@ Captura de tela do SDR de amostra:
 Também é recomendável usar este documento de marcação para rastrear qualquer variável livre e qualquer variável “inútil”. Quando uma dimensão não é mais útil, o desenvolvimento geralmente precisará de um tempo para excluí-la. Mesmo depois disso, o armazenamento em cache pode ocorrer, ou você pode perceber que a dimensão também estava sendo definida em outro lugar. Limpar dimensões não é uma tarefa fácil e pode exigir paciência. Veja algumas dicas para manter seu lixo escondido para que seus usuários não fiquem confusos enquanto o acompanham.
 
 * Todas as dimensões/eventos que não estão sendo usados estão “livres” ou “sendo excluídos”
-   * Se a dimensão tiver valores que não foram usados nos últimos 90 dias, ela “será excluída”
-   * Se a dimensão estiver livre e limpa por pelo menos 90 dias, estará “livre”
-   * Marque esses itens de maneira apropriada em “Nome”, no documento de marcação, para que você possa filtrá-los facilmente. Mantenha-os desmarcados no documento de marcação (filtro de dados do Excel) para que os usuários não os vejam
-   * Marque-os com o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, “(v6)”) e remova a descrição na interface
+  * Se a dimensão tiver valores que não foram usados nos últimos 90 dias, ela “será excluída”
+  * Se a dimensão estiver livre e limpa por pelo menos 90 dias, estará “livre”
+  * Marque esses itens de maneira apropriada em “Nome”, no documento de marcação, para que você possa filtrá-los facilmente. Mantenha-os desmarcados no documento de marcação (filtro de dados do Excel) para que os usuários não os vejam
+  * Marque-os com o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, “(v6)”) e remova a descrição na interface
 * Ao fazer isso, quando uma nova dimensão é necessária, você pode filtrar facilmente por “livre” na coluna “Nome” para encontrar uma dimensão limpa para usar
 * Para as dimensões e eventos que estão “sendo excluídos”, é recomendado que você acompanhe esses itens usando o espaço de trabalho:
-   * Crie um projeto visível para administradores somente com 3 tabelas: eVars, propriedades e eventos. Use “instâncias” para eVars específicas e, para propriedades, crie segmentos de HIT com “prop5 existe”, por exemplo.
-   * Definir data como Últimos 90 dias
-   * Use-as como linhas nas 3 tabelas, juntamente com as ocorrências
-   * Assim que um item chegar a “0”, marque-o como “livre” no documento de marcação e remova-o do projeto do espaço de trabalho
+  * Crie um projeto visível para administradores somente com 3 tabelas: eVars, propriedades e eventos. Use “instâncias” para eVars específicas e, para propriedades, crie segmentos de HIT com “prop5 existe”, por exemplo.
+  * Definir data como Últimos 90 dias
+  * Use-as como linhas nas 3 tabelas, juntamente com as ocorrências
+  * Assim que um item chegar a “0”, marque-o como “livre” no documento de marcação e remova-o do projeto do espaço de trabalho
 
 Assim, seus dados estarão sempre limpos e você terá uma visão clara do seu lixo.
 

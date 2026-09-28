@@ -2,7 +2,7 @@
 title: Como identificar o servidor de rastreamento da análise e a ID de conjunto de relatórios
 description: Ao configurar o Adobe Analytics ou referenciá-lo em outras soluções da Experience Cloud, muitas vezes é útil (ou até necessário) saber qual “servidor de rastreamento” do Analytics você está usando, bem como o “conjunto de relatórios” para o qual você está enviando dados. Este vídeo mostra como localizar ambos os valores, independentemente de você já ter implementado o Adobe Analytics ou não.
 feature: Implementation Basics
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,25 +10,34 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+TQID: 'https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 334
+source-wordcount: '334'
 ht-degree: 100%
-
 ---
-
 # Como identificar o [!DNL tracking server] da análise e a [!UICONTROL ID de conjunto de relatórios] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 Ao configurar o Adobe Analytics ou referenciá-lo em outras soluções da Experience Cloud, muitas vezes é útil (ou até necessário) saber qual “servidor de rastreamento” do Analytics você está usando, bem como o “[!UICONTROL conjunto de relatórios]” para o qual você está enviando dados. Este vídeo mostra como localizar ambos os valores, independentemente de você já ter implementado o Adobe Analytics ou não.
@@ -53,4 +62,4 @@ Para ver o beacon, bem como todas as outras informações que chegam ao Analytic
 
 Veja o vídeo abaixo para obter mais informações.
 
->[!VIDEO](https://video.tv.adobe.com/v/40899/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

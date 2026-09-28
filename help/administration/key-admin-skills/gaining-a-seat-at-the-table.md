@@ -8,25 +8,30 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
-TQID: https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE
+TQID: 'https://experienceleague.adobe.com/QraDVYr0QnHyVLadmouMsr74WdMIZbcUboP13j3xSBE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: '1311'
 ht-degree: 88%
-
 ---
-
 # Conquistar um lugar à mesa
 
->[!VIDEO](https://video.tv.adobe.com/v/345320/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 &quot;Conquistar um lugar à mesa.&quot; Essa frase popular é um tema central no mundo dos negócios há anos. Mas o que ela significa? Conquistar um lugar à mesa significa que você faz parte das conversões da tomada de decisão de alto nível. Você não é apenas convidado, seu comentário é valorizado e apreciado. Vou mostrar como conquistar um lugar à mesa ajudará sua empresa e sua carreira como usuário avançado do Adobe Analytics, seja sua função oficial de administrador, analista de dados ou o que estiver escrito em seu cartão de visita.
 
