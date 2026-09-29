@@ -9,24 +9,34 @@ doc-type: article
 thumbnail: 10536.jpg
 kt: 10536
 exl-id: 490addfd-b810-4f15-b065-e0e58048c882
-TQID: https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78
+TQID: 'https://experienceleague.adobe.com/Gvyi3-9dJ3UXp3vaSIe0bhqswu2kSOW-EAorajxCq78'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 769
+source-wordcount: '769'
 ht-degree: 98%
-
 ---
-
 # Usar um conjunto de relatórios global
 
 **O QUE:** é tentador criar conjuntos de relatórios para cada um de seus sites, mas isso pode se tornar rapidamente seu pior pesadelo — tanto em termos de complicar seus relatórios quanto em sua implementação. Ter um único conjunto de relatórios global pode ajudar de várias maneiras e simplificar muito a sua implementação.
@@ -36,16 +46,16 @@ ht-degree: 98%
 Estas são as vantagens/desvantagens dese ter um único conjunto de relatórios para ajudá-lo a pesar suas opções:
 
 * PONTOS POSITIVOS:
-   * Ser capaz de entender facilmente todo o seu panorama digital. Se você implementou a dimensão “propriedades” (eVar) referenciada em outras dicas, será muito fácil obter uma única visualização de todos os sites e aplicativos, tráfego e conversões. Ter essa visão mais ampla é fundamental para entender sua empresa de modo geral.
-   * No mesmo sentido, agora você pode ver como os usuários fluem em todas as suas propriedades e compreender a jornada deles por todo o seu panorama digital.
-   * Facilidade de administração. Ao usar vários conjuntos de relatórios, será necessário manter a interface em vários locais, bem como vários documentos de marcação (ou um mais complicado). Manter tudo em um só lugar significa que só há um lugar para fazer atualizações. Também facilita muito a concessão de acesso.
-   * Melhor usabilidade na interface. Se os usuários tiverem apenas um local para acessar, eles não precisarão pensar sobre qual conjunto de relatórios selecionar. Lembre-se de que não é possível usar vários conjuntos de relatórios no mesmo painel do espaço de trabalho, e ter vários deles pode confundir os usuários.
-   * Menos chamadas de servidor = menos custos. Se você fizer chamadas para vários conjuntos de relatórios, aumentará seus custos. Manter a implementação simples também manterá os custos baixos.
-   * Você pode simplesmente aproveitar os conjuntos de relatórios virtuais (VRS) para dividir dados específicos do site no conjunto de relatórios global e restringir as permissões do usuário com base em um VRS, se necessário. Depois que os dados forem separados em conjuntos de relatórios individuais, não será possível acumulá-los, mas se já estiverem unidos em um conjunto de dados (RS global), eles serão facilmente divididos.
+  * Ser capaz de entender facilmente todo o seu panorama digital. Se você implementou a dimensão “propriedades” (eVar) referenciada em outras dicas, será muito fácil obter uma única visualização de todos os sites e aplicativos, tráfego e conversões. Ter essa visão mais ampla é fundamental para entender sua empresa de modo geral.
+  * No mesmo sentido, agora você pode ver como os usuários fluem em todas as suas propriedades e compreender a jornada deles por todo o seu panorama digital.
+  * Facilidade de administração. Ao usar vários conjuntos de relatórios, será necessário manter a interface em vários locais, bem como vários documentos de marcação (ou um mais complicado). Manter tudo em um só lugar significa que só há um lugar para fazer atualizações. Também facilita muito a concessão de acesso.
+  * Melhor usabilidade na interface. Se os usuários tiverem apenas um local para acessar, eles não precisarão pensar sobre qual conjunto de relatórios selecionar. Lembre-se de que não é possível usar vários conjuntos de relatórios no mesmo painel do espaço de trabalho, e ter vários deles pode confundir os usuários.
+  * Menos chamadas de servidor = menos custos. Se você fizer chamadas para vários conjuntos de relatórios, aumentará seus custos. Manter a implementação simples também manterá os custos baixos.
+  * Você pode simplesmente aproveitar os conjuntos de relatórios virtuais (VRS) para dividir dados específicos do site no conjunto de relatórios global e restringir as permissões do usuário com base em um VRS, se necessário. Depois que os dados forem separados em conjuntos de relatórios individuais, não será possível acumulá-los, mas se já estiverem unidos em um conjunto de dados (RS global), eles serão facilmente divididos.
 * PONTOS NEGATIVOS:
-   * Se você tiver propriedades muito separadas, em que os usuários não passam de uma para a outra e nunca espera-se que o façam, convém manter conjuntos de relatórios separados.
-   * Se suas propriedades tiverem necessidades de marcação e relatórios muito diferentes, pode ser interessante configurar conjuntos de relatórios separados para aumentar a eficiência das variáveis. Ter conjuntos de relatórios separados proporcionará mais flexibilidade ao usar variáveis personalizadas (mais eVars).
-   * Únicos excedidos: a interface do Adobe Analytics permite visualizar apenas 500.000 valores únicos em uma única dimensão em um determinado período de tempo. Após exceder esse número, os valores serão agrupados como “únicos excedidos” ou “tráfego baixo” na interface. Esses valores permanecem disponíveis para você no back-end (isto é, no Data Warehouse, em feeds de dados), mas não podem ser visualizados na interface. Se você tiver dados muito granulares (como ID de usuário, PSN etc.), é fácil alcançar esse limite. Ter conjuntos de relatórios separados pode ajudar nessa questão.
+  * Se você tiver propriedades muito separadas, em que os usuários não passam de uma para a outra e nunca espera-se que o façam, convém manter conjuntos de relatórios separados.
+  * Se suas propriedades tiverem necessidades de marcação e relatórios muito diferentes, pode ser interessante configurar conjuntos de relatórios separados para aumentar a eficiência das variáveis. Ter conjuntos de relatórios separados proporcionará mais flexibilidade ao usar variáveis personalizadas (mais eVars).
+  * Únicos excedidos: a interface do Adobe Analytics permite visualizar apenas 500.000 valores únicos em uma única dimensão em um determinado período de tempo. Após exceder esse número, os valores serão agrupados como “únicos excedidos” ou “tráfego baixo” na interface. Esses valores permanecem disponíveis para você no back-end (isto é, no Data Warehouse, em feeds de dados), mas não podem ser visualizados na interface. Se você tiver dados muito granulares (como ID de usuário, PSN etc.), é fácil alcançar esse limite. Ter conjuntos de relatórios separados pode ajudar nessa questão.
 
 **COMO:** começar com uma nova implementação do AA e usar um conjunto de relatórios global é simples e direto. Você só precisaria criar o conjunto de relatórios global (um para desenvolvimento e um para produção) na interface de administração do AA e aplicar os mesmos valores de ID de conjunto de relatórios (RSID) em todas as suas propriedades.
 
