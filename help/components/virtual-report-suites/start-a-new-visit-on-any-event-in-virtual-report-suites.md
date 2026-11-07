@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Este vídeo mostra como usar os eventos para acionar o início de uma nova visita no Adobe Analytics usando as configurações de visita de um conjunto de relatórios virtual.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507548/?captions=por_br&quality=12&learn=on)

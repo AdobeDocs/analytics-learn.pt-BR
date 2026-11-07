@@ -35,4 +35,4 @@ ht-degree: 100%
 
 Além dos dados coletados em cada página, você tem outros dados que devem ser coletados em páginas específicas. Este vídeo mostra como mesclar esses dados com os dados comuns e enviá-los para o Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507499/?captions=por_br&quality=12&learn=on)

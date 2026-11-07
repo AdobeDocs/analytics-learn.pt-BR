@@ -28,4 +28,4 @@ ht-degree: 17%
 
 Os operadores de contagem distintos no construtor de segmentos permitem segmentar com base no número de itens únicos em qualquer dimensão. Filtre por visitas em que mais de 5 páginas foram visualizadas, ou ocorrências em que vários produtos foram comprados em um único pedido etc. Para obter a documentação detalhada, visite [Operadores de comparação para segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507445/?captions=por_br&quality=12&learn=on)

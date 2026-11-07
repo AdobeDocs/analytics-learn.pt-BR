@@ -33,4 +33,4 @@ ht-degree: 47%
 
 Os operadores de segmento &quot;é igual a qualquer um de&quot; e &quot;não é igual a nenhum&quot; podem ser usados para filtrar para uma lista de itens específicos, em vez de usar várias instruções OR ou &quot;contém qualquer um de&quot;. Usar esses operadores em vez de &quot;contém qualquer um de&quot; também ajudará a melhorar a velocidade da consulta. Para obter a documentação detalhada, visite [Operadores de comparação para segmentos](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=pt-BR){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507286/?captions=por_br&quality=12&learn=on)

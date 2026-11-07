@@ -42,6 +42,6 @@ ht-degree: 16%
 
 Saiba mais sobre o relatório em tempo real no Adobe Analytics, incluindo como configurá-lo para a sua análise.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507454/?captions=por_br&quality=12&learn=on)
 
 Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=pt-BR).
