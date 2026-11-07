@@ -35,4 +35,4 @@ ht-degree: 20%
 
 Neste vídeo, saiba como usar intervalos de datas contínuas em segmentos, permitindo criar segmentos como &quot;pessoas que compraram na última semana&quot; ou &quot;pessoas que visitaram meu site nos últimos 60 dias&quot;. Para obter a documentação detalhada que mostra como criar intervalos de datas contínuas que você pode usar em seus segmentos, visite [Criar intervalos de datas personalizados](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges).
 
->[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507613/?captions=por_br&quality=12&learn=on)

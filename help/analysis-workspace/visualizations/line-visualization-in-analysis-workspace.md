@@ -41,6 +41,6 @@ ht-degree: 100%
 
 A visualização de linha descreve as métricas ao longo de um período com tendência. As configurações de visualização permitem personalizar a aparência de cada linha visual, além de incluir configurações para Exibir eixo X/Y, Exibir rótulos mín/máx e Exibir linha de tendência.
 
->[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507403/?captions=por_br&quality=12&learn=on)
 
 Saiba mais na [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=pt-BR).

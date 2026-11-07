@@ -46,4 +46,4 @@ ht-degree: 100%
 
 [!DNL Accent Group], maior varejista de calçados da Austrália, aumenta as vendas e as conversões oferecendo excelentes experiências aos clientes em pontos de contato físicos e digitais. Veja como a [!DNL Accent Group] usa a Adobe Experience Cloud para criar experiências digitais perfeitas.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507265/?captions=por_br&quality=12&learn=on)

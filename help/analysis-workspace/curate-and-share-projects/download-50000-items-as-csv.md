@@ -40,6 +40,6 @@ ht-degree: 100%
 
 A opção Baixar itens como CSV permite baixar até 50.000 itens para uma dimensão em uma tabela de forma livre, com segmentos e filtros aplicados. Embora a interface continue exibindo até 400 itens antes da paginação, essa opção permite acessar mais linhas de dados fora do Analysis Workspace.
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507366/?captions=por_br&quality=12&learn=on)
 
 Saiba mais na [documentação](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=pt-BR)
